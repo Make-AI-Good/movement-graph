@@ -28,13 +28,13 @@ funders:
 sources:
   - url: https://www.derechosdigitales.org/
     last_checked: 2026-05-13
-    note: Derechos Digitales' own home page — mission framing ("autonomía y dignidad en el uso tecnológico"), programme areas, and current public-facing work
+    note: 'Derechos Digitales'' own home page — mission framing ("autonomía y dignidad en el uso tecnológico"), programme areas, and current public-facing work'
   - url: https://www.derechosdigitales.org/en/about-us/
     last_checked: 2026-05-13
     note: Org's own about page — primary source for the co-executive-director structure (Juan Carlos Lara, Jamila Venturini), board (Flavio Tapia chair, Roberto Cerda treasurer, Claudio Ruiz secretary), department directors (Camila Lobato Finance & Operations, Catalina Balla Communications, Miguel Flores Technology, Paloma Lara Castro Public Policy, Rafael Bonifaz Latin American Programme for Digital Security and Resilience), senior staff (Debora Calderón regional advocacy coordinator, Lucía Camacho and Marina Meira public-policy coordinators, Paula Jaramillo projects and legal affairs), and the regional staff distribution across 10+ Latin American countries
   - url: https://www.apc.org/en/news/derechos-digitales-20-years-working-latin-america-our-region-forefront-assessment-impacts
     last_checked: 2026-05-13
-    note: Association for Progressive Communications 20th-anniversary feature (2025) — primary source for the 2005 founding year, the evolution from access-focused work into AI/data-colonialism advocacy, and the "Latin America in a Glimpse" 2024 edition on community-based feminist AI
+    note: 'Association for Progressive Communications 20th-anniversary feature (2025) — primary source for the 2005 founding year, the evolution from access-focused work into AI/data-colonialism advocacy, and the "Latin America in a Glimpse" 2024 edition on community-based feminist AI'
   - url: https://privacyinternational.org/partners/derechos-digitales
     last_checked: 2026-05-13
     note: Privacy International partner page — independent corroboration of 2005 Chile founding, Maria Paz Canales as a founding-era executive director, and the COVID-app / digital-ID / Brazilian-EdTech research portfolio
@@ -61,22 +61,22 @@ sources:
     note: TEDIC (Paraguay) account of the 192nd IACHR session (April 2025) — primary source for Derechos Digitales leading the drafting of the Latin American civil-society contribution on AI and human rights, a collaborative effort involving 17 organisations
   - url: https://www.derechosdigitales.org/wp-content/uploads/CPC_informe_Chile.pdf
     last_checked: 2026-05-13
-    note: Derechos Digitales report "IA e inclusión: Chile — Sistema Alerta Niñez" — primary research output on the Chilean Ministry of Social Development and Family's predictive-risk algorithm for child-rights violations
+    note: 'Derechos Digitales report "IA e inclusión: Chile — Sistema Alerta Niñez" — primary research output on the Chilean Ministry of Social Development and Family''s predictive-risk algorithm for child-rights violations'
   - url: https://www.derechosdigitales.org/wp-content/uploads/CPC_informeComparado.pdf
     last_checked: 2026-05-13
-    note: Derechos Digitales comparative report "Decisiones automatizadas en la función pública en América Latina" — research on AI/automated decision-making in state services across Chile (social intervention), Colombia (justice administration), Brazil (job allocation), and Uruguay (public-health management)
+    note: 'Derechos Digitales comparative report "Decisiones automatizadas en la función pública en América Latina" — research on AI/automated decision-making in state services across Chile (social intervention), Colombia (justice administration), Brazil (job allocation), and Uruguay (public-health management)'
   - url: https://www.derechosdigitales.org/en/recursos/artif-icial-intelligence-and-participation-in-latin-america-the-national-ai-strategies/
     last_checked: 2026-05-13
-    note: Report landing page — "Artificial Intelligence and Participation in Latin America: The National AI Strategies" by Laura Hernández, María Paz Canales, and Michel Roberto de Souza, published 1 April 2022
+    note: 'Report landing page — "Artificial Intelligence and Participation in Latin America: The National AI Strategies" by Laura Hernández, María Paz Canales, and Michel Roberto de Souza, published 1 April 2022'
   - url: https://www.derechosdigitales.org/en/recursos/towards-a-feminist-framework-for-ai-development-from-principles-to-practice/
     last_checked: 2026-05-13
-    note: Derechos Digitales' 2022 feminist-AI guide "Towards a feminist framework for AI development: from principles to practice" — produced with the f<A+I>r project's Latin America and Caribbean Hub
+    note: 'Derechos Digitales'' 2022 feminist-AI guide "Towards a feminist framework for AI development: from principles to practice" — produced with the f<A+I>r project''s Latin America and Caribbean Hub'
   - url: https://aplusalliance.org/derechos-digitales-work-has-been-selected-to-continue-further-with-workshops-and-toolkits/
     last_checked: 2026-05-13
     note: A+ Alliance announcement of continued support for Derechos Digitales' feminist-AI workshops and toolkits — third-party corroboration of the feminist-AI programme line
   - url: https://www.ohchr.org/sites/default/files/Documents/Issues/DigitalAge/Submissions/CSOs/Derechos-Digitales.pdf
     last_checked: 2026-05-13
-    note: Derechos Digitales submission to the UN Office of the High Commissioner for Human Rights titled "A Latin American perspective on the use of AI systems by the State" — primary source for the organisation's UN-level AI-and-human-rights advocacy
+    note: 'Derechos Digitales submission to the UN Office of the High Commissioner for Human Rights titled "A Latin American perspective on the use of AI systems by the State" — primary source for the organisation''s UN-level AI-and-human-rights advocacy'
 ---
 
 # Derechos Digitales
