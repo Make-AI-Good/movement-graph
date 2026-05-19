@@ -14,7 +14,7 @@ affiliations:
 public_profiles:
   - platform: karisma-author-archive
     url: https://blog.karisma.org.co/author/cbotero/
-voice_entry:
+voice_entry: voice-carolina-botero
 sources:
   - url: https://blog.karisma.org.co/press-release-01-2024/
     last_checked: 2026-05-18
