@@ -11,7 +11,8 @@ founded: 2015
 location: Phoenix, Arizona, United States
 website: https://mijente.net/
 strategies: []
-key_people: []
+key_people:
+  - person-jacinta-gonzalez
 board_and_advisors: []
 related_orgs:
   - org-mediajustice

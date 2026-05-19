@@ -13,6 +13,7 @@ website: https://mediajustice.org/
 strategies: []
 key_people:
   - person-steven-renderos
+  - person-jacinta-gonzalez
 board_and_advisors: []
 related_orgs:
   - org-kairos
