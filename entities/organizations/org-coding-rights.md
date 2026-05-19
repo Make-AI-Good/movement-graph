@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [brazil, rio-de-janeiro, latin-america, regional, non-profit, ngo, women-led, queer-led, feminist-tech, transfeminist, decolonial, antiracist, digital-rights, human-rights, ai-and-human-rights, automated-decision-making, facial-recognition, surveillance, privacy, data-protection, research, advocacy, creative-storytelling, design-justice, participatory-design, speculative-design, al-sur, oracle-for-transfeminist-technologies, chupadados, not-my-ai]
 created: 2026-05-14
-last_updated: 2026-05-18
+last_updated: 2026-05-19
 founded: 2015
 location: Rio de Janeiro, Brazil (Latin American reach)
 website: https://codingrights.org/
@@ -26,19 +26,19 @@ funders:
 sources:
   - url: https://codingrights.org/en/about-coding-rights/
     last_checked: 2026-05-14
-    note: Coding Rights's own about page — primary source for the self-framing as "a feminist organization that contributes to the debates about the development, implementation and regulation of technologies from a collective, transfeminist, decolonial, and antiracist perspective of human rights", the activity set (research; policy advocacy; creative and visual storytelling; tech tool development; digital care and technopolitics training; design of methodologies and facilitation of creative processes), and named team members Joana Varon (Founder Executive Directress), Maria Clara Delmonte (Community Manager), Laila Almeida Braga (Communications Coordinator), and Max Holender (Financial Manager)
+    note: 'Coding Rights''s own about page — primary source for the self-framing as "a feminist organization that contributes to the debates about the development, implementation and regulation of technologies from a collective, transfeminist, decolonial, and antiracist perspective of human rights", the activity set (research; policy advocacy; creative and visual storytelling; tech tool development; digital care and technopolitics training; design of methodologies and facilitation of creative processes), and named team members Joana Varon (Founder Executive Directress), Maria Clara Delmonte (Community Manager), Laila Almeida Braga (Communications Coordinator), and Max Holender (Financial Manager)'
   - url: https://www.joanavaron.com/
     last_checked: 2026-05-14
     note: Joana Varon's own personal site — primary source for her current role at Coding Rights as Executive Directress and Creative Chaos Catalyst, her 2020-21 Technology and Human Rights Fellowship at Harvard Kennedy School's Carr Center, her Berkman Klein Center affiliation, her former Mozilla Media Fellowship, and her co-creation of transfeministech.org, chupadados.com, Safer Nudes, and Net of Rights, plus her co-initiation of the Human Rights Considerations working group at the Internet Engineering Task Force (IETF)
   - url: https://privacyinternational.org/partners/coding-rights
     last_checked: 2026-05-14
-    note: Privacy International partner-organisation page — independent confirmation of Coding Rights as a "female-led Brazilian NGO" founded by Joana Varon, of the Brazil headquarters, and of the partner relationship with Privacy International, including co-branded research on facial-recognition impacts on transgender identities and COVID-19 legislative analysis
+    note: 'Privacy International partner-organisation page — independent confirmation of Coding Rights as a "female-led Brazilian NGO" founded by Joana Varon, of the Brazil headquarters, and of the partner relationship with Privacy International, including co-branded research on facial-recognition impacts on transgender identities and COVID-19 legislative analysis'
   - url: https://codingrights.org/en/projects/
     last_checked: 2026-05-14
-    note: Coding Rights's own projects index — primary source for the named project portfolio, including the "Why is Artificial Intelligence a Feminist Issue?" track under Not My A.I., the facial-recognition / transgender-identity research, the #SaiDaMinhaCara legislators' bill campaign against facial recognition in Brazilian public spaces, the Map of Internet Territories Latin American infrastructure project, and the WhatsApp Pay data-monopoly analysis
+    note: 'Coding Rights''s own projects index — primary source for the named project portfolio, including the "Why is Artificial Intelligence a Feminist Issue?" track under Not My A.I., the facial-recognition / transgender-identity research, the #SaiDaMinhaCara legislators'' bill campaign against facial recognition in Brazilian public spaces, the Map of Internet Territories Latin American infrastructure project, and the WhatsApp Pay data-monopoly analysis'
   - url: https://www.alsur.lat/en/member/coding-rights-brazil
     last_checked: 2026-05-14
-    note: Al Sur consortium member page for Coding Rights — primary source for the organisation's regional Latin American and Caribbean civil-society membership in Al Sur and the framing of Coding Rights as "an organization that takes an intersectional feminist approach to defend human rights in the development, regulation and use of technologies"
+    note: 'Al Sur consortium member page for Coding Rights — primary source for the organisation''s regional Latin American and Caribbean civil-society membership in Al Sur and the framing of Coding Rights as "an organization that takes an intersectional feminist approach to defend human rights in the development, regulation and use of technologies"'
   - url: https://indela.fund/en/al-sur-3/
     last_checked: 2026-05-14
     note: IndeLA fund description of the Al Sur consortium — names Coding Rights as one of eleven Latin American and Caribbean member organisations (ADC, CELE, Coding Rights, Derechos Digitales, Karisma, Hiperderecho, IDEC, IPANDETEC, InternetLab, R3D, TEDIC) and confirms artificial intelligence among the consortium's six thematic areas, already cited in org-derechos-digitales
@@ -50,10 +50,10 @@ sources:
     note: From Bias to Feminist AI peer-reviewed publication on the Oracle for Transfeminist Technologies — primary secondary source for the project's 13 September 2021 formal publication and the workshop origin at the Global Symposium on AI & Inclusion in Rio de Janeiro in November 2017
   - url: https://chupadados.codingrights.org/
     last_checked: 2026-05-14
-    note: Chupadados project site — primary source for the project's framing ("This project brings together Latin American stories about the collection and processing of massive data"), the trilingual Portuguese/English/Spanish publication structure, the four sub-areas (urban space, home, body, finances), the Open Society Foundations Phase 1 support and Derechos Digitales Phase 2 support, and the published story portfolio (transit cards in Rio de Janeiro, Olympics surveillance equipment, dating-app tracking without consent, period-tracking apps monetising menstrual data, targeted advertising, credit-scoring behavioural surveillance)
+    note: 'Chupadados project site — primary source for the project''s framing ("This project brings together Latin American stories about the collection and processing of massive data"), the trilingual Portuguese/English/Spanish publication structure, the four sub-areas (urban space, home, body, finances), the Open Society Foundations Phase 1 support and Derechos Digitales Phase 2 support, and the published story portfolio (transit cards in Rio de Janeiro, Olympics surveillance equipment, dating-app tracking without consent, period-tracking apps monetising menstrual data, targeted advertising, credit-scoring behavioural surveillance)'
   - url: https://notmy.ai/
     last_checked: 2026-05-14
-    note: Not My A.I. project site — primary source for the 2021 launch year, the leadership by Joana Varon and Paz Peña, the "feminist toolkit to question A.I. systems" framing, the Latin American focus with case studies from Argentina, Brazil, and Chile, and the publication of "Oppressive A.I.: Feminist Categories to Understand its Political Effects"
+    note: 'Not My A.I. project site — primary source for the 2021 launch year, the leadership by Joana Varon and Paz Peña, the "feminist toolkit to question A.I. systems" framing, the Latin American focus with case studies from Argentina, Brazil, and Chile, and the publication of "Oppressive A.I.: Feminist Categories to Understand its Political Effects"'
   - url: https://codingrights.org/en/project-item/threats-in-the-usage-of-facial-recognition-technologies-for-authenticating-transgender-identities/
     last_checked: 2026-05-14
     note: Coding Rights research-project item on facial-recognition harms to transgender and non-binary identities — primary source for the organisation's facial-recognition / trans-rights research line
