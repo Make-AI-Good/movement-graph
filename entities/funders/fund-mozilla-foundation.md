@@ -15,49 +15,49 @@ focus: |
 sources:
   - url: https://www.mozillafoundation.org/
     last_checked: 2026-05-13
-    note: Foundation's own home page — mission framing ("Make good tech the norm. Make good things together. Make good ideas matter."), $35M in grants awarded, and the description of Mozilla as "a global non-profit and parent of the Mozilla Corporation"
+    note: 'Foundation''s own home page — mission framing ("Make good tech the norm. Make good things together. Make good ideas matter."), $35M in grants awarded, and the description of Mozilla as "a global non-profit and parent of the Mozilla Corporation"'
   - url: https://www.mozillafoundation.org/en/who-we-are/
     last_checked: 2026-05-13
-    note: "Who we are" page — leadership (Executive Director Nabiha Syed, President Mark Surman), board composition (Chair Nicole Wong, Helen Turvey, Alondra Nelson, Edwin Macharia, Zain Habboo)
+    note: '"Who we are" page — leadership (Executive Director Nabiha Syed, President Mark Surman), board composition (Chair Nicole Wong, Helen Turvey, Alondra Nelson, Edwin Macharia, Zain Habboo)'
   - url: https://en.wikipedia.org/wiki/Mozilla_Foundation
     last_checked: 2026-05-13
-    note: Wikipedia overview — founding date (15 July 2003), Netscape origin and $2M AOL seed funding, 501(c)(3) status, parent-of-Mozilla-Corporation structure (Corporation established 3 August 2005), Mountain View headquarters, Nabiha Syed appointment 15 May 2024, November 2024 30% workforce reduction
+    note: 'Wikipedia overview — founding date (15 July 2003), Netscape origin and $2M AOL seed funding, 501(c)(3) status, parent-of-Mozilla-Corporation structure (Corporation established 3 August 2005), Mountain View headquarters, Nabiha Syed appointment 15 May 2024, November 2024 30% workforce reduction'
   - url: https://en.wikipedia.org/wiki/Mark_Surman
     last_checked: 2026-05-13
-    note: Mark Surman biography — Executive Director from August 2008; took on additional Mozilla Foundation President role in 2022 working with Mitchell Baker on Mozilla-wide strategy
+    note: 'Mark Surman biography — Executive Director from August 2008; took on additional Mozilla Foundation President role in 2022 working with Mitchell Baker on Mozilla-wide strategy'
   - url: https://www.mozillafoundation.org/en/insights/trustworthy-ai-whitepaper/
     last_checked: 2026-05-13
-    note: Mozilla's *Creating Trustworthy AI* white paper (May 2020) — the Foundation's stated theory of change on consumer AI, developed over a one-year multi-stakeholder consultation
+    note: 'Mozilla''s *Creating Trustworthy AI* white paper (May 2020) — the Foundation''s stated theory of change on consumer AI, developed over a one-year multi-stakeholder consultation'
   - url: https://www.mozillafoundation.org/en/blog/trustworthy-ai-abridged-version/
     last_checked: 2026-05-13
-    note: Abridged summary of the *Creating Trustworthy AI* white paper, naming the five guiding principles (agency, accountability, privacy, fairness, safety) and the three core challenges Mozilla identifies (monopoly and centralisation, data privacy and governance, bias and discrimination)
+    note: 'Abridged summary of the *Creating Trustworthy AI* white paper, naming the five guiding principles (agency, accountability, privacy, fairness, safety) and the three core challenges Mozilla identifies (monopoly and centralisation, data privacy and governance, bias and discrimination)'
   - url: https://www.mozillafoundation.org/en/research/library/trustworthy-ai-white-paper/
     last_checked: 2026-05-13
-    note: Trustworthy AI white paper landing page
+    note: 'Trustworthy AI white paper landing page'
   - url: https://www.mozillafoundation.org/en/blog/mozilla-joins-philanthropic-coalition-vice-president-harris-to-support-public-interest-ai/
     last_checked: 2026-05-13
-    note: Mozilla's own 1 November 2023 announcement of the ten-foundation Public Interest AI initiative — names all ten coalition members, $200M+ commitment, J. Bob Alotta quote ("There is currently a harmful status quo in AI — one defined by profit before people, centralized power, and little transparency or accountability")
+    note: 'Mozilla''s own 1 November 2023 announcement of the ten-foundation Public Interest AI initiative — names all ten coalition members, $200M+ commitment, J. Bob Alotta quote ("There is currently a harmful status quo in AI — one defined by profit before people, centralized power, and little transparency or accountability")'
   - url: https://www.fordfoundation.org/news-and-stories/news-and-press/news/philanthropies-launch-new-initiative-to-ensure-ai-advances-the-public-interest/
     last_checked: 2026-05-13
-    note: Ford Foundation's 1 November 2023 release of the same ten-foundation Public Interest AI announcement — cross-corpus source already referenced from fund-ford-foundation and fund-macarthur-foundation
+    note: 'Ford Foundation''s 1 November 2023 release of the same ten-foundation Public Interest AI announcement — cross-corpus source already referenced from fund-ford-foundation and fund-macarthur-foundation'
   - url: https://commonvoice.mozilla.org/
     last_checked: 2026-05-13
-    note: Common Voice — Mozilla's open multilingual speech-corpus project
+    note: 'Common Voice — Mozilla''s open multilingual speech-corpus project'
   - url: https://en.wikipedia.org/wiki/Common_Voice
     last_checked: 2026-05-13
-    note: Wikipedia overview of Common Voice — launched 2017, first dataset released November 2017, framed as a public-domain corpus to level the AI playing field and mitigate AI bias
+    note: 'Wikipedia overview of Common Voice — launched 2017, first dataset released November 2017, framed as a public-domain corpus to level the AI playing field and mitigate AI bias'
   - url: https://www.mozillafoundation.org/en/responsible-computing-challenge/grant-opportunities/
     last_checked: 2026-05-13
-    note: Mozilla Responsible Computing Challenge grant opportunities page — curriculum-grant programme for higher-education faculty embedding social, political, and ethical context into computer-science teaching, with a 2024 expansion into South Africa
+    note: 'Mozilla Responsible Computing Challenge grant opportunities page — curriculum-grant programme for higher-education faculty embedding social, political, and ethical context into computer-science teaching, with a 2024 expansion into South Africa'
   - url: https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/
     last_checked: 2026-05-13
-    note: Mozilla Foundation Incubator landing page — the Foundation's principal grantmaking and cohort-programme vehicle for responsible-AI builders, hosting cohorts including the Democracy x AI cohort
+    note: 'Mozilla Foundation Incubator landing page — the Foundation''s principal grantmaking and cohort-programme vehicle for responsible-AI builders, hosting cohorts including the Democracy x AI cohort'
   - url: https://www.mozillafoundation.org/en/what-we-fund/trustworthy-ai-funding-principles/
     last_checked: 2026-05-13
-    note: Mozilla's stated Trustworthy AI Funding Principles — the criteria the Foundation applies to its AI-related grantmaking and fellowships
+    note: 'Mozilla''s stated Trustworthy AI Funding Principles — the criteria the Foundation applies to its AI-related grantmaking and fellowships'
   - url: https://en.wikipedia.org/wiki/Algorithmic_Justice_League
     last_checked: 2026-05-13
-    note: AJL Wikipedia entry listing the Mozilla Foundation among AJL's core institutional funders alongside Ford, MacArthur, Rockefeller, and Sloan
+    note: 'AJL Wikipedia entry listing the Mozilla Foundation among AJL''s core institutional funders alongside Ford, MacArthur, Rockefeller, and Sloan'
 ---
 
 # Mozilla Foundation
