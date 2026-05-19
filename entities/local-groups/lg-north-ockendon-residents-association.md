@@ -14,40 +14,40 @@ key_people: []
 sources:
   - url: https://www.easthaveringdatacentre.com/
     last_checked: 2026-05-12
-    note: The campaign's own "No to East Havering Data Centre" public site — frames the group as "concerned residents" opposing development on "200 hectares of the greenest of Metropolitan Green Belt Land" in North Ockendon; the campaign's primary public-facing landing page
+    note: 'The campaign''s own "No to East Havering Data Centre" public site — frames the group as "concerned residents" opposing development on "200 hectares of the greenest of Metropolitan Green Belt Land" in North Ockendon; the campaign''s primary public-facing landing page'
   - url: https://www.romfordrecorder.co.uk/news/24384067.east-havering-data-centre-plan-near-upminster-gets-resident-opposition/
     last_checked: 2026-05-12
-    note: Romford Recorder's initial reporting on resident opposition — names the "North Ockendon Residents Association (NORA)" explicitly; records a NORA spokesperson on the "race to the bottom" framing, the Change.org petition with around 500 signatures at time of writing, and the meeting between NORA, Havering Friends of the Earth, and council leader Ray Morgon
+    note: 'Romford Recorder''s initial reporting on resident opposition — names the "North Ockendon Residents Association (NORA)" explicitly; records a NORA spokesperson on the "race to the bottom" framing, the Change.org petition with around 500 signatures at time of writing, and the meeting between NORA, Havering Friends of the Earth, and council leader Ray Morgon'
   - url: https://www.romfordrecorder.co.uk/news/24519776.havering-council-will-listen-residents-upminster-data-centre/
     last_checked: 2026-05-12
-    note: Romford Recorder follow-up — confirms the NORA / Havering Friends of the Earth joint engagement with the council, names Ian Pirie as Havering Friends of the Earth coordinator, and frames NORA's working partnership with the local Friends of the Earth group
+    note: 'Romford Recorder follow-up — confirms the NORA / Havering Friends of the Earth joint engagement with the council, names Ian Pirie as Havering Friends of the Earth coordinator, and frames NORA''s working partnership with the local Friends of the Earth group'
   - url: https://thehaveringdaily.co.uk/2024/08/13/exclusive-north-ockendon-residents-hit-out-at-havering-council-over-their-staggering-hypocrisy-over-greenbelt-land/
     last_checked: 2026-05-12
-    note: Havering Daily's August 2024 reporting on the residents' opposition — establishes the campaign was already visible by mid-2024, names the Top Meadow Golf Club community meeting venue, and quotes the residents' framing of Havering Residents Association councillors' Green Belt pledge
+    note: 'Havering Daily''s August 2024 reporting on the residents'' opposition — establishes the campaign was already visible by mid-2024, names the Top Meadow Golf Club community meeting venue, and quotes the residents'' framing of Havering Residents Association councillors'' Green Belt pledge'
   - url: https://thehaveringdaily.co.uk/2026/03/12/we-are-not-anti-data-activists-we-are-residents-in-the-community-desperately-trying-to-save-our-greenbelt/
     last_checked: 2026-05-12
-    note: Havering Daily's March 2026 reporting capturing the group's self-framing — "We Are Not Anti Data Activists We Are Residents In the Community Desperately Trying To Save Our Greenbelt"; documents resident pressure for an extended consultation period, supported by ward councillors, Strategic Planning Committee members, and MP Julia Lopez
+    note: 'Havering Daily''s March 2026 reporting capturing the group''s self-framing — "We Are Not Anti Data Activists We Are Residents In the Community Desperately Trying To Save Our Greenbelt"; documents resident pressure for an extended consultation period, supported by ward councillors, Strategic Planning Committee members, and MP Julia Lopez'
   - url: https://thehaveringdaily.co.uk/2026/02/26/havering-data-centre-row-deepens-as-consultation-plans-revealed/
     last_checked: 2026-05-12
-    note: Havering Daily's February 2026 reporting on the consultation period and Local Development Order route — primary contemporaneous record of the procedural posture the residents have been organising against
+    note: 'Havering Daily''s February 2026 reporting on the consultation period and Local Development Order route — primary contemporaneous record of the procedural posture the residents have been organising against'
   - url: https://eastlondontimes.co.uk/local/havering/havering-residents-urge-say-on-huge-green-belt-data-centre-2026/
     last_checked: 2026-05-12
-    note: East London Times's March 2026 report — names resident campaigner Emma Edmonds, records Digital Reef's "330,000 square metres of data centre floorspace" framing as "Europe's largest single data centre campus," and gives the public-consultation timeline (6 March to 7 April 2026, with drop-in events on 12 and 25 March)
+    note: 'East London Times''s March 2026 report — names resident campaigner Emma Edmonds, records Digital Reef''s "330,000 square metres of data centre floorspace" framing as "Europe''s largest single data centre campus," and gives the public-consultation timeline (6 March to 7 April 2026, with drop-in events on 12 and 25 March)'
   - url: https://www.change.org/p/say-no-to-mega-data-centre-in-the-greenbelt-countryside
     last_checked: 2026-05-12
-    note: The "Just Say NO to the Mega Data Centre in the Greenbelt Countryside" Change.org petition — launched 26 May 2024 by "Residents of North Ockendon Upminster"; over 1,300 verified signatures; the residents' most visible petition vehicle
+    note: 'The "Just Say NO to the Mega Data Centre in the Greenbelt Countryside" Change.org petition — launched 26 May 2024 by "Residents of North Ockendon Upminster"; over 1,300 verified signatures; the residents'' most visible petition vehicle'
   - url: https://petition.parliament.uk/petitions/762320
     last_checked: 2026-05-12
-    note: UK Parliament petition "Stop the East Havering Data Centre from going ahead" — rejected on 17 March 2026 on the procedural ground that it requested action at the local level, with petitioners directed to MP and councillor routes instead; an example of the campaign's attempts to escalate beyond local channels
+    note: 'UK Parliament petition "Stop the East Havering Data Centre from going ahead" — rejected on 17 March 2026 on the procedural ground that it requested action at the local level, with petitioners directed to MP and councillor routes instead; an example of the campaign''s attempts to escalate beyond local channels'
   - url: https://environmentjournal.online/headlines/uk-wide-action-days-announced-to-oppose-dirty-data-centres/
     last_checked: 2026-05-12
-    note: Environment Journal coverage of Global Action Plan's UK-wide "Dirty Data Centres" action days, 27-28 February 2026 — names NORA (rendered as "North Ockenden Residents Association Against East Havering Data Centre") among twelve coalition partners alongside Foxglove, Havering / Hillingdon Friends of the Earth, Iver Heath Residents Association, Global Justice Now, and Pull the Plug
+    note: 'Environment Journal coverage of Global Action Plan''s UK-wide "Dirty Data Centres" action days, 27-28 February 2026 — names NORA (rendered as "North Ockenden Residents Association Against East Havering Data Centre") among twelve coalition partners alongside Foxglove, Havering / Hillingdon Friends of the Earth, Iver Heath Residents Association, Global Justice Now, and Pull the Plug'
   - url: https://www.datacenterdynamics.com/en/news/600mw-east-london-green-belt-data-center-faces-opposition-from-environmentalists-and-councillors/
     last_checked: 2026-05-12
-    note: DatacenterDynamics framing the proposal in industry-trade terms — 600 MW power requirement, "East London" Green Belt siting, environmentalist and councillor opposition — the clearest single source for the scale framing that has anchored NORA's "race to the bottom" argument
+    note: 'DatacenterDynamics framing the proposal in industry-trade terms — 600 MW power requirement, "East London" Green Belt siting, environmentalist and councillor opposition — the clearest single source for the scale framing that has anchored NORA''s "race to the bottom" argument'
   - url: https://www.facebook.com/groups/366637746401030/
     last_checked: 2026-05-12
-    note: "NO to Havering Data Centre in Upminster (Residents Group)" Facebook group — the residents' day-to-day coordination channel outside the easthaveringdatacentre.com landing page
+    note: '"NO to Havering Data Centre in Upminster (Residents Group)" Facebook group — the residents'' day-to-day coordination channel outside the easthaveringdatacentre.com landing page'
 ---
 
 # North Ockendon Residents Association
