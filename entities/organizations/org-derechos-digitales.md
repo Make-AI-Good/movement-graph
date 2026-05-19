@@ -25,6 +25,7 @@ related_orgs:
   - org-privacy-international
 funders:
   - fund-ford-foundation
+  - fund-charles-stewart-mott-foundation
 sources:
   - url: https://www.derechosdigitales.org/
     last_checked: 2026-05-13

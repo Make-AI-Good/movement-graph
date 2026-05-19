@@ -14,7 +14,7 @@ strategies: []
 key_people: [person-felicia-anthonio, person-marwa-fatafta]
 board_and_advisors: []
 related_orgs: [org-edri, org-algorithmwatch, org-panoptykon-foundation, org-la-quadrature-du-net]
-funders: [fund-ford-foundation, fund-open-society-foundations, fund-mozilla-foundation, fund-sigrid-rausing-trust, fund-european-ai-society-fund, fund-luminate, fund-patrick-j-mcgovern-foundation, fund-civitates, fund-hewlett-foundation]
+funders: [fund-ford-foundation, fund-open-society-foundations, fund-mozilla-foundation, fund-sigrid-rausing-trust, fund-european-ai-society-fund, fund-luminate, fund-patrick-j-mcgovern-foundation, fund-civitates, fund-hewlett-foundation, fund-charles-stewart-mott-foundation]
 sources:
   - url: https://www.accessnow.org/about-us/
     last_checked: 2026-05-13

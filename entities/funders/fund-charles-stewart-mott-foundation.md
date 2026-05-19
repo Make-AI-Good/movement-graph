@@ -1,0 +1,74 @@
+---
+id: fund-charles-stewart-mott-foundation
+type: funder
+name: Charles Stewart Mott Foundation
+status: active
+confidence: high
+tags: [foundation, us-based, michigan, flint, large-private-foundation, civil-society, civic-engagement, philanthropic-collaborative, european-civil-society-funding, latin-american-civil-society-funding, digital-rights-funding, ai-policy]
+created: 2026-05-19
+last_updated: 2026-05-19
+funder_type: foundation
+website: https://www.mott.org/
+funded_orgs: []
+focus: |
+  Long-horizon institutional support for civil society, civic engagement, environment, and the Flint Area, framed by the foundation's stated vision that "each individual's quality of life is connected to the well-being of the community, both locally and globally" and the working mission of "promoting a just, equitable and sustainable society." Within the corpus's AI-good landscape, Mott shows up through the Civil Society programme — and inside that programme through the Protection of the Sector and Strengthening Civic Space sub-lines that fund defenders of civic and digital space — as a recurring institutional backer of the pooled philanthropic vehicles and digital-rights coalitions that resource grassroots and democratic AI advocacy at regional scale rather than through individual grantee-level AI grants.
+sources:
+  - url: https://www.mott.org/
+    last_checked: 2026-05-19
+    note: Foundation's own home page
+  - url: https://www.mott.org/who-we-are/
+    last_checked: 2026-05-19
+    note: 'Foundation''s own Who We Are page — primary source for the stated vision ("We envision a world in which each individual''s quality of life is connected to the well-being of the community, both locally and globally"), the working mission framing ("promoting a just, equitable and sustainable society"), the founder identification (Charles Stewart Mott), the Flint, Michigan headquarters location, and Charles Stewart Mott''s framing of community partnership ("It seems to me that every person, always, is in a kind of informal partnership with his community")'
+  - url: https://www.mott.org/work/
+    last_checked: 2026-05-19
+    note: 'Foundation''s own Work page — primary source for the four current programme areas (Flint Area, Youth Engagement, Environment, Civil Society) and the Civil Society sub-areas (Common Ground, Access to justice, Protection of the sector)'
+  - url: https://en.wikipedia.org/wiki/Charles_Stewart_Mott_Foundation
+    last_checked: 2026-05-19
+    note: 'Wikipedia organisational article — tiebreaker source for the 1926 establishment year, the foundation''s scale figures (approximately $3.7 billion in assets and $190.6 million in grants across 385 awards in 2022), and Ridgway H. White as Chairman; primary facts on programme structure are taken from the foundation''s own pages above'
+  - url: https://www.mott.org/work/civil-society/strengthening-civic-space/
+    last_checked: 2026-05-19
+    note: 'Foundation''s own Strengthening Civic Space / Protection of the Sector programme page — primary source for the stated programme purpose of supporting "organizations working to defend and strengthen civic space" and the funding-focus areas including "Protection services (physical, digital, psychosocial) for civil society defenders" and "Knowledge tools addressing security, digital resilience, and emerging technologies like AI"'
+  - url: https://www.mott.org/grants/2023-11694/
+    last_checked: 2026-05-19
+    note: 'Foundation''s own grants database record for the 2023 grant to the Al Sur Coalition — primary source for the $200,000 grant amount, the 1 July 2023 to 30 June 2025 grant period, Derechos Digitales as named fiscal sponsor of the Al Sur Coalition for this grant, the assignment to the Civil Society programme''s Strengthening Civic Space initiative, the Central America / Mexico / South America geographic focus, the stated purpose to "enhance the capacity of a coalition of Latin American organizations to advocate for human rights in digital environments", and the eleven-organisation coalition framing'
+  - url: https://www.mott.org/grants/2025-13788/
+    last_checked: 2026-05-19
+    note: 'Foundation''s own grants database record for the 2025 grant to the Network of European Foundations / Civitates — primary source for the $500,000 grant amount, the 1 January 2024 to 31 December 2027 grant period, the cumulative-grantmaking framing (approximately €10 million across 50 organisations in 18 European countries since 2018, with eighteen contributing private foundations at that snapshot), and Mott''s framing of Civitates'' three-objectives strategic intent; already cited in fund-civitates.md'
+  - url: https://www.mott.org/news/articles/european-ai-fund-aims-to-help-shape-the-future-of-artificial-intelligence/
+    last_checked: 2026-05-19
+    note: 'Foundation''s own August 2022 article on the European AI Fund — primary source for Mott''s public framing of its founding contribution to the Fund and for the Director Catherine Miller framing of the founding gap ("We''re at a critical moment where the direction of future technologies is being decided, and there''s a very loud voice coming from private industry and governments, but civil society feels a lot quieter"); already cited in fund-european-ai-society-fund.md'
+  - url: https://blog.mozilla.org/en/mozilla/launching-the-european-ai-fund/
+    last_checked: 2026-05-19
+    note: 'Mozilla Foundation''s 23 September 2020 European AI Fund launch announcement — primary source for the Charles Stewart Mott Foundation''s role as one of seven founding philanthropic partners of the European AI Fund alongside the King Baudouin Foundation, Luminate, the Mozilla Foundation, the Oak Foundation, the Open Society Foundations, and Stiftung Mercator, the €1 million initial open-call commitment, and the Network of European Foundations hosting arrangement; already cited in fund-european-ai-society-fund, fund-mozilla-foundation, fund-open-society-foundations, fund-stiftung-mercator, and fund-luminate'
+  - url: https://europeanaifund.org/our-partners/
+    last_checked: 2026-05-19
+    note: European AI & Society Fund's own current partners page — primary source confirming the Charles Stewart Mott Foundation among the eighteen current contributing foundations of the Fund; already cited in fund-european-ai-society-fund, fund-stiftung-mercator, fund-luminate, fund-hewlett-foundation, and fund-robert-bosch-stiftung
+  - url: https://civitates-eu.org/foundation-partners/
+    last_checked: 2026-05-19
+    note: Civitates' own Foundation Partners page — primary source confirming the Charles Stewart Mott Foundation among the roughly thirty contributing partner foundations of the Civitates pooled fund; already cited in fund-civitates and fund-stefan-batory-foundation
+  - url: https://www.accessnow.org/financials/
+    last_checked: 2026-05-19
+    note: 'Access Now''s own financial-transparency page — primary source naming the Charles Stewart Mott Foundation in Access Now''s foundation funder roster alongside the Ford Foundation, the Open Society Foundations, the William and Flora Hewlett Foundation, the Mozilla Foundation, the Oak Foundation, the Patrick J. McGovern Foundation, Luminate Group, and the Sigrid Rausing Trust; already cited in org-access-now, fund-hewlett-foundation, and fund-patrick-j-mcgovern-foundation'
+---
+
+# Charles Stewart Mott Foundation
+
+The Charles Stewart Mott Foundation is a large US private foundation [established in 1926](https://en.wikipedia.org/wiki/Charles_Stewart_Mott_Foundation) by the General Motors executive Charles Stewart Mott and headquartered in the founder's home city of [Flint, Michigan](https://www.mott.org/who-we-are/). The foundation describes its mission as ["promoting a just, equitable and sustainable society"](https://www.mott.org/who-we-are/) and its working frame in the founder's own words as the idea that "every person, always, is in a kind of informal partnership with his community." It operates at the scale of the largest US private foundations — [approximately $3.7 billion in assets and $190.6 million in grants across 385 awards in 2022](https://en.wikipedia.org/wiki/Charles_Stewart_Mott_Foundation), with Ridgway H. White as Chairman — and runs [four current programme areas](https://www.mott.org/work/): the Flint Area, Youth Engagement, Environment, and Civil Society. Civil Society is the programme through which the foundation's AI-good footprint sits in this corpus, and inside that programme the [Protection of the Sector and Strengthening Civic Space sub-lines](https://www.mott.org/work/civil-society/strengthening-civic-space/) fund "organizations working to defend and strengthen civic space" — explicitly including "protection services (physical, digital, psychosocial) for civil society defenders" and "knowledge tools addressing security, digital resilience, and emerging technologies like AI."
+
+## European pooled-fund partnerships
+
+Mott's most consequential AI-good footprint in this corpus runs through two Brussels-hosted pooled philanthropic vehicles administered by the Network of European Foundations from shared offices at Philanthropy House. On [23 September 2020](https://blog.mozilla.org/en/mozilla/launching-the-european-ai-fund/), Mott was named as one of seven founding philanthropic partners of what is now the [European AI & Society Fund](fund-european-ai-society-fund.md), alongside the King Baudouin Foundation, [Luminate](fund-luminate.md), the [Mozilla Foundation](fund-mozilla-foundation.md), the Oak Foundation, the [Open Society Foundations](fund-open-society-foundations.md), and [Stiftung Mercator](fund-stiftung-mercator.md), with an initial €1 million open call to strengthen European civil society's capacity to shape AI policy. Mott has remained a contributing partner through the Fund's 2023 rebrand and the subsequent expansion to eighteen contributing foundations, [confirmed on the Fund's current partners page](https://europeanaifund.org/our-partners/). The foundation's [own August 2022 article on the Fund](https://www.mott.org/news/articles/european-ai-fund-aims-to-help-shape-the-future-of-artificial-intelligence/) framed the founding gap through Director Catherine Miller's words: "We're at a critical moment where the direction of future technologies is being decided, and there's a very loud voice coming from private industry and governments, but civil society feels a lot quieter."
+
+Mott is also a contributing partner of [Civitates](fund-civitates.md), the second NEF-hosted Brussels pooled fund (broader in remit than the European AI & Society Fund, covering democracy, civic space, and independent media with AI-and-platform work sitting inside its Tech & Democracy sub-fund). The foundation is [named on the Civitates partner roster](https://civitates-eu.org/foundation-partners/) alongside roughly thirty other foundations, and its [own grants database](https://www.mott.org/grants/2025-13788/) records a $500,000 grant covering 1 January 2024 to 31 December 2027 to the Network of European Foundations for Civitates. That same grant record cites the snapshot at the time of approval — "approximately €10 million across 50 organisations in 18 European countries since 2018" from eighteen contributing private foundations — that the Civitates entry pairs with the Fund's own higher 2025 figure of approximately €13 million.
+
+## Latin American civil-society funding
+
+Mott's other AI-good-adjacent footprint in this corpus runs through the [Al Sur consortium](https://www.alsur.lat/), the eleven-organisation Latin American digital-rights coalition coordinated by [Derechos Digitales](../organizations/org-derechos-digitales.md). The foundation's [own grants database](https://www.mott.org/grants/2023-11694/) records a $200,000 grant covering 1 July 2023 to 30 June 2025 to the Al Sur Coalition with Derechos Digitales as fiscal sponsor, made through the Civil Society programme's Strengthening Civic Space initiative on a Central America / Mexico / South America geographic remit, with the stated purpose of "enhanc[ing] the capacity of a coalition of Latin American organizations to advocate for human rights in digital environments." This is the funding stream that anchors the [Inter-American Commission on Human Rights AI-and-human-rights hearing campaign of 7 March 2025](../campaigns/camp-derechos-digitales-iachr-ai-hearing-2025.md) — the coalition's joint technical contribution and the coordination of the seventeen-organisation signatory roster drew on the regional advocacy capacity that the Mott grant underwrote.
+
+## Direct grantees in the corpus
+
+Beyond pooled-fund and coalition support, Mott appears on the foundation funder roster of [Access Now](../organizations/org-access-now.md), the global digital-rights organisation behind the #KeepItOn coalition and RightsCon. Access Now's [own financial-transparency page](https://www.accessnow.org/financials/) names the Charles Stewart Mott Foundation alongside the [Ford Foundation](fund-ford-foundation.md), the [Open Society Foundations](fund-open-society-foundations.md), the [William and Flora Hewlett Foundation](fund-hewlett-foundation.md), the [Mozilla Foundation](fund-mozilla-foundation.md), the Oak Foundation, the [Patrick J. McGovern Foundation](fund-patrick-j-mcgovern-foundation.md), [Luminate Group](fund-luminate.md), and the [Sigrid Rausing Trust](fund-sigrid-rausing-trust.md) — the same small US-and-European foundation cluster that recurs across the corpus's funder slice.
+
+## Position in the corpus funder slice
+
+Within the funder slice Mott sits alongside the other large US private foundations that recur as backers of public-interest AI work — the [Ford](fund-ford-foundation.md), [MacArthur](fund-macarthur-foundation.md), [Mozilla](fund-mozilla-foundation.md), [Open Society](fund-open-society-foundations.md), [Hewlett](fund-hewlett-foundation.md), and [Patrick J. McGovern](fund-patrick-j-mcgovern-foundation.md) foundations — but its distinctive footprint is in the re-granting-collaborative layer rather than in headline AI-program grants. Mott helped seat the founding circles of both NEF-hosted Brussels pooled funds that the corpus tracks ([European AI & Society Fund](fund-european-ai-society-fund.md) and [Civitates](fund-civitates.md)), it underwrites the regional coalition infrastructure behind Latin American civil-society Inter-American AI advocacy through the [Al Sur grant via Derechos Digitales](https://www.mott.org/grants/2023-11694/), and it sits in the small US-foundation cluster sustaining Access Now's global digital-rights work. Of the corpus's US-headquartered foundation entries Mott is the most consistently visible contributor to the pooled-fund layer through which AI-policy civil society is resourced at regional scale — the Civil-Society-programme analogue to Ford's Technology-and-Society-programme route into the same field.
