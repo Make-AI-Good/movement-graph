@@ -1,7 +1,7 @@
 ---
 id: event-ftc-creative-economy-generative-ai-roundtable-2023-10-04
 type: event
-name: FTC "Creative Economy and Generative AI" public roundtable (4 October 2023)
+name: 'FTC "Creative Economy and Generative AI" public roundtable (4 October 2023)'
 status: historical
 confidence: high
 tags: [us-based, washington-dc, federal-administrative, federal-trade-commission, virtual-roundtable, public-roundtable, regulator-convening, creative-industries, generative-ai, training-data, copyright, consent-credit-compensation, transparency, lina-khan, rebecca-slaughter, alvaro-bedoya, concept-art-association, authors-guild, sag-aftra, wga, nava, model-alliance, artist-rights-alliance, software-freedom-conservancy, sectoral-organising, federal-policy]
@@ -23,40 +23,40 @@ related_events:
 sources:
   - url: https://www.ftc.gov/news-events/events/2023/10/creative-economy-generative-ai
     last_checked: 2026-05-14
-    note: FTC's own event page for the 4 October 2023 "Creative Economy and Generative AI" virtual public roundtable — primary source for the 3:00–4:40 p.m. ET timing, the virtual format, and the FTC's framing of the roundtable as a fact-finding convening on generative AI's impact on creative fields
+    note: 'FTC''s own event page for the 4 October 2023 "Creative Economy and Generative AI" virtual public roundtable — primary source for the 3:00–4:40 p.m. ET timing, the virtual format, and the FTC''s framing of the roundtable as a fact-finding convening on generative AI''s impact on creative fields'
   - url: https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-host-virtual-roundtable-ai-content-creation
     last_checked: 2026-05-14
-    note: FTC press release of 27 September 2023 announcing the virtual roundtable — primary source for the FTC's stated purpose of "better understand[ing] the impact of generative AI on creative fields" and for the listed sectors (screenwriters, actors, programmers, editors, musicians, models)
+    note: 'FTC press release of 27 September 2023 announcing the virtual roundtable — primary source for the FTC''s stated purpose of "better understand[ing] the impact of generative AI on creative fields" and for the listed sectors (screenwriters, actors, programmers, editors, musicians, models)'
   - url: https://www.ftc.gov/system/files/ftc_gov/pdf/creative-economy-and-generative-ai-transcript-october-4-2023.pdf
     last_checked: 2026-05-14
-    note: Full FTC transcript of the 4 October 2023 roundtable — primary source for the panellist roster, Chair Khan's opening remarks, the moderated panel exchange, and Commissioners Slaughter and Bedoya's closing remarks
+    note: 'Full FTC transcript of the 4 October 2023 roundtable — primary source for the panellist roster, Chair Khan''s opening remarks, the moderated panel exchange, and Commissioners Slaughter and Bedoya''s closing remarks'
   - url: https://www.ftc.gov/news-events/news/press-releases/2023/10/ftc-host-roundtable-discussion-october-4-artificial-intelligence-creative-fields
     last_checked: 2026-05-14
-    note: FTC press release of 3 October 2023 confirming the roundtable's date, virtual format, and stated objective — secondary FTC-side confirmation of the event details
+    note: 'FTC press release of 3 October 2023 confirming the roundtable''s date, virtual format, and stated objective — secondary FTC-side confirmation of the event details'
   - url: https://www.ftc.gov/news-events/news/press-releases/2023/12/ftc-staff-report-details-key-takeaways-ai-creative-fields-panel-discussion
     last_checked: 2026-05-14
-    note: FTC press release of 15 December 2023 announcing the staff report — primary source for the roundtable's twelve-speaker count, the FTC's stated takeaways (training-data consent and compensation, attribution and labelling, market substitution, deepfake impersonation), and the FTC's framing of the report as a synthesis of the panel record
+    note: 'FTC press release of 15 December 2023 announcing the staff report — primary source for the roundtable''s twelve-speaker count, the FTC''s stated takeaways (training-data consent and compensation, attribution and labelling, market substitution, deepfake impersonation), and the FTC''s framing of the report as a synthesis of the panel record'
   - url: https://www.ftc.gov/system/files/ftc_gov/pdf/12-15-2023AICEStaffReport.pdf
     last_checked: 2026-05-14
-    note: FTC Office of Technology staff report "Generative Artificial Intelligence and the Creative Economy" of 15 December 2023 — primary source for the federal-administrative synthesis of the roundtable record, the panellist-by-sector framing, and the report's direct citations to the panel transcript
+    note: 'FTC Office of Technology staff report "Generative Artificial Intelligence and the Creative Economy" of 15 December 2023 — primary source for the federal-administrative synthesis of the roundtable record, the panellist-by-sector framing, and the report''s direct citations to the panel transcript'
   - url: https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/12/elevating-voices-creative-professionals-report-quote-book
     last_checked: 2026-05-14
-    note: FTC Office of Technology blog post "Elevating the Voices of Creative Professionals" of 15 December 2023 by FTC Senior Technology Advisor Madeleine Varner — primary source for Varner's lead-staffer role on the roundtable, the FTC's framing of the panel record as the report's evidentiary spine, and the "quote book" companion to the staff report
+    note: 'FTC Office of Technology blog post "Elevating the Voices of Creative Professionals" of 15 December 2023 by FTC Senior Technology Advisor Madeleine Varner — primary source for Varner''s lead-staffer role on the roundtable, the FTC''s framing of the panel record as the report''s evidentiary spine, and the "quote book" companion to the staff report'
   - url: https://www.insideglobaltech.com/2023/10/09/ftc-holds-roundtable-discussion-on-the-creative-economy-and-generative-ai/
     last_checked: 2026-05-14
-    note: Covington & Burling "Inside Global Tech" 9 October 2023 write-up — primary source for Chair Khan's verbatim line that "there's no AI exemption to the laws on the books," Khan's framing that generative AI may "turbocharge fraud" and "entrench the dominance of firms that control the necessary raw inputs," and the cross-sectoral framing of the panel's takeaways (opt-in consent, transparency, creator attribution, labelling)
+    note: 'Covington & Burling "Inside Global Tech" 9 October 2023 write-up — primary source for Chair Khan''s verbatim line that "there''s no AI exemption to the laws on the books," Khan''s framing that generative AI may "turbocharge fraud" and "entrench the dominance of firms that control the necessary raw inputs," and the cross-sectoral framing of the panel''s takeaways (opt-in consent, transparency, creator attribution, labelling)'
   - url: https://www.dlapiper.com/en/insights/publications/ai-outlook/2023/generative-ai-in-the-creative-economy
     last_checked: 2026-05-14
-    note: DLA Piper "AI Outlook" analysis — primary source for Commissioner Slaughter's verbatim line that "copyright is not and cannot be the only tool to address deeply personal concerns creators hold," for the FTC's five-takeaway summary of the panel, and for the framing of the roundtable as foreshadowing FTC enforcement priorities
+    note: 'DLA Piper "AI Outlook" analysis — primary source for Commissioner Slaughter''s verbatim line that "copyright is not and cannot be the only tool to address deeply personal concerns creators hold," for the FTC''s five-takeaway summary of the panel, and for the framing of the roundtable as foreshadowing FTC enforcement priorities'
   - url: https://iapp.org/news/a/notes-from-the-ftcs-creative-economy-and-generative-ai-roundtablex
     last_checked: 2026-05-14
-    note: International Association of Privacy Professionals (IAPP) contemporaneous coverage — primary source for the twelve-speaker count, the presence of FTC Chair Lina Khan and Commissioners Rebecca Kelly Slaughter and Alvaro Bedoya, and the panel-by-panel summary of witness concerns
+    note: 'International Association of Privacy Professionals (IAPP) contemporaneous coverage — primary source for the twelve-speaker count, the presence of FTC Chair Lina Khan and Commissioners Rebecca Kelly Slaughter and Alvaro Bedoya, and the panel-by-panel summary of witness concerns'
   - url: https://sfconservancy.org/news/2023/oct/04/ftc-ai-panel/
     last_checked: 2026-05-14
-    note: Software Freedom Conservancy's 4 October 2023 announcement of Policy Fellow Bradley M. Kuhn's roundtable appearance — primary source for Kuhn's panellist role representing the free and open source software (FOSS) and independent software authorship communities
+    note: 'Software Freedom Conservancy''s 4 October 2023 announcement of Policy Fellow Bradley M. Kuhn''s roundtable appearance — primary source for Kuhn''s panellist role representing the free and open source software (FOSS) and independent software authorship communities'
   - url: https://venturebeat.com/ai/our-lifes-work-chorus-of-creative-workers-demands-ai-regulation-at-ftc-roundtable
     last_checked: 2026-05-14
-    note: VentureBeat contemporaneous coverage ("Our life's work: Chorus of creative workers demands AI regulation at FTC roundtable") — primary source for Karla Ortiz's verbatim CAA-panel framing ("the creative economy only works when the basic tenants of consent, credit, compensation, and transparency are followed"; AI companies "took our work and data to train for-profit technologies that then directly compete against us in our own market"), and for the cross-sector framing of the panel as a chorus of creative workers calling for federal regulation
+    note: 'VentureBeat contemporaneous coverage ("Our life''s work: Chorus of creative workers demands AI regulation at FTC roundtable") — primary source for Karla Ortiz''s verbatim CAA-panel framing ("the creative economy only works when the basic tenants of consent, credit, compensation, and transparency are followed"; AI companies "took our work and data to train for-profit technologies that then directly compete against us in our own market"), and for the cross-sector framing of the panel as a chorus of creative workers calling for federal regulation'
 ---
 
 # FTC "Creative Economy and Generative AI" public roundtable (4 October 2023)
