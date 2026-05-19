@@ -26,6 +26,7 @@ funders:
   - fund-ford-foundation
   - fund-luminate
   - fund-open-society-foundations
+  - fund-oak-foundation
 sources:
   - url: https://privacyinternational.org/about
     last_checked: 2026-05-18
