@@ -15,31 +15,31 @@ publication_type: report
 sources:
   - url: https://www.adalovelaceinstitute.org/report/participatory-data-stewardship/
     last_checked: 2026-05-12
-    note: Institute's own landing page for the report — primary source for the report's framing, central proposition, and September 2021 release
+    note: 'Institute''s own landing page for the report — primary source for the report''s framing, central proposition, and September 2021 release'
   - url: https://www.adalovelaceinstitute.org/wp-content/uploads/2021/09/Participatory-data-stewardship_Final-report.pdf
     last_checked: 2026-05-12
-    note: Final report PDF as hosted on the Institute's own site (September 2021 version)
+    note: 'Final report PDF as hosted on the Institute''s own site (September 2021 version)'
   - url: https://www.adalovelaceinstitute.org/wp-content/uploads/2021/11/ADA_Participatory-Data-Stewardship.pdf
     last_checked: 2026-05-12
-    note: November 2021 reissue of the report PDF hosted on the Institute's site
+    note: 'November 2021 reissue of the report PDF hosted on the Institute''s site'
   - url: https://uksa.statisticsauthority.gov.uk/news/involving-people-in-the-use-of-data-for-research-and-official-statistics-heres-how/
     last_checked: 2026-05-12
-    note: UK Statistics Authority's Centre for Applied Data Ethics blog — primary external source for the report's lead authorship by Reema Patel (then Associate Director, Engagement, at the Ada Lovelace Institute) and for the framework's adoption by a UK public body to shape research-and-statistics engagement guidance
+    note: 'UK Statistics Authority''s Centre for Applied Data Ethics blog — primary external source for the report''s lead authorship by Reema Patel (then Associate Director, Engagement, at the Ada Lovelace Institute) and for the framework''s adoption by a UK public body to shape research-and-statistics engagement guidance'
   - url: https://thelivinglib.org/participatory-data-stewardship/
     last_checked: 2026-05-12
-    note: The Living Library entry on the report — primary external source for the framework's anchoring in Sherry Arnstein's "ladder of citizen participation" and for the "over 100 case studies" methodology
+    note: 'The Living Library entry on the report — primary external source for the framework''s anchoring in Sherry Arnstein''s "ladder of citizen participation" and for the "over 100 case studies" methodology'
   - url: https://communityscience.astc.org/resources/participatory-data-stewardship-a-framework-for-involving-people-in-the-use-of-data/
     last_checked: 2026-05-12
-    note: Community Science Initiative entry — primary external source for the framework's five named tiers (inform, consult, involve, collaborate, empower) along an IAP2-style spectrum of public influence
+    note: 'Community Science Initiative entry — primary external source for the framework''s five named tiers (inform, consult, involve, collaborate, empower) along an IAP2-style spectrum of public influence'
   - url: https://ictlogy.net/works/reports/projects.php?idp=5828
     last_checked: 2026-05-12
-    note: ICTlogy bibliography entry — formal citation as Patel, R. (2021) "Participatory data stewardship: A framework for involving people in the use of data", Ada Lovelace Institute, London
+    note: 'ICTlogy bibliography entry — formal citation as Patel, R. (2021) "Participatory data stewardship: A framework for involving people in the use of data", Ada Lovelace Institute, London'
   - url: https://digitalgood.net/research/participatory-and-inclusive-data-stewardship/
     last_checked: 2026-05-12
-    note: ESRC Digital Good Network research page — records that the 2024–25 "Participatory and inclusive data stewardship" landscape review (co-produced with the Ada Lovelace Institute and the Liverpool City Region Civic Data Cooperative) explicitly builds on the 2021 report
+    note: 'ESRC Digital Good Network research page — records that the 2024–25 "Participatory and inclusive data stewardship" landscape review (co-produced with the Ada Lovelace Institute and the Liverpool City Region Civic Data Cooperative) explicitly builds on the 2021 report'
   - url: https://www.reemapatel.org/
     last_checked: 2026-05-12
-    note: Reema Patel's personal site — primary disclosure that she co-founded the Ada Lovelace Institute's public-engagement work and lists Participatory Data Stewardship among her authored Ada Lovelace reports
+    note: 'Reema Patel''s personal site — primary disclosure that she co-founded the Ada Lovelace Institute''s public-engagement work and lists Participatory Data Stewardship among her authored Ada Lovelace reports'
 ---
 
 # Participatory data stewardship
