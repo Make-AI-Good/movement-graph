@@ -6,12 +6,13 @@ status: active
 confidence: high
 tags: [southeast-asia, indonesia, bali, denpasar, ngo, non-profit, civil-society, digital-rights, freedom-of-expression, internet-access, internet-shutdowns, digital-security, content-moderation, platform-accountability, online-gender-based-violence, technology-facilitated-gender-based-violence, ite-law, election-monitoring, ai-and-human-rights, deepfakes, holistic-security, keepiton-coalition, gni-member, apc-collaborator]
 created: 2026-05-18
-last_updated: 2026-05-18
+last_updated: 2026-05-19
 founded: 2013
 location: Denpasar, Bali, Indonesia
 website: https://safenet.or.id/
 strategies: []
-key_people: []
+key_people:
+  - person-damar-juniarto
 board_and_advisors: []
 related_orgs:
   - org-engagemedia
