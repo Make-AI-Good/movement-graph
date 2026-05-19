@@ -16,19 +16,19 @@ publication_type: essay
 sources:
   - url: https://firstmonday.org/ojs/index.php/fm/article/view/13636
     last_checked: 2026-05-15
-    note: First Monday open-access publication page — primary source for the full title "The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence", the Volume 29 Issue 4 April 2024 publication, the DOI 10.5210/fm.v29i4.13636, the Gebru / Émile P. Torres co-authorship, and the paper's abstract framing that "unlike systems with specific applications which can be evaluated following standard engineering principles, undefined systems like 'AGI' cannot be appropriately tested for safety"
+    note: 'First Monday open-access publication page — primary source for the full title "The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence", the Volume 29 Issue 4 April 2024 publication, the DOI 10.5210/fm.v29i4.13636, the Gebru / Émile P. Torres co-authorship, and the paper''s abstract framing that "unlike systems with specific applications which can be evaluated following standard engineering principles, undefined systems like ''AGI'' cannot be appropriately tested for safety"'
   - url: https://doi.org/10.5210/fm.v29i4.13636
     last_checked: 2026-05-15
-    note: DOI resolver for the paper — primary persistent identifier for the article, resolves to the First Monday landing page
+    note: 'DOI resolver for the paper — primary persistent identifier for the article, resolves to the First Monday landing page'
   - url: https://en.wikipedia.org/wiki/TESCREAL
     last_checked: 2026-05-15
-    note: Wikipedia article on the TESCREAL acronym — independent secondary source for the seven-ideology breakdown (Transhumanism, Extropianism, Singularitarianism, modern Cosmism, Rationalism, Effective Altruism, Longtermism), the 2023 first-draft circulation of the term prior to the April 2024 First Monday publication, the named figures whose AGI-discourse the paper engages (Sam Altman, Elon Musk, Peter Thiel, Marc Andreessen, Nick Bostrom, Eliezer Yudkowsky), and the term's continuing role in public-policy and grassroots-organising vocabulary around AI safety and AI-good discourse
+    note: 'Wikipedia article on the TESCREAL acronym — independent secondary source for the seven-ideology breakdown (Transhumanism, Extropianism, Singularitarianism, modern Cosmism, Rationalism, Effective Altruism, Longtermism), the 2023 first-draft circulation of the term prior to the April 2024 First Monday publication, the named figures whose AGI-discourse the paper engages (Sam Altman, Elon Musk, Peter Thiel, Marc Andreessen, Nick Bostrom, Eliezer Yudkowsky), and the term''s continuing role in public-policy and grassroots-organising vocabulary around AI safety and AI-good discourse'
   - url: https://en.wikipedia.org/wiki/Timnit_Gebru
     last_checked: 2026-05-15
-    note: Wikipedia biographical article on Timnit Gebru — secondary source corroborating her co-authorship of the TESCREAL paper and the paper's place in her broader public-output record, already cited in person-timnit-gebru and voice-timnit-gebru
+    note: 'Wikipedia biographical article on Timnit Gebru — secondary source corroborating her co-authorship of the TESCREAL paper and the paper''s place in her broader public-output record, already cited in person-timnit-gebru and voice-timnit-gebru'
   - url: https://www.dair-institute.org/team/
     last_checked: 2026-05-15
-    note: DAIR team page — primary source for Gebru's Founder and Executive Director title at the Distributed AI Research Institute, the institutional anchor through which the paper's contribution carries into the corpus's algorithmic-accountability slice, already cited in person-timnit-gebru, voice-timnit-gebru, and org-dair-institute
+    note: 'DAIR team page — primary source for Gebru''s Founder and Executive Director title at the Distributed AI Research Institute, the institutional anchor through which the paper''s contribution carries into the corpus''s algorithmic-accountability slice, already cited in person-timnit-gebru, voice-timnit-gebru, and org-dair-institute'
 ---
 
 # The TESCREAL bundle
