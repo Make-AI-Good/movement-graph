@@ -6,7 +6,8 @@ status: active
 confidence: high
 tags: [uk, london, england-and-wales, university-of-cambridge, politics-and-psychology, civil-liberties, digital-rights, privacy, surveillance, mass-surveillance, biometric-surveillance, facial-recognition, live-facial-recognition, predictive-policing, police-ai, parliamentary-engagement, strategic-litigation, grassroots-campaigning, public-campaigns, investigative-research, ai-and-human-rights, information-security, journalism-and-security, cryptoparty, snowden-defence, coded-bias, director]
 created: 2026-05-14
-last_updated: 2026-05-18
+last_updated: 2026-05-19
+voice_entry: voice-silkie-carlo
 affiliations:
   - org: org-big-brother-watch
     role: Director
