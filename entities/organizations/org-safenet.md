@@ -1,0 +1,113 @@
+---
+id: org-safenet
+type: organization
+name: SAFEnet (Southeast Asia Freedom of Expression Network)
+status: active
+confidence: high
+tags: [southeast-asia, indonesia, bali, denpasar, ngo, non-profit, civil-society, digital-rights, freedom-of-expression, internet-access, internet-shutdowns, digital-security, content-moderation, platform-accountability, online-gender-based-violence, technology-facilitated-gender-based-violence, ite-law, election-monitoring, ai-and-human-rights, deepfakes, holistic-security, keepiton-coalition, gni-member, apc-collaborator]
+created: 2026-05-18
+last_updated: 2026-05-18
+founded: 2013
+location: Denpasar, Bali, Indonesia
+website: https://safenet.or.id/
+strategies: []
+key_people: []
+board_and_advisors: []
+related_orgs:
+  - org-engagemedia
+  - org-foundation-for-media-alternatives
+  - org-apc
+funders:
+  - fund-luminate
+sources:
+  - url: https://safenet.or.id/about-us/
+    last_checked: 2026-05-18
+    note: SAFEnet's own About Us page — primary source for the 27 June 2013 founding, the Denpasar / Bali location, the January 2019 legal registration as Perkumpulan Pembela Kebebasan Asia Tenggara (Southeast Asian Freedom Defenders Association), the four-pillar programmatic structure (policy advocacy / victim support / capacity building / solidarity), the three programme categories (Internet Access, Freedom of Expression, Digital Security), the holistic security training since 2019, and the 40-members-across-20+-Indonesian-cities membership figure
+  - url: https://globalnetworkinitiative.org/gni-welcomes-new-members-safenet-and-internetbolivia-org-foundation/
+    last_checked: 2026-05-18
+    note: Global Network Initiative welcome statement on SAFEnet's accession — primary source for the 27 January 2025 GNI membership date, the Executive Director Nenden Sekar Arum quote ("We hope that by joining GNI, we can enhance our power in influencing policies and digital platforms accountability to ensure a free, safe, and inclusive digital space"), and SAFEnet's framing as an Indonesia-based digital rights organisation established in 2013 during a period of increasing criminalisation of online speech across Southeast Asia
+  - url: https://globalnetworkinitiative.org/member/safenet/
+    last_checked: 2026-05-18
+    note: GNI member-roster profile of SAFEnet — independent secondary source corroborating the 2013 founding, the January 2025 GNI accession, the four-pillar programme structure (policy advocacy, victim support, solidarity work, civil-society capacity building), and the 40-members-across-20+-Indonesian-cities figure
+  - url: https://restofworld.org/profile/damar-juniarto/
+    last_checked: 2026-05-18
+    note: Rest of World profile of Damar Juniarto — primary source for his role as founder and Executive Director of SAFEnet since 2013, his prior advertising-industry career (Leo Burnett, McCann), and his inclusion on the RoW100 Global Tech Changemakers list in 2022
+  - url: https://ooni.org/partners/safenet/
+    last_checked: 2026-05-18
+    note: Open Observatory of Network Interference partner profile of SAFEnet — primary source for the annual Digital Rights Situation Report publication line (Bahasa Indonesia and English) and quarterly reports, the 2019 partnership with the Alliance of Independent Journalists and Press Legal Aid Institute on the Papua internet-shutdown lawsuit, and the court ruling that "the termination of internet access was an unlawful act"
+  - url: https://safenet.or.id/2020/06/we-won-the-case/
+    last_checked: 2026-05-18
+    note: SAFEnet's own announcement of the Papua internet-shutdown court victory — primary source for the 3 June 2020 Jakarta State Administrative Court (PTUN) ruling against the Minister of Communication and Information and the President of Indonesia, the November 2019 filing date, the unlawful-act finding, and the co-plaintiff role of AJI Indonesia
+  - url: https://safenet.or.id/2020/06/jakarta-ptun-declares-termination-of-internet-access-in-papua-and-west-papua-violates-the-law/
+    last_checked: 2026-05-18
+    note: SAFEnet's English-language press release on the Papua PTUN ruling — primary source for the August-September 2019 shutdown timeline (29 cities/districts in Papua and 13 in West Papua), the throttling that began 19 August 2019, and the structural framing of the ruling as a binding judicial finding against arbitrary internet shutdowns in Indonesia
+  - url: https://www.accessnow.org/press-release/court-rules-the-internet-shutdowns-in-papua-and-west-papua-are-illegal/
+    last_checked: 2026-05-18
+    note: Access Now press release on the 3 June 2020 Papua ruling — independent secondary source corroborating the court decision, the SAFEnet and AJI co-plaintiff role, and the #KeepItOn coalition's welcome of the ruling as a regional precedent against state-imposed internet shutdowns
+  - url: https://safenet.or.id/2025/03/indonesias-digital-rights-situation-report-2024-shows-the-legacy-of-repression-on-the-internet/
+    last_checked: 2026-05-18
+    note: SAFEnet's announcement of the *Indonesia Digital Rights Situation Report 2024 — Passing the Baton of Digital Repression* — primary source for the 15 February 2025 Jakarta launch at Taman Ismail Marzuki, the report's four monitored areas (internet access, freedom of expression, digital security, equality and inclusion / online gender-based violence), the documentation of the 2024 presidential and regional elections, the #PeringatanDarurat August 2024 protest cycle, and the framing of digital repression as continuous across the Joko Widodo / Prabowo Subianto transition
+  - url: https://advox.globalvoices.org/2025/11/15/five-years-of-fighting-the-state-of-digital-violence-against-female-journalists-and-activists-in-indonesia/
+    last_checked: 2026-05-18
+    note: Global Voices Advox November 2025 feature on digital violence against female journalists and activists in Indonesia — independent secondary source naming Nenden Sekar Arum as SAFEnet's Executive Director, her observations on platform moderation rollbacks at Meta and Twitter emboldening online harassment, her framing of global tech companies "washing their hands" of responsibility by outsourcing safety work to civil-society organisations, and SAFEnet's documentation of doxing, photo manipulation, online surveillance, and account hacking as TFGBV vectors
+  - url: https://safenet.or.id/2014/09/how-indonesias-problematic-internet-law-will-impede-freedom-of-expression/
+    last_checked: 2026-05-18
+    note: SAFEnet's September 2014 analysis of Indonesia's Law No. 11 of 2008 on Information and Electronic Transactions (UU ITE) — primary source for SAFEnet's founding policy register, anchoring the original 2013 organisational rationale as a response to the ITE Law's criminalisation of online expression
+  - url: https://safenet.or.id/2024/07/analysis-of-digital-rights-violations-in-the-national-police-bill/
+    last_checked: 2026-05-18
+    note: SAFEnet's July 2024 analysis of digital rights violations in Indonesia's National Police Bill — primary source for SAFEnet's contemporary policy-advocacy register on state surveillance powers, communications interception, and police-data access provisions
+  - url: https://www.luminategroup.com/investee/safenet
+    last_checked: 2026-05-18
+    note: Luminate's own investee profile of SAFEnet — primary source for Luminate's two named grants to SAFEnet (the 2021 $199,900 grant supporting digital-rights-violation monitoring and digital-security awareness in Indonesia, and the 2023 $300,000 general-funding grant supporting digital-rights and freedom-of-expression programmatic work) and for Luminate's positioning of SAFEnet within its Data & Digital Rights impact-area portfolio
+  - url: https://www.article19.org/resources/activist-interview-damar-juniarto-of-safenet-indonesia/
+    last_checked: 2026-05-18
+    note: ARTICLE 19 interview with Damar Juniarto — independent secondary source corroborating Juniarto's role as SAFEnet founder, the 2013 establishment of the organisation in response to ITE-Law-era criminalisation of online expression, and SAFEnet's posture as a digital-rights monitoring and advocacy network across Indonesia and the wider Southeast Asia
+---
+
+# SAFEnet (Southeast Asia Freedom of Expression Network)
+
+SAFEnet is the [Bali-headquartered Indonesian digital-rights organisation](https://safenet.or.id/about-us/) established on 27 June 2013 as a network of digital-rights defenders across Southeast Asia and now operating as the country's principal civil-society anchor on internet access, freedom of expression, digital security, and online gender-based violence. The organisation was [legally registered in January 2019](https://safenet.or.id/about-us/) as Perkumpulan Pembela Kebebasan Asia Tenggara (Southeast Asian Freedom Defenders Association), with a membership of [40 members across more than 20 Indonesian cities](https://globalnetworkinitiative.org/member/safenet/) and networked partnerships with civil-society organisations across Southeast Asia and internationally.
+
+## Founding and structure
+
+SAFEnet was [founded in 2013](https://restofworld.org/profile/damar-juniarto/) by Damar Juniarto, who transitioned from a career as a copywriter at international advertising agencies including Leo Burnett and McCann into full-time digital-rights work after observing the criminalising effect on online expression of [Indonesia's Law No. 11 of 2008 on Information and Electronic Transactions (UU ITE)](https://safenet.or.id/2014/09/how-indonesias-problematic-internet-law-will-impede-freedom-of-expression/). The ITE Law's broad defamation and "feeling offended" provisions had begun to produce a steady stream of prosecutions of journalists, activists, and ordinary netizens for online speech, and SAFEnet's original organisational rationale was to document those prosecutions, support the victims, and advocate for the law's reform. Juniarto served as Executive Director from the founding through 2023 and was named to Rest of World's [2022 RoW100 Global Tech Changemakers list](https://restofworld.org/profile/damar-juniarto/) for his work building SAFEnet into the principal Indonesian civil-society monitor of digital-rights violations.
+
+Current Executive Director Nenden Sekar Arum took up the role in 2023, having previously served as Head of SAFEnet's Freedom of Expression Division, and she [represented the organisation in its January 2025 accession to the Global Network Initiative](https://globalnetworkinitiative.org/gni-welcomes-new-members-safenet-and-internetbolivia-org-foundation/) with the framing that GNI membership would "enhance our power in influencing policies and digital platforms accountability to ensure a free, safe, and inclusive digital space". The organisation's membership composition — [journalists, bloggers, housewives, LGBTQ people, private-sector workers, and digital-security experts](https://safenet.or.id/about-us/) distributed across the Indonesian archipelago — is structurally distinctive among regional digital-rights anchors in carrying a deliberately broad civil-society constituency rather than a narrow technologist or journalist base.
+
+## Programme structure
+
+SAFEnet's work is organised around [three programme categories — Internet Access, Freedom of Expression, and Digital Security](https://safenet.or.id/about-us/) — with a cross-cutting equality-and-inclusion register that surfaces most visibly in the monitoring of online gender-based violence and technology-facilitated gender-based violence. Each of the three programmes operates simultaneously as a documentation, victim-support, capacity-building, and policy-advocacy line.
+
+The Freedom of Expression programme is the original SAFEnet line, anchored on ITE-Law monitoring, the prosecution-tracking of journalists and activists charged under the law's defamation and electronic-information provisions, and structural advocacy for the law's reform.
+
+The Internet Access programme monitors deliberate state interference with connectivity — the suite of slowdowns, throttling, blocking, and full shutdowns that successive Indonesian administrations have deployed during periods of unrest — and is anchored on SAFEnet's signature litigation work on the 2019 Papua and West Papua internet shutdowns described below.
+
+The Digital Security programme runs SAFEnet's [holistic security training programme, established in 2019](https://safenet.or.id/about-us/), combining physical, psychosocial, and digital security training for vulnerable groups — human-rights defenders, journalists, women activists, and LGBTQ-community organisers in Indonesia and across Southeast Asia — into a single resilience-building offering. This holistic framing places SAFEnet inside the small set of regional civil-society organisations operationalising the post-2018 international consensus that digital security cannot be cleanly separated from physical and psychosocial safety for at-risk users.
+
+## Papua internet shutdown lawsuit
+
+SAFEnet's signature advocacy artefact is its successful court challenge against the August-September 2019 Papua and West Papua internet shutdowns. When the government [throttled internet access across the region from 19 August 2019 and then terminated access in 29 cities and districts in Papua and 13 in West Papua between 21 August and 9 September 2019](https://safenet.or.id/2020/06/jakarta-ptun-declares-termination-of-internet-access-in-papua-and-west-papua-violates-the-law/), SAFEnet — together with the Alliance of Independent Journalists (AJI) Indonesia and lawyers from LBH Pers, YLBHI, KontraS, Elsam, and ICJR — [filed suit in November 2019 at the Jakarta State Administrative Court (PTUN)](https://safenet.or.id/2020/06/we-won-the-case/) against the Minister of Communication and Information and the President of Indonesia.
+
+On [3 June 2020 the Jakarta PTUN declared the shutdowns an unlawful act by government bodies and officials](https://safenet.or.id/2020/06/we-won-the-case/), with the court rejecting the government's invocation of Article 40 of the ITE Law as authority for total connectivity termination. The [Access Now press release on the ruling](https://www.accessnow.org/press-release/court-rules-the-internet-shutdowns-in-papua-and-west-papua-are-illegal/) framed the decision as a #KeepItOn-coalition precedent, naming the shutdowns as a tool "used to silence the protests happening in the region and obscure transparency on arrests and alleged violence targeting protestors" — language that has carried forward in the international internet-shutdown-litigation register and that the [Open Observatory of Network Interference](https://ooni.org/partners/safenet/) records as the organisation's most consequential judicial outcome to date.
+
+## Digital Rights Situation Reports
+
+SAFEnet publishes the [annual *Digital Rights Situation Report of Indonesia*](https://ooni.org/partners/safenet/) in Bahasa Indonesia and English, supplemented by quarterly reports, and the series is the corpus's most sustained civil-society documentation line on the state of Indonesian digital rights. The 2024 edition, [*Indonesia Digital Rights Situation Report 2024 — Passing the Baton of Digital Repression*, launched at Taman Ismail Marzuki, Jakarta on 15 February 2025](https://safenet.or.id/2025/03/indonesias-digital-rights-situation-report-2024-shows-the-legacy-of-repression-on-the-internet/), monitored digital-rights violations across the 2024 presidential and regional elections and the political transition from Joko Widodo to Prabowo Subianto, including the #PeringatanDarurat protest cycle in August 2024 when students, academics, and civil-society activists faced police repression, device confiscation, and coordinated digital intimidation after demonstrating against the House of Representatives' move to overturn the Constitutional Court's regional-election ruling. The report frames digital repression as continuous across regime change — a finding that mirrors at the country-monitoring level the diagnosis the [Internet Freedom Foundation](../organizations/org-internet-freedom-foundation.md) has applied to India through its own annual digital-rights monitoring work.
+
+## AI, content moderation, and platform accountability
+
+SAFEnet's AI-and-human-rights register surfaces principally through its content-moderation and platform-accountability work and through its 2024-cycle election monitoring. Executive Director Nenden Sekar Arum has [argued publicly](https://advox.globalvoices.org/2025/11/15/five-years-of-fighting-the-state-of-digital-violence-against-female-journalists-and-activists-in-indonesia/) that platform-moderation rollbacks at Meta and Twitter following political changes have emboldened online harassment globally, that "reporting mechanisms are slow and ineffective", and that global tech companies have moved to "wash their hands" of responsibility by outsourcing safety work to civil-society organisations like SAFEnet — a structural critique of the privatisation of platform safety that places SAFEnet alongside [7amleh](../organizations/org-7amleh.md), the [Foundation for Media Alternatives](../organizations/org-foundation-for-media-alternatives.md), and other regional anchors documenting the gap between platform-side moderation policy and lived experience in the Global South. The 2024 Digital Rights Situation Report's monitoring of the Indonesian general elections is the closest SAFEnet has come to a sustained civil-society documentation of generative-AI-and-deepfake influence in regional elections, capturing the cycle in which AI-generated and AI-reanimated political imagery — including a Golkar-party deepfake reanimation of Suharto — circulated alongside the broader digital-repression patterns SAFEnet was already tracking. Its [July 2024 analysis of digital-rights violations in Indonesia's National Police Bill](https://safenet.or.id/2024/07/analysis-of-digital-rights-violations-in-the-national-police-bill/) extends the same register into state-surveillance-capability advocacy, focusing on communications interception and police-data-access provisions that would expand the legal infrastructure for AI-enabled state surveillance.
+
+## Coalition role and regional convening
+
+SAFEnet sits inside the principal regional digital-rights coalition lineage in Southeast Asia. It [co-designed and co-hosted the Coconet Southeast Asia Digital Rights Camp series with EngageMedia, the Association for Progressive Communications, and the Southeast Asian Press Alliance](https://ooni.org/partners/safenet/), placing SAFEnet alongside [EngageMedia](../organizations/org-engagemedia.md) as a co-anchor of the camp lineage that runs from Coconet I (Yogyakarta 2017) through Coconet II (2019) and into the Digital Rights Asia-Pacific Assembly (DRAPAC) series that the Coconet community grew into. The [Foundation for Media Alternatives](../organizations/org-foundation-for-media-alternatives.md) records SAFEnet's role at the DRAPAC 2025 Kuala Lumpur edition as a regional collaborator in the [gendered-digital-surveillance session](https://fma.ph/on-govt-data-breach-ai-divide-and-gendered-digital-surveillance-the-fma-digital-rights-round-up-september-1-to-30/), confirming the consolidated three-way Indonesian-Philippine-Australian Southeast-Asian-digital-rights anchor that the corpus now carries.
+
+SAFEnet is a member of the [#KeepItOn coalition](https://www.accessnow.org/press-release/court-rules-the-internet-shutdowns-in-papua-and-west-papua-are-illegal/) — the international civil-society coalition Access Now convenes against internet shutdowns — and [joined the Global Network Initiative on 27 January 2025](https://globalnetworkinitiative.org/gni-welcomes-new-members-safenet-and-internetbolivia-org-foundation/), placing it inside the principal multistakeholder body convening tech companies, civil-society organisations, academics, and investors on freedom-of-expression and privacy standards. Although SAFEnet is not a formal member of the [Association for Progressive Communications](../organizations/org-apc.md) network, it has co-submitted to the United Nations Universal Periodic Review process with APC and EngageMedia on Indonesia, and is a recurring civil-society partner in APC-convened regional digital-rights work.
+
+## Funding
+
+SAFEnet is funded principally by [Luminate](../funders/fund-luminate.md), which the funder's own investee profile records as making [two named grants to the organisation — a 2021 grant of $199,900 to support digital-rights-violation monitoring and digital-rights-and-digital-security awareness in Indonesia, and a 2023 general-funding grant of $300,000 to support programmatic work on digital rights and freedom of expression and to strengthen the organisation](https://www.luminategroup.com/investee/safenet) — positioning SAFEnet inside Luminate's Data & Digital Rights impact-area portfolio.
+
+## Posture in the movement
+
+SAFEnet's distinctive contribution to the make-AI-good movement is its work as the principal Indonesian civil-society monitoring and advocacy anchor on internet access, freedom of expression, digital security, and online gender-based violence — the country-level workhorse of the regional digital-rights ecosystem and the structural counterpart to the [Foundation for Media Alternatives](../organizations/org-foundation-for-media-alternatives.md) in the Philippines and the regional-anchor role that [EngageMedia](../organizations/org-engagemedia.md) plays from Melbourne across the wider Asia-Pacific. Its successful Papua internet-shutdown litigation is the corpus's most consequential single piece of Southeast-Asian internet-rights jurisprudence; its annual *Digital Rights Situation Report* is the most sustained civil-society documentation line on a Southeast-Asian country; and its membership composition — journalists, bloggers, housewives, LGBTQ-community organisers, private-sector workers, and digital-security experts spread across more than twenty Indonesian cities — gives the organisation a deliberately broad civil-society base rather than the specialist-technologist constituency typical of the genre. In the corpus's terms SAFEnet is the load-bearing Indonesian digital-rights organisational anchor, the Southeast-Asian counterpart to the [Internet Freedom Foundation](../organizations/org-internet-freedom-foundation.md) on the South-Asian side, and the first Indonesia-headquartered entity entry whose primary register is litigation-and-monitoring digital-rights advocacy rather than the video-and-research register that [EngageMedia](../organizations/org-engagemedia.md) supplies for the wider Asia-Pacific.

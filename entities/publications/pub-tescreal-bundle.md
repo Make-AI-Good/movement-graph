@@ -1,0 +1,42 @@
+---
+id: pub-tescreal-bundle
+type: publication
+name: "The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence"
+status: active
+confidence: high
+tags: [paper, peer-reviewed, open-access, first-monday, essay, april-2024, tescreal, agi-critique, ai-utopianism-critique, eugenics-critique, longtermism-critique, transhumanism-critique, effective-altruism-critique, ideology-critique, ai-safety-critique, ai-hype, dair, gebru-torres, foundational-artefact]
+created: 2026-05-15
+last_updated: 2026-05-15
+authors:
+  - person-timnit-gebru
+publisher: First Monday
+date: 2024-04
+url: https://firstmonday.org/ojs/index.php/fm/article/view/13636
+publication_type: essay
+sources:
+  - url: https://firstmonday.org/ojs/index.php/fm/article/view/13636
+    last_checked: 2026-05-15
+    note: First Monday open-access publication page — primary source for the full title "The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence", the Volume 29 Issue 4 April 2024 publication, the DOI 10.5210/fm.v29i4.13636, the Gebru / Émile P. Torres co-authorship, and the paper's abstract framing that "unlike systems with specific applications which can be evaluated following standard engineering principles, undefined systems like 'AGI' cannot be appropriately tested for safety"
+  - url: https://doi.org/10.5210/fm.v29i4.13636
+    last_checked: 2026-05-15
+    note: DOI resolver for the paper — primary persistent identifier for the article, resolves to the First Monday landing page
+  - url: https://en.wikipedia.org/wiki/TESCREAL
+    last_checked: 2026-05-15
+    note: Wikipedia article on the TESCREAL acronym — independent secondary source for the seven-ideology breakdown (Transhumanism, Extropianism, Singularitarianism, modern Cosmism, Rationalism, Effective Altruism, Longtermism), the 2023 first-draft circulation of the term prior to the April 2024 First Monday publication, the named figures whose AGI-discourse the paper engages (Sam Altman, Elon Musk, Peter Thiel, Marc Andreessen, Nick Bostrom, Eliezer Yudkowsky), and the term's continuing role in public-policy and grassroots-organising vocabulary around AI safety and AI-good discourse
+  - url: https://en.wikipedia.org/wiki/Timnit_Gebru
+    last_checked: 2026-05-15
+    note: Wikipedia biographical article on Timnit Gebru — secondary source corroborating her co-authorship of the TESCREAL paper and the paper's place in her broader public-output record, already cited in person-timnit-gebru and voice-timnit-gebru
+  - url: https://www.dair-institute.org/team/
+    last_checked: 2026-05-15
+    note: DAIR team page — primary source for Gebru's Founder and Executive Director title at the Distributed AI Research Institute, the institutional anchor through which the paper's contribution carries into the corpus's algorithmic-accountability slice, already cited in person-timnit-gebru, voice-timnit-gebru, and org-dair-institute
+---
+
+# The TESCREAL bundle
+
+*The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence* is a [peer-reviewed open-access essay](https://firstmonday.org/ojs/index.php/fm/article/view/13636) by [Timnit Gebru](../persons/person-timnit-gebru.md) — [founder and Executive Director](https://www.dair-institute.org/team/) of the [Distributed AI Research Institute](../organizations/org-dair-institute.md) — and Émile P. Torres, philosopher and intellectual historian working on existential-risk studies and longtermism critique. The essay was [published in Volume 29 Issue 4 of *First Monday* in April 2024](https://firstmonday.org/ojs/index.php/fm/article/view/13636) under [DOI 10.5210/fm.v29i4.13636](https://doi.org/10.5210/fm.v29i4.13636). It introduces the term "TESCREAL" — a portmanteau the authors had [first proposed in draft work circulated in 2023](https://en.wikipedia.org/wiki/TESCREAL) — and develops it as a single name for what the paper argues is a connected family of overlapping ideologies whose shared historical origins run through twentieth-century Anglo-American eugenics and whose contemporary practical effect is to motivate the AGI-utopian working programme of much of the commercial AI research industry.
+
+The acronym names [seven interconnected and overlapping ideologies — Transhumanism, Extropianism, Singularitarianism, modern Cosmism, Rationalism (the online rationalist community organised around LessWrong), Effective Altruism, and Longtermism](https://en.wikipedia.org/wiki/TESCREAL) — and the paper's central claim is that this "bundle" carries a shared working logic into the contemporary AGI-development project: the proposition that an undefined "artificial general intelligence" can and should be built, that its development can be steered to be "safe AGI" or "beneficial for all of humanity", and that the threat of human extinction at the hands of insufficiently controlled AGI is the load-bearing justification for both the commercial AI build-out and the AI-safety field whose working programme runs alongside it. The paper's [own framing](https://firstmonday.org/ojs/index.php/fm/article/view/13636) — that "unlike systems with specific applications which can be evaluated following standard engineering principles, undefined systems like 'AGI' cannot be appropriately tested for safety" — is the academic-foundational counterpart to [DAIR](../organizations/org-dair-institute.md)'s broader public-facing posture that the AGI discourse is built on a category mistake about what AI systems are and what they can be made to do, and that the AGI-utopian / AGI-extinction-risk frame is producing rather than mitigating the harms that grassroots organising on AI-and-society work is engaging.
+
+"TESCREAL" became the most propagated single piece of critique-of-AGI-utopianism vocabulary in the two years that followed the paper's publication. The term [carries through public-policy and grassroots-organising debate](https://en.wikipedia.org/wiki/TESCREAL) as a working shorthand for the ideological framework the paper identifies as motivating the AGI-development programmes of figures including Sam Altman, Elon Musk, Peter Thiel, Marc Andreessen, Nick Bostrom, and Eliezer Yudkowsky; named adherents and named critics alike now use the acronym as the shorthand for the debate it organises. The paper's reception has been contested — named-adherent commentators argue the acronym groups disparate philosophies inappropriately — but its load-bearing function in grassroots-organising vocabulary on AI safety and AI-good discourse is that it gives the make-AI-good movement a single named target for the AGI-extinction-risk framework the movement otherwise has to engage piecemeal across the AGI-utopian, longtermist, and effective-altruist threads.
+
+Within the corpus, *The TESCREAL bundle* is the third of [Timnit Gebru](../persons/person-timnit-gebru.md)'s three foundational publication-side artefacts and the second of [DAIR](../organizations/org-dair-institute.md)'s anchored publications. Where [*Gender Shades*](pub-gender-shades.md) (2018, with [Joy Buolamwini](../persons/person-joy-buolamwini.md)) seeded the algorithmic-accountability field through empirical facial-recognition audit, and [*On the Dangers of Stochastic Parrots*](pub-stochastic-parrots.md) (2021, with Emily M. Bender, Angelina McMillan-Major, and Margaret Mitchell) set out the four-risk LLM-critique vocabulary the make-AI-good movement carries forward, *The TESCREAL bundle* opens the critique-of-AGI-utopianism register that the corpus's other AI-safety publication-side anchor — [ControlAI](../organizations/org-controlai.md)'s [*A Narrow Path*](pub-narrow-path.md) — occupies from the opposite direction. *A Narrow Path* takes the AGI-extinction-risk premise as load-bearing and builds a compute-threshold licensing regime around preventing the development of artificial superintelligence until the science of controllable transformative AI has been laid down; *The TESCREAL bundle* takes the same premise and argues that the working ideological framework producing it should itself be the object of critique. The two publications together compose the corpus's clearest single pair of opposing-register artefacts on the AGI-discourse axis — both written in the long-form civil-society policy-and-research register, both anchored in named civil-society research infrastructure, and both addressed at the same broad public-policy audience but from structurally opposing premises about what the AGI conversation is for.

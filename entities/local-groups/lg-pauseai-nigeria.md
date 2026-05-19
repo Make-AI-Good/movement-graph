@@ -1,0 +1,54 @@
+---
+id: lg-pauseai-nigeria
+type: local-group
+name: PauseAI Nigeria
+status: active
+confidence: medium
+tags: [nigeria, west-africa, sub-saharan-africa, africa, pauseai-chapter, ai-safety, pause, frontier-ai, volunteer-led, whatsapp, launch-phase]
+created: 2026-05-17
+last_updated: 2026-05-17
+founded: 2025
+location: Nigeria (national chapter; no publicly-documented city anchor at draft time — chapter's federation-listed channel is a WhatsApp group rather than a website)
+parent_org: org-pauseai
+website_or_contact: https://chat.whatsapp.com/L4o2IiOX1HI2GWQi0J9ZJv
+key_people: []
+sources:
+  - url: https://pauseai.info/communities
+    last_checked: 2026-05-17
+    note: PauseAI Global's communities directory — lists Nigeria among the national PauseAI chapters alongside Australia, Canada, Czechia, France, Germany, Italy, Kenya, Netherlands, Poland, Romania, Serbia, Spain, Sweden, the UK, and the US; routes supporters to the chapter via a WhatsApp invite link (the WhatsApp group is itself named "PauseAI Nigeria") rather than a dedicated chapter website — distinct from the directory's other listings that carry their own chapter sites and shared with the corpus's existing PauseAI Kenya chapter as the federation's only two chapters routed via a single social-channel link instead of a dedicated site
+  - url: https://pauseai.info/about
+    last_checked: 2026-05-17
+    note: PauseAI Global's About page — names Khadija Sabiu as the PauseAI Nigeria national-chapter lead alongside the federation's other national-chapter leads in the US (Holly Elmore), UK (Joseph Miller), France (Clémence Peyrot), Germany (Benjamin Schmidt), Spain (Ayoze García González), Italy (Giulia Consonni), Sweden (Carl), Czechia (Matěj Jaroš), Romania (Raluca Spataru), Kenya (Seth Momanyi Ouko), Serbia (Svetozar Jankovic), Canada (Jeremy Eliosoff), and Australia (Michael Huang and Peter Horniak)
+  - url: https://chat.whatsapp.com/L4o2IiOX1HI2GWQi0J9ZJv
+    last_checked: 2026-05-17
+    note: PauseAI Nigeria's WhatsApp group invite — group is named "PauseAI Nigeria"; this WhatsApp invite is the chapter's only public-facing channel referenced from PauseAI Global's communities directory at draft time
+  - url: https://pauseai.substack.com/p/we-screened-an-ai-safety-documentary
+    last_checked: 2026-05-17
+    note: PauseAI Global's 12 November 2025 newsletter "We screened an AI safety documentary in Parliament" — under a "New National Chapters" section, states that "volunteers are in the process of launching additional chapters in the Philippines and Nigeria" alongside reports of recent chapter formations in Canada, Serbia, Romania, and India; primary public-facing source for the Nigeria chapter's launch-phase status at draft time
+  - url: https://pauseai.info/2025-february
+    last_checked: 2026-05-17
+    note: PauseAI Global's writeup of the 7-11 February 2025 international protest wave around the Paris AI Action Summit — Nigeria is NOT among the named participating cities in this writeup (the listed cities are Paris, New York, Victoria, London, Berlin, Brussels, Zürich, Prague, Milan, Stockholm, Copenhagen, Oslo, Kristiansand, Trondheim, Kinshasa, Brazzaville, N'Djaména, and Melbourne), corroborating the chapter's documented register as planning / launch rather than executed-protest at the time of this entry's draft
+  - url: https://pauseai.info/national-groups
+    last_checked: 2026-05-17
+    note: PauseAI Global's national-groups infrastructure page — describes the federation's national-group setup, responsibilities, and onboarding pathway; supports the chapter's national-chapter classification within the federation
+---
+
+# PauseAI Nigeria
+
+PauseAI Nigeria is the Nigerian national chapter of [PauseAI](../organizations/org-pauseai.md), the international AI-safety movement calling for a coordinated, treaty-backed pause on the training of the most powerful general-purpose AI systems. The chapter is the corpus's second PauseAI chapter on the African continent — sitting alongside the in-corpus [PauseAI Kenya](lg-pauseai-kenya.md) — and the corpus's first West-African PauseAI chapter, alongside the federation's other in-corpus chapters in [PauseAI Bay Area](lg-pauseai-bay-area.md), [PauseAI NYC](lg-pauseai-nyc.md), [PauseAI Canada](lg-pauseai-canada.md), [PauseAI London](lg-pauseai-london.md), [Pause IA (PauseAI France)](lg-pauseai-paris.md), [PauseAI Germany](lg-pauseai-germany.md), [PauseAI Utrecht / Netherlands](lg-pauseai-utrecht.md), and [PauseAI Australia](lg-pauseai-australia.md).
+
+## Leadership and structure
+
+PauseAI Nigeria is named on [PauseAI Global's About page](https://pauseai.info/about) under a single national-leader listing for **Khadija Sabiu**, alongside the federation's other national-chapter leads in the US ([Holly Elmore](../persons/person-holly-elmore.md)), UK (Joseph Miller), France (Clémence Peyrot following [Maxime Fournes](../persons/person-maxime-fournes.md)'s elevation to PauseAI Global CEO in late 2025), Germany (Benjamin Schmidt), Spain (Ayoze García González), Italy (Giulia Consonni), Sweden (Carl), Czechia (Matěj Jaroš), Romania (Raluca Spataru), Kenya (Seth Momanyi Ouko, leading the corpus's other in-corpus African PauseAI chapter at [PauseAI Kenya](lg-pauseai-kenya.md)), Serbia (Svetozar Jankovic), Canada (Jeremy Eliosoff), and Australia (Michael Huang and Peter Horniak). The chapter is volunteer-led, consistent with the federation's general pattern outside the three paid-staff chapters — PauseAI US, PauseAI UK, and Pause IA — recorded inside [org-pauseai](../organizations/org-pauseai.md).
+
+## Public-output footprint
+
+PauseAI Nigeria's documented public-output register at the time of this entry's draft runs through two threads — a federation-level chapter listing routed to a WhatsApp group, and a federation-level launch-phase status note. The chapter has no dedicated website, no documented city-level office anchor, and no executed-protest contributions on PauseAI Global's international protest cycle at draft time.
+
+- **PauseAI Global communities directory — WhatsApp-only listing.** PauseAI Nigeria appears on [PauseAI Global's communities directory](https://pauseai.info/communities) alongside the federation's other national chapters, but is routed via [a WhatsApp invite link to a group named "PauseAI Nigeria"](https://chat.whatsapp.com/L4o2IiOX1HI2GWQi0J9ZJv) rather than a dedicated chapter site — distinct from the in-corpus PauseAI Australia, PauseAI Canada, Pause IA, PauseAI Germany, PauseAI Utrecht / Netherlands, PauseAI London, PauseAI Bay Area, and PauseAI NYC chapters, all of which carry dedicated public-facing sites alongside their federation listing. PauseAI Nigeria shares this single-social-channel federation-listing pattern only with [PauseAI Kenya](lg-pauseai-kenya.md), which is similarly routed via an X (Twitter) account rather than a dedicated chapter site.
+- **Launch-phase status — November 2025 federation newsletter.** [PauseAI Global's 12 November 2025 newsletter](https://pauseai.substack.com/p/we-screened-an-ai-safety-documentary), under a "New National Chapters" section, [states verbatim](https://pauseai.substack.com/p/we-screened-an-ai-safety-documentary) that "volunteers are in the process of launching additional chapters in the Philippines and Nigeria," reporting the chapters' launch-phase status alongside the federation's then-recent chapter formations in Canada, Serbia, Romania, and India. This is the federation's only public-source pin on the Nigeria chapter's developmental status at draft time and locates the chapter at an earlier point in the chapter-development arc than PauseAI Kenya (whose [Manifund project page](https://manifund.org/projects/pause-ai-kenya-hub) documents a February 2025 chapter start, a 122-square-metre Nairobi office anchor, and stated translation / workshop / advocacy programmes).
+- **Absence from the February 2025 international protest writeup.** [PauseAI Global's writeup of the 7-11 February 2025 international protest wave](https://pauseai.info/2025-february) around the Paris AI Action Summit co-chaired by Emmanuel Macron and Narendra Modi names eighteen participating cities — Paris, New York, Victoria, London, Berlin, Brussels, Zürich, Prague, Milan, Stockholm, Copenhagen, Oslo, Kristiansand, Trondheim, Kinshasa, Brazzaville, N'Djaména, and Melbourne — and no Nigerian city is among them, consistent with the federation's later (November 2025) characterisation of the chapter as still in launch phase.
+
+## Place in the movement
+
+PauseAI Nigeria is the corpus's first Nigerian local group of any kind, the corpus's first West-African local group of any kind, and the corpus's second PauseAI chapter on the African continent (after [PauseAI Kenya](lg-pauseai-kenya.md)) — closing the federation cluster's previously East-Africa-only African footprint inside the corpus and giving the corpus its first West-African AI-safety / pause-movement anchor. The corpus's existing Nigeria-adjacent civil-society coverage runs through pan-African and continental-network anchors at [org-paradigm-initiative](../organizations/org-paradigm-initiative.md), [org-africa-tech-workers-movement](../organizations/org-africa-tech-workers-movement.md), [org-african-content-moderators-union](../organizations/org-african-content-moderators-union.md), [org-data-labellers-association](../organizations/org-data-labellers-association.md), and [org-techworker-community-africa](../organizations/org-techworker-community-africa.md), all of which are East-African-headquartered or pan-African in scope rather than West-African anchors. The chapter's distinctive contribution to the corpus's PauseAI shape is threefold. First, the chapter's West-African anchor closes the federation cluster's previously East-Africa-only African footprint inside the corpus and extends the corpus's AI-safety register to sub-Saharan Africa beyond Kenya. Second, the chapter's launch-phase status documented in the [12 November 2025 PauseAI Global newsletter](https://pauseai.substack.com/p/we-screened-an-ai-safety-documentary) gives the corpus its first PauseAI chapter whose dominant federation-source register is a "launching additional chapters" announcement rather than executed protests or grant-funded stated activities — locating the chapter at the earliest point on the chapter-development arc among the corpus's PauseAI chapters, even earlier than PauseAI Kenya's planning-and-fundraising register. Third, the chapter's single-channel public-facing footprint through a WhatsApp invite link rather than an X account, a dedicated website, or a grant project page gives the corpus its first PauseAI chapter whose only federation-listed public channel is a closed-group messaging app, structurally distinct from PauseAI Kenya's X-account anchor and from the federation's other in-corpus chapters' dedicated-website anchors.
