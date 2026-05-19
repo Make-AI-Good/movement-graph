@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [european-union, continental-europe, brussels, framing, slogan, coalition-launched, biometric-surveillance, facial-recognition, remote-biometric-identification, mass-surveillance, public-space, digital-rights, eu-ai-act, european-citizens-initiative, eci, reclaim-your-face, civil-society-coalition, edri, algorithmwatch, access-now, ban-biometric-surveillance, ban-bs, advocacy, prohibition]
 created: 2026-05-14
-last_updated: 2026-05-15
+last_updated: 2026-05-19
 origin: |
   The central public-facing framing of the [Reclaim Your Face](https://reclaimyourface.eu/) movement against biometric mass surveillance in European public space, launched in [October 2020](https://edri.org/our-work/reclaim-your-face-biometric-surveillance/) by an EDRi-coordinated coalition of twelve civil-society organisations (EDRi, AlgorithmWatch, Access Now, ARTICLE 19, Bits of Freedom, Privacy International, Homo Digitalis, Hermes Center, Panoptykon Foundation, IT-Pol Denmark, Liberties, La Quadrature du Net). The full verbatim slogan — "[Reclaim our public space. Ban biometric mass surveillance!](https://reclaimyourface.eu/)" — frames the substantive demand as the prohibition of the indiscriminate or arbitrarily-targeted processing of biometric data in publicly accessible spaces. The framing was registered as a [European Citizens' Initiative on 7 January 2021](https://reclaimyourface.eu/goodbye-eci-hello-ai-act-negotiations/), opened for signatures on 17 February 2021, gathered nearly 80,000 verified signatures over an 18-month collection window extended through 1 August 2022, and is credited by the coalition with putting "ban" and "remote biometric identification" into the [European Commission's April 2021 AI Act proposal](https://edri.org/our-work/civil-society-statement-eu-protect-peoples-rights-in-the-ai-act-trilogue-negotiations/) text. The framing was carried internationally by the [16 June 2021 Access Now-led 175+-organisation global call](https://edri.org/our-work/edri-joins-178-organisations-in-global-call-to-ban-biometric-surveillance/) (#BanBS), adopted as the central register of Big Brother Watch's [6 October 2023 65-parliamentarian / 31-organisation joint statement on UK live facial recognition](https://bigbrotherwatch.org.uk/press-releases/65-parliamentarians-call-for-immediate-stop-to-live-facial-recognition-surveillance/), and reproduced across subsequent Continental European national civil-society coalitions working biometric-surveillance prohibitions into domestic legislative debates.
 originating_person:
@@ -21,6 +21,7 @@ related_messages:
   - msg-keepiton
   - msg-banthescan
   - msg-laquadrature-caf-algorithm
+  - msg-whyid
 sources:
   - url: https://reclaimyourface.eu/
     last_checked: 2026-05-14

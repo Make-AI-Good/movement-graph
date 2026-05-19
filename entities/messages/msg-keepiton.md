@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [international, multi-region, global, sub-saharan-africa, mena, south-asia, asia-pacific, latin-america, north-america, europe, oceania, hashtag, slogan, framing, coalition-launched, coalition-named, digital-rights, internet-shutdowns, internet-freedom, election-monitoring, exam-shutdowns, civil-society-coalition, access-now, paradigm-initiative, internet-freedom-foundation, smex, human-rights-watch, advocacy, prohibition]
 created: 2026-05-15
-last_updated: 2026-05-15
+last_updated: 2026-05-19
 origin: |
   The hashtag-and-coalition-slogan against state-ordered internet shutdowns coined by [Access Now](https://www.accessnow.org/campaign/keepiton/) in the run-up to and at the [8 June 2016 public launch of the #KeepItOn coalition](https://www.accessnow.org/press-release/access-now-launches-global-keepiton-campaign-nearly-70-organizations-committing-fight-internet-shutdowns/) of nearly seventy civil-society organisations from five continents. The framing operates simultaneously as the campaign's hashtag, its public-rallying slogan, and its working policy register for the substantive demand — that ordering an internet or electronic-communications shutdown is not a legitimate state response to any contingency it has been used to address. The substantive working definition the framing carries — "an intentional disruption of internet or electronic communications, rendering them inaccessible or effectively unusable, for a specific population or within a location, often to exert control over the flow of information" — was adopted at [RightsCon Silicon Valley](https://www.accessnow.org/welcome-rightscon-silicon-valley-2016/) over 30 March – 1 April 2016 and is the same definition the coalition has used since. The framing has since become the most globally-distributed digital-rights coalition register in the corpus's terms — carried by [more than 366 organisations across over 100 countries](https://www.accessnow.org/campaign/keepiton/) by mid-2026 — and is paired in coalition practice with the named sub-track #NoExamShutdown for exam-period shutdowns and with [#KeepUsOnline](https://internetfreedom.in/), the [Internet Freedom Foundation](../organizations/org-internet-freedom-foundation.md)'s Indian sibling slogan against domestic shutdowns and throttling.
 originating_person:
@@ -22,6 +22,7 @@ related_messages:
   - msg-banthescan
   - msg-gobierno-espia
   - msg-hashtag-palestine
+  - msg-whyid
 sources:
   - url: https://www.accessnow.org/campaign/keepiton/
     last_checked: 2026-05-15
