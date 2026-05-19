@@ -4,6 +4,8 @@ A knowledge graph mapping the grassroots, small-d democratic movement working to
 
 Part of the [Make AI Good](https://github.com/Make-AI-Good) project.
 
+> *Status: pre-publication, shared with internal collaborators. Planned flip to public visibility once build cadence and consumer feedback loops are settled.*
+
 ## What this is
 
 A versioned corpus of entities — organizations, campaigns, people, publications, messages, funders, events — that together describe the on-the-ground movement shaping how AI gets built, deployed, and held accountable. The focus is the **grassroots and small-d democratic layer**: local groups, organizers, advocacy organizations doing grassroots work, coalitions, campaigns, cultural artifacts (slogans, framings, manifestos), and the voices propagating them.
