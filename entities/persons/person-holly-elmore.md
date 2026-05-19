@@ -11,6 +11,7 @@ affiliations:
   - org: org-pauseai
     role: founder and executive director, PauseAI US
     period: 2023-
+voice_entry: voice-holly-elmore
 public_profiles:
   - platform: ea-forum
     url: https://forum.effectivealtruism.org/posts/aYxuFeCcqRvaszHPb/ama-pauseai-us-needs-money-ask-founder-exec-dir-holly-elmore
