@@ -29,13 +29,13 @@ sources:
     note: Business and Human Rights Resource Centre (8 September 2025) — coverage of the petition by 35 Kenyan tech workers, supported by The Oversight Lab, challenging the Business Laws (Amendment) Bill 2024 in the Kenyan High Court
   - url: https://weetracker.com/2026/04/30/kenyan-workers-meta-smart-glasses-sex-layoffs/
     last_checked: 2026-05-12
-    note: Weetracker (30 April 2026) — describes The Oversight Lab "calling on workers to join the Africa Tech Workers Movement to advocate for safer, more stable environments" following the Sama redundancy notice covering 1,108 workers
+    note: 'Weetracker (30 April 2026) — describes The Oversight Lab "calling on workers to join the Africa Tech Workers Movement to advocate for safer, more stable environments" following the Sama redundancy notice covering 1,108 workers'
   - url: https://thenextweb.com/news/meta-smart-glasses-sama-kenya-workers
     last_checked: 2026-05-12
     note: TheNextWeb — identifies Naftali Wambalo as co-founder of the Africa Tech Workers Movement and reports his claim that Meta's contract termination with Sama was retaliation against workers who spoke out about Ray-Ban smart glasses footage
   - url: https://futurism.com/artificial-intelligence/meta-response-naked-footage-smart-glasses
     last_checked: 2026-05-12
-    note: Futurism — quotes Wambalo as representing the Africa Tech Workers Movement, with his "standards of secrecy" framing of Meta's contract termination
+    note: 'Futurism — quotes Wambalo as representing the Africa Tech Workers Movement, with his "standards of secrecy" framing of Meta''s contract termination'
   - url: https://www.cbsnews.com/news/ai-work-kenya-exploitation-60-minutes/
     last_checked: 2026-05-12
     note: CBS News 60 Minutes (24 November 2024) — background on Wambalo as a Sama data labeller and plaintiff in the 200-worker suit against Sama and Meta; predates the Movement framing
@@ -44,10 +44,10 @@ sources:
     note: UNI Global Union landing page for African Tech Workers Rising (ATWR), one of the constituent organisations identified in Kenyan reporting on the Movement
   - url: https://parispeaceforum.org/projects/africa-tech-workers-rising-kenya/
     last_checked: 2026-05-12
-    note: Paris Peace Forum project page for "Africa Tech Workers Rising, Kenya" — UNI Global Union-backed initiative to organise frontline content moderators and data-enrichment workers in the AI data supply chain
+    note: 'Paris Peace Forum project page for "Africa Tech Workers Rising, Kenya" — UNI Global Union-backed initiative to organise frontline content moderators and data-enrichment workers in the AI data supply chain'
   - url: https://uniglobalunion.org/news/ai-action-summit-africa-tech-workers/
     last_checked: 2026-05-12
-    note: UNI Global Union (February 2025) — ATWR organiser Sonia Kgomo, a former Kenyan Facebook content moderator, speaks at the AI Action Summit in Paris: "We are an unseen force behind AI breakthroughs, and we're on the front lines of keeping technology safe for our communities."
+    note: 'UNI Global Union (February 2025) — ATWR organiser Sonia Kgomo, a former Kenyan Facebook content moderator, speaks at the AI Action Summit in Paris: "We are an unseen force behind AI breakthroughs, and we''re on the front lines of keeping technology safe for our communities."'
   - url: https://uniglobalunion.org/news/moderation-alliance/
     last_checked: 2026-05-12
     note: UNI Global Union (30 April 2025) — launch of the Global Trade Union Alliance of Content Moderators in Nairobi, with workers from nine countries and Communication Workers Union of Kenya general secretary Benson Okwaro participating
@@ -62,7 +62,7 @@ sources:
     note: Computer Weekly — Kenyan launch of the Data Labelers Association (DLA), with 339 members joining in its first week
   - url: https://datasyn.substack.com/p/invisible-hands-visible-futures-the
     last_checked: 2026-05-12
-    note: DataSyn essay describing the African data-worker organising landscape — names the Data Labellers Association, identifies Joan Kinyua as its founding president, and references the "Africa tech workers movement" cross-sector framing
+    note: 'DataSyn essay describing the African data-worker organising landscape — names the Data Labellers Association, identifies Joan Kinyua as its founding president, and references the "Africa tech workers movement" cross-sector framing'
   - url: https://www.foxglove.org.uk/2024/09/23/facebook-content-moderators-kenya-meta-appeal/
     last_checked: 2026-05-12
     note: Foxglove — September 2024 Court of Appeal ruling allowing the Meta / Sama content-moderation cases to proceed in Kenya, the legal predicate cited by petitioners against the Business Laws Bill
