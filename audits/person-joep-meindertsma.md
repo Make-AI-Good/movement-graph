@@ -1,8 +1,8 @@
 ---
 entity_id: person-joep-meindertsma
-entity_hash: 6c402a94b21d2df7976831d1d81c6e719c1b9297
+entity_hash: e1aa2db5a0cadf5424d460e76fa0b4d560343013
 audit_date: 2026-05-18
-pass: 1
+pass: 2
 status: unverifiable
 claims_total: 4
 claims_verified: 3
@@ -38,7 +38,7 @@ Decision: verified
 
 ## Claim 4: "he stepped back from CEO into a continuing founder role in late 2025"
 
-Source: https://pauseai.substack.com/p/meet-our-new-ceo-maxime-fournes (cited); also checked https://en.wikipedia.org/wiki/PauseAI and https://pauseai.info/about
-Source content: Cited substack (published 2025-12-02) announces Maxime Fournes as new CEO but does not mention Meindertsma. Wikipedia describes Meindertsma's CEO role as held at "a software firm" (separate company), not PauseAI. pauseai.info/about lists his current role as "Founder PauseAI Global, Board Chair" with no description of any prior CEO tenure at PauseAI or any transition.
-Comparison: The body claim presupposes Meindertsma held the PauseAI CEO role and stepped back from it in late 2025. No cited or canonical source consulted in this pass directly substantiates that he was PauseAI CEO. The substack confirms a new CEO (Fournes) arrived in late 2025, which is consistent with the timing, but does not name the prior CEO or confirm it was Meindertsma. Living-person employment-history specific — Wikipedia is tiebreaker-only per source rule, and the cited primary source does not cover the claim. Outcome is unverifiable rather than discrepancy because sources do not actively contradict the claim, they simply do not substantiate it.
+Source: https://pauseai.substack.com/p/meet-our-new-ceo-maxime-fournes (cited); also checked https://en.wikipedia.org/wiki/PauseAI and https://pauseai.info/about and https://pauseai.info/organization
+Source content: Cited substack announces Maxime Fournes as new CEO of PauseAI Global but does not mention Meindertsma. Wikipedia describes Meindertsma's CEO role as held at "a software firm" (a separate company), not PauseAI, and does not record any late-2025 stepping-back event. pauseai.info/about lists his current role as "Founder PauseAI Global, Board Chair" with no description of any prior CEO tenure at PauseAI or any transition. pauseai.info/organization names Fournes as current CEO but contains no Meindertsma reference.
+Comparison: The body claim presupposes Meindertsma held a CEO role he stepped back from in late 2025. No cited or canonical source consulted in this pass directly substantiates that he was PauseAI CEO before Fournes. The substack confirms Fournes is "new" CEO (timing-consistent with late 2025) but does not name the prior CEO or confirm it was Meindertsma. Living-person employment-history specific — Wikipedia is tiebreaker-only per source rule, and the cited primary source does not cover the claim. Outcome is unverifiable rather than discrepancy because sources do not actively contradict the claim, they simply do not substantiate it. Same outcome as pass 1; body claim unchanged since pass 1 (only frontmatter shifted — voice_entry back-reference added, last_updated bumped).
 Decision: unverifiable
