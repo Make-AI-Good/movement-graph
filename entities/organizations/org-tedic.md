@@ -6,12 +6,13 @@ status: active
 confidence: high
 tags: [paraguay, asuncion, latin-america, southern-cone, national, non-profit, asociacion, digital-rights, free-culture, creative-commons, privacy, data-protection, surveillance, biometric-surveillance, facial-recognition, ai-and-human-rights, algorithmic-accountability, electoral-integrity, freedom-of-expression, gender-and-tech, civic-tech, access-to-information, apc-member, al-sur]
 created: 2026-05-18
-last_updated: 2026-05-18
+last_updated: 2026-05-19
 founded: 2012
 location: Asunción, Paraguay
 website: https://www.tedic.org/
 strategies: []
-key_people: []
+key_people:
+  - person-maricarmen-sequera
 board_and_advisors: []
 related_orgs:
   - org-fundacion-karisma
