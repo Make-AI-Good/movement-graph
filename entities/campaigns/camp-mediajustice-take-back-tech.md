@@ -18,6 +18,7 @@ participating_orgs:
   - org-dair-institute
   - lg-stop-lapd-spying-coalition
 events:
+  - event-mijente-take-back-tech-san-jose-2019-07
   - event-mediajustice-mijente-take-back-tech-2024-chicago
 strategies: []
 outcomes: |
