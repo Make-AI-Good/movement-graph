@@ -18,40 +18,40 @@ related_messages:
 sources:
   - url: https://www.judiciary.senate.gov/imo/media/doc/2023-07-12_pm_-_testimony_-_ortiz.pdf
     last_checked: 2026-05-14
-    note: Karla Ortiz's written testimony to the U.S. Senate Judiciary Subcommittee on Intellectual Property hearing "Artificial Intelligence and Intellectual Property – Part II: Copyright", 12 July 2023 — the primary-source federal-record artefact in which the four-Cs formulation appears verbatim ("a shared world built upon the foundations that makes our community thrive: Consent, Credit, (Fair!) Compensation, and Transparency!") and in which the supporting line "training data is the work of creative people like myself, taken without our consent, without any credit, and without any compensation" anchors the rationale
+    note: 'Karla Ortiz''s written testimony to the U.S. Senate Judiciary Subcommittee on Intellectual Property hearing "Artificial Intelligence and Intellectual Property – Part II: Copyright", 12 July 2023 — the primary-source federal-record artefact in which the four-Cs formulation appears verbatim ("a shared world built upon the foundations that makes our community thrive: Consent, Credit, (Fair!) Compensation, and Transparency!") and in which the supporting line "training data is the work of creative people like myself, taken without our consent, without any credit, and without any compensation" anchors the rationale'
   - url: http://stuartngbooks.blogspot.com/2023/07/testimony-of-karla-ortiz-and-others-at.html
     last_checked: 2026-05-14
-    note: Stuart Ng Books transcript of Ortiz's 12 July 2023 Senate Judiciary testimony — secondary transcript that captures the spoken framings around the four-Cs ask, including "these systems depend entirely on the work of humans" and "a Generative AI model cannot create anything it has not already seen in its training data"
+    note: 'Stuart Ng Books transcript of Ortiz''s 12 July 2023 Senate Judiciary testimony — secondary transcript that captures the spoken framings around the four-Cs ask, including "these systems depend entirely on the work of humans" and "a Generative AI model cannot create anything it has not already seen in its training data"'
   - url: https://x.com/kortizart/status/1679286691834609666
     last_checked: 2026-05-14
-    note: Karla Ortiz's 12 July 2023 X post the day of the Senate hearing — primary source for the verbatim signature acronymic line "build upon the 3 C's & a T. Consent / Credit / Compensation / Transparency. Lets get it done!!" that fixes the campaign's working formulation
+    note: 'Karla Ortiz''s 12 July 2023 X post the day of the Senate hearing — primary source for the verbatim signature acronymic line "build upon the 3 C''s & a T. Consent / Credit / Compensation / Transparency. Lets get it done!!" that fixes the campaign''s working formulation'
   - url: https://www.sfbar.org/sfam/q3-art-v-ai/
     last_checked: 2026-05-14
-    note: Bar Association of San Francisco's case-analysis piece on the wider artist-side AI training-data dispute — records "consent, credit, compensation" as the campaign's rhetorical core and Ortiz's most-cited single Senate line "I have never been asked, never been credited, never been compensated"
+    note: 'Bar Association of San Francisco''s case-analysis piece on the wider artist-side AI training-data dispute — records "consent, credit, compensation" as the campaign''s rhetorical core and Ortiz''s most-cited single Senate line "I have never been asked, never been credited, never been compensated"'
   - url: https://copyrightalliance.org/artists-speak-out-harm-unlicenced-ai-ingestion/
     last_checked: 2026-05-14
-    note: Copyright Alliance, "Artists Speak Out About the Harm of Unlicensed AI Ingestion" — primary source for the cross-sector adoption of the consent/credit/compensation framing across the Copyright Alliance's aggregated artist statements (visual artists, illustrators, photographers, writers, songwriters, voice actors) and for the framing's use as the headline shared register of the U.S. creative-industry pushback on training-data scraping
+    note: 'Copyright Alliance, "Artists Speak Out About the Harm of Unlicensed AI Ingestion" — primary source for the cross-sector adoption of the consent/credit/compensation framing across the Copyright Alliance''s aggregated artist statements (visual artists, illustrators, photographers, writers, songwriters, voice actors) and for the framing''s use as the headline shared register of the U.S. creative-industry pushback on training-data scraping'
   - url: https://www.news24.com/life/arts-and-entertainment/arts/artists-fight-for-consent-credit-or-compensation-in-ai-program-court-battle-20230328
     last_checked: 2026-05-14
-    note: News24 / AFP, "Artists fight for consent, credit or compensation in AI program court battle", 28 March 2023 — early mainstream-press use of the three-Cs framing as the headline summary of *Andersen v. Stability AI*, propagating the framing internationally during the lawsuit's first months
+    note: 'News24 / AFP, "Artists fight for consent, credit or compensation in AI program court battle", 28 March 2023 — early mainstream-press use of the three-Cs framing as the headline summary of *Andersen v. Stability AI*, propagating the framing internationally during the lawsuit''s first months'
   - url: https://imagegeneratorlitigation.com/
     last_checked: 2026-05-14
-    note: Joseph Saveri Law Firm and Matthew Butterick's *Andersen v. Stability AI* litigation hub — primary source for the case's working public-facing framing that the lawsuit seeks to force generative-AI development onto a footing of "consent, credit, and compensation"
+    note: 'Joseph Saveri Law Firm and Matthew Butterick''s *Andersen v. Stability AI* litigation hub — primary source for the case''s working public-facing framing that the lawsuit seeks to force generative-AI development onto a footing of "consent, credit, and compensation"'
   - url: https://www.cbsnews.com/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/
     last_checked: 2026-05-14
-    note: CBS News coverage of the 13 January 2023 *Andersen v. Stability AI* filing — primary source for Joseph Saveri's "massive copyright infringement from the outset" framing and Karla Ortiz's filing-day quoted argument that the artist class is "a larger fight for preserving ownership rights for all artists and other creators"
+    note: 'CBS News coverage of the 13 January 2023 *Andersen v. Stability AI* filing — primary source for Joseph Saveri''s "massive copyright infringement from the outset" framing and Karla Ortiz''s filing-day quoted argument that the artist class is "a larger fight for preserving ownership rights for all artists and other creators"'
   - url: https://venturebeat.com/ai/our-lifes-work-chorus-of-creative-workers-demands-ai-regulation-at-ftc-roundtable
     last_checked: 2026-05-14
-    note: VentureBeat report on the 4 October 2023 FTC Creative Economy and Generative AI roundtable — primary source for Ortiz carrying the four-Cs formulation into the federal-administrative record verbatim ("the creative economy only works when the basic tenants of consent, credit, compensation, and transparency are followed")
+    note: 'VentureBeat report on the 4 October 2023 FTC Creative Economy and Generative AI roundtable — primary source for Ortiz carrying the four-Cs formulation into the federal-administrative record verbatim ("the creative economy only works when the basic tenants of consent, credit, compensation, and transparency are followed")'
   - url: https://www.ftc.gov/system/files/ftc_gov/pdf/creative-economy-and-generative-ai-transcript-october-4-2023.pdf
     last_checked: 2026-05-14
-    note: FTC transcript of the 4 October 2023 Creative Economy and Generative AI roundtable — the federal-administrative primary source in which the working creative-industry register of the consent/credit/compensation/transparency framing was put on the public record across multiple panellists (Ortiz, Steven Zapata, and adjacent witnesses)
+    note: 'FTC transcript of the 4 October 2023 Creative Economy and Generative AI roundtable — the federal-administrative primary source in which the working creative-industry register of the consent/credit/compensation/transparency framing was put on the public record across multiple panellists (Ortiz, Steven Zapata, and adjacent witnesses)'
   - url: https://www.ftc.gov/system/files/ftc_gov/pdf/12-15-2023AICEStaffReport.pdf
     last_checked: 2026-05-14
-    note: FTC staff report on Generative AI and the Creative Economy, 15 December 2023 — the synthesised federal-administrative output downstream of the October 2023 roundtable, in which the creative-industry consent/credit/compensation/transparency framing is recorded as the cross-sector working ask of working-creative witnesses
+    note: 'FTC staff report on Generative AI and the Creative Economy, 15 December 2023 — the synthesised federal-administrative output downstream of the October 2023 roundtable, in which the creative-industry consent/credit/compensation/transparency framing is recorded as the cross-sector working ask of working-creative witnesses'
   - url: https://www.conceptartassociation.com/advocacy
     last_checked: 2026-05-14
-    note: Concept Art Association's own advocacy-programme page — primary source for the consent/credit/compensation framing as the operating posture of CAA's federal-policy lobbying programme, the AB 412 California training-data transparency bill co-sponsorship, and the D.C. congressional meetings the GoFundMe-funded R2P Strategies retainer underwrites
+    note: 'Concept Art Association''s own advocacy-programme page — primary source for the consent/credit/compensation framing as the operating posture of CAA''s federal-policy lobbying programme, the AB 412 California training-data transparency bill co-sponsorship, and the D.C. congressional meetings the GoFundMe-funded R2P Strategies retainer underwrites'
 ---
 
 # "Consent, Credit, Compensation" — and Transparency
