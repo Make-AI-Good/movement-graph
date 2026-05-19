@@ -11,7 +11,7 @@ founded: 2012
 location: Taiwan (international branches in Hong Kong and Italy)
 website: https://g0v.tw/
 strategies: []
-key_people: []
+key_people: [person-audrey-tang]
 board_and_advisors: []
 related_orgs: []
 funders: []
