@@ -6,12 +6,12 @@ status: active
 confidence: high
 tags: [australia, sydney, oceania, digital-rights, big-tech-accountability, platform-regulation, ai-and-democracy, algorithmic-accountability, disinformation-and-misinformation, election-integrity, childrens-data-protection, online-safety, data-brokers, targeted-advertising, foundation, non-profit, charity, registered-charity-acnc, reset-tech-affiliate, luminate-incubated, responsible-technology-australia-successor]
 created: 2026-05-18
-last_updated: 2026-05-18
+last_updated: 2026-05-19
 founded: 2020
 location: Sydney, Australia
 website: https://au.reset.tech/
 strategies: []
-key_people: []
+key_people: [person-alice-dawkins]
 board_and_advisors: []
 related_orgs: []
 funders: [fund-luminate, fund-minderoo-foundation, fund-internet-society-foundation]
