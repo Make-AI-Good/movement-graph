@@ -16,7 +16,7 @@ public_profiles:
     url: https://www.opennetkorea.org/en/wp/author/park-kyungsin
   - platform: uci-law-visiting
     url: https://www.law.uci.edu/faculty/visiting/kspark/
-voice_entry:
+voice_entry: voice-kyung-sin-park
 sources:
   - url: https://www.law.uci.edu/faculty/visiting/kspark/
     last_checked: 2026-05-18
