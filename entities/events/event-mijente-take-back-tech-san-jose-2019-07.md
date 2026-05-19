@@ -16,7 +16,8 @@ participating_orgs:
   - org-mediajustice
 participating_people:
   - person-steven-renderos
-related_events: []
+related_events:
+  - event-mijente-notechforice-campus-actions-2019-11
 sources:
   - url: https://notechforice.com/convening/
     last_checked: 2026-05-19
