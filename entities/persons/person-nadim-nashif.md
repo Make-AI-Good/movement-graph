@@ -18,6 +18,7 @@ public_profiles:
     url: https://al-shabaka.org/authors/nadim-nashif/
   - platform: newarab
     url: https://www.newarab.com/author/71331/nadim-nashif
+voice_entry: voice-nadim-nashif
 sources:
   - url: https://www.linkedin.com/in/nadimnashif/
     last_checked: 2026-05-17
