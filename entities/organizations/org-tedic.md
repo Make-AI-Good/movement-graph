@@ -26,7 +26,7 @@ funders:
 sources:
   - url: https://www.tedic.org/en/who-we-are/
     last_checked: 2026-05-18
-    note: 'TEDIC''s own English Who-we-are page — primary source for the 26 March 2012 founding date in Asunción, the legal form as a non-profit "association with restricted capacity" registered No. 246 folio 3059 of 03/04/2012, the courtyard-of-a-hostel origin story, Maricarmen Sequera as current Executive Director, and her Tech Diplomacy Global 50 Award 2025 recognition'
+    note: 'TEDIC''s own English Who-we-are page — primary source for the 26 March 2012 founding date in Asunción, the legal form as a non-profit "association with restricted capacity" registered No. 246 folio 3059 of 03/04/2012, the courtyard-of-a-hostel origin story, Maricarmen Sequera as current Executive Director, and her Tech Diplomacy Global 50 Award 2026 recognition'
   - url: https://www.tedic.org/en/faq/
     last_checked: 2026-05-18
     note: 'TEDIC''s own FAQ — primary source for the organisational self-description as a civil-society organisation working on the defence of digital rights and a free culture online and offline, governance via Board of Directors with annual reporting, independent external audit by international firm, tax oversight by the Paraguayan SET (Subsecretaría de Estado de Tributación) and Seprelad, and participation in the Paraguayan Open Government Table (Mesa de Gobierno Abierto)'
