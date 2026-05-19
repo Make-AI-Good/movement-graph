@@ -13,7 +13,7 @@ event_type: constitutional-court ruling
 campaign: camp-panoptykon-profiling-of-unemployed-poland
 participating_orgs: []
 participating_people: []
-related_events: []
+related_events: [event-syri-hague-district-court-ruling-2020-02-05]
 sources:
   - url: https://trybunal.gov.pl/postepowanie-i-orzeczenia/wyroki/art/10167-zarzadzanie-pomoca-kierowana-do-osob-bezrobotnych
     last_checked: 2026-05-18

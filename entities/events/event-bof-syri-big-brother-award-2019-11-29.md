@@ -12,7 +12,7 @@ location: Utrecht, Netherlands — Hertz-zaal, TivoliVredenburg
 event_type: privacy-awards-ceremony
 participating_orgs: [org-bits-of-freedom]
 participating_people: []
-related_events: []
+related_events: [event-syri-hague-district-court-ruling-2020-02-05]
 sources:
   - url: https://www.bitsoffreedom.nl/pers/minister-sander-dekker-en-syri-winnen-big-brother-awards-2019/
     last_checked: 2026-05-19
