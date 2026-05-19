@@ -16,34 +16,34 @@ publication_type: report
 sources:
   - url: https://archive.pollicy.org/wp-content/uploads/2021/03/Afrofeminist-Data-Futures-Report-ENGLISH.pdf
     last_checked: 2026-05-17
-    note: Canonical English-language PDF of the report hosted in Pollicy's archive — primary source for the title *Afrofeminist Data Futures*, the three-author register (Neema Iyer, Chenai Chair, Garnett Achieng), and the March 2021 first-release date carried in the archive directory path
+    note: 'Canonical English-language PDF of the report hosted in Pollicy''s archive — primary source for the title *Afrofeminist Data Futures*, the three-author register (Neema Iyer, Chenai Chair, Garnett Achieng), and the March 2021 first-release date carried in the archive directory path'
   - url: https://pollicy.org/projects/afro-feminist-data-futures/
     last_checked: 2026-05-17
-    note: Pollicy's project page for the Afro Feminist Data Futures programme — primary source for the 14 September 2021 "Building Feminist Data Futures" webinar launch and for the three-language publication (English, French, Portuguese), and for naming Iyer, Chair, and Achieng as the report's authors; Meta is named as the project partner
+    note: 'Pollicy''s project page for the Afro Feminist Data Futures programme — primary source for the 14 September 2021 "Building Feminist Data Futures" webinar launch and for the three-language publication (English, French, Portuguese), and for naming Iyer, Chair, and Achieng as the report''s authors; Meta is named as the project partner'
   - url: https://internationalwim.org/iwim-reports/afrofeminist-data-futures/
     last_checked: 2026-05-17
-    note: International Women in Mining's Gender & Mining Library hosting of the report — independent secondary source corroborating the title, three-author register, Pollicy publication, and the report's framing argument that "data, when applied accordingly, can be used to challenge dominant power imbalances and create social impact in communities"
+    note: 'International Women in Mining''s Gender & Mining Library hosting of the report — independent secondary source corroborating the title, three-author register, Pollicy publication, and the report''s framing argument that "data, when applied accordingly, can be used to challenge dominant power imbalances and create social impact in communities"'
   - url: https://internationalwim.org/wp-content/uploads/2021/03/Afrofeminist-Data-Futures-Report-PORTUGUESE.pdf
     last_checked: 2026-05-17
-    note: Portuguese-language edition of the report (Lusophone Africa edition) — primary source for the published Portuguese translation referenced in Pollicy's three-language framing
+    note: 'Portuguese-language edition of the report (Lusophone Africa edition) — primary source for the published Portuguese translation referenced in Pollicy''s three-language framing'
   - url: https://www.ictworks.org/data-governance-african-women/
     last_checked: 2026-05-17
-    note: ICTworks 6 April 2021 feature *The Afrofeminist Power Dynamics of Data Governance for African Women* — independent secondary source for the "over 40 women" / 20-country sample, the six headline challenges (data literacy gaps and language barriers, limited connectivity for women in sub-Saharan Africa, resource constraints, gatekeeping by institutions and private companies, lack of gender-disaggregated data, restrictive technology platform policies), the 28%-of-women-in-sub-Saharan-Africa-online connectivity figure, and the verbatim framing line "what is counted often becomes the basis for the development of appropriate programs and policies, and resource allocation"
+    note: 'ICTworks 6 April 2021 feature *The Afrofeminist Power Dynamics of Data Governance for African Women* — independent secondary source for the "over 40 women" / 20-country sample, the six headline challenges (data literacy gaps and language barriers, limited connectivity for women in sub-Saharan Africa, resource constraints, gatekeeping by institutions and private companies, lack of gender-disaggregated data, restrictive technology platform policies), the 28%-of-women-in-sub-Saharan-Africa-online connectivity figure, and the verbatim framing line "what is counted often becomes the basis for the development of appropriate programs and policies, and resource allocation"'
   - url: https://academic.oup.com/book/55103/chapter/423911456
     last_checked: 2026-05-17
-    note: Oxford University Press chapter "Afrofeminist Data Futures" by Iyer, Chair, and Achieng in *Feminist AI: Critical Perspectives on Algorithms, Data, and Intelligent Machines* (Browne, Cave, Drage, McInerney eds., 2023, pp. 347-388) — independent academic-venue restatement of the framework, primary source for the chapter's vision of "an Afrofeminist data future" in which "African women have the right to privacy and full control over personal data and information online at all levels — a form of data justice"
+    note: 'Oxford University Press chapter "Afrofeminist Data Futures" by Iyer, Chair, and Achieng in *Feminist AI: Critical Perspectives on Algorithms, Data, and Intelligent Machines* (Browne, Cave, Drage, McInerney eds., 2023, pp. 347-388) — independent academic-venue restatement of the framework, primary source for the chapter''s vision of "an Afrofeminist data future" in which "African women have the right to privacy and full control over personal data and information online at all levels — a form of data justice"'
   - url: https://global.oup.com/academic/product/feminist-ai-9780192889898
     last_checked: 2026-05-17
-    note: Oxford University Press catalogue page for *Feminist AI* — primary source for the volume's 2023 publication, the four-editor register (Jude Browne, Stephen Cave, Eleanor Drage, Kerry McInerney), and the placement of the Iyer / Chair / Achieng chapter inside the volume's critical-feminist-AI editorial frame
+    note: 'Oxford University Press catalogue page for *Feminist AI* — primary source for the volume''s 2023 publication, the four-editor register (Jude Browne, Stephen Cave, Eleanor Drage, Kerry McInerney), and the placement of the Iyer / Chair / Achieng chapter inside the volume''s critical-feminist-AI editorial frame'
   - url: https://pollicy.org/resource/afro-feminist-data-futures-manifesto/
     last_checked: 2026-05-17
-    note: Pollicy resource page for the *Afro-Feminist Data Futures Manifesto* (October 2023, authored by Neema Iyer) — primary source for the companion manifesto produced from the 12-13 July 2023 Afro-Feminist Data Futures Festival at DataFest Africa, which "brought together 25 participants, cutting across feminist activists, legal scholars, academia, and human rights defenders" to "re-envision the future of data...from an Afrofeminist perspective"
+    note: 'Pollicy resource page for the *Afro-Feminist Data Futures Manifesto* (October 2023, authored by Neema Iyer) — primary source for the companion manifesto produced from the 12-13 July 2023 Afro-Feminist Data Futures Festival at DataFest Africa, which "brought together 25 participants, cutting across feminist activists, legal scholars, academia, and human rights defenders" to "re-envision the future of data...from an Afrofeminist perspective"'
   - url: https://pollicy.medium.com/shifting-the-data-highway-introducing-the-afro-feminist-data-governance-project-3787587aaa20
     last_checked: 2026-05-17
-    note: Pollicy Medium post introducing the Afro-Feminist Data Governance project — independent secondary source for the report's role as the foundational artefact from which the four-country (Côte d'Ivoire, Ghana, Kenya, Zambia) follow-on Afro-Feminist Data Governance project was scoped; already cited in [org-pollicy](../organizations/org-pollicy.md)
+    note: 'Pollicy Medium post introducing the Afro-Feminist Data Governance project — independent secondary source for the report''s role as the foundational artefact from which the four-country (Côte d''Ivoire, Ghana, Kenya, Zambia) follow-on Afro-Feminist Data Governance project was scoped; already cited in [org-pollicy](../organizations/org-pollicy.md)'
   - url: https://rtlp.in/2021/03/30/we-break-it-down-an-afrofeminist-interpretation-of-the-future-of-data-for-good/
     last_checked: 2026-05-17
-    note: r-TLP 30 March 2021 commentary *We Break It Down: An AfroFeminist Interpretation of the future of Data for Good* — independent secondary source confirming the report's late-March 2021 public circulation and its uptake in the Global South data-for-good critical-tech commentary community
+    note: 'r-TLP 30 March 2021 commentary *We Break It Down: An AfroFeminist Interpretation of the future of Data for Good* — independent secondary source confirming the report''s late-March 2021 public circulation and its uptake in the Global South data-for-good critical-tech commentary community'
 ---
 
 # Afrofeminist Data Futures
