@@ -1,8 +1,8 @@
 ---
 entity_id: camp-edri-eu-ai-act-fundamental-rights-coalition-2021-2024
-entity_hash: dfe0df9df6320657bf33090796c58fccebd0ed16
+entity_hash: d9e1ffd44c0f68dab28ece24640609d6258609ad
 audit_date: 2026-05-18
-pass: 1
+pass: 2
 status: unverifiable
 claims_total: 22
 claims_verified: 19
@@ -18,7 +18,11 @@ sources_consulted:
   - https://reclaimyourface.eu/goodbye-eci-hello-ai-act-negotiations/
   - https://www.europarl.europa.eu/news/en/press-room/20230609IPR96212/meps-ready-to-negotiate-first-ever-rules-for-safe-and-transparent-ai
   - https://europeanaifund.org/newspublications/european-civil-society-on-the-ai-act-deal/
+  - https://citizens-initiative.europa.eu/initiatives/details/2021/000001_en
+  - https://edri.org/our-work/reclaim-your-face/
 ---
+
+Pass-2 note: the entity file's hash changed since pass 1 (dfe0df9 → d9e1ffd) via an Editor sweep that wrapped two named orgs (Bits of Freedom, Privacy International) as in-corpus internal links in the "## The coalition" paragraph. No body factual claim was altered. Pass-2 per-claim outcomes therefore mirror pass 1; the three `unverifiable` Reclaim Your Face ECI specifics (claims 18, 19, 21) were re-checked this pass against the EU Commission's ECI register page (URL above) and the EDRi Reclaim Your Face landing page — neither returned the day-precise registration / collection-start dates or the COVID-19 deadline-extension confirmation, so those outcomes hold.
 
 ## Claim 1: "the European Commission's 21 April 2021 proposal"
 
@@ -141,15 +145,15 @@ Decision: verified
 
 ## Claim 18: Reclaim Your Face ECI "registered on 7 January 2021"
 
-Source: https://reclaimyourface.eu/goodbye-eci-hello-ai-act-negotiations/
-Source content: WebFetch summary returned only "January 2021 (exact date not specified)" for the registration date.
-Comparison: Cited source confirms January 2021 but does not name 7 January specifically. No other canonical source consulted (EU citizens-initiative database page failed to render content; Wikipedia has no dedicated article on the ECI). Body specificity beyond what cited source supports.
+Source: https://reclaimyourface.eu/goodbye-eci-hello-ai-act-negotiations/ (re-checked against https://citizens-initiative.europa.eu/initiatives/details/2021/000001_en and https://edri.org/our-work/reclaim-your-face/ in this pass)
+Source content: WebFetch summary returned only "January 2021 (exact date not specified)" for the registration date. The EU Commission ECI register detail page returned no content via WebFetch in this session; the EDRi Reclaim Your Face landing page (March 2021 article) names neither a registration date nor a collection-start date.
+Comparison: Cited source confirms January 2021 but does not name 7 January specifically. No other canonical source consulted produced a day-precise confirmation in this pass.
 Decision: unverifiable
 
 ## Claim 19: Reclaim Your Face ECI signature collection ran "17 February 2021 through 1 August 2022"
 
-Source: https://reclaimyourface.eu/goodbye-eci-hello-ai-act-negotiations/
-Source content: WebFetch summary returns "January 2021 to August 1, 2022 (18 months)" with no specific 17 February start date.
+Source: https://reclaimyourface.eu/goodbye-eci-hello-ai-act-negotiations/ (re-checked against https://citizens-initiative.europa.eu/initiatives/details/2021/000001_en and https://edri.org/our-work/reclaim-your-face/ in this pass)
+Source content: WebFetch summary returns "January 2021 to August 1, 2022 (18 months)" with no specific 17 February start date. Re-checked secondary URLs produced no day-precise start date either.
 Comparison: End date 1 August 2022 confirmed; start date 17 February 2021 not confirmed by cited source. The two windows are not strictly contradictory (registration in January followed by signature-collection opening in February is consistent with EU ECI process), but the specific day-precise start date is not in the consulted source.
 Decision: unverifiable
 
@@ -162,9 +166,9 @@ Decision: verified
 
 ## Claim 21: "the Commission extended the deadline because of COVID-19"
 
-Source: https://reclaimyourface.eu/goodbye-eci-hello-ai-act-negotiations/
-Source content: WebFetch summary did not confirm any COVID-19-driven deadline extension for this ECI specifically.
-Comparison: The Commission did issue general extensions to ECIs registered before COVID-19 hit (a documented EU policy), but the specific claim that the Reclaim Your Face ECI deadline was extended for this reason is not confirmed in the consulted source. Without ≥1 canonical source confirming, the specific claim is unverifiable from this audit pass.
+Source: https://reclaimyourface.eu/goodbye-eci-hello-ai-act-negotiations/ (re-checked against https://citizens-initiative.europa.eu/initiatives/details/2021/000001_en and https://edri.org/our-work/reclaim-your-face/ in this pass)
+Source content: WebFetch summary did not confirm any COVID-19-driven deadline extension for this ECI specifically. Re-checked secondary URLs likewise did not surface a COVID-19 extension statement specific to this ECI.
+Comparison: The Commission did issue general extensions to ECIs registered before COVID-19 hit (a documented EU policy), but the specific claim that the Reclaim Your Face ECI deadline was extended for this reason is not confirmed in the consulted sources for this pass.
 Decision: unverifiable
 
 ## Claim 22: "The European Parliament adopted its negotiating mandate on the AI Act on 14 June 2023 by 499 votes to 28, with 93 abstentions"
