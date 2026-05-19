@@ -21,19 +21,19 @@ related_events:
 sources:
   - url: https://www.gofundme.com/f/protecting-artists-from-ai-technologies
     last_checked: 2026-05-18
-    note: The Concept Art Association's "Protecting Artists from AI Technologies" GoFundMe page — primary source for the 13 December 2022 launch date, the $270,000 stated goal, the $285,560 closing total, the Arcadia, California organisational base, the stated D.C.-lobbying purpose ("We urgently want to take this conversation to D.C. and educate government officials and policymakers on the issues facing the creative industries if this technology is left unchecked"), and the published Year 2 budget allocations ($187,500 full-time D.C. lobbyist; $25,000 advocacy events including D.C. visits; $24,000 contractor hours supporting legislative work)
+    note: 'The Concept Art Association''s "Protecting Artists from AI Technologies" GoFundMe page — primary source for the 13 December 2022 launch date, the $270,000 stated goal, the $285,560 closing total, the Arcadia, California organisational base, the stated D.C.-lobbying purpose ("We urgently want to take this conversation to D.C. and educate government officials and policymakers on the issues facing the creative industries if this technology is left unchecked"), and the published Year 2 budget allocations ($187,500 full-time D.C. lobbyist; $25,000 advocacy events including D.C. visits; $24,000 contractor hours supporting legislative work)'
   - url: https://x.com/kortizart/status/1603458805425410048
     last_checked: 2026-05-18
     note: Karla Ortiz's 15 December 2022 X post publicly announcing the GoFundMe — primary source for Ortiz's role as the public-facing voice of the launch and for the same-day broadcast of the campaign URL into the wider concept-art and visual-artist online community
   - url: https://www.conceptartassociation.com/advocacy
     last_checked: 2026-05-18
-    note: Concept Art Association's own advocacy programme page — primary source for the post-launch use of the GoFundMe proceeds (R2P Strategies federal-lobbying retainer with Cindi Merifield, D.C. meetings beginning 2023, FTC engagements, California state-legislative co-sponsorship work) and for the campaign's "consent, credit, compensation, transparency" substantive framing as carried into federal venues
+    note: 'Concept Art Association''s own advocacy programme page — primary source for the post-launch use of the GoFundMe proceeds (R2P Strategies federal-lobbying retainer with Cindi Merifield, D.C. meetings beginning 2023, FTC engagements, California state-legislative co-sponsorship work) and for the campaign''s "consent, credit, compensation, transparency" substantive framing as carried into federal venues'
   - url: https://www.buzzfeednews.com/article/pranavdixit/ai-art-generators-lawsuit-stable-diffusion-midjourney
     last_checked: 2026-05-18
     note: BuzzFeed News' January 2023 profile of the Andersen v. Stability AI artist-plaintiffs — primary source for Karla Ortiz's late-2022 organising of artist town halls and consultations with machine-learning researchers feeding into both the GoFundMe-funded federal-policy track and the parallel litigation track, and for the December 2022 ArtStation member revolt as the public-mood backdrop the GoFundMe launched against
   - url: https://www.youtube.com/watch?v=LYO9sii1eKA
     last_checked: 2026-05-18
-    note: "AI Town hall hosted by Karla Ortiz & Concept Art Association" — the 31 August 2022 virtual town hall (with Abhishek Gupta of the Montreal AI Ethics Institute) that is the public-record originating event of CAA's AI advocacy programme, four months ahead of the GoFundMe launch
+    note: '"AI Town hall hosted by Karla Ortiz & Concept Art Association" — the 31 August 2022 virtual town hall (with Abhishek Gupta of the Montreal AI Ethics Institute) that is the public-record originating event of CAA''s AI advocacy programme, four months ahead of the GoFundMe launch'
   - url: https://www.legistorm.com/organization/summary/187721/Concept_Art_Association_LLC.html
     last_checked: 2026-05-18
     note: LegiStorm summary record of Concept Art Association, LLC's federal lobbying disclosures — primary source confirming that the GoFundMe-funded federal-lobbying retainer is registered and reported on the Lobbying Disclosure Act record under the Concept Art Association, LLC entity
@@ -42,7 +42,7 @@ sources:
     note: Cindi Merifield's LinkedIn profile (R2P Strategies) — primary source for her career history including her prior role as chief lobbyist for the Motion Picture Association of America before the R2P Strategies retainer with the Concept Art Association funded by the December 2022 GoFundMe
   - url: https://www.sfbar.org/sfam/q3-art-v-ai/
     last_checked: 2026-05-18
-    note: Bar Association of San Francisco analysis of generative-AI and visual-artist organising — secondary source placing the December 2022 GoFundMe in the run-up to the January 2023 Andersen v. Stability AI filing and Karla Ortiz's July 2023 Senate Judiciary Subcommittee testimony, and confirming the "consent, credit, compensation" framing the GoFundMe was funding into federal venues
+    note: 'Bar Association of San Francisco analysis of generative-AI and visual-artist organising — secondary source placing the December 2022 GoFundMe in the run-up to the January 2023 Andersen v. Stability AI filing and Karla Ortiz''s July 2023 Senate Judiciary Subcommittee testimony, and confirming the "consent, credit, compensation" framing the GoFundMe was funding into federal venues'
 ---
 
 # Concept Art Association "Protecting Artists from AI Technologies" GoFundMe launch (13 December 2022)
