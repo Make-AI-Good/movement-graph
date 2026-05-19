@@ -15,61 +15,61 @@ focus: |
 sources:
   - url: https://www.sigrid-rausing-trust.org/
     last_checked: 2026-05-08
-    note: Trust's own home page
+    note: 'Trust''s own home page'
   - url: https://www.sigrid-rausing-trust.org/who-we-are/
     last_checked: 2026-05-08
-    note: "Who we are" page describing the Trust's history, leadership, and approach
+    note: '"Who we are" page describing the Trust''s history, leadership, and approach'
   - url: https://www.sigrid-rausing-trust.org/who-we-are/our-history/
     last_checked: 2026-05-08
-    note: Trust's own history page
+    note: 'Trust''s own history page'
   - url: https://www.sigrid-rausing-trust.org/what-we-do/our-programmes/
     last_checked: 2026-05-08
-    note: Programmes overview — Human Rights and the Rule of Law, Open Societies, and Environment
+    note: 'Programmes overview — Human Rights and the Rule of Law, Open Societies, and Environment'
   - url: https://www.sigrid-rausing-trust.org/programme/human-rights-and-the-rule-of-law/
     last_checked: 2026-05-08
-    note: Human Rights and the Rule of Law programme page
+    note: 'Human Rights and the Rule of Law programme page'
   - url: https://www.sigrid-rausing-trust.org/who-we-support/
     last_checked: 2026-05-08
-    note: Trust's public grantee directory — primary disclosure source for the grantees discussed below
+    note: 'Trust''s public grantee directory — primary disclosure source for the grantees discussed below'
   - url: https://www.sigrid-rausing-trust.org/grantee/foxglove/
     last_checked: 2026-05-08
-    note: Trust's own grantee page for Foxglove — confirms £100,000 in prior grants from 2021 and a current £450,000 grant from November 2022 in the Human Rights and Rule of Law programme
+    note: 'Trust''s own grantee page for Foxglove — confirms £100,000 in prior grants from 2021 and a current £450,000 grant from November 2022 in the Human Rights and Rule of Law programme'
   - url: https://www.foxglove.org.uk/wp-content/uploads/2025/03/2024_03_14-PUB-FINAL-SIGNED-Foxglove-Legal-CIC-2024-Accounts.pdf
     last_checked: 2026-05-08
-    note: Foxglove Legal CIC 2024 accounts naming the Sigrid Rausing Trust among its grant funders — grantee-side confirmation
+    note: 'Foxglove Legal CIC 2024 accounts naming the Sigrid Rausing Trust among its grant funders — grantee-side confirmation'
   - url: https://www.sigrid-rausing-trust.org/2023-annual-report/
     last_checked: 2026-05-08
-    note: 2023 annual report landing page (report published November 2024)
+    note: '2023 annual report landing page (report published November 2024)'
   - url: https://www.sigrid-rausing-trust.org/wp-content/uploads/2024/11/SRT-Annual-Report-2023-FINAL-06.11.24.pdf
     last_checked: 2026-05-08
-    note: 2023 annual report PDF — financials and programme restructuring
+    note: '2023 annual report PDF — financials and programme restructuring'
   - url: https://www.sigrid-rausing-trust.org/story/two-srt-grantees-celebrate-as-european-parliament-approves-draft-artificial-intelligence-act/
     last_checked: 2026-05-08
-    note: Trust story flagging Irish Council for Civil Liberties and Fair Trials advocacy on the EU Artificial Intelligence Act
+    note: 'Trust story flagging Irish Council for Civil Liberties and Fair Trials advocacy on the EU Artificial Intelligence Act'
   - url: https://www.sigrid-rausing-trust.org/grantee/human-rights-watch/
     last_checked: 2026-05-08
-    note: Trust's grantee page for Human Rights Watch — sustained funder; HRW is a Stop Killer Robots founding member
+    note: 'Trust''s grantee page for Human Rights Watch — sustained funder; HRW is a Stop Killer Robots founding member'
   - url: https://www.sigrid-rausing-trust.org/grantee/citizen-lab/
     last_checked: 2026-05-08
-    note: Trust's grantee page for Citizen Lab (University of Toronto Munk School)
+    note: 'Trust''s grantee page for Citizen Lab (University of Toronto Munk School)'
   - url: https://www.sigrid-rausing-trust.org/grantee/liberties.eu/
     last_checked: 2026-05-08
-    note: Trust's grantee page for Liberties (Civil Liberties Union for Europe)
+    note: 'Trust''s grantee page for Liberties (Civil Liberties Union for Europe)'
   - url: https://www.sigrid-rausing-trust.org/grantee/panoptykon-foundation/
     last_checked: 2026-05-08
-    note: Trust's grantee page for the Panoptykon Foundation (Poland)
+    note: 'Trust''s grantee page for the Panoptykon Foundation (Poland)'
   - url: https://www.sigrid-rausing-trust.org/grantee/internet-and-jurisdiction-project/
     last_checked: 2026-05-08
-    note: Trust's grantee page for the Internet & Jurisdiction Project
+    note: 'Trust''s grantee page for the Internet & Jurisdiction Project'
   - url: https://en.wikipedia.org/wiki/Sigrid_Rausing
     last_checked: 2026-05-08
-    note: Wikipedia overview of Sigrid Rausing — biographical context and Tetra Pak family background
+    note: 'Wikipedia overview of Sigrid Rausing — biographical context and Tetra Pak family background'
   - url: https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5176745
     last_checked: 2026-05-08
-    note: UK Charity Commission record for the Sigrid Rausing Trust (charity number 1194828)
+    note: 'UK Charity Commission record for the Sigrid Rausing Trust (charity number 1194828)'
   - url: https://www.hrw.org/about/people/sigrid-rausing
     last_checked: 2026-05-08
-    note: Human Rights Watch's biographical page noting Sigrid Rausing's role as an emeritus member of HRW's international board
+    note: 'Human Rights Watch''s biographical page noting Sigrid Rausing''s role as an emeritus member of HRW''s international board'
 ---
 
 # Sigrid Rausing Trust
