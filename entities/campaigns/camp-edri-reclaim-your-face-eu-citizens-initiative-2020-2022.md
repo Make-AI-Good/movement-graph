@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [european-union, continental-europe, brussels, coalition, civil-society, eci, european-citizens-initiative, biometric-mass-surveillance, remote-biometric-identification, facial-recognition, public-space, mass-surveillance, fundamental-rights, privacy, data-protection, eu-ai-act, reclaim-your-face, ban-bs, prohibition, public-petition, grassroots-mobilisation, advocacy]
 created: 2026-05-14
-last_updated: 2026-05-18
+last_updated: 2026-05-20
 start_date: 2020-10
 end_date: ongoing
 goals: |
@@ -20,6 +20,7 @@ participating_orgs:
   - org-panoptykon-foundation
   - org-la-quadrature-du-net
   - org-bits-of-freedom
+  - org-hermes-center
 events:
   - event-edri-reclaim-your-face-eci-launch-2021-02-17
 strategies: []

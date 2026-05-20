@@ -6,14 +6,14 @@ status: active
 confidence: high
 tags: [belgium, brussels, european-union, continental-europe, network, coalition, aisbl, digital-rights, civil-liberties, privacy, data-protection, mass-surveillance, biometric-surveillance, facial-recognition, algorithmic-accountability, ai-and-human-rights, eu-ai-act, gdpr, dsa, copyright, net-neutrality, european-citizens-initiative, decolonising-digital-rights, advocacy, public-policy]
 created: 2026-05-13
-last_updated: 2026-05-15
+last_updated: 2026-05-20
 founded: 2002
 location: Brussels, Belgium
 website: https://edri.org/
 strategies: []
 key_people: [person-ella-jakubowska]
 board_and_advisors: []
-related_orgs: [org-algorithmwatch, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net]
+related_orgs: [org-algorithmwatch, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net, org-hermes-center]
 funders: [fund-open-society-foundations, fund-ford-foundation, fund-macarthur-foundation, fund-mozilla-foundation, fund-european-ai-society-fund, fund-luminate, fund-stiftung-mercator, fund-adessium-foundation]
 sources:
   - url: https://edri.org/about-us/
