@@ -13,7 +13,7 @@ website: https://algorithmwatch.org/
 strategies: []
 key_people: [person-matthias-spielkamp]
 board_and_advisors: []
-related_orgs: [org-edri, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net]
+related_orgs: [org-edri, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net, org-tasz]
 funders: [fund-european-ai-society-fund, fund-stiftung-mercator, fund-robert-bosch-stiftung, fund-civitates]
 sources:
   - url: https://algorithmwatch.org/
