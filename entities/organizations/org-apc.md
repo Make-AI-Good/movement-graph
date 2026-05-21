@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [international, global-south, network, coalition, membership-organisation, civil-society, digital-rights, human-rights, feminism, feminist-internet, gender-based-violence, internet-governance, ai-and-human-rights, ai-governance, environmental-justice, surveillance, biometric-surveillance, content-moderation, take-back-the-tech, giswatch, igf, wsis, un-engagement, ecosoc-consultative-status, sub-granting, advocacy, capacity-building, california-501c3, south-africa-office, founded-1990]
 created: 2026-05-18
-last_updated: 2026-05-18
+last_updated: 2026-05-21
 founded: 1990
 location: international (principal office in South Africa; California-registered)
 website: https://www.apc.org/
@@ -24,6 +24,7 @@ related_orgs:
   - org-safenet
   - org-tedic
   - org-open-net-korea
+  - org-intervozes
 funders:
   - fund-ford-foundation
   - fund-luminate

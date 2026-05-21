@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [brazil, rio-de-janeiro, latin-america, regional, non-profit, ngo, women-led, queer-led, feminist-tech, transfeminist, decolonial, antiracist, digital-rights, human-rights, ai-and-human-rights, automated-decision-making, facial-recognition, surveillance, privacy, data-protection, research, advocacy, creative-storytelling, design-justice, participatory-design, speculative-design, al-sur, oracle-for-transfeminist-technologies, chupadados, not-my-ai]
 created: 2026-05-14
-last_updated: 2026-05-20
+last_updated: 2026-05-21
 founded: 2015
 location: Rio de Janeiro, Brazil (Latin American reach)
 website: https://codingrights.org/
@@ -22,6 +22,7 @@ related_orgs:
   - org-pollicy
   - org-privacy-international
   - org-fundacion-via-libre
+  - org-intervozes
 funders:
   - fund-hivos
 sources:
