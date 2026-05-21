@@ -1,18 +1,19 @@
 ---
 entity_id: camp-coding-rights-anti-frt-brazil
-entity_hash: 058b4b3492551819d306e6277b886b845cab4901
-audit_date: 2026-05-18
-pass: 1
+entity_hash: edf562bc8ecc44f45ee9de58964693200be0d1f8
+audit_date: 2026-05-20
+pass: 2
 status: discrepancy
 claims_total: 26
-claims_verified: 24
+claims_verified: 25
 claims_discrepancy: 1
-claims_unverifiable: 1
+claims_unverifiable: 0
 sources_consulted:
   - https://codingrights.org/en/project-item/legislators-from-all-regions-of-brazil-present-bills-to-ban-facial-recognition-in-public-spaces/
   - https://medium.com/codingrights/reconhecimento-facial-10-anos-de-resist%C3%AAncias-e-parcerias-criativas-para-trazer-o-tema-para-o-b1b8b6a89aa2
   - https://tiremeurostodasuamira.org.br/en/open-letter/
   - https://www.biometricupdate.com/202407/as-brazil-debates-ai-bill-calls-for-facial-recognition-bans-emerge
+  - https://www.biometricupdate.com/202107/brazils-bahia-state-contracts-131m-facial-recognition-system-to-tackle-criminality
   - https://globalvoices.org/2022/06/20/brazilian-facial-recognition-ruling-can-set-an-important-precedent-for-country-wide-use/
   - https://en.wikipedia.org/wiki/Line_4_(S%C3%A3o_Paulo_Metro)
 ---
@@ -132,7 +133,7 @@ Decision: verified
 ## Claim 17: "Bahia [has been deploying] FRT-capable cameras since 2018"
 
 Source: https://tiremeurostodasuamira.org.br/en/open-letter/
-Source content: "Since 2018, Bahia has installed facial recognition cameras officially aimed at crime-fighting".
+Source content: "In the state of Bahia, since 2018, facial recognition cameras have been installed with the official purpose of fighting crime, but without proof of having effectively achieved that goal" (confirmed in re-fetch this pass).
 Comparison: State, year, and deployment characterisation match.
 Decision: verified
 
@@ -181,20 +182,20 @@ Decision: verified
 ## Claim 24: "the #TireMeuRostoDaSuaMira open letter [in 2023] ... a civil-society demand for a total ban on FRT in Brazilian public security"
 
 Source: https://tiremeurostodasuamira.org.br/en/open-letter/
-Source content: Open letter demands a total ban on FRT in Brazilian public security; lists Access Now, EFF, Coding Rights, and Instituto Aaron Swartz among signatories.
+Source content: Open letter demands a total ban on FRT in Brazilian public security; lists Access Now, EFF, Coding Rights, and Instituto Aaron Swartz among signatories (re-fetch this pass confirms).
 Comparison: Year, substantive demand, and named signatories (Coding Rights, Access Now, EFF, Aaron Swartz Institute) match.
 Decision: verified
 
 ## Claim 25: "#TireMeuRostoDaSuaMira ... signed by over 300 organisations including Coding Rights, Access Now, the Electronic Frontier Foundation, and the Instituto Aaron Swartz"
 
 Source: https://tiremeurostodasuamira.org.br/en/open-letter/
-Source content: The open-letter signatory page lists "Organizations that sign this letter" — observable count is approximately 80+ organisational signatories (Abrigo Plataforma, Ação Educativa, Access Now, Afroya Tech Hub, ARTIGO 19 Brasil e América do Sul, Associação Data Privacy Brasil de Pesquisa, Blogueiras Negras, Centro Brasileiro de Estudos de Saúde, CESeC, Coding Rights, Coalizão Direitos na Rede, data_labe, Derechos Digitales, Escola de Ativismo, Instituto Aaron Swartz, IDEC, InternetLab, Intervozes, Internet Freedom Foundation, LAPIN, ...). The letter also lists "Individual signatures" with hundreds of named individual signatories, but those are individuals rather than organisations. No "over 300 organisations" statement appears on the open-letter page itself.
-Comparison: Body claims "over 300 organisations". The cited canonical source shows ~80+ organisational signatories plus a separate list of hundreds of individual signatories. The 300+ figure is not present in the cited source, and the gap between ~80 and 300 is too large to attribute to paraphrase tolerance. Likely confabulation paths: (a) conflating individual signatories with organisational signatories; (b) a different attestation point of the letter (the page may have been updated since the body was drafted). Either way the body's specific "over 300 organisations" claim is not supported by its cited source.
+Source content: Re-fetched 2026-05-20: the "Organizations that sign this letter" section lists 66 organisational signatories. The page does not contain the phrase "over 300 organisations" or any 300+ count. The letter does carry a separate list of hundreds of individual signatories, but those are individuals rather than organisations.
+Comparison: Body claims "over 300 organisations". The cited canonical source (re-fetched this pass) confirms 66 organisational signatories — no "over 300" attestation appears on the page. Likely confabulation path: conflating individual signatories with organisational signatories. The gap (66 vs. 300+) is too large to attribute to paraphrase tolerance. Discrepancy persists from pass 1.
 Decision: discrepancy
 
 ## Claim 26: "Bahia [is deploying FRT] notably in Bahia, with a R$665 million expansion to over 70 municipalities" (from frontmatter outcomes prose)
 
-Source: no canonical source found in the entity's cited sources
-Source content: The Biometric Update article (the closest cited industry-press secondary source) makes no mention of R$665 million funding or 70 municipalities for Bahia FRT expansion. The #TireMeuRostoDaSuaMira open letter confirms Bahia FRT deployment since 2018 but does not name a funding amount or municipality count. The Coding Rights project-item page does not provide these figures either.
-Comparison: The specific quantitative claims (R$665 million; over 70 municipalities) are not findable in any of the entity's cited sources, and no additional canonical source was located in this audit pass that confirms them. The claim is financial-specifics-bearing (Wikipedia tiebreaker-only category) so even a Wikipedia confirmation would need ≥1 other canonical source.
-Decision: unverifiable
+Source: https://www.biometricupdate.com/202107/brazils-bahia-state-contracts-131m-facial-recognition-system-to-tackle-criminality
+Source content: "Real 665 million (US$131 million)" for the biometric system; "deployed in the State capital Salvador and in 77 other cities" — i.e. 78 municipalities total.
+Comparison: Body amount "R$665 million" matches Biometric Update's "Real 665 million" exactly. Body "over 70 municipalities" matches Biometric Update's Salvador + 77 = 78 municipalities. (Edgelands Institute mentions a higher "more than R$ 680 millions" cumulative-investment figure and "more than 70 cities", which is consistent in the body's direction but less specific.) The contract figure and municipality count are now both supported by an independent canonical industry-press source. Reclassifying from pass 1 unverifiable to verified.
+Decision: verified
