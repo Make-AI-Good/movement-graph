@@ -17,6 +17,7 @@ propagated_by_orgs:
 related_messages:
   - msg-feminist-ai
   - msg-not-my-ai
+  - msg-automating-banishment
 sources:
   - url: https://www.sup.org/books/title/?id=28816
     last_checked: 2026-05-15

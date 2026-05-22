@@ -15,6 +15,7 @@ propagated_by_orgs:
   - org-mediajustice
 related_messages:
   - msg-no-tech-for-apartheid
+  - msg-automating-banishment
 sources:
   - url: https://notechforice.com/
     last_checked: 2026-05-18

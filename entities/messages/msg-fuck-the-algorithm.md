@@ -15,6 +15,7 @@ related_messages:
   - msg-laquadrature-caf-algorithm
   - msg-robodebt
   - msg-toeslagenaffaire
+  - msg-automating-banishment
 sources:
   - url: https://novaramedia.com/2020/08/17/fuck-the-algorithm-how-a-level-students-have-shown-future-of-protest/
     last_checked: 2026-05-13
