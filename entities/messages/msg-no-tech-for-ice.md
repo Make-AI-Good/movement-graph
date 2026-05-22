@@ -16,6 +16,7 @@ propagated_by_orgs:
 related_messages:
   - msg-no-tech-for-apartheid
   - msg-automating-banishment
+  - msg-google-not-in-the-business-of-war
 sources:
   - url: https://notechforice.com/
     last_checked: 2026-05-18

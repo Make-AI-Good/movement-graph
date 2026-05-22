@@ -16,6 +16,7 @@ propagated_by_orgs:
 related_messages:
   - msg-modern-slavery-content-moderation
   - msg-no-tech-for-ice
+  - msg-google-not-in-the-business-of-war
 sources:
   - url: https://laborforpalestine.net/2021/10/12/we-are-google-and-amazon-workers-we-condemn-project-nimbus-the-guardian/
     last_checked: 2026-05-18
