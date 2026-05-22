@@ -16,6 +16,7 @@ lead_orgs:
 participating_orgs:
   - org-pauseai
 events:
+  - event-pauseai-uk-bletchley-park-protest-2023
   - event-pauseai-international-day-of-action-2024-05-13
 strategies: []
 outcomes: |
