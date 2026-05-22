@@ -8,7 +8,7 @@ tags: [advocacy, humanitarian-disarmament, autonomous-weapons, lethal-autonomous
 created: 2026-05-13
 last_updated: 2026-05-13
 person_entry: person-mary-wareham
-notable_for: Anchoring the public voice of the humanitarian-disarmament case against lethal autonomous weapons over more than a decade — through the founding global coordinatorship of Stop Killer Robots (2013–March 2021), HRW Arms Division op-eds and Just Security columns, sustained UN advocacy at the CCW in Geneva and the General Assembly First Committee in New York, congressional briefings, and the signature framing that the issue is fundamentally about "removing human control from the use of force"
+notable_for: 'Anchoring the public voice of the humanitarian-disarmament case against lethal autonomous weapons over more than a decade — through the founding global coordinatorship of Stop Killer Robots (2013–March 2021), HRW Arms Division op-eds and Just Security columns, sustained UN advocacy at the CCW in Geneva and the General Assembly First Committee in New York, congressional briefings, and the signature framing that the issue is fundamentally about "removing human control from the use of force"'
 public_profiles:
   - platform: hrw
     url: https://www.hrw.org/about/people/mary-wareham
@@ -28,7 +28,7 @@ sources:
     note: Stop Killer Robots' spokespersons page identifying Wareham's continuing role as a named coalition spokesperson after her 2021 step-down from global coordinator
   - url: https://www.stopkillerrobots.org/news/passing-the-baton/
     last_checked: 2026-05-13
-    note: SKR's March 2021 "Passing the Baton" announcement marking her step-down as global coordinator and her continuation in the HRW advocacy-director role
+    note: 'SKR''s March 2021 "Passing the Baton" announcement marking her step-down as global coordinator and her continuation in the HRW advocacy-director role'
   - url: https://www.justsecurity.org/author/warehammary/
     last_checked: 2026-05-13
     note: Just Security author page listing Wareham's nine bylines 2014–2025, of which the most cited in the autonomous-weapons literature is the March 2023 piece with Bonnie Docherty
@@ -37,19 +37,19 @@ sources:
     note: Just Security (6 March 2023, co-authored with Bonnie Docherty) on the Belén Communiqué — the most-cited article framing the regional-state-coalition strategy that enabled the move from the consensus-blocked CCW track to the UN General Assembly First Committee track
   - url: https://shs.cairn.info/article/E_RIS_096_0097?lang=en
     last_checked: 2026-05-13
-    note: Wareham's "We Need to Stop 'Killer Robots'" in Revue internationale et stratégique 2014/4 No. 96 (pp. 97–106) — her sole single-authored peer-style academic article and the earliest sustained published statement of the campaign's case
+    note: 'Wareham''s "We Need to Stop ''Killer Robots''" in Revue internationale et stratégique 2014/4 No. 96 (pp. 97–106) — her sole single-authored peer-style academic article and the earliest sustained published statement of the campaign''s case'
   - url: https://www.hrw.org/news/2024/01/03/killer-robots-un-vote-should-spur-action-treaty
     last_checked: 2026-05-13
-    note: HRW dispatch (3 January 2024) carrying Wareham's "technological change is rapidly advancing a future of automated killing that needs to be stopped" line — one of the most-cited statements of her current framing
+    note: 'HRW dispatch (3 January 2024) carrying Wareham''s "technological change is rapidly advancing a future of automated killing that needs to be stopped" line — one of the most-cited statements of her current framing'
   - url: https://www.hrw.org/news/2024/12/05/killer-robots-un-vote-should-spur-treaty-negotiations
     last_checked: 2026-05-13
-    note: HRW dispatch (5 December 2024) on UNGA Resolution 79/62, with Wareham's "move from talking about this challenge to negotiating a new treaty" line
+    note: 'HRW dispatch (5 December 2024) on UNGA Resolution 79/62, with Wareham''s "move from talking about this challenge to negotiating a new treaty" line'
   - url: https://www.hrw.org/news/2025/05/21/un-start-talks-treaty-ban-killer-robots
     last_checked: 2026-05-13
-    note: HRW news (21 May 2025) on the 12–13 May 2025 UN informal consultations, with Wareham's "autonomous weapons systems will invariably violate international humanitarian law and human rights law" line
+    note: 'HRW news (21 May 2025) on the 12–13 May 2025 UN informal consultations, with Wareham''s "autonomous weapons systems will invariably violate international humanitarian law and human rights law" line'
   - url: https://www.hrw.org/report/2020/08/10/stopping-killer-robots/country-positions-banning-fully-autonomous-weapons-and
     last_checked: 2026-05-13
-    note: HRW's August 2020 report *Stopping Killer Robots: Country Positions on Banning Fully Autonomous Weapons and Retaining Human Control*, Wareham's most-cited authored report on the campaign side
+    note: 'HRW''s August 2020 report *Stopping Killer Robots: Country Positions on Banning Fully Autonomous Weapons and Retaining Human Control*, Wareham''s most-cited authored report on the campaign side'
   - url: https://www.stopkillerrobots.org/wp-content/uploads/2021/09/KRC_StatementCCW_28June2019_Delivered.pdf
     last_checked: 2026-05-13
     note: SKR record of Wareham's 28 June 2019 CCW intervention as Campaign Coordinator — one of dozens of named multilateral interventions she delivered between 2013 and 2021
@@ -58,10 +58,10 @@ sources:
     note: SKR record of Wareham's 2 November 2020 statement as Campaign Coordinator — a representative late-coordinator-era multilateral statement
   - url: https://www.wgtn.ac.nz/victorious/issues/victorious-2021/the-human-stopping-killer-robots
     last_checked: 2026-05-13
-    note: Victoria University of Wellington alumni magazine *Victorious* (2021) long-form profile — primary source for the New Zealand biographical material and the "180 organisations across 65+ countries" growth metric
+    note: 'Victoria University of Wellington alumni magazine *Victorious* (2021) long-form profile — primary source for the New Zealand biographical material and the "180 organisations across 65+ countries" growth metric'
   - url: https://thehill.com/business-a-lobbying/lobbyist-profiles/376851-fighting-the-rise-of-the-machines
     last_checked: 2026-05-13
-    note: The Hill's March 2018 "Fighting the rise of the machines" lobbyist profile of Wareham as Campaign Coordinator — primary press source for the "flashy name" framing of the Campaign to Stop Killer Robots's chosen branding
+    note: 'The Hill''s March 2018 "Fighting the rise of the machines" lobbyist profile of Wareham as Campaign Coordinator — primary press source for the "flashy name" framing of the Campaign to Stop Killer Robots''s chosen branding'
   - url: https://x.com/marywareham
     last_checked: 2026-05-13
     note: Wareham's X account (joined March 2009, 14.5K followers) — the long-running social-media venue from which she ran the Campaign's public commentary during the coordinator years
