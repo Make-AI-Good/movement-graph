@@ -22,6 +22,7 @@ related_messages:
   - msg-banthescan
   - msg-laquadrature-caf-algorithm
   - msg-whyid
+  - msg-tire-meu-rosto-da-sua-mira
 sources:
   - url: https://reclaimyourface.eu/
     last_checked: 2026-05-14

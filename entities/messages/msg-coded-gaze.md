@@ -15,6 +15,7 @@ propagated_by_orgs:
   - org-algorithmic-justice-league
 related_messages:
   - msg-feminist-ai
+  - msg-tire-meu-rosto-da-sua-mira
 sources:
   - url: https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms
     last_checked: 2026-05-13

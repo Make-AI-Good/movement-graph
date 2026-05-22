@@ -18,6 +18,7 @@ related_messages:
   - msg-keepiton
   - msg-gobierno-espia
   - msg-hashtag-palestine
+  - msg-tire-meu-rosto-da-sua-mira
 sources:
   - url: https://banthescan.amnesty.org/
     last_checked: 2026-05-15

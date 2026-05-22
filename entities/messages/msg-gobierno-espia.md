@@ -18,6 +18,7 @@ related_messages:
   - msg-banthescan
   - msg-hashtag-palestine
   - msg-laquadrature-caf-algorithm
+  - msg-tire-meu-rosto-da-sua-mira
 sources:
   - url: https://r3d.mx/2017/06/19/gobierno-espia/
     last_checked: 2026-05-15

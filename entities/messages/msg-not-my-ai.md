@@ -16,6 +16,7 @@ propagated_by_orgs:
 related_messages:
   - msg-feminist-ai
   - msg-data-colonialism
+  - msg-tire-meu-rosto-da-sua-mira
 sources:
   - url: https://notmy.ai/
     last_checked: 2026-05-18
