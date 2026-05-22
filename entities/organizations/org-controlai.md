@@ -29,13 +29,13 @@ sources:
     note: UK campaign statement and current signatory list — used for named cross-party MPs and peers
   - url: https://www.transformernews.ai/p/a-brief-guide-to-anti-ai-activist-stop-ai-pauseai-controlai
     last_checked: 2026-05-13
-    note: Transformer News comparative guide to anti-AI activist groups — primary source for 2023 founding-year, Conjecture-offshoot lineage, the AI Safety Summit blimp, and the "Westminster inside-game" tactical positioning
+    note: 'Transformer News comparative guide to anti-AI activist groups — primary source for 2023 founding-year, Conjecture-offshoot lineage, the AI Safety Summit blimp, and the "Westminster inside-game" tactical positioning'
   - url: https://en.wikipedia.org/wiki/Connor_Leahy
     last_checked: 2026-05-13
     note: Wikipedia entry — corroborates Connor Leahy's co-founding role and the November 2023 AI Safety Summit context
   - url: https://www.narrowpath.co/
     last_checked: 2026-05-13
-    note: "A Narrow Path" — ControlAI's flagship policy plan, published 19 March 2026, authored by Andrea Miotti, Tolga Bilge, Dave Kasten, and James Newport
+    note: '"A Narrow Path" — ControlAI''s flagship policy plan, published 19 March 2026, authored by Andrea Miotti, Tolga Bilge, Dave Kasten, and James Newport'
   - url: https://committees.parliament.uk/writtenevidence/148236/pdf/
     last_checked: 2026-05-13
     note: UK Parliament written-evidence submission RAI0031 by Andrea Miotti and Steven Adler — primary source for ControlAI's submitted policy positions to a parliamentary committee
