@@ -18,7 +18,7 @@ sources:
     note: Foundation's own home page
   - url: https://www.nuffieldfoundation.org/about
     last_checked: 2026-05-13
-    note: "About" page — founding date (1943), mission, five-programme structure, three associated research centres
+    note: '"About" page — founding date (1943), mission, five-programme structure, three associated research centres'
   - url: https://en.wikipedia.org/wiki/Nuffield_Foundation
     last_checked: 2026-05-13
     note: Wikipedia overview — founder, charitable purpose, governance, and headline figures
@@ -65,7 +65,7 @@ The institutional arrangement is unusual in the UK funder landscape. The Foundat
 
 ## Science, Technology and Society programme
 
-Beyond the Ada Lovelace Institute, the Foundation runs a [Science, Technology and Society](https://www.nuffieldfoundation.org/evidence-and-impact/science-and-technology) programme that funds standalone research projects examining how data, algorithms and emerging technologies are governed and how their adoption distributes opportunity and harm across different groups in society. The programme's stated theory of change is to "develop the evidence base, governance models and policy insights needed to deliver equitable outcomes," with a particular emphasis on how data and AI technologies reshape work and the public sector. Currently funded projects under this programme include the [Pissarides Review](https://www.nuffieldfoundation.org/evidence-and-impact/science-and-technology) into the future of work and well-being, which examines the social and economic implications of automation technologies, and [Code Encounters](https://www.nuffieldfoundation.org/evidence-and-impact/science-and-technology), a study of algorithmic risk-profiling tools used by mortgage lenders. These projects sit adjacent to, rather than inside, the Ada Lovelace Institute's portfolio and extend the Foundation's footprint in the algorithmic-accountability research field beyond its hosted centre.
+Beyond the Ada Lovelace Institute, the Foundation runs a [Science, Technology and Society](https://www.nuffieldfoundation.org/evidence-and-impact/science-and-technology) programme that funds standalone research projects examining how data, algorithms and emerging technologies are governed and how their adoption distributes opportunity and harm across different groups in society. The programme's stated theory of change is to "develop the evidence base, governance models and policy insights needed to deliver equitable outcomes," with a particular emphasis on how data and AI technologies reshape work and the public sector. Currently funded projects under this programme include the [Pissarides Review](https://www.nuffieldfoundation.org/evidence-and-impact/science-and-technology) into the future of work and well-being, which examines the social and economic implications of automation technologies, and [Code Encounters](https://www.nuffieldfoundation.org/evidence-and-impact/science-and-technology), a study of algorithmic risk-profiling tools used by lenders. These projects sit adjacent to, rather than inside, the Ada Lovelace Institute's portfolio and extend the Foundation's footprint in the algorithmic-accountability research field beyond its hosted centre.
 
 ## Relationship to the broader AI-good movement
 
