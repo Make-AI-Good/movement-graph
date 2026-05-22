@@ -27,6 +27,12 @@ Ten types. Each lives in `product/entities/<type>/<id>.md` with YAML frontmatter
 - **Voice** — content type; richer entries for individuals whose public output the corpus tracks. See "Person / Voice" below.
 - **Publication** — substantive works (books, reports, manifestos, foundational essays, ongoing newsletters)
 
+## Frontmatter syntax — strict YAML 1.2
+
+Every entity's frontmatter MUST parse with a stock YAML 1.2 library (PyYAML, js-yaml, `yq`, etc.). The schema is the cross-team data contract (`PROJECT-2-PROPOSAL.md §9`); downstream consumers may use any conforming parser, and producers do not assume consumer-side tolerance.
+
+The most common strict-mode failure: unquoted scalar values containing colon-space (`: `) — typically a `sources[].note` of the form `Title: Subtitle`. YAML 1.2 parses this as a nested mapping, not a string. Single-quote the whole scalar. Other YAML-indicator characters at the start of a scalar (`*` `&` `!` `|` `>` `%` `?` `,` `[` `]` `{` `}` `#`) require the same quoting. The Editor's `Frontmatter validity` and `Frontmatter prose-quoting repair` acts enforce this mechanically.
+
 ## Common frontmatter
 
 Every entity has these:
