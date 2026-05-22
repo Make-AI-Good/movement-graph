@@ -15,7 +15,8 @@ participating_orgs:
   - org-pauseai
 participating_people:
   - person-joep-meindertsma
-related_events: []
+related_events:
+  - event-pauseai-paris-ai-action-summit-protests-2025-02
 sources:
   - url: https://pauseai.info/2024-may
     last_checked: 2026-05-13
