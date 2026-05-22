@@ -20,16 +20,16 @@ funders: []
 sources:
   - url: https://paradigmhq.org/
     last_checked: 2026-05-14
-    note: Paradigm Initiative's own home page — primary source for the mission framing ("Connecting African youth with digital opportunities and ensuring digital rights for all"), the Lagos headquarters (374 Borno Way, Yaba), the two-pillar programme structure (Digital Inclusion and Digital Rights), and the named sub-programmes (Dufuna and LIFE under Digital Inclusion; Ayeta, RIPOTI, Strategic Litigation, and Research under Digital Rights)
+    note: 'Paradigm Initiative''s own home page — primary source for the mission framing ("Connecting African youth with digital opportunities and ensuring digital rights for all"), the Lagos headquarters (374 Borno Way, Yaba), the two-pillar programme structure (Digital Inclusion and Digital Rights), and the named sub-programmes (Dufuna and LIFE under Digital Inclusion; Ayeta, RIPOTI, Strategic Litigation, and Research under Digital Rights)'
   - url: https://drif.paradigmhq.org/
     last_checked: 2026-05-14
-    note: Digital Rights and Inclusion Forum's own site — primary source for the DRIF26 (2026) edition scheduled at the Radisson Blu in Abidjan, Côte d'Ivoire with country partner Coalition Ivoirienne des Défenseurs des Droits Humains (CIDDH), the "Over 800 participants registered" figure for DRIF26, and confirmation of Paradigm Initiative as the convening organisation
+    note: 'Digital Rights and Inclusion Forum''s own site — primary source for the DRIF26 (2026) edition scheduled at the Radisson Blu in Abidjan, Côte d''Ivoire with country partner Coalition Ivoirienne des Défenseurs des Droits Humains (CIDDH), the "Over 800 participants registered" figure for DRIF26, and confirmation of Paradigm Initiative as the convening organisation'
   - url: https://drif.paradigmhq.org/about-drif/
     last_checked: 2026-05-14
     note: DRIF About page — primary source for DRIF's role as the principal pan-African convening venue on digital policy
   - url: https://paradigmhq.org/ten-years-later-how-paradigm-initiatives-digital-rights-and-inclusion-forum-helped-shape-the-digital-rights-agenda-in-africa/
     last_checked: 2026-05-14
-    note: Paradigm Initiative's ten-year DRIF retrospective — primary source for the August 2013 invitation letters to 53 Nigerians, the 20 September 2013 first Internet Freedom Forum (IFF), the 29 May 2013 *Nigeria: Making A Case For Enduring Internet Freedom* policy brief, the renaming of the outcome document to *An Internet Freedom Declaration for Nigeria*, the 13 December 2013 second IFF in Lagos, and the subsequent renaming of IFF to the Digital Rights and Inclusion Forum (DRIF)
+    note: 'Paradigm Initiative''s ten-year DRIF retrospective — primary source for the August 2013 invitation letters to 53 Nigerians, the 20 September 2013 first Internet Freedom Forum (IFF), the 29 May 2013 *Nigeria: Making A Case For Enduring Internet Freedom* policy brief, the renaming of the outcome document to *An Internet Freedom Declaration for Nigeria*, the 13 December 2013 second IFF in Lagos, and the subsequent renaming of IFF to the Digital Rights and Inclusion Forum (DRIF)'
   - url: https://paradigmhq.org/press-release-plans-are-in-top-gear-for-the-10th-edition-of-the-digital-rights-and-inclusion-forum-drif23-in-nairobi-kenya/
     last_checked: 2026-05-14
     note: Paradigm Initiative press release on DRIF23 — primary source confirming DRIF23 as the 10th edition of the Forum held in Nairobi, Kenya in 2023
@@ -47,10 +47,10 @@ sources:
     note: Paradigm Initiative team page for 'Gbenga Sesan — primary source for his role as Executive Director, the six sub-regional offices (Cameroon, Kenya, Nigeria, Senegal, Zambia, Zimbabwe), interventions across more than 27 African countries, his participation in the International Panel on the Information Environment (launched at the 2023 Nobel Prize Summit), and his work on Internet freedom and AI
   - url: https://en.wikipedia.org/wiki/Gbenga_Sesan
     last_checked: 2026-05-14
-    note: Wikipedia biographical article on 'Gbenga Sesan — secondary source for his 27 July 1977 birth in Akure, Ondo State; his Electronic and Electrical Engineering degree from Obafemi Awolowo University (2002); his 2007 Ashoka Fellowship; the 2014 Schwab Foundation Social Entrepreneur of the Year recognition; CNN's 2012 "10 Leading African Tech Voices" naming; and his 2022 appointment to the UN Secretary-General's Internet Governance Forum Leadership Panel
+    note: 'Wikipedia biographical article on ''Gbenga Sesan — secondary source for his 27 July 1977 birth in Akure, Ondo State; his Electronic and Electrical Engineering degree from Obafemi Awolowo University (2002); his 2007 Ashoka Fellowship; the 2014 Schwab Foundation Social Entrepreneur of the Year recognition; CNN''s 2012 "10 Leading African Tech Voices" naming; and his 2022 appointment to the UN Secretary-General''s Internet Governance Forum Leadership Panel'
   - url: https://digitalrightswatch.org.au/2016/06/09/launch-of-global-keepiton-campaign-with-nearly-70-organizations-committing-to-fight-internet-shutdowns/
     last_checked: 2026-05-14
-    note: Digital Rights Watch Australia 9 June 2016 announcement of the #KeepItOn launch — independent secondary source naming Paradigm Initiative Nigeria as one of the "nearly 70" founding coalition organisations at RightsCon Silicon Valley 2016
+    note: 'Digital Rights Watch Australia 9 June 2016 announcement of the #KeepItOn launch — independent secondary source naming Paradigm Initiative Nigeria as one of the "nearly 70" founding coalition organisations at RightsCon Silicon Valley 2016'
   - url: https://www.apc.org/en/news/interview-gbenga-sesan-what-important-digital-rights-campaign-nigeria-and-beyond-ensuring
     last_checked: 2026-05-14
     note: Association for Progressive Communications interview with 'Gbenga Sesan — secondary source corroborating his framing of the digital-rights campaign in Nigeria and beyond, and the connection between digital rights and people's day-to-day experiences as the organising principle of Paradigm Initiative's advocacy
