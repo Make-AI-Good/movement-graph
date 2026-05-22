@@ -15,22 +15,22 @@ key_people: []
 sources:
   - url: https://pause-ai.de/
     last_checked: 2026-05-15
-    note: PauseAI Deutschland's home page — primary self-description as the German chapter of the international PauseAI movement; mission framed as "Wir klären über KI-Risiken auf und setzen uns für sichere KI-Entwicklung ein"; lists the chapter's current "Nicht nur dein Job" campaign and routes supporters to the email germany@pauseai.info, the pauseaide.substack.com newsletter, and Instagram / X / TikTok / YouTube channels at @pause_ai_germany / @pauseai_de
+    note: 'PauseAI Deutschland''s home page — primary self-description as the German chapter of the international PauseAI movement; mission framed as "Wir klären über KI-Risiken auf und setzen uns für sichere KI-Entwicklung ein"; lists the chapter''s current "Nicht nur dein Job" campaign and routes supporters to the email germany@pauseai.info, the pauseaide.substack.com newsletter, and Instagram / X / TikTok / YouTube channels at @pause_ai_germany / @pauseai_de'
   - url: https://pause-ai.de/ueber-uns
     last_checked: 2026-05-15
-    note: PauseAI Deutschland's "Über uns" page — names co-leaders Benjamin Schmidt (bioinformatician at Martin-Luther-Universität Halle-Wittenberg) and Simon (KI-Sicherheitsforscher), plus team members Hauke (political science student, Freiburg), Adrian (mathematics student, Bonn), and Karen (architecture student, Dresden); states the chapter "demand a global agreement that prevents development of uncontrollable AI systems"
+    note: 'PauseAI Deutschland''s "Über uns" page — names co-leaders Benjamin Schmidt (bioinformatician at Martin-Luther-Universität Halle-Wittenberg) and Simon (KI-Sicherheitsforscher), plus team members Hauke (political science student, Freiburg), Adrian (mathematics student, Bonn), and Karen (architecture student, Dresden); states the chapter "demand a global agreement that prevents development of uncontrollable AI systems"'
   - url: https://pause-ai.de/nicht-nur-dein-job
     last_checked: 2026-05-15
-    note: "Nicht nur dein Job" campaign page — frames AI control loss as a threat beyond employment to autonomy, democracy, and human existence; tracks AI-related job losses since January 2025; calls for a binding international agreement, independent safety verification before deployment, and democratic participation in AI technology decisions; cites jobloss.ai, Anthropic, BSI, ifo Institut, and Bitkom as data sources
+    note: '"Nicht nur dein Job" campaign page — frames AI control loss as a threat beyond employment to autonomy, democracy, and human existence; tracks AI-related job losses since January 2025; calls for a binding international agreement, independent safety verification before deployment, and democratic participation in AI technology decisions; cites jobloss.ai, Anthropic, BSI, ifo Institut, and Bitkom as data sources'
   - url: https://pause-ai.de/appell
     last_checked: 2026-05-15
-    note: PauseAI Deutschland's Appell zum KI-Gipfel 2026 — primary source for the Delhi AI Impact Summit appeal launched 18 February 2026; calls on the German delegation to publicly advocate for a global AI safety agreement built on two principles ("Rote Linien" prohibiting AI systems posing unacceptable global risks, and binding safety standards with independent international enforcement); names Peter Scholze (2018 Fields Medalist, Max-Planck-Institut für Mathematik) and Andrzej J. Buras (Max-Planck-Medaille 2020, TU München) among signatories
+    note: 'PauseAI Deutschland''s Appell zum KI-Gipfel 2026 — primary source for the Delhi AI Impact Summit appeal launched 18 February 2026; calls on the German delegation to publicly advocate for a global AI safety agreement built on two principles ("Rote Linien" prohibiting AI systems posing unacceptable global risks, and binding safety standards with independent international enforcement); names Peter Scholze (2018 Fields Medalist, Max-Planck-Institut für Mathematik) and Andrzej J. Buras (Max-Planck-Medaille 2020, TU München) among signatories'
   - url: https://www.lobbyregister.bundestag.de/suche/R007813
     last_checked: 2026-05-15
-    note: PauseAI Germany's official entry in the German federal Lobbyregister beim Deutschen Bundestag (Registereintrag R007813), registered 28 January 2026 — names the chapter as an "Informelle Bürgerbewegung ohne eigene Rechtspersönlichkeit" with operating address Bodestraße 6, 06122 Halle (Saale); names Benjamin Schmidt (Master Informatik) and Simon Skade (Bachelor Informatik) as Leitungsebene; lists 5 lobbyists (Karen Ihrke, Evander Hammer, Adrian Balthasar Glubrecht, Benjamin Schmidt, Simon Skade); records 101 members as of 19 January 2026 and €0 lobbying expenditure / 0.00 FTE for 2025
+    note: 'PauseAI Germany''s official entry in the German federal Lobbyregister beim Deutschen Bundestag (Registereintrag R007813), registered 28 January 2026 — names the chapter as an "Informelle Bürgerbewegung ohne eigene Rechtspersönlichkeit" with operating address Bodestraße 6, 06122 Halle (Saale); names Benjamin Schmidt (Master Informatik) and Simon Skade (Bachelor Informatik) as Leitungsebene; lists 5 lobbyists (Karen Ihrke, Evander Hammer, Adrian Balthasar Glubrecht, Benjamin Schmidt, Simon Skade); records 101 members as of 19 January 2026 and €0 lobbying expenditure / 0.00 FTE for 2025'
   - url: https://pauseai.info/communities
     last_checked: 2026-05-15
-    note: PauseAI Global's communities directory — lists "Deutschland" as a national PauseAI community and routes supporters to pause-ai.de as the chapter's primary public-facing site
+    note: 'PauseAI Global''s communities directory — lists "Deutschland" as a national PauseAI community and routes supporters to pause-ai.de as the chapter''s primary public-facing site'
   - url: https://pauseai.info/about
     last_checked: 2026-05-15
     note: PauseAI Global's About page — names Benjamin Schmidt as PauseAI Germany's national leader within the federation alongside the U.S., U.K., Canada, France, Australia, Spain, and Italy chapter leads; cited in org-pauseai
@@ -42,13 +42,13 @@ sources:
     note: PauseAI Global's writeup of the 7-11 February 2025 international protest wave around the Paris AI Action Summit — Berlin listed among the twenty participating cities
   - url: https://radiocorax.de/pauseai-ki-sicherheitsabkommen-zum-delhi-gipfel/
     last_checked: 2026-05-15
-    note: Radio CORAX (Halle community-radio) interview published 23 February 2026 with Simon Skade (AI safety researcher and appeal organiser) and Benjamin Schmidt (bioinformatician at MLU Halle and chair of PauseAI Germany) — primary source naming Schmidt as chair of PauseAI Germany and confirming the appeal called for "clear limits for AI training and binding safety standards at the international level" ahead of the Delhi summit
+    note: 'Radio CORAX (Halle community-radio) interview published 23 February 2026 with Simon Skade (AI safety researcher and appeal organiser) and Benjamin Schmidt (bioinformatician at MLU Halle and chair of PauseAI Germany) — primary source naming Schmidt as chair of PauseAI Germany and confirming the appeal called for "clear limits for AI training and binding safety standards at the international level" ahead of the Delhi summit'
   - url: https://dubisthalle.de/ki-systeme-ausser-kontrolle-17-professorinnen-und-professoren-der-uni-halle-fordern-ki-sicherheitsabkommen/
     last_checked: 2026-05-15
     note: Du bist Halle local-newspaper coverage — primary source for the 17 professors at Martin-Luther-Universität Halle-Wittenberg as a named cluster within the Delhi appeal's signatory list, anchoring PauseAI Germany's Halle academic-community organising
   - url: https://www.forschung-und-lehre.de/politik/ueber-140-professorinnen-und-professoren-fordern-ki-sicherheit-7541
     last_checked: 2026-05-15
-    note: Forschung & Lehre coverage — independent secondary source citing the "Pressemitteilung der Bürgerinitiative PauseAI Deutschland vom 18. Februar" and reporting that more than 140 German university professors signed the appeal, with ten researchers from the University of Bonn and the Max-Planck-Institut für Mathematik named among the signatories
+    note: 'Forschung & Lehre coverage — independent secondary source citing the "Pressemitteilung der Bürgerinitiative PauseAI Deutschland vom 18. Februar" and reporting that more than 140 German university professors signed the appeal, with ten researchers from the University of Bonn and the Max-Planck-Institut für Mathematik named among the signatories'
   - url: https://linktr.ee/pauseai.germany
     last_checked: 2026-05-15
     note: PauseAI Germany's Linktree — central social-media hub linking the chapter's Instagram, TikTok, X, YouTube, Substack newsletter, and pause-ai.de website
