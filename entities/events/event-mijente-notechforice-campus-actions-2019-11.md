@@ -6,10 +6,11 @@ status: historical
 confidence: high
 tags: [us, uk, international, multi-site, national, coordinated-day-of-action, day-of-action, multi-campus-protest, campus-organising, student-organising, tech-talent-pipeline-disruption, recruitment-disruption, career-fair-disruption, sponsorship-pressure, no-tech-for-ice, palantir-accountability, falcon, federal-contracting, ice, immigration-enforcement, mijente, latinx-led, racial-justice, tech-justice, big-tech-accountability, surveillance-tech-accountability, mississippi-raid]
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-05-22
 date: 2019-11-19
 location: multi-site (sixteen universities across the United States and the United Kingdom)
 event_type: coordinated international day of action
+campaign: camp-mijente-no-tech-for-ice-2018-ongoing
 participating_orgs:
   - org-mijente
 participating_people: []
