@@ -15,28 +15,28 @@ key_people: []
 sources:
   - url: https://pauseai.info/australia
     last_checked: 2026-05-15
-    note: PauseAI Australia's dedicated chapter page on PauseAI's federation site — primary self-description as the Australian national chapter; states verbatim that "PauseAI Australia Ltd is an incorporated not-for-profit"; lists the chapter's four stated activities (raise public awareness of AI risks, advocate to politicians and policymakers, support international coordination for AI safety, strengthen the global PauseAI movement); routes supporters to the chapter's Luma calendar, a Facebook group (groups/571590459293618), Instagram (@pauseaiaustralia), YouTube, LinkedIn, and WhatsApp channels, and to a PayID donation channel (85692218938); chapter contact at australia@pauseai.info
+    note: 'PauseAI Australia''s dedicated chapter page on PauseAI''s federation site — primary self-description as the Australian national chapter; states verbatim that "PauseAI Australia Ltd is an incorporated not-for-profit"; lists the chapter''s four stated activities (raise public awareness of AI risks, advocate to politicians and policymakers, support international coordination for AI safety, strengthen the global PauseAI movement); routes supporters to the chapter''s Luma calendar, a Facebook group (groups/571590459293618), Instagram (@pauseaiaustralia), YouTube, LinkedIn, and WhatsApp channels, and to a PayID donation channel (85692218938); chapter contact at australia@pauseai.info'
   - url: https://pauseai.info/about
     last_checked: 2026-05-15
-    note: PauseAI Global's About page — names Michael Huang and Peter Horniak as the Australian national-chapter leads, the only PauseAI national chapter with two co-listed leaders on this page alongside the federation's other single-leader chapters in the US (Holly Elmore), UK (Joseph Miller), France (Clémence Peyrot), Germany (Benjamin Schmidt), Spain (Ayoze García González), Italy (Giulia Consonni), Sweden (Carl), Czechia (Matěj Jaroš), Romania (Raluca Spataru), Nigeria (Khadija Sabiu), Kenya (Seth Momanyi Ouko), Serbia (Svetozar Jankovic), and Canada (Jeremy Eliosoff)
+    note: 'PauseAI Global''s About page — names Michael Huang and Peter Horniak as the Australian national-chapter leads, the only PauseAI national chapter with two co-listed leaders on this page alongside the federation''s other single-leader chapters in the US (Holly Elmore), UK (Joseph Miller), France (Clémence Peyrot), Germany (Benjamin Schmidt), Spain (Ayoze García González), Italy (Giulia Consonni), Sweden (Carl), Czechia (Matěj Jaroš), Romania (Raluca Spataru), Nigeria (Khadija Sabiu), Kenya (Seth Momanyi Ouko), Serbia (Svetozar Jankovic), and Canada (Jeremy Eliosoff)'
   - url: https://pauseai.info/communities
     last_checked: 2026-05-15
-    note: PauseAI Global's communities directory — lists Australia among the national PauseAI chapters and routes supporters to pauseai.info/australia as the chapter's primary public-facing site, alongside Canada, Czechia, France, Germany, Italy, Kenya, Netherlands, Nigeria, Poland, Romania, Serbia, Spain, Sweden, the UK, and the US
+    note: 'PauseAI Global''s communities directory — lists Australia among the national PauseAI chapters and routes supporters to pauseai.info/australia as the chapter''s primary public-facing site, alongside Canada, Czechia, France, Germany, Italy, Kenya, Netherlands, Nigeria, Poland, Romania, Serbia, Spain, Sweden, the UK, and the US'
   - url: https://luma.com/pauseaiaustralia
     last_checked: 2026-05-15
-    note: PauseAI Australia's Luma calendar — primary event-discovery and registration channel; names Peter Horniak as the chapter's recurring multi-city events organiser across Melbourne, Canberra, and Sydney, with Mark Brown co-organising the Melbourne "While We Still Can: The AI Revolution and Our Last Chance to Steer the Future" talk; lists "Canberra: Casual Catchups" at Libraries ACT — Tuggeranong as a recurring local-meetup series, the "PauseAI @AI Safety Forum 2026" convening at Camperdown, and a placeholder "PauseAI @NeurIPS" Sydney engagement
+    note: 'PauseAI Australia''s Luma calendar — primary event-discovery and registration channel; names Peter Horniak as the chapter''s recurring multi-city events organiser across Melbourne, Canberra, and Sydney, with Mark Brown co-organising the Melbourne "While We Still Can: The AI Revolution and Our Last Chance to Steer the Future" talk; lists "Canberra: Casual Catchups" at Libraries ACT — Tuggeranong as a recurring local-meetup series, the "PauseAI @AI Safety Forum 2026" convening at Camperdown, and a placeholder "PauseAI @NeurIPS" Sydney engagement'
   - url: https://pauseai.info/2024-may
     last_checked: 2026-05-15
-    note: PauseAI Global's writeup of the 13 May 2024 thirteen-country international protest wave ahead of the AI Seoul Summit — lists Sydney as the participating Australian city alongside San Francisco, New York, Portland, Berlin, London, Rome, Stockholm, Den Haag, Paris, Oslo, Ottawa, Reykjavík, and São Paulo
+    note: 'PauseAI Global''s writeup of the 13 May 2024 thirteen-country international protest wave ahead of the AI Seoul Summit — lists Sydney as the participating Australian city alongside San Francisco, New York, Portland, Berlin, London, Rome, Stockholm, Den Haag, Paris, Oslo, Ottawa, Reykjavík, and São Paulo'
   - url: https://pauseai.info/2025-february
     last_checked: 2026-05-15
-    note: PauseAI Global's writeup of the 7-11 February 2025 international protest wave around the Paris AI Action Summit co-chaired by Emmanuel Macron and Narendra Modi — lists Melbourne as the participating Australian city alongside Paris, New York, Victoria (Canada), London, Berlin, Brussels, Zürich, Prague, Milan, Stockholm, Copenhagen, Oslo, Kristiansand, Trondheim, Kinshasa, Brazzaville, and N'Djaména
+    note: 'PauseAI Global''s writeup of the 7-11 February 2025 international protest wave around the Paris AI Action Summit co-chaired by Emmanuel Macron and Narendra Modi — lists Melbourne as the participating Australian city alongside Paris, New York, Victoria (Canada), London, Berlin, Brussels, Zürich, Prague, Milan, Stockholm, Copenhagen, Oslo, Kristiansand, Trondheim, Kinshasa, Brazzaville, and N''Djaména'
   - url: https://www.facebook.com/groups/571590459293618
     last_checked: 2026-05-15
-    note: PauseAI Australia's Facebook group — public community channel referenced from the chapter's own page; community-discovery channel for Australian volunteers
+    note: 'PauseAI Australia''s Facebook group — public community channel referenced from the chapter''s own page; community-discovery channel for Australian volunteers'
   - url: https://www.instagram.com/pauseaiaustralia/
     last_checked: 2026-05-15
-    note: PauseAI Australia's Instagram account (@pauseaiaustralia) — public social-media channel referenced from the chapter's own page
+    note: 'PauseAI Australia''s Instagram account (@pauseaiaustralia) — public social-media channel referenced from the chapter''s own page'
 ---
 
 # PauseAI Australia
