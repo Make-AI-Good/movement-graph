@@ -1,14 +1,14 @@
 ---
 id: event-r3d-gobierno-espia-launch-2017-06-19
 type: event
-name: R3D, Article 19 Mexico, SocialTIC, Aristegui Noticias, and the Citizen Lab #GobiernoEspía launch (19 June 2017)
+name: R3D, Article 19 Mexico, SocialTIC, and the Citizen Lab #GobiernoEspía launch (19 June 2017)
 status: historical
 confidence: high
 tags: [mexico, mexico-city, latin-america, national, civil-society-coalition, four-organisation-coalition, digital-rights, human-rights, surveillance, mercenary-spyware, commercial-spyware, pegasus, nso-group, journalist-targeting, human-rights-defender-targeting, anti-corruption-journalism, peña-nieto-administration, citizen-lab, forensic-research, ai-and-human-rights, ai-supply-chain, public-disclosure, public-launch, joint-press-conference, spanish-language, gobierno-espia, hashtag-launch]
 created: 2026-05-15
-last_updated: 2026-05-15
+last_updated: 2026-05-22
 date: 2017-06-19
-location: Mexico City, Mexico — joint Mexico City press conference led by R3D, Article 19 Mexico, SocialTIC, and Aristegui Noticias; Citizen Lab co-launching the forensic findings from the University of Toronto's Munk School of Global Affairs
+location: Mexico City, Mexico — joint Mexico City press conference led by R3D, Article 19 Mexico, and SocialTIC; Citizen Lab co-launching the forensic findings from the University of Toronto's Munk School of Global Affairs
 event_type: investigation launch
 campaign: camp-r3d-pegasus-mexico-civil-society-response-2017-ongoing
 participating_orgs:
@@ -18,7 +18,7 @@ related_events: []
 sources:
   - url: https://r3d.mx/2017/06/19/gobierno-espia/
     last_checked: 2026-05-15
-    note: R3D's own 19 June 2017 #GobiernoEspía launch post in Spanish — primary source for the launch date, the joint coalition (R3D, Article 19 Mexico and Central America Office, SocialTIC, Aristegui Noticias, and the Citizen Lab), the 76 documented Pegasus infection attempts against 12 named Mexican journalists, lawyers, and human-rights defenders between January 2015 and July 2016, and the coalition's founding demand for an exhaustive, impartial, and transparent federal investigation and prosecution of the intellectual and material authors
+    note: R3D's own 19 June 2017 #GobiernoEspía launch post in Spanish — primary source for the launch date, the joint coalition (R3D, Article 19 Mexico and Central America Office, SocialTIC, and the Citizen Lab), the 76 documented Pegasus infection attempts against 12 named Mexican journalists, lawyers, and human-rights defenders between January 2015 and July 2016, and the coalition's founding demand for an exhaustive, impartial, and transparent federal investigation and prosecution of the intellectual and material authors
   - url: https://citizenlab.ca/2017/06/reckless-exploit-mexico-nso/
     last_checked: 2026-05-15
     note: Citizen Lab's 19 June 2017 "Reckless Exploit — Mexican Journalists, Lawyers, and a Child Targeted with NSO Spyware" report — primary source for the technical forensic findings underlying the launch (decoy SMS exploit links to NSO Group infrastructure, the named twelve targets, the seventy-six infection attempts, and the inferred Mexican-government operator profile), co-launched with the coalition on the same day
@@ -27,15 +27,15 @@ sources:
     note: New York Times' 19 June 2017 coverage by Azam Ahmed and Nicole Perlroth — independent international-press secondary source for the launch date, the named-target journalists and human-rights defenders, the civil-society coalition composition, and the inferred Mexican-government Pegasus operator
   - url: https://articulo19.org/gobiernoespia/
     last_checked: 2026-05-15
-    note: Article 19 Mexico and Central America Office's #GobiernoEspía landing page — independent secondary source for the joint coalition composition (Article 19, R3D, SocialTIC, Aristegui Noticias, and the Citizen Lab) and for the framing of the investigation as a sustained civil-society documentary and advocacy file
+    note: Article 19 Mexico and Central America Office's #GobiernoEspía landing page — independent secondary source for the joint coalition composition (Article 19, R3D, SocialTIC, and the Citizen Lab) and for the framing of the investigation as a sustained civil-society documentary and advocacy file
   - url: https://r3d.mx/category/vigilancia/
     last_checked: 2026-05-15
     note: R3D's Vigilancia (Surveillance) category archive in Spanish — primary source for the multi-year campaign record on the Mexican Pegasus file and the entry point into R3D's full Spanish-language output on the commercial-spyware industry across the nine years since the launch
 ---
 
-# R3D, Article 19 Mexico, SocialTIC, Aristegui Noticias, and the Citizen Lab #GobiernoEspía launch (19 June 2017)
+# R3D, Article 19 Mexico, SocialTIC, and the Citizen Lab #GobiernoEspía launch (19 June 2017)
 
-On Monday 19 June 2017, [R3D](../organizations/org-r3d.md) (Red en Defensa de los Derechos Digitales) together with Article 19 Mexico and Central America Office, the Mexican civic-tech organisation SocialTIC, the Mexican investigative news outlet Aristegui Noticias, and the [Citizen Lab](https://citizenlab.ca/2017/06/reckless-exploit-mexico-nso/) at the University of Toronto's Munk School of Global Affairs jointly [launched the #GobiernoEspía](https://r3d.mx/2017/06/19/gobierno-espia/) (Spying Government) investigation — a coordinated public report documenting seventy-six Pegasus mercenary-spyware infection attempts against twelve named Mexican journalists, lawyers, and human-rights defenders during the Peña Nieto administration. The launch was the moment at which Mexican civil society went public with the substantive evidentiary record of state Pegasus targeting, and it is the founding event of the [R3D-led Mexican civil-society response to Pegasus mercenary-spyware targeting of journalists and human-rights defenders](../campaigns/camp-r3d-pegasus-mexico-civil-society-response-2017-ongoing.md) campaign now in its ninth year.
+On Monday 19 June 2017, [R3D](../organizations/org-r3d.md) (Red en Defensa de los Derechos Digitales) together with Article 19 Mexico and Central America Office, the Mexican civic-tech organisation SocialTIC, and the [Citizen Lab](https://citizenlab.ca/2017/06/reckless-exploit-mexico-nso/) at the University of Toronto's Munk School of Global Affairs jointly [launched the #GobiernoEspía](https://r3d.mx/2017/06/19/gobierno-espia/) (Spying Government) investigation — a coordinated public report documenting seventy-six Pegasus mercenary-spyware infection attempts against twelve named Mexican journalists, lawyers, and human-rights defenders, including the Mexican investigative news outlet Aristegui Noticias' Carmen Aristegui and her colleagues, during the Peña Nieto administration. The launch was the moment at which Mexican civil society went public with the substantive evidentiary record of state Pegasus targeting, and it is the founding event of the [R3D-led Mexican civil-society response to Pegasus mercenary-spyware targeting of journalists and human-rights defenders](../campaigns/camp-r3d-pegasus-mexico-civil-society-response-2017-ongoing.md) campaign now in its ninth year.
 
 ## What was published on 19 June 2017
 
@@ -51,7 +51,7 @@ The coalition's substantive attribution — corroborated by the Citizen Lab's fo
 
 ## The hashtag, the framing, and the language of the launch
 
-The launch was the articulation moment of the #GobiernoEspía (Spying Government) framing — the Spanish-language framing that has since carried the Mexican civil-society response to Pegasus targeting through nine years of journalism, advocacy, and litigation. The framing's two-word noun-phrase compactness made it portable across Mexican Spanish-language press, civil-society advocacy, and parliamentary debate, and the hashtag form gave the campaign its principal social-media handle for organising public-attention moments around subsequent developments in the file. The launch's substantive register — civil-society documentary investigation, Spanish-language journalism, demand for federal accountability — established the working register of the [R3D-led campaign](../campaigns/camp-r3d-pegasus-mexico-civil-society-response-2017-ongoing.md) and the wider Mexican civil-society spyware-accountability field. The launch's coalition composition — R3D as the digital-rights anchor, Article 19 Mexico as the freedom-of-expression anchor, SocialTIC as the civic-tech anchor, Aristegui Noticias as the targeted-journalism anchor, and the Citizen Lab as the international forensic-research partner — is the working coalition structure the campaign has since carried into successor moments including the [October 2022 Ejército Espía investigation](https://r3d.mx/2022/10/02/ejercito-espia/) and the October 2023 Citizen Lab + R3D update extending the documented record into the López Obrador administration.
+The launch was the articulation moment of the #GobiernoEspía (Spying Government) framing — the Spanish-language framing that has since carried the Mexican civil-society response to Pegasus targeting through nine years of journalism, advocacy, and litigation. The framing's two-word noun-phrase compactness made it portable across Mexican Spanish-language press, civil-society advocacy, and parliamentary debate, and the hashtag form gave the campaign its principal social-media handle for organising public-attention moments around subsequent developments in the file. The launch's substantive register — civil-society documentary investigation, Spanish-language journalism, demand for federal accountability — established the working register of the [R3D-led campaign](../campaigns/camp-r3d-pegasus-mexico-civil-society-response-2017-ongoing.md) and the wider Mexican civil-society spyware-accountability field. The launch's coalition composition — R3D as the digital-rights anchor, Article 19 Mexico as the freedom-of-expression anchor, SocialTIC as the civic-tech anchor, and the Citizen Lab as the international forensic-research partner — is the working coalition structure the campaign has since carried into successor moments including the [October 2022 Ejército Espía investigation](https://r3d.mx/2022/10/02/ejercito-espia/) and the October 2023 Citizen Lab + R3D update extending the documented record into the López Obrador administration.
 
 ## Significance for the corpus
 
