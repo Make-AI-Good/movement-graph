@@ -15,22 +15,22 @@ key_people: []
 sources:
   - url: https://pauseai.info/nyc-action
     last_checked: 2026-05-13
-    note: PauseAI NYC's own action-items hub — names the chapter's email (nyc@pauseai.info), Discord channel, WhatsApp community, Instagram (@pauseainyc), and Twitter / X (@PauseAINYC); describes the chapter's "monthly action meetings on the 11th" cadence and its volunteer-recruitment lines (social media, web development, photography / videography, light-touch activism)
+    note: 'PauseAI NYC''s own action-items hub — names the chapter''s email (nyc@pauseai.info), Discord channel, WhatsApp community, Instagram (@pauseainyc), and Twitter / X (@PauseAINYC); describes the chapter''s "monthly action meetings on the 11th" cadence and its volunteer-recruitment lines (social media, web development, photography / videography, light-touch activism)'
   - url: https://pauseaius.substack.com/p/pauseai-us-newsletter-1-january-2025
     last_checked: 2026-05-13
-    note: PauseAI US Newsletter #1 (January 2025) — names NYC as one of the six "well-established, active groups across the country" PauseAI US ended 2024 with, alongside San Francisco, Chicago, Portland (Oregon), Phoenix, and Washington DC; records that PauseAI NYC volunteers participated in the May 2024 Seoul AI Summit international protest day and ran a Summit of the Future demonstration outside the UN in September 2024
+    note: 'PauseAI US Newsletter #1 (January 2025) — names NYC as one of the six "well-established, active groups across the country" PauseAI US ended 2024 with, alongside San Francisco, Chicago, Portland (Oregon), Phoenix, and Washington DC; records that PauseAI NYC volunteers participated in the May 2024 Seoul AI Summit international protest day and ran a Summit of the Future demonstration outside the UN in September 2024'
   - url: https://pauseai.info/nyc-un-vigil
     last_checked: 2026-05-13
-    note: PauseAI candlelit vigil at United Nations Headquarters, New York City, 7:30-9:00pm on Saturday 3 June 2023 — the earliest documented NYC-located PauseAI action; framing centred on calling on governments to "organize a summit to halt the development of this dangerous technology"
+    note: 'PauseAI candlelit vigil at United Nations Headquarters, New York City, 7:30-9:00pm on Saturday 3 June 2023 — the earliest documented NYC-located PauseAI action; framing centred on calling on governments to "organize a summit to halt the development of this dangerous technology"'
   - url: https://pauseai.info/2023-july-nyc
     last_checked: 2026-05-13
-    note: PauseAI's writeup of the planned but cancelled 18 July 2023 protest at the United Nations in New York — demand was that the UN Security Council "implement a global pause on the largest AI training runs"; event was cancelled before it took place
+    note: 'PauseAI''s writeup of the planned but cancelled 18 July 2023 protest at the United Nations in New York — demand was that the UN Security Council "implement a global pause on the largest AI training runs"; event was cancelled before it took place'
   - url: https://www.eventbrite.com/e/pauseai-nyc-summit-of-the-future-demonstration-tickets-905766862067
     last_checked: 2026-05-13
     note: Eventbrite listing for PauseAI NYC — Summit of the Future Demonstration, 21-23 September 2024, 11am-3pm, meeting at the bottom of the stairs to Mary O'Connor Playground (coordinates 40.74948, -73.97095); organizer listed as Pause AI - NYC
   - url: https://eventbrowse.com/event/pauseai-nyc-summit-of-the-future-demonstration/
     last_checked: 2026-05-13
-    note: EventBrowse mirror of the Summit of the Future Demonstration listing — corroborates the chapter's named branding ("Pause AI – NYC"), the 22-23 September 2024 dates, the 405 East 45th Street UN-HQ-adjacent location, and the demonstration's stated goal of influencing UN officials before the Governing AI for Humanity report vote
+    note: 'EventBrowse mirror of the Summit of the Future Demonstration listing — corroborates the chapter''s named branding ("Pause AI – NYC"), the 22-23 September 2024 dates, the 405 East 45th Street UN-HQ-adjacent location, and the demonstration''s stated goal of influencing UN officials before the Governing AI for Humanity report vote'
   - url: https://pauseai.info/2024-may
     last_checked: 2026-05-13
     note: PauseAI Global's writeup of the 13 May 2024 international protest day — confirms a New York City demonstration as one of the thirteen-country coordinated wave timed to precede the Seoul AI Summit, organised under PauseAI NYC's own Eventbrite (event slug pause-ai-global-protest-nyc-tickets-886528309037)
@@ -39,10 +39,10 @@ sources:
     note: PauseAI US's local-groups directory — the national chapter-recruitment funnel new NYC volunteers are routed through; the page's photo set names NYC as one of the chapter cities pictured
   - url: https://www.pauseai-us.org/2026q2donorupdate/
     last_checked: 2026-05-13
-    note: PauseAI US Q2 2026 donor update — records PauseAI NYC running community-building social events (named example: a chapter watch of "The AI Doc: Or How I Became an Apocaloptimist") inside the wider PauseAI US footprint of 47 chapters across 29 states
+    note: 'PauseAI US Q2 2026 donor update — records PauseAI NYC running community-building social events (named example: a chapter watch of "The AI Doc: Or How I Became an Apocaloptimist") inside the wider PauseAI US footprint of 47 chapters across 29 states'
   - url: https://www.eventbrite.com/o/pause-ai-nyc-83065324363
     last_checked: 2026-05-13
-    note: Pause AI - NYC Eventbrite organiser page — the chapter's primary public event-listing channel; the page carries the chapter's volunteer-recruitment language ("AI is a powerful technology that is increasingly transforming our world. It comes with amazing potential, but also with serious risks, including existential catastrophe")
+    note: 'Pause AI - NYC Eventbrite organiser page — the chapter''s primary public event-listing channel; the page carries the chapter''s volunteer-recruitment language ("AI is a powerful technology that is increasingly transforming our world. It comes with amazing potential, but also with serious risks, including existential catastrophe")'
   - url: https://pauseai.substack.com/p/pauseai-newsletter-7-october-24-2024
     last_checked: 2026-05-13
     note: PauseAI Newsletter #7 (24 October 2024) — describes First Friday Flyering as a monthly recurring tactic launched in October 2024, with nine US cities including NYC participating in the premier session
