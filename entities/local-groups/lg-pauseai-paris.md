@@ -19,7 +19,7 @@ sources:
     note: Pause IA's home page — primary self-description as the French representation of PauseAI Global, calling for a moratorium on the training of general AI systems; lists campaigns, the Reprendre le Contrôle conference, working groups, protests, newsletter, and the AI Employment working group
   - url: https://pauseia.fr/qui-sommes-nous
     last_checked: 2026-05-13
-    note: Pause IA's "Qui sommes-nous" page — names the seven-person leadership team (Maxime Fournes as co-founder and President, Clémence Peyrot as Executive Director, Moïri Gamboni as General Secretary, Romain Deléglise as Treasurer and Funding Lead, Antonin Thil as board member and Local Groups Manager, Jeanne Bazard as board member and Editorial Lead, Antoine Subile as board member and Editorial Team Member) and a volunteer base of ~100+ across France
+    note: 'Pause IA''s "Qui sommes-nous" page — names the seven-person leadership team (Maxime Fournes as co-founder and President, Clémence Peyrot as Executive Director, Moïri Gamboni as General Secretary, Romain Deléglise as Treasurer and Funding Lead, Antonin Thil as board member and Local Groups Manager, Jeanne Bazard as board member and Editorial Lead, Antoine Subile as board member and Editorial Team Member) and a volunteer base of ~100+ across France'
   - url: https://pauseia.fr/presse
     last_checked: 2026-05-13
     note: Pause IA's press page — names Clémence Peyrot (clemence@pauseia.fr, 06 45 51 34 15) and Maxime Fournes (07 43 15 56 17) as primary press contacts; press@pauseia.fr as the general media address; documents 23 media mentions including Le Monde, Le Nouvel Obs, BFM TV, and France Culture
@@ -31,19 +31,19 @@ sources:
     note: PauseAI's primary announcement of Maxime Fournes as global CEO — records that he joined PauseAI in November 2023 from a machine-learning engineering career; built and led PauseIA France; under his leadership the chapter saw protests covered in ~30 French news publications; names Clémence Peyrot (a former campaign manager at the animal-advocacy organisation PAZ) as his successor as French chapter director
   - url: https://controleia.org/
     last_checked: 2026-05-13
-    note: "Reprendre le Contrôle — Forum des Solutions pour une IA Compatible avec l'Humanité" — describes Pause IA as a French nonprofit founded in 2024; site for the 8 February 2025 conference at the Learning Planet Institute in Paris; lists partner organisations as the Existential Risk Observatory, AI Forensics, and Data for Good; names featured speakers including Lê Nguyên Hoang, Lou Welgryn, Arthur Grimonpont, Raja Chatila, and Charbel-Raphaël Segerie
+    note: '"Reprendre le Contrôle — Forum des Solutions pour une IA Compatible avec l''Humanité" — describes Pause IA as a French nonprofit founded in 2024; site for the 8 February 2025 conference at the Learning Planet Institute in Paris; lists partner organisations as the Existential Risk Observatory, AI Forensics, and Data for Good; names featured speakers including Lê Nguyên Hoang, Lou Welgryn, Arthur Grimonpont, Raja Chatila, and Charbel-Raphaël Segerie'
   - url: https://pauseai.info/2025-february
     last_checked: 2026-05-13
     note: PauseAI Global's writeup of the 7-11 February 2025 international protest wave around the Paris AI Action Summit — twenty named cities including Paris; demands are that AI safety be made the central focus of the summit, that global treaties and regulations address AI risks, and that an international enforcement body be established
   - url: https://luma.com/abpnvewl
     last_checked: 2026-05-13
-    note: "Pause IA Summit @ Generation AI Paris : Sécurité & Gouvernance" — Pause IA's afternoon session within the Generation AI conference at the CNIT Forest, Paris; hosts named as Maxime Fournes, Gilles Bréda, and Clémence Peyrot; 48 registered attendees with a capped capacity of 86
+    note: '"Pause IA Summit @ Generation AI Paris : Sécurité & Gouvernance" — Pause IA''s afternoon session within the Generation AI conference at the CNIT Forest, Paris; hosts named as Maxime Fournes, Gilles Bréda, and Clémence Peyrot; 48 registered attendees with a capped capacity of 86'
   - url: https://mesinfos.fr/75000-paris/manifestation-de-pause-ia-devant-l-assemblee-le-1er-mai-245348.html
     last_checked: 2026-05-13
-    note: Mes Infos Paris coverage of the 1 May 2026 Pause IA protest at the esplanade des Invalides (corner of rue de Constantine and rue de l'Université) facing the National Assembly, 10am-11am; Clémence Peyrot named and quoted as executive director ("the risk isn't only job losses but decisions on work, rights, and services delegated to uncontrolled systems we can't understand or challenge"); coincided with International Workers' Day
+    note: 'Mes Infos Paris coverage of the 1 May 2026 Pause IA protest at the esplanade des Invalides (corner of rue de Constantine and rue de l''Université) facing the National Assembly, 10am-11am; Clémence Peyrot named and quoted as executive director ("the risk isn''t only job losses but decisions on work, rights, and services delegated to uncontrolled systems we can''t understand or challenge"); coincided with International Workers'' Day'
   - url: https://www.esteval.fr/article.46137.expertises-1er-mai-pause-ia-alerte-sur-les-enjeux-sociaux-et-democratiques-de-la-course-a-l-ia
     last_checked: 2026-05-13
-    note: Esteval coverage of the 1 May 2026 "L'IA ne détruira pas QUE votre emploi" campaign — names the three demonstration cities (Paris, Grenoble, Périgueux) and the Paris gathering's start at 10am facing the National Assembly; Peyrot quoted on France's position in the global AI race
+    note: 'Esteval coverage of the 1 May 2026 "L''IA ne détruira pas QUE votre emploi" campaign — names the three demonstration cities (Paris, Grenoble, Périgueux) and the Paris gathering''s start at 10am facing the National Assembly; Peyrot quoted on France''s position in the global AI race'
   - url: https://pauseia.fr/fr/municipales-2026
     last_checked: 2026-05-13
     note: Pause IA's Élections municipales 2026 charter page — Pause IA's invitation to candidates in the March 2026 French municipal elections to commit to a fourteen-point municipal-level AI charter (a public roundtable on existential risks, a municipal resolution calling on the French government to request an international pause, a letter to territorial parliamentarians, and a dedicated citizen panel on AI risks)
