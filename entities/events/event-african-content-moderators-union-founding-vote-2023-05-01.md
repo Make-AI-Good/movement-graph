@@ -6,7 +6,7 @@ status: historical
 confidence: high
 tags: [kenya, nairobi, africa, mövenpick-hotel, labour-day, trade-union, union-founding, content-moderation, content-moderators, sama, majorel, teleperformance, meta, facebook, tiktok, youtube, chatgpt, openai, big-tech-accountability, tech-worker-power, ai-supply-chain, labour-organising, africa-first, worker-organising, outsourcing]
 created: 2026-05-14
-last_updated: 2026-05-15
+last_updated: 2026-05-22
 date: 2023-05-01
 location: Mövenpick Hotel, Nairobi, Kenya
 event_type: union founding vote
@@ -22,6 +22,7 @@ participating_people:
   - person-cori-crider
 related_events:
   - event-foxglove-motaung-meta-sama-petition-filing-2022-05-10
+  - event-data-labellers-association-launch-2025-02-13
 sources:
   - url: https://time.com/6275995/chatgpt-facebook-african-workers-union/
     last_checked: 2026-05-14
