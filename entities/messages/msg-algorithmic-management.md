@@ -18,6 +18,7 @@ related_messages:
   - msg-bossware
   - msg-modern-slavery-content-moderation
   - msg-pay-up
+  - msg-fairwork
 sources:
   - url: https://dl.acm.org/doi/10.1145/2702123.2702548
     last_checked: 2026-05-18

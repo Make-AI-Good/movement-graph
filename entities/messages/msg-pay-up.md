@@ -14,6 +14,7 @@ propagated_by_orgs: []
 related_messages:
   - msg-algorithmic-management
   - msg-bossware
+  - msg-fairwork
 sources:
   - url: https://medium.com/@workingwa/instacart-heres-our-22-cents-no-more-tip-theft-low-pay-and-black-box-pay-algorithms-8ff1d7c6b66
     last_checked: 2026-05-19

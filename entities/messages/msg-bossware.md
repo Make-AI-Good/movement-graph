@@ -16,6 +16,7 @@ related_messages:
   - msg-modern-slavery-content-moderation
   - msg-algorithmic-management
   - msg-pay-up
+  - msg-fairwork
 sources:
   - url: https://www.eff.org/deeplinks/2020/06/inside-invasive-secretive-bossware-tracking-workers
     last_checked: 2026-05-18
