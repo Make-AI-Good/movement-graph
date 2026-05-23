@@ -6,7 +6,8 @@ status: active
 confidence: high
 tags: [founder, director, plaintiff, organizer, gig-workers, platform-workers, worker-organizing, gdpr, uk, ireland]
 created: 2026-05-18
-last_updated: 2026-05-18
+last_updated: 2026-05-23
+voice_entry: voice-james-farrar
 affiliations:
   - org: org-worker-info-exchange
     role: founder and director
