@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [memphis, tennessee, us-south, boxtown, south-memphis, environmental-justice, environmental-racism, black-led, community-organising, data-centres, ai-infrastructure, xai, colossus, methane-gas-turbines, clean-air, racial-justice]
 created: 2026-05-14
-last_updated: 2026-05-14
+last_updated: 2026-05-23
 founded: 2020
 location: Memphis, Tennessee, USA (organising base in the South Memphis / Boxtown / ZIP 38109 corridor; mailing address Dept. 78, PO Box 1000, Memphis, TN 38148-0078)
 website_or_contact: https://www.memphiscap.org/
@@ -17,7 +17,10 @@ sources:
     note: MCAP's own homepage — primary source for the "Ensure EVERYBODY Can breathe clean air" mission framing, the Southwest Memphis environmental-justice orientation, the mailing address (Dept. 78, PO Box 1000, Memphis, TN 38148-0078), and the social-media coordinates (Twitter @MemphisCAP_org, Instagram @memphiscap_org, Facebook "Memphis CAP")
   - url: https://www.memphiscap.org/take-action
     last_checked: 2026-05-14
-    note: MCAP's "Take Action" page — primary source for the group's current public asks on the xAI Colossus campaign, including the independent EmPower Analytics health-impacts study led by Harvard-trained environmental health scientist Dr Michael Cork
+    note: MCAP's "Take Action" page — primary source for the group's current public asks on the xAI Colossus campaign
+  - url: https://www.selc.org/press-release/new-study-finds-proposed-xai-gas-plant-could-worsen-regional-air-pollution-cause-millions-of-dollars-in-annual-health-damages/
+    last_checked: 2026-05-23
+    note: SELC's own press release on the independent health-impacts study conducted by EmPower Analytics Group and commissioned by the Southern Environmental Law Center, led by Harvard-trained environmental health scientist Dr Michael Cork — primary source for the study commissioning attribution and the finding that the proposed xAI gas plant could worsen regional air pollution and cause millions of dollars in annual health damages
   - url: https://www.influencewatch.org/non-profit/memphis-community-against-pollution-mcap/
     last_checked: 2026-05-14
     note: InfluenceWatch profile — primary secondary source naming KeShaun Pearson as President and Justin Pearson (now Tennessee State Representative) as Founder, recording the group's origin as "Memphis Community Against the Pipeline" before its post-Byhalia rename, naming named allies (Southern Environmental Law Center, Young Gifted and Green, Protect Our Aquifer), and naming 2022–2024 funders (Rockefeller Philanthropy Advisors $370,000, Tides Foundation $200,000, the Solutions Project, the Community Foundation of Greater Memphis, the Union of Concerned Scientists)
@@ -66,7 +69,7 @@ Since 2024 MCAP's organising has been concentrated on opposition to the xAI / El
 
 MCAP's campaign on the facility has run along four lines.
 
-- **Independent technical evidence.** MCAP [commissioned an independent health impacts study by EmPower Analytics Group, led by Harvard-trained environmental health scientist Dr Michael Cork](https://www.memphiscap.org/take-action), finding that "operation of xAI's proposed permanent gas turbines would measurably increase health risks" for residents across the region.
+- **Independent technical evidence.** MCAP's coalition partner the [Southern Environmental Law Center commissioned an independent health impacts study by EmPower Analytics Group, led by Harvard-trained environmental health scientist Dr Michael Cork](https://www.selc.org/press-release/new-study-finds-proposed-xai-gas-plant-could-worsen-regional-air-pollution-cause-millions-of-dollars-in-annual-health-damages/), finding that the proposed xAI gas plant could worsen regional air pollution and cause millions of dollars in annual health damages.
 - **Regulatory and litigation pressure.** Working with the [Southern Environmental Law Center](https://www.influencewatch.org/non-profit/memphis-community-against-pollution-mcap/), MCAP asked the Shelby County Health Department in 2024 to investigate xAI's permitting on its gas-turbine cooling infrastructure. [In June 2025 the NAACP filed a 60-day Notice of Intent to Sue xAI for alleged Clean Air Act violations](https://capitalbnews.org/musk-xai-memphis-black-neighborhood-pollution/); [the NAACP filed suit in mid-April 2026](https://www.democracynow.org/2026/4/22/memphis_xai_data_center_pollution_keshaun), with MCAP, Southern Environmental Law Center, Earthjustice, and the Safe and Sound Coalition publicly aligned behind the litigation and a [demand for a moratorium on data-centre construction](https://www.democracynow.org/2026/4/22/memphis_xai_data_center_pollution_keshaun).
 - **Public communications.** KeShaun Pearson has carried MCAP's framing into national press in 2025 and 2026 — "Elon Musk's xAI is joining a dozen other polluters who are destroying Memphis' air quality" and that it is ["dangerous for a wannabe tech-dictator to determine what kind of air we breathe"](https://capitalbnews.org/musk-xai-memphis-black-neighborhood-pollution/); the [Democracy Now interview of 22 April 2026](https://www.democracynow.org/2026/4/22/memphis_xai_data_center_pollution_keshaun) anchors the Memphis fight to Dr Martin Luther King Jr's 1968 Memphis sanitation workers' march and Pearson's framing that "we are, unfortunately, a cautionary tale about what will and possibly can happen if you don't have the right rules and guardrails in place."
 - **Coalition-building.** MCAP works locally alongside the University of Memphis student coalition [Tigers Against Pollution](lg-tigers-against-pollution.md), and inside the wider U.S. South organising network with [Young Gifted and Green, Protect Our Aquifer](https://www.influencewatch.org/non-profit/memphis-community-against-pollution-mcap/), and the Southern Environmental Law Center.
