@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [indonesia, jakarta, southeast-asia, digital-rights-organiser, freedom-of-expression, ite-law, online-gender-based-violence, internet-shutdowns, content-moderation, platform-accountability, ai-governance, ai-and-democracy, ai-and-elections, deepfakes, civil-society, ngo, advertising-industry-background, copywriter, leo-burnett, mccann, lowe-lintas, redmark-indonesia, go-jek, gojek, government-relations, public-policy, safenet, safenet-founder, safenet-executive-director, pikat-demokrasi, pikat-founder, un-ai-advisory-body, ktp2jb, upn-veteran-jakarta, digitalreach-asia, forum-demokrasi-digital, paku-ite, kemudi, indonesian-presidential-debate-2024, row100-2022, mental-revolution-award-2023, press-council-award-2021, ivlp-fellow-2018]
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-05-23
 affiliations:
   - org: org-safenet
     role: 'Founder and Executive Director from the 2013 founding through the end of 2023, succeeded by Nenden Sekar Arum; remains associated with the organisation as a founder'
@@ -18,7 +18,7 @@ public_profiles:
     url: https://www.linkedin.com/in/damarjuniarto/
   - platform: x
     url: https://x.com/damarjuniarto
-voice_entry:
+voice_entry: voice-damar-juniarto
 sources:
   - url: https://damarjuniarto.wordpress.com/about/
     last_checked: 2026-05-19
