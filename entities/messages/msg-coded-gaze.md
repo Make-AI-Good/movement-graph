@@ -35,7 +35,7 @@ sources:
     note: Ford Foundation, "Fighting the 'coded gaze,'" 26 June 2018 — early philanthropic-communications adoption of the term as the headline framing for AJL-aligned work
   - url: https://medium.com/africana-feminisms/the-coded-gaze-algorithmic-bias-what-is-it-and-why-should-i-care-51a416dbc3f3
     last_checked: 2026-05-13
-    note: Pazia Bermudez-Silverman, "The Coded Gaze: Algorithmic Bias? What is it and Why Should I Care?", Africana Feminisms on Medium, 16 May 2018 — early adoption of the term as the title of a community-feminist explainer
+    note: 'Pazia Bermudez-Silverman, "The Coded Gaze: Algorithmic Bias? What is it and Why Should I Care?", Africana Feminisms on Medium, 16 May 2018 — early adoption of the term as the title of a community-feminist explainer'
   - url: https://en.wikipedia.org/wiki/Joy_Buolamwini
     last_checked: 2026-05-13
     note: Wikipedia overview of Buolamwini's career — names the "coded gaze" as her originating framing for AI bias and traces the term through the 2016 Aspire Mirror moment, the TED talk, and the 2022 dissertation

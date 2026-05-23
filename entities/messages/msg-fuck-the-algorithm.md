@@ -31,7 +31,7 @@ sources:
     note: Government Transformation analysis framing the chant as the turning point in UK public attitudes to automated decision-making by public bodies
   - url: https://pure.solent.ac.uk/en/publications/fuckthealgorithm-algorithmic-imaginaries-and-political-resistance/
     last_checked: 2026-05-13
-    note: Garfield Benjamin, "#FuckTheAlgorithm: algorithmic imaginaries and political resistance," ACM FAccT 2022 — peer-reviewed treatment of the chant as an imaginary of resistance, with abstract referencing "evolving uses of #FuckTheAlgorithm on social media as part of everyday practices of resistance"
+    note: 'Garfield Benjamin, "#FuckTheAlgorithm: algorithmic imaginaries and political resistance," ACM FAccT 2022 — peer-reviewed treatment of the chant as an imaginary of resistance, with abstract referencing "evolving uses of #FuckTheAlgorithm on social media as part of everyday practices of resistance"'
   - url: https://twitter.com/HUCKmagazine/status/1294985562106015750
     last_checked: 2026-05-13
     note: HUCK magazine's 16 August 2020 video capture of the chant outside the Department for Education — the most-cited early Twitter circulation of the slogan
@@ -40,7 +40,7 @@ sources:
     note: ITV News broadcast footage of the chant outside the Department for Education on 16 August 2020
   - url: https://www.lrb.co.uk/the-paper/v42/n17/paul-taylor/short-cuts
     last_checked: 2026-05-13
-    note: Paul Taylor, "Short Cuts: Ofqual and the Algorithm," London Review of Books vol. 42 no. 17 (10 September 2020) — names the chant as the public face of the furore that produced the U-turn
+    note: 'Paul Taylor, "Short Cuts: Ofqual and the Algorithm," London Review of Books vol. 42 no. 17 (10 September 2020) — names the chant as the public face of the furore that produced the U-turn'
   - url: https://en.wikipedia.org/wiki/Ofqual_exam_results_algorithm
     last_checked: 2026-05-13
     note: Wikipedia overview of the Ofqual algorithm and the protest cycle in which the chant emerged
