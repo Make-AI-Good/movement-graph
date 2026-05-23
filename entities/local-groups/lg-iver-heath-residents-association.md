@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [iver-heath, buckinghamshire, uk, residents-association, data-centres, ai-infrastructure, green-belt, planning, local-opposition, hyperscale]
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-05-23
 founded: 2014
 location: Iver Heath, Buckinghamshire, UK
 website_or_contact: https://www.iverheathra.co.uk/
@@ -51,6 +51,9 @@ sources:
   - url: https://www.colnevalleypark.org.uk/wp-content/uploads/2023/03/Leigh-Tugwood-Talk-at-Planning-Workshop.pdf
     last_checked: 2026-05-12
     note: Colne Valley Park record of "Leigh M Tugwood, Iver Heath Residents' Association" speaking at a 2023 planning workshop — pre-dates the Dirty Data Centres action days and confirms Tugwood's standing public role on planning policy for IHRA from at least early 2023
+  - url: https://bebeez.eu/2025/07/12/angela-rayner-greenlights-twice-rejected-buckinghamshire-data-center/
+    last_checked: 2026-05-23
+    note: Bebeez's July 2025 report on the revised Woodlands Park scheme — records the 2024 renewed application called in by MHCLG, the five-day public inquiry in December 2024, the planning inspector's recommendation, and Secretary of State Angela Rayner's 2025 approval
 ---
 
 # Iver Heath Residents' Association
@@ -64,7 +67,7 @@ IHRA's continuing programme of work is on planning, environment, and infrastruct
 IHRA's recent work has been shaped by Iver and Iver Heath emerging — alongside neighbouring Slough — as a primary South Bucks site for hyperscale data-centre proposals adjacent to the M25. Two schemes anchor the local landscape.
 
 - **Iver Heath Data Park (CyrusOne) at Dromenagh Farm, Sevenhills Road.** Buckinghamshire Council [granted conditional permission](https://www.maidenhead-advertiser.co.uk/news/planning/201771/60-000sqm-data-centre-approved-for-iver-heath.html) for CyrusOne UK6 Limited's [90 MW hyperscale scheme](https://iverheathdatapark.com/), comprising a 63,267 sqm data centre, a 701 sqm training centre, and 4.3 hectares of publicly accessible landscaped open space, on a 16.5-hectare Iver Heath site at Dromenagh Farm.
-- **Woodlands Park / Iver Lane (Greystoke Land / CyrusOne).** A larger 147 MW three-building Greystoke Land / Altrad proposal on the former Woodlands Park landfill site between the M25 and Iver Lane was [dismissed at appeal in October 2023](https://www.datacenterdynamics.com/en/news/greystokes-iver-data-center-proposal-rejected-again-by-bucks-council/) by the previous Secretary of State on Green Belt grounds. A revised 90 MW scheme was then called in and approved by Secretary of State Angela Rayner in 2024, a decision now itself the subject of judicial review (see below).
+- **Woodlands Park / Iver Lane (Greystoke Land / CyrusOne).** A larger 147 MW three-building Greystoke Land / Altrad proposal on the former Woodlands Park landfill site between the M25 and Iver Lane was [dismissed at appeal in October 2023](https://www.datacenterdynamics.com/en/news/greystokes-iver-data-center-proposal-rejected-again-by-bucks-council/) by the previous Secretary of State on Green Belt grounds. A revised 90 MW scheme was then called in by the Ministry of Housing, Communities and Local Government in 2024 and [approved by Secretary of State Angela Rayner in 2025](https://bebeez.eu/2025/07/12/angela-rayner-greenlights-twice-rejected-buckinghamshire-data-center/) following a December 2024 public inquiry, a decision now itself the subject of judicial review (see below).
 
 These two schemes and the wider South Bucks data-centre pipeline are the local context in which IHRA's data-centre programme sits.
 
