@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [south-africa, johannesburg, south-african, anti-apartheid, apc, association-for-progressive-communications, senior-advisor, executive-director, director-of-policy-and-strategy, digital-rights, internet-governance, global-internet-governance, multi-stakeholder, ict-for-development, ict4d, ict-policy, internet-rights, floss, free-and-open-source-software, civil-society, human-rights, africa, southern-africa, pan-african, fidonet, sangonet, women-s-net, afrisig, african-school-on-internet-governance, african-union, research-ict-africa, igf, igf-mag, igf-mag-chair, internet-governance-forum, un-ict-task-force, global-commission-on-the-stability-of-cyberspace, global-commission-on-internet-governance, netmundial-initiative, wsis-working-group-on-financing-mechanisms, internet-hall-of-fame, internet-hall-of-fame-global-connector, eff-pioneer-award, aspen-digital, global-cybersecurity-group, ungana-afrika, global-e-schools-and-communities-initiative, gesci, development-resources-centre, south-african-council-of-churches, university-of-the-witwatersrand, wits, library-and-information-science, social-sciences, musicology, global-connector, networking-pioneer]
 created: 2026-05-18
-last_updated: 2026-05-18
+last_updated: 2026-05-23
 affiliations:
   - org: org-apc
     role: Senior Advisor on global and regional internet governance (current); Director of Policy and Strategy (April 2017-); Executive Director (June 2000-April 2017)
@@ -24,7 +24,7 @@ public_profiles:
     url: https://www.internethalloffame.org/inductee/anriette-esterhuysen/
   - platform: aspen-digital
     url: https://www.aspendigital.org/person/anriette-esterhuysen/
-voice_entry:
+voice_entry: voice-anriette-esterhuysen
 sources:
   - url: https://www.apc.org/en/profile/anriette
     last_checked: 2026-05-18
