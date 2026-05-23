@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [north-carolina, usa, research-triangle, youth-led, student-organizing, ai-policy, surveillance, facial-recognition, encode-justice-chapter, electronic-frontier-alliance]
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-05-23
 location: North Carolina (primarily Research Triangle Park area)
 parent_org: org-encode-justice
 website_or_contact: https://www.instagram.com/encodejusticenc/
@@ -27,6 +27,9 @@ sources:
   - url: https://efa.eff.org/
     last_checked: 2026-05-12
     note: Electronic Frontier Alliance home — confirms EFA's grassroots-network character; also records EFA's conclusion on 20 November 2025, after which the chapter's EFA affiliation is historical rather than ongoing
+  - url: https://pavingtomorrow.org/aboutUs.html
+    last_checked: 2026-05-23
+    note: Paving Tomorrow's own About page — supports the descriptor for the EJNC workshop partner; the org self-describes as "led entirely by youth" with a national, virtual-volunteer civic-engagement and voter-outreach mission, founded August 2022. The EFF article likewise calls Paving Tomorrow "the national organization"; "national" here corrects the earlier "North Carolina" framing
 ---
 
 # Encode Justice North Carolina
@@ -41,7 +44,7 @@ EJNC is one of more than forty U.S. state chapters that constitute Encode Justic
 
 The chapter runs three lines of work that mirror the national Encode model at the state and local level:
 
-- **Educational workshops.** EJNC has run [workshops on AI in policing and surveillance](https://www.eff.org/deeplinks/2024/06/encode-justice-nc-movement-safe-equitable-ai) in partnership with Paving Tomorrow, a North Carolina youth civic-engagement group.
+- **Educational workshops.** EJNC has run [workshops on AI in policing and surveillance](https://www.eff.org/deeplinks/2024/06/encode-justice-nc-movement-safe-equitable-ai) in partnership with Paving Tomorrow, [a national youth civic-engagement group](https://pavingtomorrow.org/aboutUs.html).
 - **Policy memos.** The chapter has produced memos on the state legislative landscape and broader tech-policy questions, intended to make the legislative terrain legible to student organizers and to support the chapter's lobbying work.
 - **Legislative campaigns at the city and state level.** The chapter lobbied the [Cary, North Carolina, city council to pass an ACLU model bill on police surveillance](https://www.eff.org/deeplinks/2024/06/encode-justice-nc-movement-safe-equitable-ai) and lobbied the North Carolina state legislature on a bill addressing social-media addiction and youth data privacy. It has also gathered student testimonials on school-based surveillance to ground its arguments in named North Carolina experience.
 
