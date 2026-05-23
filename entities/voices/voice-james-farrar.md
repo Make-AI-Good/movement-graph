@@ -16,7 +16,8 @@ public_profiles:
     url: https://www.newstatesman.com/author/james-farrar
   - platform: worker-info-exchange
     url: https://www.workerinfoexchange.org/team
-recent_works: []
+recent_works:
+  - pub-worker-info-exchange-managed-by-bots-2021
 sources:
   - url: https://www.newstatesman.com/author/james-farrar
     last_checked: 2026-05-23
