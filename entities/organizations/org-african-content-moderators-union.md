@@ -16,6 +16,7 @@ key_people:
   - person-james-oyange
   - person-kauna-malgwi
   - person-mophat-okinyi
+  - person-richard-mathenge
 board_and_advisors: []
 related_orgs:
   - org-africa-tech-workers-movement
