@@ -5,9 +5,9 @@ audit_date: 2026-05-23
 pass: 1
 status: unverifiable
 claims_total: 29
-claims_verified: 23
+claims_verified: 25
 claims_discrepancy: 0
-claims_unverifiable: 6
+claims_unverifiable: 4
 sources_consulted:
   - https://detroitcommunitytech.org/?q=story
   - https://detroitcommunitytech.org/
