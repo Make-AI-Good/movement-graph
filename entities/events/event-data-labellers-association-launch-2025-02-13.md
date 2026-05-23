@@ -16,7 +16,8 @@ participating_orgs:
   - org-pollicy
   - org-foxglove
   - org-dair-institute
-participating_people: []
+participating_people:
+  - person-joan-kinyua
 related_events:
   - event-african-content-moderators-union-founding-vote-2023-05-01
 sources:
