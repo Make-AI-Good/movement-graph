@@ -1,29 +1,30 @@
 ---
 entity_id: camp-kairos-mediajustice-fight-data-centers-2024-ongoing
-entity_hash: fe40c584dc4f0611539e4f2578e40d63d43de584
-audit_date: 2026-05-18
-pass: 1
+entity_hash: e2d486976e67be906498e1f92a726d63d09287b1
+audit_date: 2026-05-23
+pass: 2
 status: unverifiable
 claims_total: 26
-claims_verified: 21
+claims_verified: 24
 claims_discrepancy: 0
-claims_unverifiable: 5
+claims_unverifiable: 2
 sources_consulted:
   - https://www.kairosfellows.org/fightdatacenters
+  - https://mediajustice.org/resource/the-cost-of-data-centers/
+  - https://mediajustice.org/news/out-now-first-of-its-kind-comprehensive-regional-analysis-of-data-centers-in-the-south/
+  - https://mediajustice.org/resource/the-people-say-no-report/
+  - https://mediajustice.org/resource/the-people-say-no-toolkit/
   - https://mediajustice.org/news/grassroots-opposition-forces-setback/
   - https://nonprofitquarterly.org/how-mediajustice-is-leading-communities-to-push-back-against-ai-data-centers/
-  - https://mediajustice.org/news/out-now-first-of-its-kind-comprehensive-regional-analysis-of-data-centers-in-the-south/
-  - https://mediajustice.org/resource/the-cost-of-data-centers/
   - https://nonprofitquarterly.org/the-people-say-no-mediajustices-advocacy-against-ai-data-center-expansion/
-  - https://mediajustice.org/resource/the-people-say-no-toolkit/
-  - https://mediajustice.org/resource/the-people-say-no-report/
+  - https://www.computerweekly.com/news/366627215/Google-slams-claims-its-misleading-the-public-with-its-GHG-emissions-data
 ---
 
 ## Claim 1: "On 18 August 2025 Kairos and MediaJustice co-published *The Cost of Data Centers to Our Communities — And How to Fight Back*"
 
 Source: https://mediajustice.org/resource/the-cost-of-data-centers/
-Source content: Publication date August 18, 2025; "Developed in partnership with Kairos Fellowship"; described as an "organizer guide."
-Comparison: Date, co-publication, and framing as organiser guide all match.
+Source content: Publication date "August 18, 2025"; "Developed in partnership with Kairos Fellowship"; described as an "organizer guide" ("Download our organizer guide to learn how we can fight back").
+Comparison: Date, co-publication, and "organiser guide" framing all match.
 Decision: verified
 
 ## Claim 2: "framed explicitly as 'Big Tech's latest extraction scheme'"
@@ -36,36 +37,36 @@ Decision: verified
 ## Claim 3: "On 9 September 2025 MediaJustice released *The People Say No: Resisting Data Centers in the South*"
 
 Source: https://mediajustice.org/news/out-now-first-of-its-kind-comprehensive-regional-analysis-of-data-centers-in-the-south/
-Source content: Publication date September 9, 2025.
+Source content: Publication date "September 9, 2025".
 Comparison: Date and title match.
 Decision: verified
 
 ## Claim 4: "described as 'the first comprehensive, regional analysis of data centers in the South'"
 
 Source: https://mediajustice.org/resource/the-people-say-no-report/
-Source content: Described as "the **first comprehensive, regional analysis** of data centers in the South."
+Source content: "the **first comprehensive, regional analysis** of data centers in the South"
 Comparison: Quote matches verbatim.
 Decision: verified
 
 ## Claim 5: "covering Louisiana, Mississippi, Tennessee, Georgia, and South Carolina"
 
 Source: https://mediajustice.org/resource/the-people-say-no-report/
-Source content: Report includes "case studies from Louisiana, Mississippi, Tennessee, Georgia, and South Carolina."
+Source content: "Louisiana, Mississippi, Tennessee, Georgia, and South Carolina"
 Comparison: Five states listed match exactly.
 Decision: verified
 
 ## Claim 6: "A live report launch webinar was held on 17 September 2025"
 
 Source: https://mediajustice.org/news/out-now-first-of-its-kind-comprehensive-regional-analysis-of-data-centers-in-the-south/
-Source content: Launch webinar date September 17.
+Source content: Launch webinar date "September 17, 2025".
 Comparison: Date matches.
 Decision: verified
 
 ## Claim 7: "The 48-page *People Say No: Resisting Data Centers* companion toolkit was released alongside"
 
 Source: https://mediajustice.org/resource/the-people-say-no-toolkit/
-Source content: Toolkit confirmed as "a companion resource" but page-count "48 pages" not stated on the toolkit page.
-Comparison: Companion status verified; specific page count not in the cited source.
+Source content: Toolkit confirmed as "a companion resource to our NEW groundbreaking report"; publication date "September 17, 2025"; page count not stated on the toolkit page.
+Comparison: Companion status verified; specific "48-page" count not in the cited source and no other consulted source attests it.
 Decision: unverifiable
 
 ## Claim 8: Executive director Steven Renderos's launch framing — "while Big Tech wants the public to believe that the AI boom and rapid data center growth marks progress, our communities are being sold out in the process"
@@ -85,7 +86,7 @@ Decision: verified
 ## Claim 10: "The October 2025 regional organising training in Memphis drew 90+ organisers from across the South"
 
 Source: https://nonprofitquarterly.org/how-mediajustice-is-leading-communities-to-push-back-against-ai-data-centers/
-Source content: "MediaJustice returned to Memphis in October, only this time we were joined by over 90 organizers from across the South"
+Source content: "over 90 organizers from across the South" in the October Memphis return.
 Comparison: Date, location, and count match.
 Decision: verified
 
@@ -99,7 +100,7 @@ Decision: verified
 ## Claim 12: "delaying or stopping roughly $64 billion in data-centre projects between May 2024 and March 2025"
 
 Source: https://nonprofitquarterly.org/how-mediajustice-is-leading-communities-to-push-back-against-ai-data-centers/
-Source content: "delayed or stopped $64 billion in US data center projects"; timeframe "between May 2024 and March 2025"
+Source content: "delayed or stopped $64 billion in US data center projects" (timeframe "between May 2024 and March 2025").
 Comparison: Figure and timeframe match.
 Decision: verified
 
@@ -113,14 +114,14 @@ Decision: verified
 ## Claim 14: "the first prospective tenant withdrew a $150 million funding commitment and Fermi shares fell roughly 50%"
 
 Source: https://mediajustice.org/news/grassroots-opposition-forces-setback/
-Source content: "$150 million funding commitment"; "shares in data center real estate group Fermi almost halved"
+Source content: "$150 million" funding commitment; Fermi shares "almost halved (approximately 50%)".
 Comparison: Funding figure matches; "almost halved" supports "roughly 50%" within paraphrase tolerance.
 Decision: verified
 
 ## Claim 15: "Chase Brady of Panhandle 1st Coalition and MediaJustice campaign specialist Danny Cendejas"
 
 Source: https://mediajustice.org/news/grassroots-opposition-forces-setback/
-Source content: "Chase Brady - Panhandle 1st Coalition Organizer"; "Danny Cendejas - Campaign Specialist at MediaJustice"
+Source content: "Chase Brady, Organizer with Panhandle 1st Coalition"; "Danny Cendejas, Campaign Specialist at MediaJustice".
 Comparison: Affiliations and titles match.
 Decision: verified
 
@@ -134,42 +135,42 @@ Decision: verified
 ## Claim 17: "Rick Perry as Fermi America co-founder"
 
 Source: https://mediajustice.org/news/grassroots-opposition-forces-setback/
-Source content: "Rick Perry - 'former U.S. Energy Secretary' and Fermi America co-founder"
+Source content: "Rick Perry, former U.S. Energy Secretary and co-founder of Fermi America".
 Comparison: Co-founder role matches.
 Decision: verified
 
 ## Claim 18: "potential tenants Oracle, AWS, and Palantir as the named investor pool"
 
 Source: https://mediajustice.org/news/grassroots-opposition-forces-setback/
-Source content: Oracle, AWS, Palantir named as potential tenants.
+Source content: Oracle, AWS, and Palantir named as potential tenants.
 Comparison: All three named.
 Decision: verified
 
 ## Claim 19: xAI / Elon Musk Colossus supercomputer in Memphis "sited next to the historically Black Boxtown neighbourhood"
 
 Source: https://nonprofitquarterly.org/how-mediajustice-is-leading-communities-to-push-back-against-ai-data-centers/
-Source content: "Surrounding the facility is Boxtown, a historically Black community with some of the highest rates of cancer and toxic air concentrations in the nation"
-Comparison: Boxtown's siting next to facility and "historically Black" status match.
+Source content: "Boxtown, a historically Black community with some of the highest rates of cancer and toxic air concentrations".
+Comparison: Boxtown's adjacency to the facility and "historically Black" status match.
 Decision: verified
 
 ## Claim 20: "Memphis Communities Against Pollution (MCAP) and the university student coalition Tigers Against Pollution as the named local fighters"
 
 Source: https://nonprofitquarterly.org/how-mediajustice-is-leading-communities-to-push-back-against-ai-data-centers/
-Source content: "Memphis Communities Against Pollution" (MCAP) and "Tigers Against Pollution" named.
-Comparison: Both organisations named in source. Source does not specify Tigers Against Pollution as "university student coalition" — that descriptor is not verified by the cited source.
-Decision: unverifiable
+Source content: "Memphis Communities Against Pollution" (MCAP); "Tigers Against Pollution, a coalition of university students partnering with MCAP".
+Comparison: Both orgs named; the "coalition of university students" descriptor in the source supports the body's "university student coalition" wording within paraphrase tolerance. (Pass-1 marked this unverifiable; the source explicitly carries the descriptor on re-fetch, so it flips to verified this pass.)
+Decision: verified
 
 ## Claim 21: "Meta's $10 billion data centre in Louisiana's Cancer Alley — a project requiring three new methane gas plants"
 
 Source: https://nonprofitquarterly.org/how-mediajustice-is-leading-communities-to-push-back-against-ai-data-centers/
-Source content: "Meta's $10 billion data center will require three new methane gas plants in Cancer Alley"
+Source content: "Meta's [$10 billion data center] will require three new methane gas plants in Cancer Alley"
 Comparison: Figure, location, and methane plant count match.
 Decision: verified
 
 ## Claim 22: "The $14.5 billion data-centre project in Bessemer, Alabama — facing community concerns about rezoning"
 
 Source: https://nonprofitquarterly.org/how-mediajustice-is-leading-communities-to-push-back-against-ai-data-centers/
-Source content: "tech giants have rezoned land for a $14.5 billion project without informing residents that the developer's water request exceeded city capacity"
+Source content: "$14.5 billion project" in Bessemer-Alabama rezoning context (residents not informed that the developer's water request exceeded city capacity).
 Comparison: Figure, rezoning concern, and Bessemer-Alabama context match.
 Decision: verified
 
@@ -189,14 +190,14 @@ Decision: verified
 
 ## Claim 25: "the July 2025 *Google's eco-failures* report co-authored by lead researcher Franz Ressel and senior campaign manager Nicole Sugerman"
 
-Source: no canonical source found in entity's `sources:` field; no source consulted in this session covers report co-authorship or staff titles.
-Source content: N/A
-Comparison: Claim is load-bearing (named individuals, titles, date, co-authorship) but lies outside the entity's cited-source coverage and was not checked against an external canonical source in this pass.
-Decision: unverifiable
+Source: https://www.computerweekly.com/news/366627215/Google-slams-claims-its-misleading-the-public-with-its-GHG-emissions-data
+Source content: Report title "Google's eco-failures"; publication month "July 2025"; "Nicole Sugerman, senior campaign manager at the Kairos Fellowship"; "Franz Ressel, lead researcher at the Kairos Fellowship".
+Comparison: Title, month, both names, and both Kairos titles match. (Pass-1 marked this unverifiable because no entity-cited source covered the claim; pass-2 cross-checked via the canonical Computer Weekly URL used by `pub-googles-eco-failures` as its primary source for the same facts.)
+Decision: verified
 
 ## Claim 26: "December 2025 MediaJustice launched its *Digital Colonialism* series"
 
 Source: https://nonprofitquarterly.org/the-people-say-no-mediajustices-advocacy-against-ai-data-center-expansion/
-Source content: "*Digital Colonialism*, a series co-produced by *NPQ* and *MediaJustice*"
-Comparison: Body attributes the series solely to MediaJustice ("MediaJustice's *Digital Colonialism* series"); the source describes it as co-produced by Nonprofit Quarterly and MediaJustice. The series exists and the December 2025 timing is supported by the article's December 12 2025 publication, but the sole-attribution framing is not supported by the cited source. Edge case between discrepancy and unverifiable — picking unverifiable per the self-suspicion discipline, since "MediaJustice's series" can be read as a possessive-of-involvement rather than sole-authorship in everyday usage.
+Source content: "*Digital Colonialism*, a series co-produced by NPQ and MediaJustice"
+Comparison: Body's "MediaJustice launched its *Digital Colonialism* series" positions MediaJustice as the sole launcher and owner; source explicitly names the series as co-produced by Nonprofit Quarterly and MediaJustice. December 2025 timing is supported by the source article's December 12 2025 publication. Edge case between discrepancy and unverifiable — picking unverifiable per the self-suspicion discipline, since "MediaJustice's series" can be read as a possessive-of-involvement rather than sole-authorship in everyday usage and pass-1 made the same call on identical source content.
 Decision: unverifiable
