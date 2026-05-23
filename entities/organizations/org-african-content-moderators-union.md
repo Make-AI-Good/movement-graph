@@ -15,6 +15,7 @@ key_people:
   - person-daniel-motaung
   - person-james-oyange
   - person-kauna-malgwi
+  - person-mophat-okinyi
 board_and_advisors: []
 related_orgs:
   - org-africa-tech-workers-movement
