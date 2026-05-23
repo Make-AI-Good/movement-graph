@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [senegal, dakar, diourbel, west-africa, francophone-africa, francophone-west-africa, sub-saharan-africa, pan-african, web-activist, cyber-activist, blogger, digital-expert, founder, president, africtivistes, sunu2012, citoyen-au-senegal, citizenlab, digital-democracy, electoral-monitoring, electoral-integrity, civic-tech, civic-technology, participatory-democracy, good-governance, transparency, anti-corruption, ai-and-elections, ai-and-human-rights, generative-ai, electoral-disinformation, fimi, foreign-information-manipulation, data-journalism, auf, agence-universitaire-de-la-francophonie, groupe-futurs-medias, diakonia-prize, unesco, intelligences-magazine]
 created: 2026-05-18
-last_updated: 2026-05-18
+last_updated: 2026-05-23
 affiliations:
   - org: org-africtivistes
     role: co-founder and President
@@ -16,7 +16,7 @@ public_profiles:
     url: https://africtivistes.com/
   - platform: personal-site
     url: https://cheikhfall.net/
-voice_entry:
+voice_entry: voice-cheikh-fall
 sources:
   - url: https://africtivistes.net/en/africtivistes-en/
     last_checked: 2026-05-18
