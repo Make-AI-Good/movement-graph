@@ -6,12 +6,12 @@ status: active
 confidence: high
 tags: [aotearoa, new-zealand, kaitaia, oceania, polynesia, indigenous-led, maori, iwi-broadcaster, te-reo, language-revitalisation, indigenous-data-sovereignty, kaitiakitanga, speech-recognition, automatic-speech-recognition, natural-language-processing, ai-ethics, community-data-governance, non-profit, charitable-trust]
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-05-23
 founded: 1990
 location: Kaitaia, Te Hiku o Te Ika (Far North), Aotearoa New Zealand
 website: https://tehiku.nz/
 strategies: []
-key_people: []
+key_people: [person-peter-lucas-jones]
 board_and_advisors: []
 related_orgs: []
 funders: []
