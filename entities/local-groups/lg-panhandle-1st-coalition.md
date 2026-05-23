@@ -47,7 +47,7 @@ Panhandle 1st Coalition is a grassroots community-organising coalition based in 
 
 ## Project Matador campaign
 
-The coalition's organising work is concentrated on the Project Matador fight. The site sits between Amarillo and the town of Panhandle in Carson County, and the [proposed perimeter](https://www.sierraclub.org/texas/blog/2025/12/project-matador-trump-ai-data-center-texas) of 93 gas-fired turbines would deliver more than 5,100 MW of gas capacity — what the Sierra Club Texas chapter records as the largest gas plant in the United States if built. The campus's water requirement is provided through an Amarillo City Council water-sale agreement signed in late 2025, drawing on the Ogallala Aquifer — already in long-running decline across the Texas Panhandle — and rated at 5.5 million gallons a day, expandable to 10 million.
+The coalition's organising work is concentrated on the Project Matador fight. The site sits between Amarillo and the town of Panhandle in Carson County, and the [proposed perimeter](https://www.sierraclub.org/texas/blog/2025/12/project-matador-trump-ai-data-center-texas) of 93 gas-fired turbines would deliver more than 5,100 MW of gas capacity — what the Sierra Club Texas chapter records as the largest gas plant in the United States if built. The campus's water requirement is provided through an Amarillo City Council water-sale agreement signed in late 2025, drawing on the Ogallala Aquifer — already in long-running decline across the Texas Panhandle — and rated at 2.5 million gallons a day, expandable to 10 million.
 
 The coalition's organising tactics have run along several lines.
 
