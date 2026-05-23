@@ -1,13 +1,13 @@
 ---
 entity_id: fund-stiftung-mercator
 entity_hash: 56cc10627e1ec855694a94818088dc1141ae7ab7
-audit_date: 2026-05-22
-pass: 1
-status: discrepancy
+audit_date: 2026-05-23
+pass: 2
+status: unverifiable
 claims_total: 26
 claims_verified: 24
-claims_discrepancy: 1
-claims_unverifiable: 1
+claims_discrepancy: 0
+claims_unverifiable: 2
 sources_consulted:
   - https://www.stiftung-mercator.de/en/
   - https://www.stiftung-mercator.de/en/who-we-are/faq-for-stiftung-mercator/
@@ -18,6 +18,7 @@ sources_consulted:
   - https://blog.mozilla.org/en/mozilla/launching-the-european-ai-fund/
   - https://europeanaifund.org/our-team/
   - https://europeanaifund.org/about/
+  - https://europeanaifund.org/our-partners/
 ---
 
 ## Claim 1: "German private foundation headquartered in Essen"
@@ -141,10 +142,10 @@ Decision: unverifiable
 
 ## Claim 18: "the subsequent expansion to eighteen current foundations"
 
-Source: https://europeanaifund.org/about/
-Source content: "17 funding partners have combined resources to award grants, build the field, fundraise and forge collective strategies."
-Comparison: Body says "eighteen current foundations"; the Fund's own about page says 17. Off-by-one against the canonical source.
-Decision: discrepancy
+Source: https://europeanaifund.org/about/ and https://europeanaifund.org/our-partners/
+Source content: The Fund's About page states: "17 funding partners have combined resources to award grants, build the field, fundraise and forge collective strategies." The Fund's Our Partners page lists 18 distinct entities under the heading "Our current partners are:" — Adessium Foundation, AI Collaborative, Charles Stewart Mott Foundation, Fondation de France, Fondazione Compagnia di San Paolo, Ford Foundation, John D. and Catherine T. MacArthur Foundation, King Baudouin Foundation, Limelight Foundation, Luminate, Mozilla Foundation, Oak Foundation, Open Society Foundations, Porticus, Postcode Loterij, Robert Bosch Foundation, Stiftung Mercator, William & Flora Hewlett Foundation.
+Comparison: Two canonical sources from the European AI & Society Fund's own website contradict each other on the current partner count — 17 (About page summary) vs. 18 (Our Partners page enumeration). Per the Source rule (mission MISSION.md § Auditor; profile § Source rule): "When two canonical sources disagree: the outcome is `unverifiable`. Do not pick a winner." The body claim of "eighteen" aligns with the enumerated list on /our-partners but contradicts the summary on /about; the auditor does not adjudicate which page is authoritative. Pass-1 verdict (`discrepancy`, citing /about only) is corrected to `unverifiable` on this pass after both pages were cross-checked. The discrepancy here is between the entity body's source-of-record and a different canonical source on the same site — not a body-vs-source mismatch in the audit-decision-rules sense — and a re-audit after the Fund's pages reconcile is the path to a definitive verdict.
+Decision: unverifiable
 
 ## Claim 19: "Carla Hustedt of Stiftung Mercator's Centre for Digital Society co-chairs the European AI & Society Fund's Steering Committee"
 
