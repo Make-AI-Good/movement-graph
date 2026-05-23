@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [us, phoenix, arizona, new-orleans, louisiana, chicago, illinois, oakland, california, mexico, latinx, chicana, organizer, field-director, senior-campaign-organizer, policy-director, head-of-programs, mijente, mediajustice, no-tech-for-ice, anti-deportation, immigration-rights, ice-accountability, surveillance-tech-accountability, palantir-accountability, amazon-web-services-accountability, microsoft-accountability, salesforce-accountability, big-tech-accountability, tech-worker-organising, student-organising, campus-organising, day-labor-organising, congress-of-day-laborers, new-orleans-workers-center, post-katrina-new-orleans, environmental-justice, poder-mexico, rio-sonora, soros-justice-fellow, new-voices-fellow, galaxy-gives-fellow, instituto-de-formacion-politica]
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-05-23
 affiliations:
   - org: org-mijente
     role: 'Co-founder; held various leadership roles since the 2015 founding including Field Director, Senior Campaign Organizer leading #NoTechForICE, and Policy Director'
@@ -15,6 +15,7 @@ affiliations:
     role: 'Inaugural Head of Programs, member of the Executive Team'
     period: 2025-
 public_profiles: []
+voice_entry: voice-jacinta-gonzalez
 sources:
   - url: https://sji.uic.edu/profiles/gonzalez-jacinta/
     last_checked: 2026-05-19
