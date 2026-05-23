@@ -6,12 +6,13 @@ status: active
 confidence: high
 tags: [argentina, cordoba, latin-america, southern-cone, non-profit, ngo, digital-rights, human-rights, ai-and-human-rights, ai-bias, ai-stereotypes, algorithmic-accountability, automated-decision-making, facial-recognition, surveillance, privacy, electronic-voting, free-software, access-to-knowledge, copyright, intellectual-property, freedom-of-expression, edia, heseia, fair-network, wipo-observer]
 created: 2026-05-20
-last_updated: 2026-05-20
+last_updated: 2026-05-23
 founded: 2000
 location: Córdoba, Argentina (Latin American regional reach)
 website: https://www.vialibre.org.ar/
 strategies: []
-key_people: []
+key_people:
+  - person-beatriz-busaniche
 board_and_advisors: []
 related_orgs:
   - org-derechos-digitales
