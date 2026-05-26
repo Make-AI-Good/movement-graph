@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [oakland, bay-area, california, usa, surveillance, community-control-of-police-surveillance, ccops, facial-recognition-ban, predictive-policing-ban, algorithmic-accountability, police-accountability, occupy-derived, coalition]
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-05-26
 founded: 2013
 location: Oakland, California, USA (work radiates across Bay Area cities — Berkeley, BART, Davis, Palo Alto, San Pablo — and into California state legislation)
 website_or_contact: https://oaklandprivacy.org/
@@ -38,7 +38,7 @@ sources:
     note: EFF deeplink (July 2019) reporting Oakland City Council's unanimous vote to ban Oakland government use of face surveillance, making Oakland the third U.S. city to take that step after San Francisco and Somerville, Massachusetts
   - url: https://statescoop.com/oakland-calif-set-to-ban-predictive-policing-biometric-surveillance-tools/
     last_checked: 2026-05-19
-    note: 'StateScoop reporting on the December 2020 amendments — quotes the Privacy Advisory Commission rationale on predictive analytics: the "feedback loop" risk by which algorithms direct police back to over-policed communities based on historically skewed training data'
+    note: StateScoop reporting on the December 2020 amendments — covers Brian Hofer's concern about Forensic Logic data-sharing as the trigger for the ban and the commission's preventive-regulation rationale
   - url: https://www.mondo2000.com/occupy-oakland-to-oakland-privacy/
     last_checked: 2026-05-19
     note: 'Mondo 2000 long-form history (republished from the activists'' own retrospective) — traces the lineage from Occupy Oakland''s anti-surveillance organising through the DAC fight to Oakland Privacy as a standing working group; quotes early organisers framing the work as stopping Oakland from "becoming a mini-fusion center for the Department of Homeland Security"'
@@ -76,7 +76,7 @@ This strategic shape — coalition campaign → standing ordinance → standing 
 The algorithmic-systems portion of Oakland Privacy's work is what places this entry inside the make-AI-good corpus rather than alongside more general civil-liberties groups. Three specific bans, all delivered through the standing ordinance route, are load-bearing:
 
 - **Face recognition (2019).** The Oakland prohibition, adopted by unanimous council vote in July 2019, [bars city agencies from acquiring, obtaining, retaining, requesting, or accessing face recognition technology](https://www.eff.org/deeplinks/2019/07/victory-oakland-city-council-votes-ban-government-use-face-surveillance). The Privacy Advisory Commission's recommendation cited demographic disparities in the technology's error rates as among its grounds.
-- **Predictive policing (2020).** The December 2020 amendments banned the city's use of predictive policing analytics. [StateScoop's reporting on the council debate](https://statescoop.com/oakland-calif-set-to-ban-predictive-policing-biometric-surveillance-tools/) quotes the Privacy Advisory Commission's "feedback loop" rationale — that algorithms trained on historically skewed policing data direct officers back to communities they have already over-policed, and that the loop is self-reinforcing in a way the city could not adequately mitigate.
+- **Predictive policing (2020).** The December 2020 amendments banned the city's use of predictive policing analytics. [Secure Justice's account of the legislative record](https://secure-justice.org/blog/first-in-the-nation-bans-predictive-analytics-biometric-surveillance-technologies) articulates the Privacy Advisory Commission's core rationale: that algorithms trained on historically skewed policing data direct officers back to communities they have already over-policed, compounding the bias in a self-reinforcing loop the city could not adequately mitigate.
 - **Voice recognition, gait recognition, and other distance-based biometric identification (2020).** The same December 2020 amendment package added these prohibitions, [making Oakland the first U.S. city to ban government use of voice recognition](https://www.eff.org/deeplinks/2021/01/oaklands-progressive-fight-protect-residents-government-surveillance) and the first to prohibit identification based on "physiological, biological, or behavioral characteristics ascertained from a distance." [Brian Hofer's separate nonprofit Secure Justice](https://secure-justice.org/blog/first-in-the-nation-bans-predictive-analytics-biometric-surveillance-technologies) records the legislative shape of the package and its first-in-the-nation framing.
 
 The group's work on ShotSpotter, drones, and automated licence plate readers extends the same accountability frame to surveillance equipment that, while not always algorithmic in the public-discourse sense, is layered with AI-grade classification systems and feeds into the same predictive-policing-style data pipelines the December 2020 amendments were designed to cut off.
