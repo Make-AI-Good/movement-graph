@@ -13,7 +13,7 @@ website: https://edri.org/
 strategies: []
 key_people: [person-ella-jakubowska]
 board_and_advisors: []
-related_orgs: [org-algorithmwatch, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net, org-hermes-center, org-tasz]
+related_orgs: [org-algorithmwatch, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net, org-hermes-center, org-tasz, org-article-19]
 funders: [fund-open-society-foundations, fund-ford-foundation, fund-macarthur-foundation, fund-mozilla-foundation, fund-european-ai-society-fund, fund-luminate, fund-stiftung-mercator, fund-adessium-foundation]
 sources:
   - url: https://edri.org/about-us/

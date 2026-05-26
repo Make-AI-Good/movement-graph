@@ -25,6 +25,7 @@ related_orgs:
   - org-tedic
   - org-open-net-korea
   - org-intervozes
+  - org-article-19
 funders:
   - fund-ford-foundation
   - fund-luminate
