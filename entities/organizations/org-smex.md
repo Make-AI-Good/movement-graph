@@ -17,6 +17,7 @@ board_and_advisors: []
 related_orgs:
   - org-derechos-digitales
   - org-7amleh
+  - org-masaar
 funders:
   - fund-ford-foundation
 sources:

@@ -17,6 +17,7 @@ board_and_advisors: []
 related_orgs:
   - org-apc
   - org-smex
+  - org-masaar
 funders: []
 sources:
   - url: https://7amleh.org/

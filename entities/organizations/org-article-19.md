@@ -17,6 +17,7 @@ related_orgs:
   - org-edri
   - org-apc
   - org-access-now
+  - org-masaar
 funders:
   - fund-ford-foundation
   - fund-open-society-foundations
