@@ -18,6 +18,7 @@ related_orgs:
   - org-apc
   - org-access-now
   - org-masaar
+  - org-sinar-project
 funders:
   - fund-ford-foundation
   - fund-open-society-foundations
