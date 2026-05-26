@@ -16,6 +16,7 @@ key_people:
 board_and_advisors: []
 related_orgs:
   - org-pauseai
+  - org-existential-risk-observatory
 funders: []
 sources:
   - url: https://controlai.com/

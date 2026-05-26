@@ -20,6 +20,7 @@ key_people:
 board_and_advisors: []
 related_orgs:
   - org-controlai
+  - org-existential-risk-observatory
 funders: []
 sources:
   - url: https://en.wikipedia.org/wiki/PauseAI
