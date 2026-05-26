@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [oregon, usa, pacific-northwest, portland-metro, beaverton, youth-led, student-organizing, ai-policy, k-12-ai-policy, ai-education, encode-justice-chapter, electronic-frontier-alliance]
 created: 2026-05-17
-last_updated: 2026-05-17
+last_updated: 2026-05-26
 founded: 2022
 location: Oregon, USA (statewide; Portland metro / Beaverton anchor)
 parent_org: org-encode-justice
@@ -49,7 +49,7 @@ EFF's [December 2024 Electronic Frontier Alliance year-in-review](https://www.ef
 
 ## Chapter founding, leadership, and Portland-metro anchor
 
-The chapter's [LinkedIn company page](https://www.linkedin.com/company/encode-justice-oregon-chapter) records it as [founded in 2022](https://www.linkedin.com/company/encode-justice-oregon-chapter), based in Portland (postal area 97006, which sits in the Beaverton / west-Portland-metro band of Washington County), and describing itself as "Oregon's ONLY fully youth-led group mobilizing for equitable & ethical AI and ML legislation & education." The same page describes the chapter as a team of [thirteen students from across Oregon](https://www.linkedin.com/company/encode-justice-oregon-chapter) and names two leaders by school affiliation: **Alena Dasha Peethala**, then a student at the International School of Beaverton, and **Sahana Srinivasan**, then a student at Jesuit High School in Portland. Neither is independently in the corpus; both are recorded here as the chapter's named leadership rather than as Person entries, in keeping with the [Researcher sourcing rule](../../../mission/MISSION.md) that Person entries below the public-sourcing threshold are not created.
+The chapter's [LinkedIn company page](https://www.linkedin.com/company/encode-justice-oregon-chapter) records it as [founded in 2022](https://www.linkedin.com/company/encode-justice-oregon-chapter), based in Portland (postal area 97006, which sits in the Beaverton / west-Portland-metro band of Washington County), and describing itself as "Oregon's ONLY fully youth-led group mobilizing for equitable & ethical AI and ML legislation & education." The same page describes the chapter as a team of [thirteen students from across Oregon](https://www.linkedin.com/company/encode-justice-oregon-chapter) and names two leaders by school affiliation: **Alena Dasha Peethala**, then a student at the International School of Beaverton, and **Sahana Srinivasan**, then a student at Jesuit High School in Portland. Neither is independently in the corpus; both are recorded here as the chapter's named leadership rather than as Person entries, in keeping with this corpus's sourcing rule that Person entries below the public-sourcing threshold are not created.
 
 ## Activities
 
