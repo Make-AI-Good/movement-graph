@@ -1,0 +1,62 @@
+---
+id: event-open-net-korea-deepfake-election-act-constitutional-complaint-2025-10-01
+type: event
+name: 'Open Net constitutional complaint against Article 82-8 of the Public Official Election Act (1 October 2025)'
+status: historical
+confidence: high
+tags: [south-korea, seoul, east-asia, korean, constitutional-litigation, strategic-litigation, deepfakes, deepfake-election-act, public-official-election-act, ai-regulation, ai-generated-content, freedom-of-expression, political-speech, satire, parody, election-law, korean-constitutional-court, digital-rights, civil-society, open-net-korea, overbreadth, proportionality]
+created: 2026-05-26
+last_updated: 2026-05-26
+date: 2025-10-01
+location: Seoul, South Korea
+event_type: constitutional complaint filing
+participating_orgs:
+  - org-open-net-korea
+participating_people:
+  - person-kyung-sin-park
+related_events: []
+sources:
+  - url: https://www.opennetkorea.org/en/wp/7058
+    last_checked: 2026-05-26
+    note: 'Open Net''s own announcement of the constitutional complaint against Article 82-8(1) of the Public Official Election Act — primary source for the 1 October 2025 filing date, the challenged provision text (the 90-day pre-election prohibition on "production, editing, distribution, screening, or posting of virtual sounds, images, or videos … created using artificial intelligence technology"), the criminal penalty range (up to seven years'' imprisonment or fines of 10–50 million won under Article 255 of the Act), the December 2023 enactment date, and Open Net''s five constitutional arguments: that the provision regulates content solely because AI technology was used with no distinction between true and false content; that it captures satire, parody, truthful reconstructions, policy promotion, and anonymous political expression; that it is unnecessary given existing laws already restrict deepfakes presenting false facts; that it impermissibly burdens political speech warranting heightened constitutional protection; and that it violates the Constitutional Court''s own precedent that "freedom should be the rule and prohibition the exception" for political expression (citing Decisions 2023Hun-Ka4 and 2017Hun-Ba100)'
+  - url: https://www.opennetkorea.org/en/wp/7061
+    last_checked: 2026-05-26
+    note: 'Open Net''s own report on K.S. Park''s presentation at the Global Free Speech Summit, Nashville (3–4 October 2025) — primary source for Park''s characterisation of Korea''s deepfake election law as a "knee-jerk reaction to unfounded fear of AI", the formulation that the law imposes "complete or near complete bans on deepfakes" irrespective of consent, truthfulness, or artistic merit, the critique that AI regulations impermissibly burden First Amendment-equivalent activity by targeting applications rather than harms, and the three-prong reformist alternative Open Net advocates (improved training-data availability, enhanced data-privacy governance, better data quality to prevent amplification of bias and falsity)'
+  - url: https://freedomhouse.org/country/south-korea/freedom-net/2024
+    last_checked: 2026-05-26
+    note: 'Freedom House Freedom on the Net 2024 report for South Korea — secondary source for the parliamentary passage of amendments to the Public Official Election Act (Freedom House dates the passage to January 2024; Open Net''s own complaint document dates enactment to December 2023, and the discrepancy likely reflects different stages of the Korean legislative-promulgation process), for the 90-day pre-election distribution ban alongside a year-round AI-labelling mandate and election-regulator takedown authority as the law''s three-part structure, for the criminal penalty ceiling of seven years'' imprisonment and 50 million won, and for the April 2024 parliamentary elections as the first cycle to fall under the law''s 90-day window'
+---
+
+# Open Net constitutional complaint against Article 82-8 of the Public Official Election Act (1 October 2025)
+
+On 1 October 2025, [Open Net](../organizations/org-open-net-korea.md) — South Korea's principal civil-society digital-rights organisation — filed a constitutional complaint at the Korean Constitutional Court challenging Article 82-8(1) of the Public Official Election Act, a provision [enacted December 2023](https://www.opennetkorea.org/en/wp/7058) that bans the production, editing, distribution, screening, or posting of AI-generated synthetic media for election campaigning during the 90-day period before any election through election day. The complaint argues the provision is unconstitutionally overbroad: it prohibits AI-generated content regardless of whether that content is truthful, consensual, or disclosed as synthetic, and in doing so it captures satire, parody, and political speech that existing Korean law and the Constitutional Court's own jurisprudence protect. The filing is the corpus's first event anchored in South Korea and the first constitutional challenge to an AI-specific election-law restriction to enter the corpus.
+
+## The challenged provision
+
+Article 82-8(1) of the Public Official Election Act [prohibits "production, editing, distribution, screening, or posting of virtual sounds, images, or videos … created using artificial intelligence technology"](https://www.opennetkorea.org/en/wp/7058) for election campaigning during the 90-day window before any election through election day. The prohibition is technology-defined rather than harm-defined: it attaches to the method of production — the use of AI — not to the falsity, deceptiveness, or non-consensual character of the resulting content. Violations carry [criminal penalties of up to seven years' imprisonment or fines of 10 to 50 million won](https://www.opennetkorea.org/en/wp/7058) under Article 255 of the Act, penalties that apply equally to creators and distributors.
+
+The law forms one part of a three-element structure. The 90-day campaign-period ban is the sharpest provision; alongside it, the [2023–24 amendments also impose a year-round labelling requirement on AI-generated political materials](https://freedomhouse.org/country/south-korea/freedom-net/2024) and grant election regulators — the National Election Commission — authority to order takedowns of content found to violate either provision. The [April 2024 parliamentary elections](https://freedomhouse.org/country/south-korea/freedom-net/2024) were the first national election cycle to fall within the law's 90-day window, providing the first enforcement period against which Open Net's constitutional challenge is assessed.
+
+## Open Net's constitutional arguments
+
+[Open Net's complaint](https://www.opennetkorea.org/en/wp/7058) advances five related constitutional arguments, all variants of the core overbreadth objection.
+
+The first and most fundamental is that the law regulates content based solely on the technology used to produce it, with no reference to the content's truth, falsity, consent status, or disclosure. Because the prohibition attaches to "virtual sounds, images, or videos … created using artificial intelligence technology" without further qualification, it captures a class far broader than the harmful deepfakes — non-consensual synthetic intimate imagery, election-fraud disinformation — that animated the law's legislative passage.
+
+The second argument names the protected expression the provision sweeps in: satire, parody, truthful reconstructions of historical events, policy promotion, and anonymous political expression are all subject to the 90-day ban if they use AI-generated media, even where they are labelled as synthetic, consensual, and entirely accurate. Open Net frames the political-expression dimension as the law's most serious constitutional defect: political speech in an election context is the category that receives the highest constitutional protection, and a law that prohibits it indiscriminately on a technology basis inverts that principle.
+
+The third argument is redundancy: existing Korean law already prohibits deepfakes that present false facts or are produced without consent. Open Net argues that Article 82-8(1) is unnecessary because the existing prohibition already covers the paradigmatic harm — nonconsensual AI-generated disinformation — while the new provision extends criminal liability to truthful and consensual AI expression that the earlier law does not reach.
+
+The fourth and fifth arguments are proportionality and precedent. Open Net cites the Constitutional Court's own holdings — [Decisions 2023Hun-Ka4 and 2017Hun-Ba100](https://www.opennetkorea.org/en/wp/7058) — for the principle that "freedom should be the rule and prohibition the exception" for political expression, and argues that a complete ban on a category of media in the 90-day pre-election window fails the proportionality test those decisions establish. The complaint places the provision alongside the existing AI-specific sex-crime deepfake law — which Open Net notes also lacks a falsity requirement and contains no satire or parody exception — as evidence of a legislative pattern of technology-targeted, harm-indifferent AI regulation.
+
+## Context and K.S. Park's role
+
+[Kyung-sin "K.S." Park](../persons/person-kyung-sin-park.md), Open Net's co-founder and Executive Director, led the constitutional challenge and was its named advocate. Three days after filing the complaint, Park presented at the [Global Free Speech Summit in Nashville on 3–4 October 2025](https://www.opennetkorea.org/en/wp/7061), where he characterised Korea's deepfake election law as a ["knee-jerk reaction to unfounded fear of AI"](https://www.opennetkorea.org/en/wp/7061) and argued that it imposed "complete or near complete bans on deepfakes" without distinction — a formulation consistent with the complaint's overbreadth theory. Park's Nashville remarks developed the critique into a broader indictment of AI-application regulation: he argued that AI regulations of this type impermissibly burden the production and distribution of political expression "just because it is carried out with a particular type of software", burdening First Amendment-equivalent activity for reasons unconnected to the harms those regulations purport to address.
+
+The October 2025 complaint filing follows more than a year of Open Net tracking the law's enforcement. The filing date was chosen more than a year after the first election-period enforcement of the provision — the April 2024 parliamentary elections — giving Open Net the opportunity to gather evidence of the provision's operation before challenging it. The complaint sits inside Open Net's wider 2024–25 AI register, which also includes a critical posture toward the [Korean Basic Act on the Development of Artificial Intelligence](https://www.opennetkorea.org/en/wp/7061) (passed by the National Assembly in December 2024, in force from January 2026) on the grounds that the Act's prominent role for government vetting of "high-impact AI" systems creates a structural opening for government censorship of AI-mediated expression.
+
+## Significance for the corpus
+
+The 1 October 2025 complaint filing is the corpus's first event anchored in South Korea. It is also the corpus's first constitutional challenge to an AI-specific election-law restriction — extending the corpus's constitutional-litigation register, which has previously covered welfare-algorithm litigation in the United Kingdom ([Foxglove / GMCDP v. DWP](../events/event-foxglove-gmcdp-dwp-case-launch-2021-12-01.md)) and administrative-algorithm challenges in France ([La Quadrature du Net / CAF v. Conseil d'État](../events/event-laquadrature-caf-conseil-detat-petition-filing-2024-10-16.md)), to a new sub-type: challenges to AI-generated political expression restrictions in national election law.
+
+The complaint's constitutional architecture — an overbreadth challenge grounded in political-speech protection and the proportionality requirements of the national constitution — is the pattern the corpus would expect to see replicated as other jurisdictions pass deepfake election laws without consent, falsity, or disclosure carve-outs. [Open Net](../organizations/org-open-net-korea.md) is the load-bearing Korean and East Asian digital-rights anchor in the corpus; this complaint is the first corpus event showing that load-bearing role operating through constitutional litigation rather than administrative or legislative advocacy.
