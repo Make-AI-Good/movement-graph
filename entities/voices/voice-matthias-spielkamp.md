@@ -8,7 +8,7 @@ tags: [germany, berlin, continental-europe, european-union, journalist, founder,
 created: 2026-05-14
 last_updated: 2026-05-14
 person_entry: person-matthias-spielkamp
-notable_for: Anchoring the Continental European public voice for algorithmic accountability and automated-decision-making oversight — through ten years as the on-record Executive Director and editorial lead of [AlgorithmWatch](../organizations/org-algorithmwatch.md), the recurring multi-country *Automating Society* mapping reports, sustained named testimony before the Council of Europe, the European Parliament, and German Bundestag committees through the EU AI Act run-up and trilogue, and the signature framing that bold civil-society asks on Big Tech "tend to dissolve over the course of political negotiations" because of "the millions of euros Big Tech spend on lobbying decision-makers"
+notable_for: 'Anchoring the Continental European public voice for algorithmic accountability and automated-decision-making oversight — through ten years as the on-record Executive Director and editorial lead of [AlgorithmWatch](../organizations/org-algorithmwatch.md), the recurring multi-country *Automating Society* mapping reports, sustained named testimony before the Council of Europe, the European Parliament, and German Bundestag committees through the EU AI Act run-up and trilogue, and the signature framing that bold civil-society asks on Big Tech "tend to dissolve over the course of political negotiations" because of "the millions of euros Big Tech spend on lobbying decision-makers"'
 public_profiles:
   - platform: algorithmwatch
     url: https://algorithmwatch.org/en/team/matthias-spielkamp/
@@ -24,10 +24,10 @@ sources:
     note: AlgorithmWatch's own staff page — primary source for Spielkamp's Founder / Executive Director role, the Council of Europe / European Parliament / German Bundestag testimony record, and the Reporters Without Borders Germany governing-board, Stiftung Warentest governing-board, German UNESCO Commission Expert Committee, Global Partnership on AI (2020–2022), and German Digital Services Coordinator advisory-council (2024–2026) appointments through which his public voice carries
   - url: https://algorithmwatch.org/en/automating-society/
     last_checked: 2026-05-14
-    note: AlgorithmWatch's *Automating Society* landing page — primary venue for the recurring multi-country ADM-mapping report series under Spielkamp's editorial direction, the closest thing in the European digital-rights field to a recurring multi-country ADM-mapping standard
+    note: 'AlgorithmWatch''s *Automating Society* landing page — primary venue for the recurring multi-country ADM-mapping report series under Spielkamp''s editorial direction, the closest thing in the European digital-rights field to a recurring multi-country ADM-mapping standard'
   - url: https://automatingsociety.algorithmwatch.org/team/matthias-spielkamp/
     last_checked: 2026-05-14
-    note: *Automating Society Report 2020* team page — names Spielkamp as editor of the *Automating Society* reports and as founder and executive director of AlgorithmWatch, and corroborates the testimony record before the Council of Europe, European Parliament, and German Bundestag
+    note: '*Automating Society Report 2020* team page — names Spielkamp as editor of the *Automating Society* reports and as founder and executive director of AlgorithmWatch, and corroborates the testimony record before the Council of Europe, European Parliament, and German Bundestag'
   - url: https://algorithmwatch.org/en/ai-act/
     last_checked: 2026-05-14
     note: AlgorithmWatch's EU AI Act work-area landing page — primary venue for the organisation's Spielkamp-led EU-policy public output across the 2021–2024 trilogue period
@@ -36,13 +36,13 @@ sources:
     note: AlgorithmWatch's 25 January 2024 verdict on the EU AI Act political agreement — primary source for Spielkamp's most-cited single AI Act framing ("Bold statements to keep a tight rein on Big Tech tend to dissolve over the course of political negotiations. Very likely, this is not least because of the millions of euros Big Tech spend on lobbying decision-makers") and the parallel "compromise agreement … would leave many people in vulnerable situations without reliable protection against government surveillance and control" framing
   - url: https://europeanaifund.org/newspublications/interview-with-matthias-spielkamp-algorithmwatch/
     last_checked: 2026-05-14
-    note: European AI & Society Fund interview — primary source for Spielkamp's mission-formulation framings ("The mission of AlgorithmWatch is to protect peoples' rights and strengthen the common good in the face of increased use of algorithmic systems"), his civil-society-coalition framing ("builds coalitions with different communities and disciplines"), and his developer-accountability framing ("It's not our responsibility to understand why this is the case. It's the developer's responsibility to develop a system that does not discriminate")
+    note: 'European AI & Society Fund interview — primary source for Spielkamp''s mission-formulation framings ("The mission of AlgorithmWatch is to protect peoples'' rights and strengthen the common good in the face of increased use of algorithmic systems"), his civil-society-coalition framing ("builds coalitions with different communities and disciplines"), and his developer-accountability framing ("It''s not our responsibility to understand why this is the case. It''s the developer''s responsibility to develop a system that does not discriminate")'
   - url: https://policyreview.info/users/matthias-spielkamp
     last_checked: 2026-05-14
     note: Internet Policy Review contributor page — primary source for Spielkamp's named-byline academic-press contributions on automation, algorithmic accountability, and Internet governance
   - url: https://www.cpdpconferences.org/persons/matthias-spielkamp-algorithmwatch
     last_checked: 2026-05-14
-    note: Computers, Privacy & Data Protection conference speaker page — corroborates Spielkamp's recurring named-speaker role on the European data-protection / digital-rights conference circuit
+    note: 'Computers, Privacy & Data Protection conference speaker page — corroborates Spielkamp''s recurring named-speaker role on the European data-protection / digital-rights conference circuit'
   - url: https://de.wikipedia.org/wiki/Matthias_Spielkamp
     last_checked: 2026-05-14
     note: German-language Wikipedia biography — secondary source for Spielkamp's journalism background (Spiegel TV Magazin, Die Zeit, brand eins, Berliner Zeitung), the Theodor Heuss Medal (2018), the German Award for Consumer Protection (2024) won by AlgorithmWatch under his executive direction, and his earlier co-founding of iRights.info (Grimme Online Award 2006) and mobilsicher.de

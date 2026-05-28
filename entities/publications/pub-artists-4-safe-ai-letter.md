@@ -30,7 +30,7 @@ sources:
     note: Stanford Daily coverage of the SB 1047 veto — primary source for Encode Justice's coordinating role in the Hollywood track (including the signatures from Mark Ruffalo and Shonda Rhimes) and for placing the letter inside the campaign's broader public-mobilization architecture
   - url: https://www.astralcodexten.com/p/sb-1047-our-side-of-the-story
     last_checked: 2026-05-13
-    note: Scott Alexander's "SB 1047: Our Side Of The Story" — corroborating account that Encode Justice (one of SB 1047's three co-sponsors) "recruited more than one hundred members of the actors' union SAG-AFTRA to the cause" and that the Artists 4 Safe AI open letter, distinct from SAG-AFTRA's narrower 9 September union letter, "showed more specific interest in existential risks" from advanced AI
+    note: 'Scott Alexander''s "SB 1047: Our Side Of The Story" — corroborating account that Encode Justice (one of SB 1047''s three co-sponsors) "recruited more than one hundred members of the actors'' union SAG-AFTRA to the cause" and that the Artists 4 Safe AI open letter, distinct from SAG-AFTRA''s narrower 9 September union letter, "showed more specific interest in existential risks" from advanced AI'
   - url: https://variety.com/2024/biz/news/gavin-newsom-sag-aftra-ai-bill-1047-artificial-intelligence-1236158405/
     last_checked: 2026-05-13
     note: Variety coverage of SAG-AFTRA's 9 September 2024 letter to Newsom in support of SB 1047 — confirms the two separate letter tracks (the union-side 9 September letter and the celebrity-signatory 25 September Artists 4 Safe AI letter), with SAG-AFTRA president Fran Drescher signing both

@@ -41,7 +41,7 @@ sources:
     note: Equal Times (the ITUC-affiliated international trade-union press) on the 2023 Hollywood strikes — primary source for the international-trade-union reception of the Hollywood unions' AI framing as a "blueprint for collective bargaining in the digital age" and for the subsequent invocation of the template by other worker formations (e.g. German YouTubers organising with IG Metall on algorithmic transparency)
   - url: https://journals.publishing.umich.edu/mij/article/id/8257/
     last_checked: 2026-05-13
-    note: Kevin Sanson, "Disrupted Paydays: Existential and Material Threats to Hollywood Compensation Practices," Media Industries journal — academic uptake of the framing as the lens for treating streaming-driven residual erosion and generative-AI displacement as a single existential question about creative-industry compensation
+    note: 'Kevin Sanson, "Disrupted Paydays: Existential and Material Threats to Hollywood Compensation Practices," Media Industries journal — academic uptake of the framing as the lens for treating streaming-driven residual erosion and generative-AI displacement as a single existential question about creative-industry compensation'
   - url: https://www.hollywoodreporter.com/business/business-news/actors-strike-sag-aftra-leaders-stakes-hollywood-1235536001/
     last_checked: 2026-05-13
     note: Hollywood Reporter same-day interview with Drescher (13 July 2023) — primary source for Drescher's "the digital age is cannibalizing us" framing as the populist sibling to the formal-letter "existential threat to creative professions" formulation, with generative AI and streaming named as a paired technological pressure on performer livelihoods

@@ -16,7 +16,7 @@ publication_type: book
 sources:
   - url: https://mitpress.mit.edu/9780262043458/design-justice/
     last_checked: 2026-05-18
-    note: MIT Press's own page for *Design Justice: Community-Led Practices to Build the Worlds We Need* — primary source for the full title and subtitle, the publication month (March 2020), the hardcover ISBN 9780262043458, the framing of design justice as both "a community of practice" and "a framework for analysis", the book's anchoring in "the matrix of domination of white supremacy, heteropatriarchy, capitalism, ableism, settler colonialism and other forms of structural inequality", and the "Nothing About Us Without Us" disability-rights inheritance the book carries forward
+    note: 'MIT Press''s own page for *Design Justice: Community-Led Practices to Build the Worlds We Need* — primary source for the full title and subtitle, the publication month (March 2020), the hardcover ISBN 9780262043458, the framing of design justice as both "a community of practice" and "a framework for analysis", the book''s anchoring in "the matrix of domination of white supremacy, heteropatriarchy, capitalism, ableism, settler colonialism and other forms of structural inequality", and the "Nothing About Us Without Us" disability-rights inheritance the book carries forward'
   - url: https://designjustice.mitpress.mit.edu/
     last_checked: 2026-05-18
     note: MIT Press / PubPub open-access companion edition of *Design Justice* — primary source for the book's open-access reading text, the table of contents (Introduction; six chapters; Directions for Future Work; appendices), and the working reference text the book is most often cited from in subsequent academic and movement use

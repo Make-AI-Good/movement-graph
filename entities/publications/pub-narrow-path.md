@@ -16,7 +16,7 @@ publication_type: report
 sources:
   - url: https://www.narrowpath.co/
     last_checked: 2026-05-13
-    note: The plan's own landing page — primary source for the full title "A Narrow Path: How to Secure Our Future", the 19 March 2026 timestamp on the current authoritative version, the four named authors (Andrea Miotti, Tolga Bilge, Dave Kasten, James Newport), the three-phase structure (Phase 0 Safety, Phase 1 Stability, Phase 2 Flourishing), the named endorsers (Max Tegmark, Toby Ord, Gary Marcus), and the signature framing "We have no method to currently control an entity with greater intelligence than us"
+    note: 'The plan''s own landing page — primary source for the full title "A Narrow Path: How to Secure Our Future", the 19 March 2026 timestamp on the current authoritative version, the four named authors (Andrea Miotti, Tolga Bilge, Dave Kasten, James Newport), the three-phase structure (Phase 0 Safety, Phase 1 Stability, Phase 2 Flourishing), the named endorsers (Max Tegmark, Toby Ord, Gary Marcus), and the signature framing "We have no method to currently control an entity with greater intelligence than us"'
   - url: https://controlai.news/p/a-narrow-path
     last_checked: 2026-05-13
     note: ControlAI's own Substack post introducing the plan, dated 2 October 2024 — primary source for the plan's initial public release in October 2024 prior to the March 2026 revision now hosted at narrowpath.co

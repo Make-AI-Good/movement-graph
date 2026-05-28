@@ -20,7 +20,7 @@ sources:
     note: report's own landing page on the Algorithmic Justice League site — primary source for the report's title, framing, and CRASH-project anchoring
   - url: https://aihub.org/2022/02/09/bug-bounties-for-algorithmic-harms-a-report-from-the-algorithmic-justice-league/
     last_checked: 2026-05-09
-    note: AIhub coverage of the report's release with the report's own formal citation reproduced ("Kenway, Josh, Camille François, Sasha Costanza-Chock, Inioluwa Deborah Raji, and Joy Buolamwini. Bug Bounties For Algorithmic Harms? Lessons from Cybersecurity Vulnerability Disclosure for Algorithmic Harms Discovery, Disclosure, and Redress. Washington, DC: Algorithmic Justice League. January 2022.") — primary source for the full author list, the report's full subtitle, and the five summary takeaways
+    note: 'AIhub coverage of the report''s release with the report''s own formal citation reproduced ("Kenway, Josh, Camille François, Sasha Costanza-Chock, Inioluwa Deborah Raji, and Joy Buolamwini. Bug Bounties For Algorithmic Harms? Lessons from Cybersecurity Vulnerability Disclosure for Algorithmic Harms Discovery, Disclosure, and Redress. Washington, DC: Algorithmic Justice League. January 2022.") — primary source for the full author list, the report''s full subtitle, and the five summary takeaways'
   - url: https://mediawell.ssrc.org/news-items/bug-bounties-for-algorithmic-harms-algorithmic-justice-league/
     last_checked: 2026-05-09
     note: Social Science Research Council MediaWell entry for the report — primary source for the 27 January 2022 publication date attribution

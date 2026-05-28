@@ -31,7 +31,7 @@ sources:
     note: Paz Peña's own portfolio site — primary source for her Santiago, Chile base, her seven-years-of-work framing on the socio-environmental impacts of digital technologies in Latin America, her consultant relationships including the Chilean Cybersecurity Coordination Unit, and her co-authorship of the Not My A.I. project with Joana Varon
   - url: https://policyreview.info/articles/analysis/artificial-intelligence-and-consent-feminist-anti-colonial-critique
     last_checked: 2026-05-15
-    note: Internet Policy Review article *Artificial intelligence and consent: a feminist anti-colonial critique* by Varon and Peña (volume 10 issue 4, 7 December 2021, DOI 10.14763/2021.4.1602) — independent academic-venue companion piece to the Oppressive A.I. essay; primary source for the consent-and-Digital-Welfare-States analytical line that extends the same authorial collaboration into the peer-reviewed register
+    note: 'Internet Policy Review article *Artificial intelligence and consent: a feminist anti-colonial critique* by Varon and Peña (volume 10 issue 4, 7 December 2021, DOI 10.14763/2021.4.1602) — independent academic-venue companion piece to the Oppressive A.I. essay; primary source for the consent-and-Digital-Welfare-States analytical line that extends the same authorial collaboration into the peer-reviewed register'
   - url: https://www.hks.harvard.edu/sites/default/files/2023-11/22_10JoanaVaron.pdf
     last_checked: 2026-05-15
     note: Harvard Kennedy School Carr Center discussion paper *Not My A.I. Towards Critical Feminist Frameworks to Resist Oppressive A.I. Systems* by Joana Varon and Paz Peña — independent academic-publisher restatement of the framework hosted on Harvard's Carr Center page, corroborating the framework's continuing institutional uptake through Varon's 2020-21 Carr Center fellowship
@@ -40,7 +40,7 @@ sources:
     note: Feminist Internet Research Network (FIRN) / APC final research report on Not My A.I. — independent secondary source for the framework's circulation in the wider feminist-internet-research field and for the project's Association for Progressive Communications-hosted FIRN funding line
   - url: https://feministai.pubpub.org/pub/v0ykvt78/release/1
     last_checked: 2026-05-15
-    note: *From Bias to Feminist AI* peer-reviewed venue hosted on feministai.pubpub.org — independent academic-venue source for the broader Feminist AI for Latin America and the Caribbean research network within which Varon and Peña's framework circulates; already cited in [org-coding-rights](../organizations/org-coding-rights.md)
+    note: '*From Bias to Feminist AI* peer-reviewed venue hosted on feministai.pubpub.org — independent academic-venue source for the broader Feminist AI for Latin America and the Caribbean research network within which Varon and Peña''s framework circulates; already cited in [org-coding-rights](../organizations/org-coding-rights.md)'
   - url: https://dlab.berkeley.edu/news/artificial-intelligence-ai-systems-poor-and-consent-feminist-anti-colonial-lens-digitalized
     last_checked: 2026-05-15
     note: UC Berkeley D-Lab feature on Varon and Peña's work — independent secondary source for the US-academic uptake of the Oppressive A.I. / feminist-anti-colonial framework as a teaching artefact in critical AI courses

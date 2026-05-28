@@ -26,7 +26,7 @@ sources:
     note: ControlAI's own about page — primary source for Miotti's Founder/CEO role and the on-record listing of the press outlets (TIME, The Guardian, Nature, BBC, Sky News) where his expert commentary and op-eds have appeared
   - url: https://www.narrowpath.co/
     last_checked: 2026-05-14
-    note: "A Narrow Path: How to Secure Our Future" landing page — primary source for the 19 March 2026 publication date, the four-author byline (Andrea Miotti, Tolga Bilge, Dave Kasten, James Newport), and the three-phase Safety / Stability / Flourishing framework headline framing that "artificial superintelligence threatens humanity with extinction"
+    note: '"A Narrow Path: How to Secure Our Future" landing page — primary source for the 19 March 2026 publication date, the four-author byline (Andrea Miotti, Tolga Bilge, Dave Kasten, James Newport), and the three-phase Safety / Stability / Flourishing framework headline framing that "artificial superintelligence threatens humanity with extinction"'
   - url: https://controlai.news/p/avoiding-extinction-with-andrea-miotti
     last_checked: 2026-05-14
     note: ControlAI Substack long-form podcast with Connor Leahy — primary source for Miotti's signature founding-rationale framing ("I founded ControlAI because I believe this is just, not just a technical problem") and the political-not-technical framing ("a deeply political problem that will be solved with policy solutions, not just going back to the ivory tower"), the superintelligence-as-takeover framing ("AI systems smarter than all of you might combine are AI systems that will take over your country"), and the exponential-timing framing ("There are only two times to react to an exponential — too early or too late")

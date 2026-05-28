@@ -19,7 +19,7 @@ related_messages:
 sources:
   - url: https://article36.org/wp-content/uploads/2013/04/Policy_Paper1.pdf
     last_checked: 2026-05-13
-    note: Article 36, "Killer Robots: UK Government Policy on Fully Autonomous Weapons," Policy Paper 1, April 2013 — the earliest of the 2013 Article 36 papers in which the framing of human control over individual attacks is set out, in response to the UK government's "human-in-the-loop" / "human-machine interaction" position
+    note: 'Article 36, "Killer Robots: UK Government Policy on Fully Autonomous Weapons," Policy Paper 1, April 2013 — the earliest of the 2013 Article 36 papers in which the framing of human control over individual attacks is set out, in response to the UK government''s "human-in-the-loop" / "human-machine interaction" position'
   - url: https://www.stopkillerrobots.org/news/press-release-focus-on-meaningful-human-control-of-weapons-systems-third-united-nations-meeting-on-killer-robots-opens-in-geneva/
     last_checked: 2026-05-13
     note: Stop Killer Robots press release, 11 April 2016 — primary source for the attribution that "Article 36 came up with the term 'meaningful human control' in a 2013 memo to CCW delegates" and for the count of "more than 30 states" addressing the principle in CCW statements by April 2016
@@ -34,7 +34,7 @@ sources:
     note: Human Rights Watch, "Killer Robots and the Concept of Meaningful Human Control," 11 April 2016 — independent record of the concept's adoption across the CCW (≈9 states in 2014, 27 by 2015, almost 30 by April 2016), with the ICRC's finding of "broad agreement among States on the need to retain human control over the critical functions of weapon systems"
   - url: https://www.stopkillerrobots.org/about-us/
     last_checked: 2026-05-13
-    note: Stop Killer Robots' own About page — the coalition's central public demand: "to demand meaningful human control, which ensures responsibility and accountability, in any use of force"
+    note: 'Stop Killer Robots'' own About page — the coalition''s central public demand: "to demand meaningful human control, which ensures responsibility and accountability, in any use of force"'
   - url: https://www.stopkillerrobots.org/vision-and-values/
     last_checked: 2026-05-13
     note: Stop Killer Robots' Vision and Values page — frames the campaign's work as "for an international legal instrument that prohibits machines that determine whom to kill and requires meaningful human control over the use of force"
