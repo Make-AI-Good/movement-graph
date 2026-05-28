@@ -1,6 +1,6 @@
 ---
 type: spec
-last_updated: 2026-05-12
+last_updated: 2026-05-28
 ---
 
 # Schema Spec
@@ -20,7 +20,7 @@ Ten types. Each lives in `product/entities/<type>/<id>.md` with YAML frontmatter
 - **Local Group** — smaller, city- or region-scoped, often informal
 - **Campaign** — sustained, named effort with goals, tactics, and a time-arc
 - **Event** — specific moment in time (action, protest, hearing, conference, launch)
-- **Strategy** — high-level approach to AI-good organizing. *Defined but not currently populated — do not draft Strategy entries yet.*
+- **Strategy** — the Analyst's interpretive analysis of how the movement pursues an aim and how well it works; judgment grounded in audited corpus entities, shipped under the interpretive trust contract (see `../../agents/analyst/ANALYST.md`)
 - **Message** — memes, framings, slogans, narrative artifacts that propagate
 - **Funder** — foundations, donors, grant programs
 - **Person** — connector type; lightweight; records affiliations. Body is short and factual; no biographical synthesis. See "Person / Voice" below.
@@ -102,13 +102,20 @@ related_events: [<event IDs>]
 
 ### Strategy
 
-*Defined but not currently populated — do not draft Strategy entries yet.*
+The Analyst's interpretive layer: an analysis of how the movement pursues an aim and how well it works. Unlike every other type, a Strategy is **judgment, not a source-checkable fact** — so it ships under the *interpretive trust contract* (`../../agents/analyst/ANALYST.md § The interpretive trust contract`): its evidentiary basis is auditable and its epistemic status explicit. Authored only by the Analyst.
 
 ```yaml
+grounded_in: [<entity IDs>]        # corpus entities this analysis rests on; each MUST be audited-clean (audit status verified). No claim rides on entities outside this list.
 parent_strategy: <strategy ID, optional>
-practiced_by_orgs: [<org IDs>]
-example_campaigns: [<campaign IDs>]
+effects:                            # real-world effects, each a sourced FACT; the causal attribution to this strategy is labeled inference
+  - description: <prose — the effect, stated as fact>
+    type: earned-media | legislation-draft | legislation-enacted | regulatory-action | judicial-outcome | corporate-behavior-change | coalition-adoption | public-mobilization
+    source: <source URL>
+    attribution_confidence: high | medium | low   # confidence that THIS strategy produced the effect (judgment, not fact)
+counter_read: <prose — the strongest opposing interpretation a knowledgeable reader would raise>
 ```
+
+The common `confidence` field carries the Analyst's overall confidence in the analysis. **Body convention — two structurally-distinct registers:** *grounded observations* (restatements of facts the `grounded_in` entities and their audits establish, each traceable to its entity) kept separate from *interpretive claims* (judgment, marked as judgment); a reader is never invited to read an opinion as a fact. **Audit-gating:** `grounded_in` may list only entities whose audit status is `verified` — audit coverage is this type's supply constraint. Org↔Strategy and Campaign↔Strategy are stored on the canonical `org.strategies[]` / `campaign.strategies[]` side (see Cross-references), not here.
 
 ### Message
 ```yaml
