@@ -8,7 +8,7 @@ tags: [utrecht, netherlands, the-hague, amsterdam, pauseai-chapter, founding-cha
 created: 2026-05-13
 last_updated: 2026-05-13
 founded: 2023
-location: Utrecht, Netherlands (Stichting PauseAI registered in Utrecht; the Dutch chapter operates nationally, with public actions concentrated in The Hague and Amsterdam)
+location: Utrecht, Netherlands (Stichting PauseAI operating from Utrecht; the Dutch chapter operates nationally, with public actions concentrated in The Hague and Amsterdam)
 parent_org: org-pauseai
 website_or_contact: https://chat.whatsapp.com/EOGvhoPCiCqDqwuf9JUxtB
 key_people:
