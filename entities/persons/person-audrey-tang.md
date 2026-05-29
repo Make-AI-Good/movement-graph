@@ -14,7 +14,7 @@ affiliations:
 public_profiles:
   - platform: personal-site
     url: https://audreyt.org/
-voice_entry:
+voice_entry: voice-audrey-tang
 sources:
   - url: https://audreyt.org/
     last_checked: 2026-05-19
