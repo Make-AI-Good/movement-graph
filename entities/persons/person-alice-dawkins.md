@@ -20,7 +20,7 @@ public_profiles:
     url: https://www.crikey.com.au/author/alice-dawkins/
   - platform: international-strategy-forum-fellow
     url: https://internationalstrategyforum.io/fellow/alice-dawkins/
-voice_entry:
+voice_entry: voice-alice-dawkins
 sources:
   - url: https://law.anu.edu.au/news-and-events/news/tackling-digital-threats-democracy-alice-dawkins-and-big-tech-dominance
     last_checked: 2026-05-19
