@@ -19,7 +19,7 @@ public_profiles:
     url: https://www.linkedin.com/in/mophat-okinyi/
   - platform: techworker-community-africa
     url: https://techworkercommunityafrica.org/
-voice_entry:
+voice_entry: voice-mophat-okinyi
 sources:
   - url: https://www.yahoo.com/news/time100-ai-2024-mophat-okinyi-112500518.html
     last_checked: 2026-05-23
