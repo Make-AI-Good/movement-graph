@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [laos, lao-pdr, canada, canadian, southeast-asia, asia-pacific, melbourne, new-delhi, india, malaysia, thailand, engagemedia, idrc, undp, commonwealth-of-learning, executive-director, ed, senior-program-officer, programme-specialist, advisor, civil-society-convener, digital-rights, internet-governance, ai-and-human-rights, ai-for-development, ai-governance, privacy, censorship, surveillance, platform-accountability, platformisation-and-the-future-of-work, access-to-connectivity, access-to-knowledge, networked-economies, open-source, foss, free-and-open-source-software, open-technology, video-for-change, drapac, civil-society-convening, international-open-source-network, unc-chapel-hill, athabasca-university]
 created: 2026-05-17
-last_updated: 2026-05-17
+last_updated: 2026-05-29
 affiliations:
   - org: org-engagemedia
     role: Executive Director
@@ -16,6 +16,7 @@ public_profiles:
     url: https://www.linkedin.com/in/phet-sayo-4bb69b50/
   - platform: engagemedia-author
     url: https://engagemedia.org/author/phet/
+voice_entry: voice-phet-sayo
 sources:
   - url: https://engagemedia.org/2022/next-executive-director/
     last_checked: 2026-05-17
