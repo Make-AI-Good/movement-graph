@@ -18,7 +18,7 @@ public_profiles:
     url: https://x.com/marsebu
   - platform: tedic-author
     url: https://www.tedic.org/en/author/maricarmen/
-voice_entry:
+voice_entry: voice-maricarmen-sequera
 sources:
   - url: https://www.tedic.org/en/team/
     last_checked: 2026-05-19
