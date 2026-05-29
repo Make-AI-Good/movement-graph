@@ -16,7 +16,7 @@ public_profiles:
     url: https://x.com/peterlucasjones
   - platform: linkedin
     url: https://nz.linkedin.com/in/peterlucasjones0483
-voice_entry:
+voice_entry: voice-peter-lucas-jones
 sources:
   - url: https://e-tangata.co.nz/korero/peter-lucas-jones-storing-our-reo-treasures/
     last_checked: 2026-05-23
