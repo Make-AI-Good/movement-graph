@@ -16,7 +16,7 @@ public_profiles:
     url: https://x.com/beabusaniche
   - platform: cacm-author
     url: https://cacm.acm.org/author/beatriz-busaniche/
-voice_entry:
+voice_entry: voice-beatriz-busaniche
 sources:
   - url: https://pt.wikipedia.org/wiki/Beatriz_Busaniche
     last_checked: 2026-05-23
