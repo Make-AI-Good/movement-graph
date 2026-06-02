@@ -147,13 +147,13 @@ Issues are read and absorbed into the team's research and editing queue. Individ
 This repository follows a **rolling-`main` plus tagged-releases** model:
 
 - **Rolling `main`.** The publish mirror moves on every workshop commit that touches the corpus, so `main` always carries the freshest state. Track `main` if you want the latest; the git commit history is the canonical version trace, every entity edit a discrete commit.
-- **Tagged releases.** Periodically the team cuts a release tag — a stable point a consumer can pin to. **`v1.0.0`** is the first. See [Releases](../../releases) and the [CHANGELOG](CHANGELOG.md).
+- **Tagged releases.** Periodically the team publishes a release tag — a stable point a consumer can pin to. **`v1.0.0`** is the first. See [Releases](../../releases) and the [CHANGELOG](CHANGELOG.md). **A published release tag is immutable** — once cut, it permanently identifies the same tree and is never moved or re-pointed. Pinning to a release tag gives you the same permanence as pinning to a commit hash. If a release ever needs correction, the next version (e.g. `v1.0.1`) is published; the prior tag stays where it pointed at cut time.
 
 **Pin, don't track, if you need stability.** Record the **release tag** (or the exact **commit hash**) you consumed; advancing the pin is a deliberate step on your side. Suggested attribution records the version (see [License](#license)).
 
-**Release semantics (the one signal that matters: did the schema break under you?).** Versions follow `MAJOR.MINOR.PATCH`, with **MAJOR as the only load-bearing position**:
+**Release semantics — MAJOR is the breaking-change signal you can rely on.** Versions follow `MAJOR.MINOR.PATCH`:
 
-- **MAJOR** — a **breaking schema change**: a renamed or removed frontmatter field, a changed or removed entity type, or a changed canonical cross-reference direction (the schema-as-contract definition in [`schema/spec.md`](schema/spec.md)). If you pin and only watch one thing, watch for a MAJOR bump.
+- **MAJOR** — a **breaking schema change**: a renamed or removed frontmatter field, a changed or removed entity type, or a changed canonical cross-reference direction (the schema-as-contract definition in [`schema/spec.md`](schema/spec.md)). A pinned consumer who only watches one thing watches for a MAJOR bump — that is the one signal that schema-level re-verification is required, not just a render re-check.
 - **MINOR** — content added (new entities, new audits, deeper coverage). Non-breaking.
 - **PATCH** — corrections to existing content. Non-breaking.
 
