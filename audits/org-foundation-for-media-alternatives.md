@@ -1,13 +1,13 @@
 ---
 entity_id: org-foundation-for-media-alternatives
-entity_hash: cfd060c835cb2e2ac03cac58641748ed5587fc81
-audit_date: 2026-05-30
-pass: 1
-status: discrepancy
+entity_hash: 8cc0d0be7cd065672a32602e3841f043f1b1edba
+audit_date: 2026-06-01
+pass: 2
+status: unverifiable
 claims_total: 26
-claims_verified: 20
-claims_discrepancy: 2
-claims_unverifiable: 4
+claims_verified: 23
+claims_discrepancy: 0
+claims_unverifiable: 3
 sources_consulted:
   - https://fma.ph/
   - https://fma.ph/history/
@@ -54,8 +54,8 @@ Decision: verified
 ## Claim 5: Body "song-writing festivals, and the development of award-winning documentary-video material"
 
 Source: no canonical source found
-Source content: FMA history page does not mention song-writing festivals or award-winning documentary-video output among the listed first-decade projects.
-Comparison: This activity is not corroborated by FMA's own primary-source history page or by Wikipedia. May appear in a longer FMA brochure not surfaced; no canonical source located in this pass.
+Source content: FMA history page (re-fetched this pass) describes the first-decade media work as "media support to the RPN 9's public affairs program Street Pulse" and assistance to civil society organisations "with their communication needs using tri-media" through 1995; no reference to song-writing festivals or to award-winning documentary-video output. Wikipedia organisational article similarly does not list these as first-decade activities.
+Comparison: The two claimed activity strands (song-writing festivals; award-winning documentary-video material) are not corroborated by FMA's own primary-source history page or by Wikipedia. May appear in a longer FMA brochure or annual-report archive not surfaced; no canonical source located across pass 1 and pass 2.
 Decision: unverifiable
 
 ## Claim 6: Body "The strategic pivot to ICT began in 1997"
@@ -145,9 +145,9 @@ Decision: verified
 ## Claim 18: Body "an 84-percent Filipino-workforce AI-adoption rate, the highest globally on the metric the report cites"
 
 Source: https://fma.ph/in-digital-rights-report-2024-fma-spotlights-ais-impact-on-basic-freedoms/
-Source content: "84 per cent of the Filipino workforce was found to have been adopting AI tools in their work to boost productivity and efficiency".
-Comparison: The 84% figure is verified. The "highest globally on the metric the report cites" qualifier is not present in the cited source — the source states the figure but does not claim it is the highest globally. The "highest globally" portion is unverifiable from cited sources.
-Decision: unverifiable
+Source content: "In 2024, 84 per cent of the Filipino workforce was found to have been adopting AI tools in their work to boost productivity and efficiency. This statistic is noted to be the highest in the world as the global average only sits at 75 per cent."
+Comparison: Both the 84% figure and the "highest in the world" ranking are explicitly in the cited source. The body's "highest globally on the metric the report cites" matches the source's "highest in the world" framing within paraphrase tolerance. Pass-1 unverifiable decision was a false-unverifiable — the prior re-fetch excerpt elided the second sentence; this pass's targeted re-fetch surfaced it. Documenting the prior miss so the pattern is visible.
+Decision: verified
 
 ## Claim 19: Body "AI-generated misinformation targeting public figures, journalists, and politicians" and Philippine state response (Supreme Court / Bangko Sentral ng Pilipinas / Department of Education ethical-AI frameworks)
 
@@ -170,33 +170,33 @@ Source content: "big tech is not the sole owner of AI or other emerging technolo
 Comparison: Quote confirmed verbatim through "more inclusive"; the tail "and genuinely responsive to the world we live in" was elided from the WebFetch excerpt but the bulk of the quote is verified. Three-year DRAPAC arc (2023, 2024, August 2025 Kuala Lumpur) also confirmed by source.
 Decision: verified
 
-## Claim 22: Body "cumulative dataset of 738 documented Philippine TFGBV cases" linked to https://fma.ph/tfgbv-in-2026-a-new-year-new-digital-threats-to-women-and-girls/ — and the corollary claim "since 2012, run the country's longest-running civil-society documentation line on technology-facilitated gender-based violence"
+## Claim 22: Body "cumulative dataset of 738 documented Philippine TFGBV cases" linked to https://fma.ph/understanding-tfgbv-in-the-philippines/ — and the corollary claim "since 2012, run the country's longest-running civil-society documentation line on technology-facilitated gender-based violence"
 
-Source: cited URL https://fma.ph/tfgbv-in-2026-a-new-year-new-digital-threats-to-women-and-girls/ and uncited but canonical FMA URL https://fma.ph/understanding-tfgbv-in-the-philippines/
-Source content: Cited tfgbv-in-2026 URL does NOT contain the number 738 or any reference to 2012 or to cumulative case counts (verified by careful re-fetch). The figure is found on a different FMA page (understanding-tfgbv-in-the-philippines): "Since 2012, the Foundation for Media Alternatives (FMA) has documented 738 cases of Technology-Facilitated Gender-Based Violence (TFGBV) in the Philippines in its ongoing mapping effort".
-Comparison: The underlying factual content (738 cases; since 2012; FMA's ongoing mapping effort) is verified against FMA's own primary source — but the body's inline markdown link points to a URL that does not contain the figure. The Editor's Audit-discrepancy backfill act can swap the URL in the body's markdown link (and in the sources[].note for the tfgbv-in-2026 entry that asserts the 738 figure) to https://fma.ph/understanding-tfgbv-in-the-philippines/. The "longest-running" framing is characterisation and remains out of remit.
-Decision: discrepancy
+Source: https://fma.ph/understanding-tfgbv-in-the-philippines/
+Source content: "Since 2012, the Foundation for Media Alternatives (FMA) has documented 738 cases of Technology-Facilitated Gender-Based Violence (TFGBV) in the Philippines in its ongoing mapping effort".
+Comparison: The body's inline markdown link now points to the URL that contains both the 738 figure and the 2012 start year — pass-1 discrepancy resolved by the Editor's audit-D backfill. The "longest-running" framing remains characterisation (out of remit per Source rule on contested-superlatives).
+Decision: verified
 
 ## Claim 23: Body DRAPAC 2025 session "FMA convened in collaboration with Indonesian organiser Ellen Kusuma and with speakers from Purple Code Collective, SAFEnet Indonesia, the University of Liberal Arts Bangladesh, and Digital Defenders Partnership"
 
 Source: https://fma.ph/on-govt-data-breach-ai-divide-and-gendered-digital-surveillance-the-fma-digital-rights-round-up-september-1-to-30/
-Source content: "One of the sessions held at the DRAPAC 2025 held in Kuala Lumpur in August was on gendered digital surveillance that was organized by Ellen Kusuma from Indonesia" — no further speaker organisations named on this page; a follow-up search of the FMA site for "Purple Code" returned no matching page.
-Comparison: Ellen Kusuma as organiser and the August 2025 Kuala Lumpur DRAPAC context are verified. The four additional speaker organisations (Purple Code Collective, SAFEnet Indonesia, University of Liberal Arts Bangladesh, Digital Defenders Partnership) are not corroborated by any canonical source located in this pass — they may appear on a DRAPAC session page or an FMA post not surfaced. Cannot determine whether the speakers attribution is correct or fabricated without further canonical sourcing.
+Source content: "One of the sessions held at the DRAPAC 2025 held in Kuala Lumpur in August was on gendered digital surveillance that was organized by Ellen Kusuma from Indonesia" — no further speaker organisations named on this page. A pass-2 search of the FMA site and the EngageMedia DRAPAC project page (HTTP 403) and a Google search for "DRAPAC 2025" + "gendered digital surveillance" + the speaker-organisation names returned no canonical corroboration.
+Comparison: Ellen Kusuma as organiser and the August 2025 Kuala Lumpur DRAPAC context are verified. The four additional speaker organisations (Purple Code Collective, SAFEnet Indonesia, University of Liberal Arts Bangladesh, Digital Defenders Partnership) are not corroborated by any canonical source located across pass 1 and pass 2.
 Decision: unverifiable
 
 ## Claim 24: Body "long-running partnership with [Privacy International](https://privacyinternational.org/partners/foundation-media-alternatives) on Philippine privacy and surveillance casework — including joint Universal Periodic Review submissions on the Philippines' right-to-privacy record"
 
 Source: https://privacyinternational.org/partners/foundation-media-alternatives
-Source content: PI partner page confirms ongoing partnership ("Privacy International and some of our partner organisations...the Foundation for Media Alternatives") and references shared work on Philippines privacy and surveillance topics, but contains no mention of joint Universal Periodic Review submissions.
-Comparison: The FMA / Privacy International partnership is verified. The specific claim of joint UPR submissions on the Philippines' right-to-privacy record is not corroborated by the cited PI partner page; no other canonical source confirming joint FMA-PI UPR submissions was located in this pass.
+Source content: PI partner page confirms ongoing partnership ("Privacy International and some of our partner organisations...the Foundation for Media Alternatives") and references shared work on Philippines privacy and surveillance topics, but contains no mention of joint Universal Periodic Review submissions. A pass-2 fetch of https://privacyinternational.org/learn/universal-periodic-review returned empty page content (no substantive text rendered); no other canonical source confirming joint FMA-PI UPR submissions was located.
+Comparison: The FMA / Privacy International partnership is verified. The specific claim of joint UPR submissions on the Philippines' right-to-privacy record is not corroborated by the cited PI partner page; no other canonical source located across pass 1 and pass 2.
 Decision: unverifiable
 
-## Claim 25: scalar:sources[1].note "the 2006-2008 OpenNet Initiative project on mobile-telephony surveillance across five Asian countries"
+## Claim 25: scalar:sources[1].note "the 2007-2008 OpenNet Initiative project on mobile-telephony surveillance across five Asian countries"
 
 Source: https://fma.ph/history/
-Source content: "In 2007-2008, FMA conducted the ONI project which focused on conducting a preliminary survey on censorship and surveillance practice in the area of mobile telephony among five (5) Asian countries".
-Comparison: FMA's own history page dates the OpenNet Initiative project to 2007-2008, not 2006-2008 as recorded in the scalar at sources[1].note (the note attached to the https://fma.ph/history/ source entry). Date discrepancy; project content (mobile-telephony surveillance, five Asian countries) is otherwise confirmed.
-Decision: discrepancy
+Source content: "In 2007-2008, FMA conducted the ONI project which focused on conducting a preliminary survey on censorship and surveillance practice in the area of mobile telephony among five (5) Asian countries (Cambodia, Bangladesh, Pakistan, Philippines, and South Korea.)".
+Comparison: Scalar at sources[1].note now states 2007-2008, matching the FMA history page verbatim. Pass-1 discrepancy (then-stated 2006-2008) resolved by the Editor's audit-D backfill. Project content (mobile-telephony surveillance, five Asian countries) also confirmed.
+Decision: verified
 
 ## Claim 26: scalar:sources[1].note "the early 1987-1995 media-support and civil-society-communications work"
 
