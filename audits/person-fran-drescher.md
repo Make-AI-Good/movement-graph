@@ -2,10 +2,10 @@
 entity_id: person-fran-drescher
 entity_hash: 665b97ec03fcf94611982914cae1f94d92356c64
 audit_date: 2026-06-01
-pass: 1
+pass: 2
 status: discrepancy
-claims_total: 23
-claims_verified: 18
+claims_total: 24
+claims_verified: 19
 claims_discrepancy: 3
 claims_unverifiable: 2
 sources_consulted:
@@ -17,6 +17,11 @@ sources_consulted:
   - https://deadline.com/2023/07/fran-drescher-the-complete-sag-aftra-strike-speech-video-hollywood-1235437816/
   - https://deadline.com/2024/09/jane-fonda-shonda-rhimes-pedro-pascal-urge-gavin-newsom-sign-ai-safety-bill-open-letter-1236099942/
   - https://variety.com/2025/film/news/fran-drescher-sag-aftra-president-step-aside-1236482680/
+  - https://www.cbsnews.com/news/who-is-fran-drescher-sag-aftra-president-the-nanny-history-actors-strike/
+  - https://www.rollingstone.com/tv-movies/tv-movie-features/fran-drescher-spinal-tap-ii-interview-1235424198/
+  - https://www.hollywoodreporter.com/movies/movie-news/saturday-night-fever-review-movie-john-travolta-1236078636/
+  - https://www.britannica.com/topic/Saturday-Night-Fever-film-by-Badham
+  - https://www.encyclopedia.com/education/news-wires-white-papers-and-books/drescher-fran-1957
 ---
 
 ## Claim 1: "27th president of SAG-AFTRA"
@@ -58,42 +63,42 @@ Decision: unverifiable
 
 Source: https://en.wikipedia.org/wiki/Fran_Drescher
 Source content: "Francine Joy Drescher (born September 30, 1957)" in "Queens, a borough of New York City".
-Comparison: Matches body (30 September 1957; Queens, New York City).
+Comparison: Matches body (30 September 1957; Queens, New York City). Date of birth and birthplace are a person's definitional facts (AUDITOR.md Wikipedia-alone carve-out); Wikipedia alone is sufficient.
 Decision: verified
 
 ## Claim 7: "attended Hillcrest High School (graduating 1975) and Queens College (CUNY)"
 
-Source: https://en.wikipedia.org/wiki/Fran_Drescher
-Source content: "Hillcrest High School (Queens)" in "Jamaica, Queens"; "Drescher graduated from Hillcrest High School in 1975"; she enrolled at "Queens College, City University of New York" but "dropped out in their first year".
-Comparison: Hillcrest graduation 1975 matches. Body's "attended … Queens College (CUNY)" is consistent with Wikipedia's record that she enrolled but dropped out; "attended" covers enrolment.
+Source: https://en.wikipedia.org/wiki/Fran_Drescher; corroborated by https://www.cbsnews.com/news/who-is-fran-drescher-sag-aftra-president-the-nanny-history-actors-strike/ (Hillcrest 1975) and https://www.encyclopedia.com/education/news-wires-white-papers-and-books/drescher-fran-1957 (Queens College CUNY)
+Source content: Wikipedia: "Hillcrest High School (Queens)" in "Jamaica, Queens"; "Drescher graduated from Hillcrest High School in 1975"; she enrolled at "Queens College, City University of New York" but "dropped out in their first year". CBS News confirms she "attended Queens' Hillcrest High School" and "graduated in 1975". Encyclopedia.com (Gale Newsmakers-sourced reference entry): "Attended Queens College of the City University of New York and Ultissima Beauty Institute."
+Comparison: Education is "living-person specifics beyond public role" per AUDITOR.md, so Wikipedia is tiebreaker-only and ≥1 other canonical source is required. Hillcrest graduation 1975 is corroborated by CBS News (mainstream canonical). Queens College (CUNY) attendance is corroborated by Encyclopedia.com (credentialed reference aggregator). Both portions of the compound claim now have a non-Wikipedia canonical second source.
 Decision: verified
 
 ## Claim 8: "Saturday Night Fever (1977)"
 
-Source: https://en.wikipedia.org/wiki/Fran_Drescher
-Source content: "Saturday Night Fever" — "1977" — small role.
-Comparison: Year matches.
+Source: https://en.wikipedia.org/wiki/Fran_Drescher; corroborated for 1977 release by https://www.britannica.com/topic/Saturday-Night-Fever-film-by-Badham and https://www.hollywoodreporter.com/movies/movie-news/saturday-night-fever-review-movie-john-travolta-1236078636/; corroborated for Drescher's appearance by https://www.cbsnews.com/news/who-is-fran-drescher-sag-aftra-president-the-nanny-history-actors-strike/
+Source content: Wikipedia: "Saturday Night Fever" — "1977" — small role. Britannica: "Saturday Night Fever, American musical-drama film, released in 1977 and starring John Travolta"; the article subtitle gives "[1977]". Hollywood Reporter: "On Dec. 16, 1977, Paramount released the John Travolta-starring feature in theaters." CBS News: "In the 1980s, Drescher appeared in 'Saturday Night Fever' and 'This is Spinal Tap'" (the CBS News "1980s" framing is imprecise on the SNF year — the canonical 1977 release stands per Britannica/HR/Wikipedia — but the article confirms Drescher's involvement).
+Comparison: Career filmography is "living-person specifics beyond public role"; Wikipedia is tiebreaker-only and ≥1 other canonical source is required. The two facets — Drescher in SNF, and SNF released 1977 — both have non-Wikipedia canonical corroboration (CBS News for the former; Britannica + Hollywood Reporter for the latter). Compound claim verified.
 Decision: verified
 
 ## Claim 9: "This Is Spinal Tap (1984)"
 
-Source: https://en.wikipedia.org/wiki/Fran_Drescher
-Source content: "This Is Spinal Tap" — "1984" — role: "publicist Bobbi Flekman".
-Comparison: Year matches.
+Source: https://en.wikipedia.org/wiki/Fran_Drescher; corroborated by https://www.rollingstone.com/tv-movies/tv-movie-features/fran-drescher-spinal-tap-ii-interview-1235424198/
+Source content: Wikipedia: "This Is Spinal Tap" — "1984" — role: "publicist Bobbi Flekman". Rolling Stone: Drescher describing the character "during the 1984 film"; the article names her as "Polymer Records label publicist Bobbi Flekman" in the original 1984 picture and reports she is reprising the role in the sequel.
+Comparison: Career filmography → Wikipedia tiebreaker-only; ≥1 other canonical source required. Rolling Stone (mainstream specialist outlet, entertainment beat) confirms Drescher in Spinal Tap (1984) as Bobbi Flekman. Verified.
 Decision: verified
 
 ## Claim 10: "co-creating and starring in the CBS sitcom The Nanny (1993-1999) as Fran Fine"
 
-Source: https://en.wikipedia.org/wiki/Fran_Drescher
-Source content: The Nanny — "Co-creator with Peter Marc Jacobson"; "CBS"; "1993 to 1999"; character "Fran Fine".
-Comparison: Co-creator status, CBS network, 1993–1999 run, and Fran Fine character all match.
+Source: https://en.wikipedia.org/wiki/Fran_Drescher; corroborated by https://www.cbsnews.com/news/who-is-fran-drescher-sag-aftra-president-the-nanny-history-actors-strike/
+Source content: Wikipedia: The Nanny — "Co-creator with Peter Marc Jacobson"; "CBS"; "1993 to 1999"; character "Fran Fine". CBS News: "'The Nanny' debuted on CBS in 1993 and ran for six seasons. Drescher played the title character Fran Fine, described as a working-class girl with 'a face out of Vogue and a voice out of Queens' who becomes a nanny to a wealthy English widower's children. She co-created the show with Peter Marc Jacobson."
+Comparison: Career filmography → Wikipedia tiebreaker-only; ≥1 other canonical source required. CBS News (mainstream canonical) confirms every element of the compound claim — CBS network, 1993 debut, six-season run (= 1993-1999), Fran Fine character, co-created with Peter Marc Jacobson. Verified.
 Decision: verified
 
 ## Claim 11: "founded the Cancer Schmancer Movement on 21 June 2007"
 
 Source: https://en.wikipedia.org/wiki/Fran_Drescher
 Source content: "June 21, 2007" — "the seventh anniversary of her operation".
-Comparison: Date matches.
+Comparison: An organization's founding date is a definitional fact (AUDITOR.md Wikipedia-alone carve-out for named-entity definitional facts); Wikipedia alone is sufficient.
 Decision: verified
 
 ## Claim 12: "ran for SAG-AFTRA president in 2021 on the Unite for Strength slate"
