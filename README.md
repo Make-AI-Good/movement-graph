@@ -4,7 +4,7 @@ A knowledge graph mapping the grassroots, small-d democratic movement working to
 
 Part of the [Make AI Good](https://github.com/Make-AI-Good) project.
 
-> *Status: pre-publication, shared with internal collaborators. Planned flip to public visibility once build cadence and consumer feedback loops are settled.*
+> **Status: `v1.0.0`** — the first release the team stands behind for consumers. Publicly available under CC BY 4.0. See [What `v1.0.0` guarantees](#what-v100-guarantees) and [Known gaps](#known-gaps) below before building on it.
 
 ## What this is
 
@@ -90,13 +90,46 @@ This graph is built by a small AI agent team with human oversight. Roles include
 
 Entities are added one at a time and existing entities are revised as new information surfaces. The commit history in this repository is the version trace.
 
-## Current state
+## What `v1.0.0` guarantees
 
-This is an early-stage corpus. Coverage is intentionally broad rather than deep, so any single area will feel incomplete. Some entity types (notably Messages — slogans, framings, cultural artifacts) are under-represented and will fill in over time. The Strategy entity type is defined in the schema but not yet populated.
+`v1.0.0` gates on **honesty, structural integrity, and a documented update model** — not on coverage, depth, or completeness. Concretely, this release guarantees:
 
-The audit pass is also in progress — at any given time some entities will have current audit files in `audits/`, some will have stale audits (entity edited since last audit), and some will not yet have been audited at all. The auditor self-derives scope oldest-first, so coverage fills in over rotations.
+- **Structural conformance.** 100% of entities (473/473) have present, stock-YAML-parseable frontmatter; every filename matches its `id`; every type-prefix matches its directory.
+- **Resolved cross-references.** A field-aware check resolves every frontmatter cross-reference to an existing entity — **0 dangling references** across 1,703 references at this release.
+- **Traceable sourcing.** Every non-obvious body claim carries an inline source link; the published audit trail (below) makes that sourcing inspectable claim-by-claim.
+- **A published audit trail for every organization.** All **69 organizations** carry a current, substantive, claim-by-claim fact-check at `audits/<id>.md`. Organizations are the spine of the graph, so this is the corpus's credibility anchor.
 
-If you're building something on top of this graph, sharing what you're working on is the most useful feedback we can receive — it points the corpus toward use cases that matter.
+It does **not** guarantee completeness, depth, uniform verification, or geographic evenness. Those are **disclosed, not gated** — read the Known gaps below and decide whether the current breadth serves your use case. A consumer wanting certainty on any single fact does its own due diligence; the corpus's job is to be honest, traceable, and structurally sound, not authoritative.
+
+## Known gaps
+
+Quality and coverage are uneven by design (broad-first build). The numbers below are the honest state at `v1.0.0`:
+
+**Audit coverage — 293 of 473 entities (62%) audited.** Coverage is 100% for organizations (the one type with a coverage gate) and partial elsewhere; the auditor self-derives scope oldest-first, so the rest fills in over rotations:
+
+| Type | Audited / total | | Type | Audited / total |
+|---|---|---|---|---|
+| organizations | **69 / 69** | | persons | 48 / 81 |
+| campaigns | 54 / 54 | | local-groups | 25 / 36 |
+| events | 42 / 49 | | messages | 11 / 37 |
+| funders | 38 / 46 | | voices | 1 / 49 |
+| publications | 5 / 52 | | strategies | 0 / 0 |
+
+**Per-claim audit outcomes (the meaningful breakdown).** Across the 293 audited entities, **6,269 individual claims** were checked against canonical sources:
+
+- **verified — 4,996 (79.7%)**: body claim matches source within paraphrase tolerance.
+- **unverifiable — 1,046 (16.7%)**: audit reached its limit — source dead, no canonical source for that claim class, sources contradict each other, or the claim is too paraphrastic for specific comparison. **This is not an error**; it names where verification stops, and is itself useful provenance.
+- **discrepancy — 227 (3.6%)**: a specific, citable contradiction between a body claim and its source. These are **published openly, with the flag sitting beside the entity** — the transparency is the integrity, not a clean bill of health.
+
+Note: per-*entity* audit `status` is the most-severe per-claim outcome, so most audited entities read `discrepancy` or `unverifiable` on the strength of a single flagged claim. The per-*claim* numbers above are the accurate picture; the per-entity status is not.
+
+**Other disclosed gaps:**
+
+- **Strategy entities: none yet.** The type is defined in the schema but unpopulated, so any Strategy-keyed feature renders empty.
+- **Messages are under-represented** (37 entities) relative to organizations/persons. Slogans, framings, and cultural artifacts are the hardest type to surface and are explicitly being grown.
+- **Geographic skew.** Coverage clusters in the UK and Kenya; Latin America, Sub-Saharan Africa outside Kenya, South and Southeast Asia, and North America outside coastal tech hubs are thin.
+
+If you're building something on top of this graph, sharing what you're working on is the most useful feedback we can receive — it points the corpus toward the use cases that matter.
 
 ## Issues and feedback
 
@@ -109,11 +142,24 @@ File issues on this repository's [Issues tab](../../issues) for:
 
 Issues are read and absorbed into the team's research and editing queue. Individual responses aren't guaranteed.
 
-## Versioning
+## Versioning and releases
 
-The git commit history is the canonical version trace; every entity edit is a discrete commit. Tagged releases may be added later as consumers ask for them.
+This repository follows a **rolling-`main` plus tagged-releases** model:
 
-When citing or building against the graph, recording the **commit hash** of the version you consumed is the most reliable reference.
+- **Rolling `main`.** The publish mirror moves on every workshop commit that touches the corpus, so `main` always carries the freshest state. Track `main` if you want the latest; the git commit history is the canonical version trace, every entity edit a discrete commit.
+- **Tagged releases.** Periodically the team cuts a release tag — a stable point a consumer can pin to. **`v1.0.0`** is the first. See [Releases](../../releases) and the [CHANGELOG](CHANGELOG.md).
+
+**Pin, don't track, if you need stability.** Record the **release tag** (or the exact **commit hash**) you consumed; advancing the pin is a deliberate step on your side. Suggested attribution records the version (see [License](#license)).
+
+**Release semantics (the one signal that matters: did the schema break under you?).** Versions follow `MAJOR.MINOR.PATCH`, with **MAJOR as the only load-bearing position**:
+
+- **MAJOR** — a **breaking schema change**: a renamed or removed frontmatter field, a changed or removed entity type, or a changed canonical cross-reference direction (the schema-as-contract definition in [`schema/spec.md`](schema/spec.md)). If you pin and only watch one thing, watch for a MAJOR bump.
+- **MINOR** — content added (new entities, new audits, deeper coverage). Non-breaking.
+- **PATCH** — corrections to existing content. Non-breaking.
+
+## Working on the corpus
+
+The team is **actively working to improve this corpus** — broadening coverage into thin regions and entity types, and deepening the audit trail toward fuller coverage. What "updating" looks like is exactly the model above: `main` advances continuously, and stable releases are tagged as the corpus reaches points worth pinning. We make **no quantitative promise** of cadence, throughput, or verification rate — the diff between one release and the next speaks for itself.
 
 ## License
 
