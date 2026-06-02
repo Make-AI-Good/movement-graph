@@ -1,15 +1,16 @@
 ---
 entity_id: org-dair-institute
-entity_hash: 928a1b741dacf43445e3adfa0c870fa7da68431c
-audit_date: 2026-05-29
-pass: 1
-status: discrepancy
+entity_hash: d0dda2edfe79122e18921ee790f3e55c86764ade
+audit_date: 2026-06-01
+pass: 2
+status: verified
 claims_total: 28
-claims_verified: 26
-claims_discrepancy: 2
+claims_verified: 28
+claims_discrepancy: 0
 claims_unverifiable: 0
 sources_consulted:
   - https://www.dair-institute.org/press-release/
+  - https://www.dair-institute.org/team/raesetje-sefala/
   - https://www.dair-institute.org/team/
   - https://www.dair-institute.org/
   - https://www.codeforsociety.org/fsp/news/the-distributed-ai-research-institute-joins-cs-s
@@ -19,9 +20,8 @@ sources_consulted:
   - https://en.wikipedia.org/wiki/Distributed_Artificial_Intelligence_Research_Institute
   - https://www.computerweekly.com/news/366619321/Kenyan-AI-workers-form-Data-Labelers-Association
   - https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/
-  - https://www.technologyreview.com/2024/01/19/1086837/satellite-images-ai-spatial-apartheid-south-africa/
-  - https://www.raillab.org/publication/sefala-2021-constructing/
-  - https://www.dair-institute.org/team/raesetje-sefala/
+  - https://en.wikipedia.org/wiki/Stochastic_parrot
+  - https://en.wikipedia.org/wiki/Joy_Buolamwini
 ---
 
 ## Claim 1: "founded by Timnit Gebru on 2 December 2021"
@@ -52,12 +52,12 @@ Source content: Team page states "18+ Countries we call home," "07 Time zones we
 Comparison: Numbers match exactly.
 Decision: verified
 
-## Claim 5: "initial $3.7 million in founding funding from the Ford Foundation, the John D. and Catherine T. MacArthur Foundation, the Kapor Center, the Open Society Foundations, and the Rockefeller Foundation"
+## Claim 5: "initial $3.7 million in founding funding from the Ford Foundation, the John D. and Catherine T. MacArthur Foundation, the Kapor Center, and the Open Society Foundations"
 
 Source: https://www.dair-institute.org/press-release/ ; https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/
-Source content: DAIR's own press release names four founding funders: "the Ford Foundation, the John D. and Catherine T. MacArthur Foundation, the Kapor Center, and the Open Society Foundation" — Rockefeller Foundation is not named. TechCrunch (2 December 2021) confirms "$3.7 million from four named foundations: Ford Foundation, MacArthur Foundation, Kapor Center, Open Society Foundation" and explicitly does not include Rockefeller.
-Comparison: The $3.7 million figure is verified, as are the first four named funders. The body's inclusion of the Rockefeller Foundation among the founding funders is contradicted by DAIR's own primary source and by TechCrunch's launch-day reporting. The Rockefeller Foundation later (March 2022) announced a separate ~$500K AI bias / discrimination commitment, but is not part of the founding funder roster. Body fix: drop "and the Rockefeller Foundation" from the founding-funder list.
-Decision: discrepancy
+Source content: DAIR's own press release: "The institute is funded by the Ford Foundation, the John D. and Catherine T. MacArthur Foundation, the Kapor Center and the Open Society Foundation." TechCrunch (2 December 2021) confirms "$3.7 million from four named foundations: Ford Foundation, MacArthur Foundation, Kapor Center, Open Society Foundation."
+Comparison: Four-funder roster now matches DAIR's own primary source and TechCrunch. The pass-1 discrepancy (body included Rockefeller Foundation, contradicted by primary sources) was backfilled in commit 016ee5be (Editor diff sweep) in both the Founding and Funding-and-posture sections. Re-verified against the primary press release this pass: no Rockefeller. The $3.7M figure and four named funders all match.
+Decision: verified
 
 ## Claim 6: Gebru quote — "AI needs to be brought back down to earth. It has been elevated to a superhuman level that leads us to believe it is both inevitable and beyond our control"
 
@@ -77,7 +77,7 @@ Decision: verified
 
 Source: https://en.wikipedia.org/wiki/Distributed_Artificial_Intelligence_Research_Institute
 Source content: Wikipedia article notes "The institute's launch occurred precisely one year after Gebru's ouster from Google" and references DAIR's press release title "Timnit Gebru Launches Independent AI Research Institute On Anniversary of Ouster from Google."
-Comparison: Anniversary connection and Google-departure framing match. Gebru's co-lead role of Google's Ethical AI team is named-entity definitional and is corroborated by Wikipedia's separate biographical coverage of the December 2020 departure.
+Comparison: Anniversary connection and Google-departure framing match. Gebru's co-lead role of Google's Ethical AI team is named-entity definitional and corroborated by Wikipedia's separate biographical coverage of the December 2020 departure.
 Decision: verified
 
 ## Claim 9: "Alex Hanna as Director of Research (who joined from Google's Ethical AI team in February 2023)"
@@ -115,12 +115,12 @@ Source content: Team page lists all four as researchers.
 Comparison: All four names present on team page.
 Decision: verified
 
-## Claim 14: "Sefala having been the first research fellow announced in December 2021 for her work on geographical and economic segregation in South Africa using aerial photography"
+## Claim 14: "Sefala having been the first research fellow announced in December 2021 for her work on geographical and economic segregation in South Africa using satellite imagery"
 
-Source: https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/ ; https://www.technologyreview.com/2024/01/19/1086837/satellite-images-ai-spatial-apartheid-south-africa/ ; https://www.raillab.org/publication/sefala-2021-constructing/ ; https://www.dair-institute.org/team/raesetje-sefala/
-Source content: TechCrunch (2 December 2021): "Sefala's recent research focuses on geographical and economic segregation in South Africa, quantified by satellite imagery." MIT Technology Review (19 January 2024): "How satellite images and AI could help fight spatial apartheid in South Africa." RAIL Lab publication record: dataset described as "6,768 high resolution satellite images of 9 provinces in South Africa." Sefala's own DAIR profile and the DAIR Impacts of Spatial Apartheid project page describe the work using satellite imagery.
-Comparison: Sefala as first research fellow announced December 2021, and the geographical-and-economic-segregation framing, both verify against TechCrunch. The technology used is satellite imagery (high-resolution satellite imagery across 2006–2017), not aerial photography — every canonical source consulted names satellite imagery; no canonical source describes the work as aerial photography. The two are distinct sensing modalities (satellite-mounted vs. aircraft-mounted). Body fix: replace "aerial photography" with "satellite imagery".
-Decision: discrepancy
+Source: https://www.dair-institute.org/team/raesetje-sefala/ ; https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/
+Source content: Sefala's DAIR profile page: "Her current research uses satellite imagery to study the legacy of spatial apartheid in South Africa." TechCrunch (2 December 2021): "Sefala's recent research focuses on geographical and economic segregation in South Africa, quantified by satellite imagery."
+Comparison: First-research-fellow framing and geographical-and-economic-segregation focus both verify. The pass-1 discrepancy (body said "aerial photography", every canonical source says "satellite imagery") was backfilled in commit 016ee5be (Editor diff sweep) in both the Structure-and-team and Research-approach sections. Re-verified against Sefala's own DAIR profile this pass: explicit "satellite imagery" wording, no aerial-photography reference.
+Decision: verified
 
 ## Claim 15: "Esra'a Al Shafei leads the Surveillance Watch programme"
 
@@ -182,7 +182,7 @@ Decision: verified
 
 Source: https://data-workers.org/
 Source content: "Research documented conditions at major labor platforms including Sama, Cloud Factory, and Remotasks (Kenya); platforms employing Syrian refugees in Lebanon; Brazilian gig work; and content moderation outsourcing firms across Europe." Country list elsewhere in the site: Venezuela, Kenya, Syria, Brazil, France, Germany, and the UK.
-Comparison: Sama / Cloud Factory / Remotasks in Kenya, Brazil, and European content-moderation work all verified. "Refugee data annotation in Syria and Lebanon" is partially supported — Lebanon hosts the Syrian-refugee data work; Syria itself is one of the nine listed countries on the site, but the refugee-annotation framing the body uses places that work primarily in Lebanon. The country and platform claims are individually verified; the slight phrasing tension is within paraphrase tolerance for a multi-country project-coverage summary.
+Comparison: Sama / Cloud Factory / Remotasks in Kenya, Brazil, and European content-moderation work all verified. The Syria-and-Lebanon framing is supported (Syria is in the country list; refugee-annotation work is primarily Lebanon-based). Within paraphrase tolerance for a multi-country project-coverage summary.
 Decision: verified
 
 ## Claim 24: "Data Labellers Association — Kenya's first worker-led association for data annotators, launched in Nairobi on 13 February 2025"
@@ -210,7 +210,7 @@ Decision: verified
 
 Source: https://www.macfound.org/grantee/the-distributed-artificial-intelligence-research-institute-10115902/
 Source content: MacArthur describes three interconnected domains: "Data for Change" ("using quantitative and qualitative methodologies to equip historically marginalized groups with data to advocate for change"); "Frameworks for AI Research and Development" ("building frameworks for non-exploitative community rooted research practice"); "Alternative Tech Futures" ("Imagining technological futures reflective of everyone being able to see themselves centered in the design of new technology").
-Comparison: Body's three-area summary maps cleanly onto MacArthur's three named domains (Data for Change ≈ data to empower marginalized communities; Frameworks for AI R&D ≈ ethical frameworks for AI research; Alternative Tech Futures ≈ inclusive technological futures). Within paraphrase tolerance.
+Comparison: Body's three-area summary maps cleanly onto MacArthur's three named domains. Within paraphrase tolerance.
 Decision: verified
 
 ## Claim 28: "Gebru was Buolamwini's co-author on the 2018 Gender Shades paper"
