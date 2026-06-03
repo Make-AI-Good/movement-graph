@@ -6,7 +6,7 @@ status: historical
 confidence: high
 tags: [canada, national, north-america, open-letter, civil-society-coalition, facial-recognition, frt, biometric-surveillance, privacy, ai-regulation, bill-c-27, cppa, aida, moratorium, advocacy, public-policy, digital-rights, racial-equity, algorithmic-bias, right2yourface]
 created: 2026-05-26
-last_updated: 2026-05-26
+last_updated: 2026-06-03
 date: 2023-11-01
 location: national (Canada)
 event_type: open letter / coalition statement
@@ -26,6 +26,9 @@ sources:
   - url: https://ccla.org/press-release/ccla-demands-action-on-facial-recognition-technology-and-the-growing-power-of-artificial-intelligence/
     last_checked: 2026-05-26
     note: 'CCLA press release on the June 2023 Right2YourFace launch — secondary source for the coalition''s founding framing ("the question is not how or when to use facial recognition, but if"), the June 2023 launch date of the public awareness campaign, and the initial call for a federal moratorium on FRT use by federal policing services and Canadian industries that the November 2023 letter carried forward into the Bill C-27 legislative debate'
+  - url: https://publicpolicy.mcmaster.ca/welcome-brenda-mcphail-acting-executive-director-of-the-mpp/
+    last_checked: 2026-06-03
+    note: 'McMaster MPP Digital Society program welcome page (April 2023) — confirms Brenda McPhail joined as Acting Executive Director having served as Director of Privacy, Technology and Surveillance at the CCLA for nearly a decade'
 ---
 
 # Right2YourFace Coalition open letter declaring Bill C-27 "dangerous" and calling for FRT moratorium (1 November 2023)
@@ -36,7 +39,7 @@ On 1 November 2023, the Right2YourFace Coalition — a Canadian national civil-s
 
 The Right2YourFace Coalition launched in June 2023 as a public awareness campaign coordinated by the CCLA and allied civil-society groups, anchored at right2yourface.ca. The coalition's founding position — [articulated from launch](https://ccla.org/press-release/ccla-demands-action-on-facial-recognition-technology-and-the-growing-power-of-artificial-intelligence/) — was that "the question is not how or when to use facial recognition, but if": a moratorium-first posture arguing that no adequate regulatory framework existed under which FRT use could proceed responsibly. An initial June 2023 open letter called for a federal moratorium on FRT use by federal policing services and Canadian industries, and named Bill C-27 — the government's proposed omnibus privacy and AI legislation — as the vehicle the coalition would scrutinise for legislative adequacy. The November 2023 letter delivered that scrutiny.
 
-The signatories on the November letter were the Canadian Civil Liberties Association, the Privacy and Access Council of Canada, the Ligue des droits et libertés, the International Civil Liberties Monitoring Group, the Criminalization and Punishment Education Project, The Dais at Toronto Metropolitan University, Digital Public, Tech Reset Canada, and the BC Freedom of Information and Privacy Association, with additional signatories listed in the full letter document. Brenda McPhail of the CCLA served as the coalition's primary public spokesperson for the November campaign and as a member of the coalition's Steering Committee.
+The signatories on the November letter were the Canadian Civil Liberties Association, the Privacy and Access Council of Canada, the Ligue des droits et libertés, the International Civil Liberties Monitoring Group, the Criminalization and Punishment Education Project, The Dais at Toronto Metropolitan University, Digital Public, Tech Reset Canada, and the BC Freedom of Information and Privacy Association, with additional signatories listed in the full letter document. Brenda McPhail, then [Acting Executive Director of McMaster's Master of Public Policy in Digital Society](https://publicpolicy.mcmaster.ca/welcome-brenda-mcphail-acting-executive-director-of-the-mpp/) program, served as the coalition's primary public spokesperson for the November campaign and as a member of the coalition's Steering Committee.
 
 ## Bill C-27 and the coalition's critique
 
