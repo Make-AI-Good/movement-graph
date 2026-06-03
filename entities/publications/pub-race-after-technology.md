@@ -6,8 +6,8 @@ status: active
 confidence: high
 tags: [book, polity, monograph, foundational-artefact, algorithmic-accountability, new-jim-code, race-and-technology, abolitionist-tools, black-feminism, black-radical-tradition, michelle-alexander-lineage, princeton, ida-b-wells-just-data-lab, oliver-cromwell-cox-book-prize-2020, brooklyn-public-library-literary-award-2020, citams-honorable-mention-2020, macarthur-fellow-2024, racial-bias, science-and-technology-studies]
 created: 2026-05-19
-last_updated: 2026-05-19
-authors: []
+last_updated: 2026-06-03
+authors: [person-ruha-benjamin]
 publisher: Polity
 date: 2019
 url: https://www.ruhabenjamin.com/race-after-technology
