@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [uk, london, research-advocacy, public-deliberation, citizen-juries, participatory, deliberative-democracy, ai-policy, data-governance, public-attitudes, biometrics, algorithmic-accountability]
 created: 2026-05-12
-last_updated: 2026-05-14
+last_updated: 2026-06-03
 founded: 2018
 location: London, United Kingdom
 website: https://www.adalovelaceinstitute.org/
@@ -73,7 +73,7 @@ The Institute was established by the [Nuffield Foundation in 2018](https://www.n
 
 ## Governance and leadership
 
-The Institute is overseen by an independent board chaired by [Sir Alan Wilson](https://www.adalovelaceinstitute.org/news/sir-alan-wilson-appointed-executive-chair-of-the-ada-lovelace-institute/), the former Chief Executive of the Alan Turing Institute, who took up the role of Executive Chair in 2021. The [first board members](https://www.adalovelaceinstitute.org/news/first-board-members-appointed-to-lead-ada-lovelace-institute/) were appointed in 2018 and included [Alix Dunn](../persons/person-alix-dunn.md) alongside Helen Margetts (Oxford Internet Institute), Huw Price (Leverhulme Centre for the Future of Intelligence), and Hetan Shah (then of the Royal Statistical Society); the board has been refreshed in subsequent cohorts.
+The Institute is overseen by an independent board chaired by [Sir Alan Wilson](https://www.adalovelaceinstitute.org/news/sir-alan-wilson-appointed-executive-chair-of-the-ada-lovelace-institute/), the former Chief Executive of the Alan Turing Institute, who took up the role of Executive Chair in 2018. The [first board members](https://www.adalovelaceinstitute.org/news/first-board-members-appointed-to-lead-ada-lovelace-institute/) were appointed in 2018 and included [Alix Dunn](../persons/person-alix-dunn.md) alongside Helen Margetts (Oxford Internet Institute), Huw Price (Leverhulme Centre for the Future of Intelligence), and Hetan Shah (then of the Royal Statistical Society); the board has been refreshed in subsequent cohorts.
 
 Operational leadership has rotated through several phases. Imogen Parker led the Institute's establishment phase from 2018 onward; Carly Kind subsequently served as Director before leaving for the role of Australian Privacy Commissioner; Francine Bennett held the post as Interim Director; and [Gaia Marcus](../persons/person-gaia-marcus.md) — formerly a deputy director in the UK Department for Levelling Up, Housing and Communities — took up the directorship in June 2024.
 
