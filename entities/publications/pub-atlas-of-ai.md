@@ -6,8 +6,8 @@ status: active
 confidence: high
 tags: [book, yale-university-press, monograph, foundational-artefact, algorithmic-accountability, ai-ethics-to-power, extraction-framing, planetary-costs, material-ai-critique, lithium-mining, clayton-valley, amazon-warehouses, amazon-mechanical-turk, imagenet, affective-computing, emotion-recognition, project-maven, palantir, alphago, samuel-morton, classification, knowing-machines-project, ai-now-institute, microsoft-research, usc, ecole-normale-superieure, anatomy-of-an-ai-system, calculating-empires, training-humans, vladan-joler, trevor-paglen, sally-hacker-prize-2022, asist-2022, choice-outstanding-academic-title-2021, ft-best-book-of-2021, kate-crawford]
 created: 2026-05-19
-last_updated: 2026-05-19
-authors: []
+last_updated: 2026-06-03
+authors: [person-kate-crawford]
 publisher: Yale University Press
 date: 2021-04-06
 url: https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/
