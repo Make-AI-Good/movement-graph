@@ -6,8 +6,8 @@ status: active
 confidence: high
 tags: [book, crown, penguin-random-house, monograph, foundational-artefact, algorithmic-accountability, big-data, algorithmic-harm, wmd, predatory-algorithms, occupy-wall-street-lineage, orcaa, algorithmic-auditing, mathbabe, nyt-bestseller, national-book-award-longlist-2016, euler-book-prize-2019, recidivism-prediction, teacher-evaluation, credit-scoring]
 created: 2026-05-19
-last_updated: 2026-05-19
-authors: []
+last_updated: 2026-06-03
+authors: [person-cathy-oneil]
 publisher: Crown
 date: 2016-09-06
 url: https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/
