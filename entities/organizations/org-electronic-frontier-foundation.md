@@ -13,7 +13,7 @@ website: https://www.eff.org/
 strategies: []
 key_people: []
 board_and_advisors: []
-related_orgs: [org-access-now]
+related_orgs: [org-access-now, org-fight-for-the-future]
 funders: [fund-craig-newmark-philanthropies, fund-knight-foundation]
 sources:
   - url: https://www.eff.org/about
