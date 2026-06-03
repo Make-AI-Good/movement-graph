@@ -1,0 +1,88 @@
+---
+id: msg-deepfake-abuse
+type: message
+name: "Deepfake abuse"
+status: active
+confidence: high
+tags: [south-korea, east-asia, global, framing, concept, gender-based-violence, tech-facilitated-violence, generative-ai, deepfakes, ncii, non-consensual-intimate-images, image-based-sexual-abuse, digital-sex-crimes, feminist, nth-room, take-it-down-act, unicef]
+created: 2026-06-03
+last_updated: 2026-06-03
+origin: |
+  The framing that names AI-generated sexually explicit imagery created without the subject's consent as a form of sexual abuse — carrying the core claim that "there is nothing fake about the harm it causes." Developed over the 2017–2024 period from the South Korean feminist movement against digital sex crimes, where the Korea Cyber Sexual Violence Response Center (KCSVRC, founded 2017) pioneered the systematic replacement of euphemistic language ("revenge porn," "hidden camera") with violence-centred vocabulary ("illegal filming," "non-consensual distribution"). The framing extended specifically to AI-generated content through the 2019–2020 Nth Room case and the August 2024 wave of AI-generated NCII targeting female students and teachers across hundreds of Korean schools and universities. By February 2026 the framing had entered the multilateral record when UNICEF, INTERPOL, and ECPAT jointly launched the "Deepfake abuse is abuse" campaign, reporting that at least 1.2 million children had disclosed having their images manipulated into sexually explicit deepfakes in the prior year.
+originating_person:
+originating_org:
+propagated_by_orgs:
+  - org-digital-rights-foundation
+related_messages:
+  - msg-feminist-ai
+sources:
+  - url: https://keringfoundation.org/en/programs/korea-cyber-sexual-violence-response-center/
+    last_checked: 2026-06-03
+    note: 'Kering Foundation program page for the Korea Cyber Sexual Violence Response Center — primary source for the KCSVRC''s 2017 founding under Chairperson Yeojin Kim, its five-pillar model (victim support, legal advocacy, awareness campaigns, solidarity, and sustainability of feminist activism), the systematic terminology shift from "revenge porn" and "hidden camera" to "illegal filming" and "non-consensual distribution," the deletion-support process KCSVRC developed that became the prototype for Korea''s National Digital Sexual Crime Victim Support Center (2018), and the 1,200-victim support figure (86% women) since founding'
+  - url: https://www.hrw.org/news/2024/08/29/south-koreas-digital-sex-crime-deepfake-crisis
+    last_checked: 2026-06-03
+    note: 'Human Rights Watch, "South Korea''s Digital Sex Crime Deepfake Crisis," 29 August 2024 — primary source for the 2024 wave of AI-generated NCII in which male students at hundreds of Korean schools and universities created Telegram channels targeting female classmates, teachers, and family members; the 2018 protest record (tens of thousands of women marching with slogans "My life is not your porn" and "Are we not human?"); and HRW''s framing of deepfake sexual crimes as gender-based violence embedded in structural gender inequality'
+  - url: https://www.ungeneva.org/en/news-media/news/2026/02/115524/deepfake-abuse-abuse-unicef-warns
+    last_checked: 2026-06-03
+    note: 'UN Geneva, "''Deepfake abuse is abuse,'' UNICEF warns," 4 February 2026 — primary source for the joint UNICEF-INTERPOL-ECPAT "Deepfake abuse is abuse" campaign launch, the 1.2-million-children figure (disclosures of manipulated images in the prior year across 11 countries), the "1 in 25 children in some countries" scale, the core claim "there is nothing fake about the harm it causes," and the campaign''s three demands: expanding child sexual abuse material definitions to include AI-generated content; safety-by-design requirements for AI developers; and strengthened platform content moderation'
+  - url: https://www.tandfonline.com/doi/full/10.1080/01924036.2025.2596578
+    last_checked: 2026-06-03
+    note: 'Park Geon-Beom and Jeong Seona, "From grassroots advocacy to AI governance: lessons from South Korea''s 2024 deepfake sexual abuse crisis on democratising knowledge and policy," International Journal of Comparative and Applied Criminal Justice, 2025 — peer-reviewed source for the grassroots-to-policy pathway: 21 National Assembly petitions collectively gathering approximately 490,000 signatures calling for stricter AI-generated NCII regulation; the framing of non-consensual synthetic intimate imagery (NSII) as sexual violence within organised feminist advocacy; and the comparative governance contribution of the Korean grassroots model'
+  - url: https://www.npr.org/2024/09/06/nx-s1-5101891/south-korea-deepfake
+    last_checked: 2026-06-03
+    note: 'NPR, "South Korea investigates Telegram over alleged sexual deepfakes," 6 September 2024 — source fixing the September 2024 crisis timeline, the scale of the Telegram channels (over 220,000 members in the largest identified channel), and police data showing 297 deepfake sex crime cases in the first seven months of 2024 versus 180 for all of 2023'
+  - url: https://www.endviolenceagainstwomen.org.uk/survivors-and-campaigners-welcome-new-deepfake-law-but-call-on-government-to-go-further/
+    last_checked: 2026-06-03
+    note: 'End Violence Against Women Coalition, "Survivors and campaigners welcome new deepfake law but call on government to go further," February 2026 — primary source for the UK legislative milestone criminalising creation or solicitation of non-consensual sexually explicit deepfakes (in force 6 February 2026); the 73,000-signature petition delivered to 10 Downing Street; EVAW''s framing of deepfake abuse as sexual violence causing "profound harm" including psychological trauma, employment impacts, and silencing of women; and the figure that 96% of deepfakes are sexually explicit with 99% depicting women'
+  - url: https://en.wikipedia.org/wiki/TAKE_IT_DOWN_Act
+    last_checked: 2026-06-03
+    note: 'Wikipedia overview of the TAKE IT DOWN Act (enacted 19 May 2025, United States) — source for the US federal legislative milestone criminalising non-consensual intimate visual depictions including AI-generated deepfakes, the 4-hour platform-takedown mandate, and support from over 120 advocacy, law-enforcement, and technology organisations; includes the Cyber Civil Rights Initiative''s reservations about the bill''s constitutional scope'
+  - url: https://www.koreatimes.co.kr/www/nation/2025/02/113_381432.html
+    last_checked: 2026-06-03
+    note: 'Korea Times, "Victims of deepfake crimes reporting to state-run support center in South Korea surpass 2,000," February 2025 — source for the post-2024-crisis institutional response: the Advocacy Center for Online Sexual Abuse Victims (ACOSAV) handling approximately 332,000 service cases in 2024 (a 20.6% year-on-year increase), the 227.2% year-on-year increase in synthetic/edited-content cases filed, and the AI-based DNA System''s 99%-plus detection rate for deepfake and illegally filmed content'
+  - url: https://montrealethics.ai/digital-sex-crime-online-misogyny-and-digital-feminism-in-south-Korea/
+    last_checked: 2026-06-03
+    note: 'Montreal AI Ethics Institute, "Digital Sex Crime, Online Misogyny, and Digital Feminism in South Korea" — secondary source for the Nth Room case scale (approximately 60,000 individuals engaged in production, distribution, or possession of material), the evolution from early offline digital sex crime to AI-generated content, and the feminist resistance history including the Megalia platform''s campaign against Soranet'
+---
+
+# "Deepfake abuse"
+
+**Deepfake abuse** is the framing that names AI-generated sexually explicit imagery created without a person's consent as a form of sexual abuse. The central claim it carries is that "there is nothing fake about the harm it causes" — a formulation that refuses the minimisation embedded in "deepfake" as a neutral technological descriptor by insisting that real, measurable harm is produced regardless of whether the underlying imagery is synthetically generated. The framing displaced the vocabulary of "deepfake pornography" and "synthetic intimate imagery" across civil-society advocacy, law enforcement, and multilateral discourse over the 2019–2026 period, and reached its clearest multilateral articulation when UNICEF, INTERPOL, and ECPAT jointly launched the ["Deepfake abuse is abuse" campaign on 4 February 2026](https://www.ungeneva.org/en/news-media/news/2026/02/115524/deepfake-abuse-abuse-unicef-warns), reporting that at least 1.2 million children had disclosed having their images manipulated into sexually explicit deepfakes in the prior year.
+
+## Origin
+
+The framing's institutional roots run through the South Korean feminist movement against digital sex crimes that consolidated in 2017–2018. The Korea Cyber Sexual Violence Response Center (KCSVRC), [established in 2017 under Chairperson Yeojin Kim](https://keringfoundation.org/en/programs/korea-cyber-sexual-violence-response-center/), was the earliest organised body to systematically replace the vocabulary of digital sex crimes with violence-centred language — a campaign of deliberate terminological displacement that renamed "revenge porn" to "non-consensual distribution" and "hidden camera" to "illegal filming," naming the act rather than the material and centering perpetrator conduct rather than the content produced. KCSVRC's deletion-support process for non-consensual sexual content became the prototype for South Korea's National Digital Sexual Crime Victim Support Center, established by the Ministry of Gender Equality and Family in 2018. The language campaign ran alongside a mass protest movement: [in 2018, tens of thousands of women and girls marched through Seoul](https://www.hrw.org/news/2024/08/29/south-koreas-digital-sex-crime-deepfake-crisis) under slogans including "My life is not your porn" and "Are we not human?" — directed initially at the illegal-filming crisis rather than deepfakes specifically, but establishing the public register in which both phenomena are named as gendered violence, not privacy violations or content-governance problems.
+
+The 2019–2020 Nth Room case was the event that propelled the established digital sex crime vocabulary into the AI-generated content register. The case involved a Telegram-based blackmail and production network in which [approximately 60,000 individuals participated in the production, distribution, or possession](https://montrealethics.ai/digital-sex-crime-online-misogyny-and-digital-feminism-in-south-Korea/) of content produced by coercing women and minors — and the Criminal Act amendment of 2020, passed directly in response to the protests the case generated, for the first time specifically criminalised the production and distribution of synthetic intimate imagery created using deepfake technology.
+
+## Propagation
+
+### South Korea — 2024 crisis and policy cascade
+
+The framing's fullest instantiation came with the 2024 wave of AI-generated NCII in South Korea. [In August 2024, male students at hundreds of Korean schools and universities created Telegram channels](https://www.hrw.org/news/2024/08/29/south-koreas-digital-sex-crime-deepfake-crisis) sharing AI-generated explicit content depicting female classmates, teachers, and family members. [South Korean police documented 297 cases in the first seven months of 2024](https://www.npr.org/2024/09/06/nx-s1-5101891/south-korea-deepfake) — compared to 180 for all of 2023 — and the largest identified Telegram channel had over 220,000 members. Activists staged a rally in Seoul on 6 September 2024 calling for comprehensive AI-era legislation. The grassroots-to-policy pathway [documented in peer-reviewed research](https://www.tandfonline.com/doi/full/10.1080/01924036.2025.2596578) ran through 21 National Assembly petitions collectively gathering approximately 490,000 signatures, which propelled legislative amendments and the April 2025 launch of a National Centre for Digital Sexual Crime Response — a 24/7 hub integrating AI-based systems for automated removal of deepfake content. [The Advocacy Center for Online Sexual Abuse Victims (ACOSAV) handled approximately 332,000 service cases in 2024 — a 20.6% year-on-year increase](https://www.koreatimes.co.kr/www/nation/2025/02/113_381432.html) — with synthetic-content cases rising 227.2% from 2023.
+
+### United Kingdom
+
+In the United Kingdom, the End Violence Against Women Coalition (EVAW) ran the principal civil-society campaign on deepfake abuse alongside specialist organisation #NotYourPorn and survivor advocates. [A 73,000-signature petition was delivered to 10 Downing Street](https://www.endviolenceagainstwomen.org.uk/survivors-and-campaigners-welcome-new-deepfake-law-but-call-on-government-to-go-further/) calling for government action. Legislation criminalising the creation or solicitation of non-consensual sexually explicit deepfakes came into force [on 6 February 2026](https://www.endviolenceagainstwomen.org.uk/survivors-and-campaigners-welcome-new-deepfake-law-but-call-on-government-to-go-further/) — a milestone EVAW welcomed while calling for further action on tech-company accountability and survivor support infrastructure. EVAW's working figures — that [96% of deepfakes are sexually explicit and 99% depict women](https://www.endviolenceagainstwomen.org.uk/survivors-and-campaigners-welcome-new-deepfake-law-but-call-on-government-to-go-further/) — are the framing's clearest UK civil-society statistical anchor.
+
+### United States
+
+In the United States, the Cyber Civil Rights Initiative (CCRI) — founded from Holly Jacobs's 2012 grassroots "End Revenge Porn" campaign — anchored the advocacy register alongside victim groups and student advocates including Francesca Mani, whose January 2024 Congressional testimony described a New Jersey high school case in which AI-generated explicit images of over 30 female students had been circulated. The [TAKE IT DOWN Act, enacted on 19 May 2025](https://en.wikipedia.org/wiki/TAKE_IT_DOWN_Act), mandated that online platforms remove non-consensual intimate visual depictions — including AI-generated deepfakes — within 4 hours of notification, with support from over 120 advocacy, law-enforcement, and technology organisations.
+
+### South Asia — Digital Rights Foundation
+
+The [Digital Rights Foundation](../organizations/org-digital-rights-foundation.md) in Pakistan carries the framing into its national AI-and-gender research and advocacy line. DRF's annual helpline reports document the Pakistani prevalence of technology-facilitated gender-based violence — a category the organisation explicitly extends to AI-synthesised non-consensual intimate imagery — and have been drawn on by Pakistan's parliamentary processes and telecommunications authority consultations as the principal published evidence base on the issue in South Asia.
+
+### Multilateral uptake — UNICEF campaign (2026)
+
+The framing's clearest multilateral articulation arrived on 4 February 2026, when UNICEF, INTERPOL, and ECPAT jointly launched the "Deepfake abuse is abuse" campaign. The campaign [reported that at least 1.2 million children had disclosed having their images manipulated into sexually explicit deepfakes in the prior year](https://www.ungeneva.org/en/news-media/news/2026/02/115524/deepfake-abuse-abuse-unicef-warns) across 11 countries — roughly 1 in 25 children in some study countries. Its three demands (expanding child sexual abuse material definitions to include AI-generated content; safety-by-design requirements for AI developers; and strengthened platform content moderation) carry the framing's settled multilateral-record formulation into the intergovernmental system.
+
+## Why it has carried
+
+Three features explain the framing's travel from a South Korean civil-society terminology campaign into a global-movement register.
+
+First, the phrase performs its own argument. "Deepfake abuse" refuses the minimisation embedded in the naming convention it displaces — "deepfake pornography" frames the harm as a content problem; "deepfake abuse" frames it as a conduct problem, naming the perpetrator's act rather than the material produced. The UNICEF campaign's headline claim that "there is nothing fake about the harm it causes" states the argumentative core explicitly, and it is precisely the framing's capacity to close that rhetorical gap — between the synthetic character of the image and the real character of the harm — that has made it usable across legislative advocacy, survivor communications, and platform-responsibility debates simultaneously.
+
+Second, the framing plugs into existing gender-based violence infrastructure without requiring a new institutional architecture. By naming AI-generated NCII as abuse, the framing allowed established organisations to extend their existing mandates to cover AI-generated harm: EVAW's deepfake campaign operated under its standing gender-based violence register; DRF extended its helpline caseload categories; UNICEF applied its existing child sexual abuse material framework. The portability across existing infrastructure is a primary explanation for the speed of multilateral uptake from 2024 onward.
+
+Third, the framing is scale-agnostic. The same phrase covers a single targeted victim and a 1.2-million-children global figure; a school Telegram channel in Seoul and a mass-market AI platform. That scale-agnosticism allows advocates to move between individual harm, systemic harm, and platform-liability arguments using the same vocabulary — "deepfake abuse is abuse" works as a survivor statement, a parliamentary testimony opener, and a campaign headline without rephrasing.
