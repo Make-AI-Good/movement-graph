@@ -39,7 +39,7 @@ sources:
     note: 'ESRC Digital Good Network research page — records that the 2024–25 "Participatory and inclusive data stewardship" landscape review (co-produced with the Ada Lovelace Institute and the Liverpool City Region Civic Data Cooperative) explicitly builds on the 2021 report'
   - url: https://www.reemapatel.org/
     last_checked: 2026-05-12
-    note: 'Reema Patel''s personal site — primary disclosure that she co-founded the Ada Lovelace Institute''s public-engagement work and lists Participatory Data Stewardship among her authored Ada Lovelace reports'
+    note: 'Reema Patel''s personal site — primary disclosure that she co-founded the Ada Lovelace Institute and established its work on public engagement and participation; lists Participatory Data Stewardship among her authored Ada Lovelace reports'
 ---
 
 # Participatory data stewardship
