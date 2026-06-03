@@ -53,7 +53,7 @@ sources:
     note: 'Namati news item on the August 2020 Access Now / Namati / Open Society Justice Initiative civil-society consultation on digital-ID systems — primary source for the #WhyID coalition''s sustained convening role across 2020, the named consultation participants (AfroLeadership, Asociación por los Derechos Civiles, CIPESA, Derechos Digitales, Development and Justice Initiative, NYU Law School, Haki na Sheria Initiative, Human Rights Advocacy and Research Foundation, Myanmar Centre for Responsible Business, Namati), and the consultation''s recommendations on integrating human-rights criteria, transparency, and formal civil-society partnership into digital-ID deployment'
   - url: https://en.wikipedia.org/wiki/Access_Now
     last_checked: 2026-05-19
-    note: 'Wikipedia overview of Access Now — secondary source corroborating Access Now''s coordinating role in the #WhyID coalition alongside its other named global civil-society coalitions (#KeepItOn, #BanBS)'
+    note: 'Wikipedia overview of Access Now — background reference for Access Now''s organizational profile; names #KeepItOn among its coalitions but does not corroborate #WhyID or #BanBS'
 ---
 
 # "#WhyID"
