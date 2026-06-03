@@ -29,7 +29,7 @@ sources:
     note: Business and Human Rights Resource Centre (8 September 2025) — coverage of the petition by 35 Kenyan tech workers, supported by The Oversight Lab, challenging the Business Laws (Amendment) Bill 2024 in the Kenyan High Court
   - url: https://weetracker.com/2026/04/30/kenyan-workers-meta-smart-glasses-sex-layoffs/
     last_checked: 2026-05-12
-    note: 'Weetracker (30 April 2026) — describes The Oversight Lab "calling on workers to join the Africa Tech Workers Movement to advocate for safer, more stable environments" following the Sama redundancy notice covering 1,108 workers'
+    note: 'Weetracker (30 April 2026) — covers the Sama redundancy notice (1,108 workers, 16 April 2026); The Oversight Lab called the termination devastating, warning of harm to Kenya''s participation in the AI ecosystem'
   - url: https://thenextweb.com/news/meta-smart-glasses-sama-kenya-workers
     last_checked: 2026-05-12
     note: TheNextWeb — identifies Naftali Wambalo as co-founder of the Africa Tech Workers Movement and reports his claim that Meta's contract termination with Sama was retaliation against workers who spoke out about Ray-Ban smart glasses footage
