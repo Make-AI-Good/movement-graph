@@ -4,7 +4,7 @@ type: publication
 name: 'AI Investments in the Gulf: Opportunities and Surveillance Risks'
 status: active
 confidence: high
-tags: [report, mena, wana, west-asia-and-north-africa, gulf, gcc, saudi-arabia, uae, qatar, oman, bahrain, ai-investment, ai-and-surveillance, biometric-surveillance, facial-recognition, smart-cities, pegasus-spyware, sovereign-ai, sovereign-wealth-fund, g42, mgx, sdaia, neom, stargate, vision-2030, uae-national-ai-strategy-2031, civil-society-evidence-base, smex, arabic-language, ai-and-human-rights, political-economy-of-ai]
+tags: [report, mena, wana, west-asia-and-north-africa, gulf, gcc, saudi-arabia, uae, qatar, oman, ai-investment, ai-and-surveillance, biometric-surveillance, facial-recognition, smart-cities, pegasus-spyware, sovereign-ai, sovereign-wealth-fund, g42, mgx, sdaia, neom, stargate, vision-2030, uae-national-ai-strategy-2031, civil-society-evidence-base, smex, arabic-language, ai-and-human-rights, political-economy-of-ai]
 created: 2026-05-15
 last_updated: 2026-05-15
 authors: []
@@ -32,7 +32,7 @@ sources:
 
 # AI Investments in the Gulf: Opportunities and Surveillance Risks
 
-*AI Investments in the Gulf: Opportunities and Surveillance Risks* is a [long-form research piece](https://smex.org/ai-investments-in-the-gulf-opportunities-and-surveillance-risks/) by Metehan Durmaz, [SMEX](../organizations/org-smex.md)'s Policy Analyst, [published on 19 May 2025](https://smex.org/category/research/) on the organisation's research line. The report maps the Gulf Cooperation Council states' simultaneous emergence as a leading global destination for AI infrastructure investment and as a region whose documented surveillance-against-civil-society record extends into the AI-enabled tooling that the new investment is putting in place — covering [Saudi Arabia, the United Arab Emirates, Qatar, Oman, and Bahrain](https://smex.org/ai-investments-in-the-gulf-opportunities-and-surveillance-risks/) — and is structured around four named sections: Key Investments, Key Stakeholders, Local Investment Benefits, and Potential Threats and Digital Rights Implications.
+*AI Investments in the Gulf: Opportunities and Surveillance Risks* is a [long-form research piece](https://smex.org/ai-investments-in-the-gulf-opportunities-and-surveillance-risks/) by Metehan Durmaz, [SMEX](../organizations/org-smex.md)'s Policy Analyst, [published on 19 May 2025](https://smex.org/category/research/) on the organisation's research line. The report maps the Gulf Cooperation Council states' simultaneous emergence as a leading global destination for AI infrastructure investment and as a region whose documented surveillance-against-civil-society record extends into the AI-enabled tooling that the new investment is putting in place — covering [Saudi Arabia, the United Arab Emirates, Qatar, and Oman](https://smex.org/ai-investments-in-the-gulf-opportunities-and-surveillance-risks/) — and is structured around four named sections: Key Investments, Key Stakeholders, Local Investment Benefits, and Potential Threats and Digital Rights Implications.
 
 ## Argument and methodology
 
