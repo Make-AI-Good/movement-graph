@@ -7,7 +7,7 @@ confidence: high
 tags: [book, nyu-press, monograph, foundational-artefact, algorithmic-accountability, search-engine-bias, google-bias, algorithmic-oppression, technological-redlining, black-feminism, intersectionality, critical-information-studies, library-and-information-science, ucla, c2i2, minderoo-initiative-on-tech-and-power, macarthur-fellow-2021, racial-bias, gender-bias, library-of-congress-cataloging]
 created: 2026-05-19
 last_updated: 2026-05-19
-authors: []
+authors: [person-safiya-noble]
 publisher: NYU Press
 date: 2018-02-20
 url: https://nyupress.org/9781479837243/algorithms-of-oppression/
