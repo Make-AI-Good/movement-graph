@@ -23,6 +23,7 @@ funders:
   - fund-ford-foundation
   - fund-open-society-foundations
   - fund-hewlett-foundation
+  - fund-indela
 sources:
   - url: https://en.wikipedia.org/wiki/Article_19
     last_checked: 2026-05-26
