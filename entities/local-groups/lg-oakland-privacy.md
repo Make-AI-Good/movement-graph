@@ -10,7 +10,7 @@ last_updated: 2026-05-26
 founded: 2013
 location: Oakland, California, USA (work radiates across Bay Area cities — Berkeley, BART, Davis, Palo Alto, San Pablo — and into California state legislation)
 website_or_contact: https://oaklandprivacy.org/
-key_people: []
+key_people: [person-brian-hofer]
 sources:
   - url: https://oaklandprivacy.org/timeline/
     last_checked: 2026-05-19
