@@ -6,11 +6,11 @@ status: active
 confidence: high
 tags: [los-angeles, california, usa, lax, rideshare, gig-workers, app-based-workers, uber, lyft, algorithmic-management, deactivation, just-cause, fired-by-app, prop-22, ab-5, ab-1340, ipo-strike, seiu, asian-law-caucus, iaatw, solidarity-tech, mobile-workers-alliance, california-gig-workers-union, perb, independent-contractor, misclassification]
 created: 2026-05-21
-last_updated: 2026-05-21
+last_updated: 2026-06-03
 founded: 2018
 location: Los Angeles, California, USA (LAX-area organising origin; California-statewide membership; coordinating with Northern California organising under the California Gig Workers Union umbrella since 2024)
 website_or_contact: https://www.drivers-united.org/
-key_people: []
+key_people: [person-nicole-moore]
 sources:
   - url: https://www.drivers-united.org/about
     last_checked: 2026-05-21
