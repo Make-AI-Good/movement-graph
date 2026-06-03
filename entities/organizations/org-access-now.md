@@ -14,7 +14,7 @@ strategies: []
 key_people: [person-felicia-anthonio, person-marwa-fatafta]
 board_and_advisors: []
 related_orgs: [org-edri, org-algorithmwatch, org-panoptykon-foundation, org-la-quadrature-du-net, org-article-19, org-citizen-lab, org-masaar, org-sinar-project]
-funders: [fund-ford-foundation, fund-open-society-foundations, fund-mozilla-foundation, fund-sigrid-rausing-trust, fund-european-ai-society-fund, fund-luminate, fund-patrick-j-mcgovern-foundation, fund-civitates, fund-hewlett-foundation, fund-charles-stewart-mott-foundation, fund-oak-foundation]
+funders: [fund-ford-foundation, fund-open-society-foundations, fund-mozilla-foundation, fund-sigrid-rausing-trust, fund-european-ai-society-fund, fund-luminate, fund-patrick-j-mcgovern-foundation, fund-civitates, fund-hewlett-foundation, fund-charles-stewart-mott-foundation, fund-oak-foundation, fund-skoll-foundation]
 sources:
   - url: https://www.accessnow.org/about-us/
     last_checked: 2026-05-13
@@ -58,6 +58,9 @@ sources:
   - url: https://www.accessnow.org/event/rightscon-2025/
     last_checked: 2026-05-13
     note: RightsCon 2025 event page — primary source for the 24–27 February 2025 Taipei summit (the 13th edition), Access Now's role as the convening organisation, and the Asia-Pacific return location framing
+  - url: https://skoll.org/grantee/access-now
+    last_checked: 2026-06-03
+    note: Skoll Foundation grantee page — confirms Skoll as a funder; grant support of $25,000 for RightsCon 2023, covering the summit itself and a Community Support Fund for underrepresented frontline innovators
 ---
 
 # Access Now

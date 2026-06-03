@@ -14,7 +14,7 @@ strategies: []
 key_people: [person-alice-dawkins]
 board_and_advisors: []
 related_orgs: []
-funders: [fund-luminate, fund-minderoo-foundation, fund-internet-society-foundation]
+funders: [fund-luminate, fund-minderoo-foundation, fund-internet-society-foundation, fund-skoll-foundation]
 sources:
   - url: https://au.reset.tech/
     last_checked: 2026-05-18
