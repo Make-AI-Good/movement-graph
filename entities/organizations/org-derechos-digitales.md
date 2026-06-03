@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [chile, santiago, latin-america, regional, non-profit, digital-rights, human-rights, algorithmic-accountability, ai-and-human-rights, automated-decision-making, surveillance, privacy, facial-recognition, feminist-ai, public-policy, advocacy, fiscal-sponsor, al-sur]
 created: 2026-05-13
-last_updated: 2026-05-21
+last_updated: 2026-06-03
 founded: 2005
 location: Santiago, Chile (regional Latin American reach)
 website: https://www.derechosdigitales.org/
@@ -18,6 +18,7 @@ board_and_advisors: []
 related_orgs:
   - org-apc
   - org-coding-rights
+  - org-hiperderecho
   - org-r3d
   - org-fundacion-karisma
   - org-tedic
