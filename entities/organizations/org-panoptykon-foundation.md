@@ -13,7 +13,7 @@ website: https://en.panoptykon.org/
 strategies: []
 key_people: [person-katarzyna-szymielewicz]
 board_and_advisors: []
-related_orgs: [org-edri, org-algorithmwatch, org-access-now, org-la-quadrature-du-net]
+related_orgs: [org-edri, org-algorithmwatch, org-access-now, org-la-quadrature-du-net, org-iure]
 funders: [fund-open-society-foundations, fund-sigrid-rausing-trust, fund-european-ai-society-fund]
 sources:
   - url: https://en.panoptykon.org/

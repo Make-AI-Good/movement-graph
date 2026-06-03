@@ -16,6 +16,7 @@ board_and_advisors: []
 related_orgs:
   - org-edri
   - org-algorithmwatch
+  - org-iure
 funders:
   - fund-open-society-foundations
   - fund-sigrid-rausing-trust
