@@ -30,7 +30,7 @@ sources:
     note: Center for Journalism & Liberty home page — primary source for the CJL framing ("Ensuring news media is fully independent in the 21st century's digital economy"), its identification as "A Center Within the Open Markets Institute", and its scope on AI and content licensing, antimonopoly issues, and journalism sustainability
   - url: https://time.com/6188272/frances-haugen-daniel-motaung-facebook-whistleblowers/
     last_checked: 2026-05-14
-    note: TIME (7 July 2022) on the King's Place London panel — primary source for Crider's named convener role at the founding public moment of the Foxglove / Nzili & Sumbi public-facing campaign, appearing alongside Daniel Motaung, Frances Haugen, and Mercy Mutemi; the venue at which the Motaung case was first introduced to a UK and US press audience
+    note: TIME (16 June 2022) on the King's Place London panel — primary source for Crider's named convener role at the founding public moment of the Foxglove / Nzili & Sumbi public-facing campaign, appearing alongside Daniel Motaung, Frances Haugen, and Mercy Mutemi; the venue at which the Motaung case was first introduced to a UK and US press audience
   - url: https://www.foxglove.org.uk/news/home-office-says-it-will-abandon-its-racist-visa-algorithm-nbsp-after-we-sued-them
     last_checked: 2026-05-14
     note: Foxglove's own coverage of the August 2020 Home Office visa-streaming algorithm withdrawal — primary source for the first UK successful judicial review of a government algorithmic decision-making system, the named campaign Crider co-directed in Foxglove's founding year
