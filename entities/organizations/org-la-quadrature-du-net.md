@@ -14,7 +14,7 @@ strategies: []
 key_people: [person-bastien-le-querrec]
 board_and_advisors: []
 related_orgs: [org-edri, org-access-now, org-algorithmwatch, org-panoptykon-foundation]
-funders: []
+funders: [fund-digital-freedom-fund]
 sources:
   - url: https://www.laquadrature.net/en/
     last_checked: 2026-05-15

@@ -14,7 +14,7 @@ strategies: []
 key_people: [person-katarzyna-szymielewicz]
 board_and_advisors: []
 related_orgs: [org-edri, org-algorithmwatch, org-access-now, org-la-quadrature-du-net, org-iure]
-funders: [fund-open-society-foundations, fund-sigrid-rausing-trust, fund-european-ai-society-fund]
+funders: [fund-open-society-foundations, fund-sigrid-rausing-trust, fund-european-ai-society-fund, fund-digital-freedom-fund]
 sources:
   - url: https://en.panoptykon.org/
     last_checked: 2026-05-14
