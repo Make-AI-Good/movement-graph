@@ -1,13 +1,13 @@
 ---
 entity_id: fund-hewlett-foundation
-entity_hash: d5d8f506dea303e691d9932da2ef964744368ceb
-audit_date: 2026-05-22
-pass: 1
-status: discrepancy
+entity_hash: 07ebabeaadb17188a211927fa3036cd0efe52504
+audit_date: 2026-06-05
+pass: 2
+status: unverifiable
 claims_total: 30
 claims_verified: 29
-claims_discrepancy: 1
-claims_unverifiable: 0
+claims_discrepancy: 0
+claims_unverifiable: 1
 sources_consulted:
   - https://en.wikipedia.org/wiki/Hewlett_Foundation
   - https://hewlett.org/our-programs/
@@ -24,7 +24,7 @@ sources_consulted:
   - https://europeanaifund.org/our-partners/
   - https://www.accessnow.org/financials/
   - https://cipesa.org/2025/03/african-digital-rights-funding-crisis/
-  - https://pit-un.org/
+  - https://pit-un.org/about/
   - https://en.wikipedia.org/wiki/Public_Interest_Technology_University_Network
 ---
 
@@ -189,12 +189,12 @@ Source content: March 11, 2019 announcement launched by 21 colleges and universi
 Comparison: 2019 launch with Ford and New America matches.
 Decision: verified
 
-## Claim 24: "twenty-one founding university members, since grown to nearly fifty"
+## Claim 24: "twenty-one founding university members, since grown to around sixty"
 
-Source: https://pit-un.org/ and https://en.wikipedia.org/wiki/Public_Interest_Technology_University_Network
-Source content: PIT-UN currently has 59 U.S. member universities plus 4 international institutions (63 total) as of 2025 per Wikipedia; PIT-UN's own site reports the network "currently has 59 member universities from across the U.S. and four international institutions."
-Comparison: "Twenty-one founding" matches the 2019 charter count. "Nearly fifty" understates the current size by roughly ten members — the network sits closer to sixty. Single-token-style fix: change "nearly fifty" to "around sixty".
-Decision: discrepancy
+Source: https://pit-un.org/about/ and https://en.wikipedia.org/wiki/Public_Interest_Technology_University_Network
+Source content: PIT-UN's own About page (fetched 2026-06-05) states: "The Public Interest Technology University Network (PIT-UN), a partnership that unites 48 colleges and universities, is building the growing field of public interest technology…" Wikipedia (fetched 2026-06-05) states: "The group currently has 59 member universities from across the U.S. and four international institutions" (i.e., 63 total).
+Comparison: "Twenty-one founding" matches the 2019 charter count from the Hewlett announcement (verified at Claim 23). "Around sixty" sits close to Wikipedia's 63 but is contradicted by PIT-UN's own About page count of 48 — the two canonical sources disagree by roughly 15 institutions on the current size. Per the source rule ("when two canonical sources disagree, the outcome is `unverifiable`"), this cannot be resolved without picking a winner. Note for the Editor: this is structurally unverifiable for now — leaving "around sixty" in body matches one canonical source (Wikipedia) and contradicts another (the entity's own cited pit-un.org). A safer single-token rewrite would be to drop the specific magnitude (e.g., "since grown substantially") rather than swap "around sixty" for "around fifty", since "around fifty" would itself only match PIT-UN's About page and not Wikipedia.
+Decision: unverifiable
 
 ## Claim 25: "New America manages the day-to-day work of the Network"
 
