@@ -23,6 +23,7 @@ funders:
   - fund-open-society-foundations
   - fund-mozilla-foundation
   - fund-omidyar-network
+  - fund-digital-freedom-fund
 sources:
   - url: https://www.workerinfoexchange.org/
     last_checked: 2026-05-18
