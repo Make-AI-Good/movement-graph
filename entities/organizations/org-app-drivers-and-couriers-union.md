@@ -16,6 +16,7 @@ key_people:
 board_and_advisors: []
 related_orgs:
   - org-worker-info-exchange
+  - org-iwgb
 funders: []
 sources:
   - url: https://www.adcu.org.uk/about-us
