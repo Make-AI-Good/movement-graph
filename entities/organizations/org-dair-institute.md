@@ -10,7 +10,7 @@ last_updated: 2026-05-15
 founded: 2021
 location: Oakland, California (US headquarters; globally distributed team across Africa, Europe, Australia, and North America)
 website: https://www.dair-institute.org/
-strategies: []
+strategies: [strat-dair-community-rooted-distributed-research]
 key_people: [person-timnit-gebru]
 board_and_advisors: []
 related_orgs: [org-data-labellers-association]
