@@ -1,21 +1,24 @@
 ---
 entity_id: event-mijente-notechforice-campus-actions-2019-11
-entity_hash: 77b9fe3afebe18ab73834edac9547a5a29b1d108
-audit_date: 2026-05-21
-pass: 1
+entity_hash: 456d58182543f03778c4ce407f3294f46cfcd752
+audit_date: 2026-06-05
+pass: 2
 status: unverifiable
 claims_total: 25
-claims_verified: 20
+claims_verified: 22
 claims_discrepancy: 0
-claims_unverifiable: 5
+claims_unverifiable: 3
 sources_consulted:
   - https://www.vice.com/en/article/students-at-16-universities-are-protesting-palantirs-presence-on-campuses/
   - https://www.wesa.fm/science-health-tech/2019-11-19/notechforice-cmu-students-urge-university-to-bar-palantir-from-campus
   - https://notechforice.com/20190916-2/
   - https://notechforice.com/studentpower/
+  - https://notechforice.com/convening/
   - https://en.wikipedia.org/wiki/Palantir_Technologies
   - https://en.wikipedia.org/wiki/No_Tech_for_Apartheid
-  - https://www.govtech.com/computing/ice-renews-controversial-palantir-software-contract.html
+  - https://www.govtech.com/computing/ICE-Renews-Controversial-Palantir-Software-Contract.html
+  - https://www.newsweek.com/ice-protests-yale-cambridge-university-palantir-contracts-1472731
+  - https://www.euronews.com/2019/12/02/campus-activists-find-target-intersection-immigration-technology-palantir-n1093136
   - https://mijente.net/blog/fixed-new-report-exposes-tech-data-companies-behind-ice/
 ---
 
@@ -161,9 +164,9 @@ Decision: unverifiable
 
 ## Claim 21: "ICE [renewed the Palantir contract] eight days later"
 
-Source: https://thehill.com/policy/technology/458170-ice-renews-contract-with-palantir/ (cited in entity; fetch returned 403). Secondary: https://www.govtech.com/computing/ice-renews-controversial-palantir-software-contract.html
-Source content: govtech: "That contract for Palantir's Falcon, a mobile app used during immigration raids, expires in November but can be renewed a couple more times for one year each." govtech specifies the Gotham contract renewed July 22, 2019, but provides no specific FALCON renewal date.
-Comparison: The Hill source (which would document the renewal) was inaccessible. govtech confirms the renewal capability but does not name a specific FALCON renewal date matching "eight days later" (i.e., 27 November 2019).
+Source: https://thehill.com/policy/technology/458170-ice-renews-contract-with-palantir/ (cited in entity; fetch returned 403). Secondary: https://www.govtech.com/computing/ICE-Renews-Controversial-Palantir-Software-Contract.html
+Source content (govtech): "the contract for Palantir's Falcon, a mobile app used during immigration raids, expires in November but can be renewed a couple more times for one year each." Govtech specifies the Gotham contract renewal of 22 July 2019 but gives no specific FALCON renewal date.
+Comparison: The Hill source (which would document the renewal) was inaccessible. Govtech confirms FALCON-renewal capability around the November deadline but does not name a specific renewal date matching "eight days later" (i.e., 27 November 2019). The Vice "ICE Just Renewed" piece is dated August 2019 and concerns the Gotham contract, not FALCON, so it does not support the November-27 framing either.
 Decision: unverifiable
 
 ## Claim 22: "the 2021 Project Nimbus No Tech For Apartheid campaign, which explicitly modelled its name on #NoTechForICE"
@@ -182,14 +185,14 @@ Decision: verified
 
 ## Claim 24: "the 26–28 July 2019 Take Back Tech I summit in San Jose"
 
-Source: No canonical source consulted in this pass for the specific 26–28 July dates.
-Source content: n/a
-Comparison: This claim refers to a corpus-internal event; the dates were not verified against external canonical sources in this pass.
-Decision: unverifiable
+Source: https://notechforice.com/convening/
+Source content: "join Mijente, Media Justice, and Tech Workers Coalition in San Jose, California for a people's summit" during "July 26-28, 2019."
+Comparison: Date range (26-28 July 2019) and San Jose location match. notechforice.com/convening/ is the campaign's own convening page — a primary document for a public-event date, which is sufficient on its own per the Wikipedia-alone (and a fortiori primary-source-alone) class for "dates of public events."
+Decision: verified
 
 ## Claim 25: "Oxford, Cambridge, the University of Chicago" (named as part of the wider US-UK day-of-action cohort)
 
-Source: https://notechforice.com/studentpower/
-Source content: Participating cohort lists "Edinburgh, Oxford, St Andrews, Brown, Carnegie Mellon, Claremont Colleges, Cooper Union, Cornell, Duke, Harvard, Georgia Tech, MIT, Puget Sound, RPI, Santa Clara, Stanford, Tufts, UC Berkeley, UCLA, UC Davis, University of San Francisco, Wellesley, and Yale."
-Comparison: Oxford is confirmed. Cambridge and University of Chicago are NOT in the studentpower-page roster nor in the September 2019 launch cohort (notechforice.com/20190916-2/). Their participation in the November 19 day of action was not verified by any consulted source. No second canonical source was consulted to confirm or refute.
-Decision: unverifiable
+Source: https://www.newsweek.com/ice-protests-yale-cambridge-university-palantir-contracts-1472731 ; https://www.euronews.com/2019/12/02/campus-activists-find-target-intersection-immigration-technology-palantir-n1093136 (NBC News reprint of the entity's cited NBC article)
+Source content (Newsweek): "Students at at least 15 universities across the U.S.—including the University of California, Berkeley, Stanford University, Yale University, the University of Chicago, Brown University, Georgia Tech—and Britain—including the University of Cambridge and the University of Edinburgh—are participating in the day-long #NoTechForICE protest..." Source content (Euronews/NBC reprint): "On Nov. 19, students at 16 universities in the United States and United Kingdom including Stanford, Georgia Tech, Yale, Oxford, Cambridge and the University of Chicago protested the company on campus."
+Comparison: Cambridge, Oxford, and the University of Chicago are each named in two independent mainstream news sources (Newsweek and the NBC News piece via its Euronews reprint) as participants in the 19 November 2019 day-of-action cohort.
+Decision: verified
