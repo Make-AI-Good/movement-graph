@@ -15,6 +15,7 @@ key_people: []
 board_and_advisors: []
 related_orgs:
   - org-access-now
+  - org-ilaw
 funders:
   - fund-ford-foundation
   - fund-macarthur-foundation
