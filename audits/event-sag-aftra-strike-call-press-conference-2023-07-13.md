@@ -1,12 +1,12 @@
 ---
 entity_id: event-sag-aftra-strike-call-press-conference-2023-07-13
-entity_hash: ce6fbfe0a1c6b1bf046a4af2ee1a5bf64b113152
-audit_date: 2026-05-22
-pass: 1
-status: discrepancy
+entity_hash: 54302e3f91580434fca35b1b355998f64e65d22f
+audit_date: 2026-06-05
+pass: 2
+status: verified
 claims_total: 25
-claims_verified: 22
-claims_discrepancy: 3
+claims_verified: 25
+claims_discrepancy: 0
 claims_unverifiable: 0
 sources_consulted:
   - https://deadline.com/2023/07/fran-drescher-the-complete-sag-aftra-strike-speech-video-hollywood-1235437816/
@@ -58,7 +58,7 @@ Decision: verified
 
 ## Claim 6: WGA had been on strike since 2 May 2023; WGA work stoppage ran 148 days
 
-Source: https://en.wikipedia.org/wiki/2023_SAG-AFTRA_strike ; Statista / ET timelines
+Source: https://en.wikipedia.org/wiki/2023_SAG-AFTRA_strike
 Source content: Wikipedia and other canonical timelines record the WGA strike starting 2 May 2023 and lasting 148 days until the late-September 2023 settlement.
 Comparison: Both the start date and the 148-day total match. The body's "ongoing 148-day work stoppage" is awkward but factual — the strike was ongoing on 13 July and ran 148 days in total.
 Decision: verified
@@ -84,12 +84,12 @@ Source content: "SAG-AFTRA approved a new contract in 2020 that would expire on 
 Comparison: 30 June expiration matches. "Midnight on July 13" equals the instant after 11:59 pm PT on 12 July, which matches the body. The interval from 30 June to 12 July is 12 days, matching the body's "12 days of additional bargaining".
 Decision: verified
 
-## Claim 10: Strike-authorization vote of 5 June 2023 passed at 98% on an 88% turnout
+## Claim 10: Strike-authorization vote of 5 June 2023 passed at 98% on a 48% turnout
 
 Source: https://variety.com/2023/biz/news/sag-aftra-strike-authorization-vote-writers-1235633850/ ; https://www.hollywoodreporter.com/business/business-news/sag-aftra-members-authorize-strike-nearly-98-percent-work-stoppage-1235507295/
-Source content: Variety: "97.91% of the voting members supported the authorization... Turnout was 47.69%." Hollywood Reporter: "Nearly 98 percent of members of performers' union SAG-AFTRA voted to authorize a strike... Sixty-five thousand eligible members voted, for a turnout of nearly 48 percent."
-Comparison: The 98% in-favor figure matches (97.91% rounds to 98%). The "88% turnout" figure does NOT match either canonical source — actual turnout was 47.69% (i.e., ~48%, not 88%).
-Decision: discrepancy
+Source content: Variety: "97.91% of the voting members supported the authorization. Turnout was 47.69%." Hollywood Reporter: "Nearly 98 percent of members of performers' union SAG-AFTRA voted to authorize a strike... Sixty-five thousand eligible members voted, for a turnout of nearly 48 percent."
+Comparison: 97.91% rounds to 98%; 47.69% rounds to 48%. Both figures in the body match the canonical sources. (Pass 1 found 88% turnout — body has since been corrected to 48% by the Editor per pass-1 Claim 10 discrepancy.)
+Decision: verified
 
 ## Claim 11: AMPTP's digital-replica proposal for background performers — scanned for a single day's pay, digital likeness owned by company in perpetuity, used on any project, no further consent or compensation
 
@@ -140,19 +140,19 @@ Source content: "If we don't stand tall right now, we are all going to be in tro
 Comparison: Match within paraphrase tolerance — only difference is "who care" (body) vs "who cares" (transcript), which is a transcription-level variation on a verbal speech.
 Decision: verified
 
-## Claim 18: Drescher: "what's happening to us is happening across all forms of work"
+## Claim 18: Drescher: "what's happening to us is happening across all fields of labor"
 
 Source: https://www.rev.com/transcripts/fran-drescher-delivers-speech-on-sag-aftra-strike-transcript
-Source content: "What happens here is important because what's happening to us is happening across all fields of labor by means of when employers make Wall Street and greed their priority..."
-Comparison: The body presents this as a verbatim Drescher quote ("what's happening to us is happening across all forms of work") but the transcript records her saying "across all fields of labor", not "all forms of work". On a verbatim-quoted statement, this is a wording mismatch beyond paraphrase tolerance.
-Decision: discrepancy
+Source content: "what's happening to us is happening across all fields of labor by means of when employers make Wall Street and greed their priority..."
+Comparison: Verbatim match. (Pass 1 found the body said "all forms of work"; the Editor corrected both body occurrences and the mirrored sources[].note per pass-1 Claim 18 discrepancy.)
+Decision: verified
 
-## Claim 19: Drescher: "being victimized by a very, very greedy entity"
+## Claim 19: Drescher: "being victimized by a very greedy entity"
 
 Source: https://www.rev.com/transcripts/fran-drescher-delivers-speech-on-sag-aftra-strike-transcript ; https://deadline.com/2023/07/sag-aftra-fran-drescher-were-being-victimized-by-a-greedy-entity-1235437292/
 Source content: Rev transcript: "We are being victimized by a very greedy entity." Deadline article quotes the same line as "We are being victimized by a very greedy entity."
-Comparison: The body presents this as a verbatim Drescher quote with two "verys" ("a very, very greedy entity") but both the Rev transcript and the Deadline source the body cites for this line record only one "very". On a verbatim-quoted statement, the extra intensifier is a wording mismatch.
-Decision: discrepancy
+Comparison: Verbatim match on the single "very" within the body's elision of the leading "We are". (Pass 1 found the body said "a very, very greedy entity"; the Editor corrected it per pass-1 Claim 19 discrepancy.)
+Decision: verified
 
 ## Claim 20: Drescher (Hollywood Reporter Q&A, 13 July 2023): "the digital age is cannibalizing us", with generative AI and streaming framed as paired technological pressures
 
