@@ -16,6 +16,7 @@ key_people:
 board_and_advisors:
   - person-silkie-carlo
 related_orgs:
+  - org-app-drivers-and-couriers-union
   - org-privacy-international
   - org-big-brother-watch
 funders:

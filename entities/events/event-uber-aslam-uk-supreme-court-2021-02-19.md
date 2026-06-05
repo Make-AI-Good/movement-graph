@@ -12,6 +12,7 @@ location: London, United Kingdom
 event_type: judicial ruling
 campaign:
 participating_orgs:
+  - org-app-drivers-and-couriers-union
   - org-worker-info-exchange
 participating_people:
   - person-james-farrar

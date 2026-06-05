@@ -9,6 +9,9 @@ created: 2026-05-18
 last_updated: 2026-05-23
 voice_entry: voice-james-farrar
 affiliations:
+  - org: org-app-drivers-and-couriers-union
+    role: co-founder and general secretary
+    period: 2020-2023
   - org: org-worker-info-exchange
     role: founder and director
     period: 2018-
