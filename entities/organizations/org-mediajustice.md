@@ -10,7 +10,7 @@ last_updated: 2026-05-13
 founded: 2009
 location: Oakland, California (national)
 website: https://mediajustice.org/
-strategies: []
+strategies: [strat-counter-narrative-framing, strat-local-fight-against-ai-data-centers]
 key_people:
   - person-steven-renderos
   - person-jacinta-gonzalez

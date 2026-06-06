@@ -10,7 +10,7 @@ last_updated: 2026-06-03
 founded: 2019
 location: London, United Kingdom
 website: https://www.foxglove.org.uk/
-strategies: []
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-organize-ai-supply-chain-workers, strat-survivor-led-testimony-as-evidence]
 key_people:
   - person-martha-dark
   - person-rosa-curling

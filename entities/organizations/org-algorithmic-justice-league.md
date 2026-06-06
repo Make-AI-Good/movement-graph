@@ -10,7 +10,7 @@ last_updated: 2026-05-15
 founded: 2016
 location: Cambridge, Massachusetts
 website: https://www.ajl.org/
-strategies: []
+strategies: [strat-empirical-audit-and-expose, strat-counter-narrative-framing]
 key_people:
   - person-joy-buolamwini
   - person-sasha-costanza-chock

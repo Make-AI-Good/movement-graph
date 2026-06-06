@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 founded: 1987
 location: Quezon City, Philippines
 website: https://fma.ph/
-strategies: []
+strategies: [strat-parallel-community-research-institution]
 key_people:
   - person-liza-garcia
 board_and_advisors: []

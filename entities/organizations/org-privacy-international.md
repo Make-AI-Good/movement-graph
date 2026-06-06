@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 founded: 1990
 location: London, United Kingdom
 website: https://privacyinternational.org/
-strategies: []
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-map-the-ai-supply-chain-of-state-harm]
 key_people: []
 board_and_advisors: []
 related_orgs:

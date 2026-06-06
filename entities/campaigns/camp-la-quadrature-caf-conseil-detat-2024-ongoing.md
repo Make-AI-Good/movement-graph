@@ -20,7 +20,7 @@ participating_orgs:
   - org-panoptykon-foundation
 events:
   - event-laquadrature-caf-conseil-detat-petition-filing-2024-10-16
-strategies: []
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions]
 outcomes: |
   The case is in active proceedings before the Conseil d'État. The written-submission phase closed at the end of January 2026, with a public hearing expected in spring 2026; the original 15-organisation coalition was joined in January 2026 by ten additional civil-society organisations including the Confédération Générale du Travail (CGT), Union Syndicale Solidaires, Fédération Syndicale Unitaire TEIOS, Data for Good, European Digital Rights, AlgorithmWatch, the European Network Against Racism, the Panoptykon Foundation, the Mouvement des mères isolées, and Féministes contre le cyberharcèlement, taking the case to twenty-five co-petitioners across French and European civil society. The CNAF disclosed the source code of its current scoring algorithm on 15 January 2026 — a substantive transparency outcome of the campaign's disclosure pressure that had no precedent in the corpus's continental-European welfare-algorithm litigation register. The substantive merits — whether the Conseil d'État will hold that algorithmic social scoring by a public administration over the population of welfare beneficiaries is compatible with the GDPR and the principle of non-discrimination — remain to be decided.
 sources:

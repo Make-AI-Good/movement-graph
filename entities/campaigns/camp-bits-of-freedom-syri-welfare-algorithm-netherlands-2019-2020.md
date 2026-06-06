@@ -15,7 +15,7 @@ lead_orgs: []
 participating_orgs:
   - org-bits-of-freedom
 events: []
-strategies: []
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions]
 outcomes: |
   On 5 February 2020, the District Court of The Hague ruled in case C-09-550982 (ECLI:NL:RBDHA:2020:1878) that the SyRI legislation violated Article 8 of the European Convention on Human Rights and declared it to have no binding effect, ordering the system's immediate halt. The court found that the legislation lacked sufficient transparency and verifiability about how the risk model operated, permitted data collection whose scope and purpose were too broadly defined to satisfy the Article 8(2) proportionality requirement, and created an inherent risk that deploying SyRI in designated "problem areas" would discriminate against and stigmatise residents of low-income and minority neighbourhoods. In May 2020 the Ministry of Social Affairs and Employment announced it would not appeal, making the judgment final. SyRI was withdrawn from operation. The case is the Netherlands' first and the corpus's first Article-8-ECHR welfare-algorithm ruling — and the earliest in the corpus to produce a court-ordered statutory invalidity on human rights grounds.
 sources:

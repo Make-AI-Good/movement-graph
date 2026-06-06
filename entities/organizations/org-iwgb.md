@@ -10,7 +10,7 @@ last_updated: 2026-06-04
 founded: 2012
 location: London, United Kingdom
 website: https://iwgb.org.uk/en/
-strategies: []
+strategies: [strat-organize-ai-supply-chain-workers]
 key_people: []
 board_and_advisors: []
 related_orgs:

@@ -10,7 +10,7 @@ last_updated: 2026-05-26
 founded: 2001
 location: Toronto, Canada
 website: https://citizenlab.ca/
-strategies: []
+strategies: [strat-empirical-audit-and-expose, strat-map-the-ai-supply-chain-of-state-harm]
 key_people: []
 board_and_advisors: []
 related_orgs:

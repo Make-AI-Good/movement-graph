@@ -10,7 +10,7 @@ last_updated: 2026-05-19
 founded: 2015
 location: Phoenix, Arizona, United States
 website: https://mijente.net/
-strategies: []
+strategies: [strat-map-the-ai-supply-chain-of-state-harm]
 key_people:
   - person-jacinta-gonzalez
 board_and_advisors: []

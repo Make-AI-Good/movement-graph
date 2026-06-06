@@ -10,7 +10,7 @@ last_updated: 2026-05-12
 founded: 1985
 location: Manchester, United Kingdom
 website: https://gmcdp.com/
-strategies: []
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-survivor-led-testimony-as-evidence]
 key_people:
   - person-bethany-berry
   - person-rick-burgess

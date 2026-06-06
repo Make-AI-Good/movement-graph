@@ -10,7 +10,7 @@ last_updated: 2026-05-12
 founded: 2025
 location: Nairobi, Kenya (with continental remit)
 website:
-strategies: []
+strategies: [strat-organize-ai-supply-chain-workers]
 key_people:
   - person-naftali-wambalo
 board_and_advisors: []

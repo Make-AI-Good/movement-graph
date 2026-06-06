@@ -16,7 +16,7 @@ lead_orgs:
 participating_orgs:
   - org-foxglove
 events: []
-strategies: []
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-local-rapid-response-against-single-deployment]
 outcomes: |
   On 17 August 2020, four days after the algorithm-derived results were released, Education Secretary Gavin Williamson announced a U-turn: 2020 A-level grades in England would be awarded on the basis of teachers' Centre Assessed Grades rather than the Ofqual algorithm. Sally Collier, Ofqual's Chief Regulator, resigned on 25 August 2020. The case is widely cited as the first time mass public mobilisation, paired with a credible threat of judicial review, forced a UK government to withdraw an automated decision-making system. The "fuck the algorithm" slogan from the Westminster student protests entered general use as shorthand for opposition to algorithmic decision-making by public bodies — a Message-level cultural artefact still echoed in subsequent UK welfare-algorithm and content-moderation campaigns.
 sources:

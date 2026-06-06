@@ -10,7 +10,7 @@ last_updated: 2026-05-12
 founded: 2024
 location: Kenya (with continental remit)
 website: https://techworkercommunityafrica.org/
-strategies: []
+strategies: [strat-organize-ai-supply-chain-workers]
 key_people:
   - person-mophat-okinyi
   - person-richard-mathenge

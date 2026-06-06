@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 founded: 2014
 location: Mexico City, Mexico
 website: https://r3d.mx/
-strategies: []
+strategies: [strat-map-the-ai-supply-chain-of-state-harm]
 key_people:
   - person-luis-fernando-garcia
 board_and_advisors: []

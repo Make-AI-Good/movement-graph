@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 founded: 2000
 location: Amsterdam, Netherlands
 website: https://www.bitsoffreedom.nl/
-strategies: []
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-local-rapid-response-against-single-deployment]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-edri, org-panoptykon-foundation, org-la-quadrature-du-net, org-access-now]

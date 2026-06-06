@@ -10,7 +10,7 @@ last_updated: 2026-05-17
 founded: 2017
 location: Berlin, Germany (with AlgorithmWatch Switzerland in Zurich)
 website: https://algorithmwatch.org/
-strategies: []
+strategies: [strat-empirical-audit-and-expose, strat-coalition-lobbying-of-binding-regional-regulation]
 key_people: [person-matthias-spielkamp]
 board_and_advisors: []
 related_orgs: [org-edri, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net, org-tasz]

@@ -10,7 +10,7 @@ last_updated: 2026-05-13
 founded: 1978
 location: international (New York-headquartered)
 website: https://www.hrw.org/
-strategies: []
+strategies: [strat-humanitarian-disarmament-treaty]
 key_people:
   - person-philippe-bolopion
   - person-mary-wareham

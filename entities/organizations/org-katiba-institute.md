@@ -10,7 +10,7 @@ last_updated: 2026-05-12
 founded: 2011
 location: Nairobi, Kenya
 website: https://katibainstitute.org
-strategies: []
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions]
 key_people: []
 board_and_advisors: []
 related_orgs:

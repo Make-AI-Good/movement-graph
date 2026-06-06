@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 founded: 2020
 location: London, United Kingdom
 website: https://www.workerinfoexchange.org/
-strategies: []
+strategies: [strat-organize-ai-supply-chain-workers, strat-strategic-litigation-against-algorithmic-state-decisions]
 key_people:
   - person-james-farrar
 board_and_advisors:

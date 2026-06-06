@@ -16,7 +16,7 @@ participating_orgs:
   - org-sag-aftra
   - org-authors-guild
 events: []
-strategies: []
+strategies: [strat-creator-class-collective-bargaining-on-generative-ai]
 outcomes: |
   From its March 2023 SXSW launch the campaign grew from 40+ founding organizations to 70+ member organizations by 2025-2026, spanning recording-industry trade bodies, unions, performing-rights organizations, independent-music associations, and international industry groups. October 2024: the coalition released an AI Training Guardrails statement co-signed by more than 11,500 creative professionals — including James Patterson, Thom Yorke, Robert Smith, Julianne Moore, Kevin Bacon, Kazuo Ishiguro, and Scarlett Johansson — opposing unlicensed AI training on copyrighted work. May 2025: nearly 400 prominent artists and creative-industry figures signed a petition supporting the NO FAKES Act; country music artist Martina McBride delivered in-person Senate Judiciary Subcommittee testimony. January 2026: launched the Stealing Isn't Innovation campaign with 700+ supporters including Scarlett Johansson, Cate Blanchett, Joseph Gordon-Levitt, R.E.M., and Bonnie Raitt, reframing the training-data consent argument as an economic and moral proposition. Coalition-commissioned polling found 64% of U.S. voters regard voice cloning and deepfakes as a major problem and 66% strongly support Congressional action to protect artists' voices and images. As of mid-2026 the NO FAKES Act had not yet been enacted; the campaign continues active legislative advocacy.
 sources:

@@ -10,7 +10,7 @@ last_updated: 2026-05-15
 founded: 2016
 location: Kampala, Uganda (pan-African reach)
 website: https://pollicy.org/
-strategies: []
+strategies: [strat-empirical-audit-and-expose]
 key_people:
   - person-neema-iyer
   - person-irene-mwendwa

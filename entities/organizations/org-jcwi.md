@@ -10,7 +10,7 @@ last_updated: 2026-05-08
 founded: 1967
 location: London, United Kingdom
 website: https://jcwi.org.uk/
-strategies: []
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions]
 key_people:
   - person-lavanya-pallapi
   - person-chai-patel

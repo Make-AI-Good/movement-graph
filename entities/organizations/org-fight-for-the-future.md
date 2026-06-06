@@ -10,7 +10,7 @@ last_updated: 2026-06-03
 founded: 2011
 location: national (headquartered in Worcester, Massachusetts; all-remote staff)
 website: https://www.fightforthefuture.org/
-strategies: []
+strategies: [strat-local-rapid-response-against-single-deployment]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-electronic-frontier-foundation]

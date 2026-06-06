@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 founded: 2012
 location: Los Angeles (national)
 website: https://www.sagaftra.org/
-strategies: []
+strategies: [strat-creator-class-collective-bargaining-on-generative-ai]
 key_people:
   - person-fran-drescher
 board_and_advisors: []

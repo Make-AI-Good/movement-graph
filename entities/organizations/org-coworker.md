@@ -10,7 +10,7 @@ last_updated: 2026-06-03
 founded: 2013
 location: national
 website: https://home.coworker.org
-strategies: []
+strategies: [strat-organize-ai-supply-chain-workers]
 key_people: []
 board_and_advisors: []
 related_orgs: []

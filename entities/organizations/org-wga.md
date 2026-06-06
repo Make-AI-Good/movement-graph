@@ -10,7 +10,7 @@ last_updated: 2026-05-17
 founded: 1954
 location: Los Angeles and New York City (national)
 website: https://www.wga.org/
-strategies: []
+strategies: [strat-creator-class-collective-bargaining-on-generative-ai]
 key_people: []
 board_and_advisors: []
 related_orgs:

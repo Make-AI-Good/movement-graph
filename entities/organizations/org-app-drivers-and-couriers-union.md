@@ -10,7 +10,7 @@ last_updated: 2026-06-04
 founded: 2020
 location: London, United Kingdom
 website: https://www.adcu.org.uk
-strategies: []
+strategies: [strat-organize-ai-supply-chain-workers]
 key_people:
   - person-james-farrar
 board_and_advisors: []

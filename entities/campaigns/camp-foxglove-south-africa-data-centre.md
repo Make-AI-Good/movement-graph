@@ -16,7 +16,7 @@ lead_orgs:
 participating_orgs:
   - org-foxglove
 events: []
-strategies: []
+strategies: [strat-local-fight-against-ai-data-centers]
 outcomes: |
   As of May 2026 the objection sits at the start of a statutory clock: KAI and Equinix have 30 days from the 13 April 2026 objection to respond to the points raised, and the City of Cape Town must decide on the rezoning application within 180 days from the date of that response. No substantive concession or refusal has yet been recorded. Foxglove and the Housing Assembly have framed the objection as the opening move of a longer effort, modelled on Foxglove's UK Woodlands Park / Global Action Plan data-centre judicial review, to make the operational footprint of hyperscale data centres — water draw, backup-diesel fuel storage, grid loading, air and noise pollution — a matter of public planning record rather than a redacted "technical, administrative process." The objection is the first known instance of a South African grassroots housing movement bringing a planning-law challenge against a hyperscale AI-era data centre, and the first South African expansion of the Foxglove cluster's strategic-litigation method.
 sources:

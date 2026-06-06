@@ -18,7 +18,7 @@ participating_orgs:
   - org-jcwi
   - org-foxglove
 events: []
-strategies: []
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions]
 outcomes: |
   On 3 August 2020 the Government Legal Department wrote to Foxglove on behalf of the Home Secretary conceding that the streaming tool would be suspended pending a redesign of the visa-allocation process; the suspension was announced publicly on 4 August 2020 and took effect on 7 August 2020. The Home Office committed to redesigning the system with consideration of "issues around unconscious bias and the use of nationality" and to undertaking equality- and data-protection impact assessments before deploying any successor; in the interim, applications were to be streamed by reference to person-centric attributes such as evidence of previous travel rather than by nationality. The Home Office did not concede the discrimination allegations on the merits. The case has since been widely cited — by JCWI, Foxglove, the barristers acting, and external commentators — as the UK's first successful legal challenge to a government algorithmic decision-making system, on the strength of the concession having ended a live judicial-review claim before judgment. It became a foundational reference point for the strategic-litigation strand of UK algorithmic-accountability work that Foxglove and partners would extend in the years that followed, and a working precedent for civil-society scrutiny of automated decision-making by the Home Office in particular.
 sources:
