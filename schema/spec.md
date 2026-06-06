@@ -20,7 +20,7 @@ Ten types. Each lives in `product/entities/<type>/<id>.md` with YAML frontmatter
 - **Local Group** — smaller, city- or region-scoped, often informal
 - **Campaign** — sustained, named effort with goals, tactics, and a time-arc
 - **Event** — specific moment in time (action, protest, hearing, conference, launch)
-- **Strategy** — the Analyst's interpretive analysis of how the movement pursues an aim and how well it works; judgment grounded in audited corpus entities, shipped under the interpretive trust contract (see `../../agents/analyst/ANALYST.md`)
+- **Strategy** — the Analyst's layer: a named approach the movement uses (or could use) to pursue its aims, true by its form (naming needs no evidence); evidence enters only when evaluating a strategy as good vs. bad (see `../../agents/analyst/ANALYST.md`)
 - **Message** — memes, framings, slogans, narrative artifacts that propagate
 - **Funder** — foundations, donors, grant programs
 - **Person** — connector type; lightweight; records affiliations. Body is short and factual; no biographical synthesis. See "Person / Voice" below.
@@ -102,20 +102,22 @@ related_events: [<event IDs>]
 
 ### Strategy
 
-The Analyst's interpretive layer: an analysis of how the movement pursues an aim and how well it works. Unlike every other type, a Strategy is **judgment, not a source-checkable fact** — so it ships under the *interpretive trust contract* (`../../agents/analyst/ANALYST.md § The interpretive trust contract`): its evidentiary basis is auditable and its epistemic status explicit. Authored only by the Analyst.
+The Analyst's layer: a named **strategy** the movement uses (or could use) to pursue its aims, plus — where the Analyst has done the work — a judgment of how well it works. A strategy is **true by its form, not by evidence**: naming one requires no sourcing. What requires evidence is the *evaluation* of a strategy as good or bad. Authored only by the Analyst.
+
+A strategy is **born lightweight** — an org-agnostic name carrying most of the meaning, plus a few sentences (what the approach is, why an actor would choose it, what it trades off). It accretes the fields below only as depth work earns them; a strategy with none of them is a complete, valid entity.
 
 ```yaml
-grounded_in: [<entity IDs>]        # corpus entities this analysis rests on; each MUST be audited-clean (audit status verified). No claim rides on entities outside this list.
-parent_strategy: <strategy ID, optional>
-effects:                            # real-world effects, each a sourced FACT; the causal attribution to this strategy is labeled inference
+parent_strategy: <strategy ID, optional>     # this strategy is a move inside a larger one
+related_strategies: [<strategy IDs>]          # strategies this one reinforces, feeds, or conflicts with (the ecology)
+effects:                                       # OPTIONAL depth layer — real-world effects, each a sourced FACT; causal attribution to the strategy is labeled inference
   - description: <prose — the effect, stated as fact>
     type: earned-media | legislation-draft | legislation-enacted | regulatory-action | judicial-outcome | corporate-behavior-change | coalition-adoption | public-mobilization
     source: <source URL>
     attribution_confidence: high | medium | low   # confidence that THIS strategy produced the effect (judgment, not fact)
-counter_read: <prose — the strongest opposing interpretation a knowledgeable reader would raise>
+counter_read: <prose, optional — the strongest opposing reading of the strategy's effectiveness>
 ```
 
-The common `confidence` field carries the Analyst's overall confidence in the analysis. **Body convention — two structurally-distinct registers:** *grounded observations* (restatements of facts the `grounded_in` entities and their audits establish, each traceable to its entity) kept separate from *interpretive claims* (judgment, marked as judgment); a reader is never invited to read an opinion as a fact. **Audit-gating:** `grounded_in` may list only entities whose audit status is `verified` — audit coverage is this type's supply constraint. Org↔Strategy and Campaign↔Strategy are stored on the canonical `org.strategies[]` / `campaign.strategies[]` side (see Cross-references), not here.
+The common `confidence` field, when present, carries the Analyst's confidence in its *evaluation* of the strategy (not in its existence). **Connections carry the observed/unobserved signal:** a strategy linked to adopters via `org.strategies[]` / `campaign.strategies[]` (canonical side — see Cross-references) is one seen employed in the movement; a strategy with no connections is one not yet seen adopted — a valid entity and a signal for gap-analysis, not a defect. The Analyst may connect a strategy to an adopter on the strength of its own pattern-recognition, even where no source draws the line. **Body register:** keep what is *observed fact* distinct from what is the Analyst's *reading* — a reader is never invited to mistake a judgment for a fact, but the reading itself needs no source. `related_strategies` is Analyst-maintained and exempt from the Editor's reciprocal / canonical-direction cleanup.
 
 ### Message
 ```yaml

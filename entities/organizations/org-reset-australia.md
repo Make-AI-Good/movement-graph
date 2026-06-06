@@ -10,7 +10,7 @@ last_updated: 2026-06-05
 founded: 2020
 location: Sydney, Australia
 website: https://au.reset.tech/
-strategies: [strat-empirical-test-of-voluntary-platform-self-regulation]
+strategies: []
 key_people: [person-alice-dawkins]
 board_and_advisors: []
 related_orgs: []
