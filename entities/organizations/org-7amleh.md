@@ -18,7 +18,7 @@ related_orgs:
   - org-apc
   - org-smex
   - org-masaar
-funders: []
+funders: [fund-rockefeller-brothers-fund]
 sources:
   - url: https://7amleh.org/
     last_checked: 2026-05-15
