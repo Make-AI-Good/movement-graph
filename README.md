@@ -101,33 +101,76 @@ Entities are added one at a time and existing entities are revised as new inform
 
 It does **not** guarantee completeness, depth, uniform verification, or geographic evenness. Those are **disclosed, not gated** — read the Known gaps below and decide whether the current breadth serves your use case. A consumer wanting certainty on any single fact does its own due diligence; the corpus's job is to be honest, traceable, and structurally sound, not authoritative.
 
-## Known gaps
+## Theory of Coverage
 
-Quality and coverage are uneven by design (broad-first build). The numbers below are the honest state at `v1.0.0`:
+**Status: `v0.1`. Provisional. Re-examined every release.** This section answers one question: *of the movement this graph claims to map, how representative is the corpus?* The frame is what the team stands behind today, in the open — specific enough to measure (§3), honest enough about what it cannot yet see (§5). Numbers below are anchored to current `main`, refreshed each release; the [`v1.0.0` guarantees](#what-v100-guarantees) above are anchored to that release tag.
 
-**Audit coverage — 293 of 473 entities (62%) audited.** Coverage is 100% for organizations (the one type with a coverage gate) and partial elsewhere; the auditor self-derives scope oldest-first, so the rest fills in over rotations:
+The movement is early and, on strong evidence, will be orders of magnitude larger within a few years. So the Theory of Coverage carries two jobs at once: **backward / measurable** — of the movement *as it exists today*, how much have we captured? — and **forward / aim** — what are we setting ourselves to capture *as it emerges*?
 
-| Type | Audited / total | | Type | Audited / total |
-|---|---|---|---|---|
-| organizations | **69 / 69** | | persons | 48 / 81 |
-| campaigns | 54 / 54 | | local-groups | 25 / 36 |
-| events | 42 / 49 | | messages | 11 / 37 |
-| funders | 38 / 46 | | voices | 1 / 49 |
-| publications | 5 / 52 | | strategies | 0 / 0 |
+### 1 · What we claim to represent
 
-**Per-claim audit outcomes (the meaningful breakdown).** Across the 293 audited entities, **6,269 individual claims** were checked against canonical sources:
+The **grassroots and small-d democratic layer** of the make-AI-good movement — people outside AI engaged in shaping how AI is built, deployed, and held accountable. Local groups, advocacy organizations doing grassroots work, coalitions, campaigns, cultural artifacts, the voices propagating them. What counts as "in" today is provisional and re-examinable; an actor ruled out today may enter tomorrow.
 
-- **verified — 4,996 (79.7%)**: body claim matches source within paraphrase tolerance.
-- **unverifiable — 1,046 (16.7%)**: audit reached its limit — source dead, no canonical source for that claim class, sources contradict each other, or the claim is too paraphrastic for specific comparison. **This is not an error**; it names where verification stops, and is itself useful provenance.
-- **discrepancy — 227 (3.6%)**: a specific, citable contradiction between a body claim and its source. These are **published openly, with the flag sitting beside the entity** — the transparency is the integrity, not a clean bill of health.
+### 2 · Dimensions we measure on
 
-Note: per-*entity* audit `status` is the most-severe per-claim outcome, so most audited entities read `discrepancy` or `unverifiable` on the strength of a single flagged claim. The per-*claim* numbers above are the accurate picture; the per-entity status is not.
+A dimension belongs in this list only if it traces to a commitment the mission already makes. Four dimensions clear that test today:
 
-**Other disclosed gaps:**
+- **Geography** — the mission claims a global movement.
+- **Entity types** — the schema's defined types; representativeness means spanning them, not over-indexing organizations.
+- **Cultural artifacts** (Messages) — explicitly in-scope, explicitly central, historically under-tended.
+- **Insider/outsider engagement** — the mission's working principle, and the axis the hard scope calls turn on.
 
-- **Strategy entities: none yet.** The type is defined in the schema but unpopulated, so any Strategy-keyed feature renders empty.
-- **Messages are under-represented** (37 entities) relative to organizations/persons. Slogans, framings, and cultural artifacts are the hardest type to surface and are explicitly being grown.
-- **Geographic skew.** Coverage clusters in the UK and Kenya; Latin America, Sub-Saharan Africa outside Kenya, South and Southeast Asia, and North America outside coastal tech hubs are thin.
+**Language** and **time / currency** — proxies for reach and freshness — are held for ratification; they do not yet trace cleanly to a mission commitment.
+
+### 3 · How representative we believe we are — the numbers
+
+A deterministic rollup, refreshed each release by `process/coverage-script.sh`. **These are measurements, not judgments** — the judgment layer is §4. Counts from the current corpus run:
+
+**Entity types — 552 entities across ten types:**
+
+| type | count | | type | count |
+|---|---:|---|---|---:|
+| persons | 87 | | events | 54 |
+| organizations | 82 | | publications | 52 |
+| campaigns | 65 | | voices | 49 |
+| funders | 55 | | local-groups | 47 |
+| | | | messages | 47 |
+| | | | strategies | 14 |
+
+**Geography — each entity assigned to one macro-region by tag set; entities with no geographic tag fall to `no-signal` (often persons whose geography lives via affiliation):**
+
+| region | count | | region | count |
+|---|---:|---|---|---:|
+| Europe | 132 | | Asia | 59 |
+| Americas-North | 120 | | Americas-Latin | 51 |
+| Africa | 76 | | MENA | 21 |
+| no-signal | 62 | | Oceania | 16 |
+| | | | Global-aggregate | 15 |
+
+**Cultural artifacts.** Messages, the mission's named under-tended type, are **47 entities — 8.5% of the corpus**.
+
+**Insider/outsider engagement.** A coarse tag-based proxy for the mission's working principle (*are people outside AI being engaged in work to make AI better?*): **148 of 552 entities (26.8%) carry an outsider-audience tag.** The substring list driving the count is judgment; the count given the list is deterministic. See `process/coverage-script.sh`.
+
+### 4 · Where we fall short, and why
+
+The judgment layer. Each verdict is tagged **correctable** (build-order or sourcing), **under-tended** (genuinely hard), or **deliberate** (out of scope or awaiting a decision).
+
+**Geographic skew — deliberate-plus-build-order.** Europe and Americas-North together hold **46% of the corpus (252 / 552)**. Latin America sits at 9%; MENA at 4%; Oceania at 3%. Sub-Saharan African coverage concentrates heavily on Kenya; South and Southeast Asia are thin; North America outside coastal tech hubs is thin. The skew is partly **build-order** — breadth-first work from English-language sources reaches Europe and North America first — and partly **deliberate**, because the team has not yet stood up the language and regional-sourcing tooling that would correct it at scale. Surfacing thin regions is a Synthesizer heuristic; concrete correction work flows through the Researcher inbox.
+
+(More verdicts — on Messages thinness, Strategy seeding, audit coverage — will be added as the frame matures. v0.1 commits to *at least one* concrete verdict; the geographic one is the defensible one today.)
+
+### 5 · Blind-spot register — what our frame may not let us see
+
+The §2 dimensions measure *inside* an envelope we drew. The register below names hypotheses about movement-growth *outside* that envelope, paired with the signal we would watch for. This is the part we most expect to grow.
+
+- **Channels we don't monitor** — offline organizing, TikTok, closed platforms. *Signal:* in-corpus entities referencing actions or spaces we hold no entity for.
+- **Framings that don't use AI vocabulary** — human-centered work that is functionally about AI but won't pattern-match our filter. *Signal:* the hardest to design — candidly flagged as one we cannot reliably catch yet.
+- **AI-safety-world currents crossing into popular-movement territory.** *Signal:* in-corpus AI-safety entities spawning mass-participation actions or coalitions.
+- **Temporally-excluded actors entering.** Scope is temporal — an actor ruled out today (a funder strong on one axis only, an org whose AI program does not yet engage outsiders) may later develop the missing axis. *Signal:* periodic re-examination of dated scope-outs.
+
+### 6 · Revision plan
+
+Re-examined every release — **the frame and the register, not only the numbers.** A mechanism and owner for keeping the register honest over time is open and named: v0.1 does not pretend one into existence.
 
 If you're building something on top of this graph, sharing what you're working on is the most useful feedback we can receive — it points the corpus toward the use cases that matter.
 
