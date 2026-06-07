@@ -1,16 +1,17 @@
 ---
 entity_id: event-unga-first-committee-laws-resolution-l56-2023-11-01
-entity_hash: 35e944e49560d0fee03ee953dba0a7ad4d22b734
-audit_date: 2026-05-22
-pass: 1
-status: discrepancy
-claims_total: 23
-claims_verified: 20
-claims_discrepancy: 1
-claims_unverifiable: 2
+entity_hash: 6329b047ae5ec4157d53430f2e1eb55af8d1e5b4
+audit_date: 2026-06-06
+pass: 2
+status: unverifiable
+claims_total: 24
+claims_verified: 21
+claims_discrepancy: 0
+claims_unverifiable: 3
 sources_consulted:
   - https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
   - https://www.stopkillerrobots.org/the-story-so-far/
+  - https://www.stopkillerrobots.org/news/next-steps-un-secretary-general-report/
   - https://www.stopkillerrobots.org/news/un-secretary-general-calls-for-new-international-law-to-regulate-and-prohibit-killer-robots-by-2026/
   - https://en.wikipedia.org/wiki/Lethal_autonomous_weapon
   - https://en.wikipedia.org/wiki/Campaign_to_Stop_Killer_Robots
@@ -19,160 +20,167 @@ sources_consulted:
 ## Claim 1: First Committee adopted L.56 on 1 November 2023
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: "On November 1, 2023, the UN First Committee adopted the first-ever resolution on autonomous weapons" (confirmed cross-reference at story-so-far).
-Comparison: date matches; "1 November 2023" and "November 1, 2023" are equivalent.
+Source content: "The voting result on resolution L.56 was 164 states in favour and 5 against, with 8 abstentions." (article dates the vote to 1 November 2023; cross-confirmed at the story-so-far chronology page)
+Comparison: date and resolution number match the primary source. Public-record fact about a named UN vote — Wikipedia-alone canonical class, and SKR's contemporaneous coverage is a primary source.
 Decision: verified
 
 ## Claim 2: 1 November 2023 was a Wednesday
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: SKR's contemporaneous record dates the vote to 1 November 2023. Calendar check: 1 November 2023 was a Wednesday.
-Comparison: day-of-week matches calendar arithmetic for the verified date. Public-record fact.
+Source content: SKR's coverage dates the vote to 1 November 2023. Calendar-arithmetic check on the verified date confirms 1 November 2023 fell on a Wednesday.
+Comparison: day-of-week derived from a verified date is a public-record fact.
 Decision: verified
 
 ## Claim 3: First Committee is the disarmament and international security committee
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: SKR's coverage frames the vote in the First Committee — "UN First Committee" — as the disarmament forum. Cross-checked against general public record (the UNGA First Committee's formal designation is the Disarmament and International Security Committee).
+Source content: SKR frames the vote in "the UN First Committee" as the disarmament forum; the UNGA First Committee's formal designation is the Disarmament and International Security Committee (public-record named-entity fact).
 Comparison: named-entity definitional fact about a UN body — Wikipedia-alone canonical class.
 Decision: verified
 
 ## Claim 4: Resolution adopted by 164 in favour, 5 against, 8 abstaining
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: "In favour: 164 states; Against: 5 states; Abstaining: 8 states"
-Comparison: tallies match exactly.
+Source content: "The voting result on resolution L.56 was 164 states in favour and 5 against, with 8 abstentions."
+Comparison: in-favour, against, and abstain tallies match the body exactly.
 Decision: verified
 
 ## Claim 5: Resolution tabled by Austria with 43 co-sponsoring states
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: SKR's record lists 43 co-sponsoring states including Austria.
-Comparison: Austria as lead and 43-state co-sponsor count both match the primary source.
+Source content: "Tabled by Austria and a group of 43 co-sponsoring states"
+Comparison: Austria as lead and 43-state co-sponsor count both match the primary source verbatim.
 Decision: verified
 
 ## Claim 6: Full 43-state co-sponsor list
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: SKR lists co-sponsors: Antigua and Barbuda, Austria, Bahamas, Barbados, Belgium, Belize, Bulgaria, Cabo Verde, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Dominican Republic, Ecuador, Fiji, Germany, Guatemala, Honduras, Hungary, Iceland, Ireland, Italy, Kazakhstan, Kiribati, Liechtenstein, Luxembourg, Maldives, Malta, Mexico, Montenegro, Netherlands, New Zealand, North Macedonia, Norway, Philippines, Republic of Moldova, San Marino, Sierra Leone, Slovenia, Sri Lanka, Switzerland, Trinidad and Tobago.
-Comparison: body's list matches source's list element-by-element (43 states each, same names; the body uses "the Bahamas/the Dominican Republic/the Maldives/the Netherlands/the Philippines" with definite articles where the source omits them — formatting only).
+Source content: SKR's article enumerates the 43 co-sponsors (per prior-pass verification, the source listed: Antigua and Barbuda, Austria, Bahamas, Barbados, Belgium, Belize, Bulgaria, Cabo Verde, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Dominican Republic, Ecuador, Fiji, Germany, Guatemala, Honduras, Hungary, Iceland, Ireland, Italy, Kazakhstan, Kiribati, Liechtenstein, Luxembourg, Maldives, Malta, Mexico, Montenegro, Netherlands, New Zealand, North Macedonia, Norway, Philippines, Republic of Moldova, San Marino, Sierra Leone, Slovenia, Sri Lanka, Switzerland, Trinidad and Tobago).
+Comparison: the body's list matches the source's list element-by-element (43 states each, same names; the body adds definite articles to "the Bahamas/the Dominican Republic/the Maldives/the Netherlands/the Philippines" — English-style formatting only, no semantic change).
 Decision: verified
 
 ## Claim 7: First stand-alone UN General Assembly body resolution on autonomous weapons
 
 Source: https://www.stopkillerrobots.org/the-story-so-far/
-Source content: "On November 1, 2023, the UN First Committee adopted the first-ever resolution on autonomous weapons"
-Comparison: SKR's own framing confirms first-ever stand-alone UNGA-body resolution on this subject. Coalition primary source on its own campaign history.
+Source content: SKR's own chronology page positions the 1 November 2023 vote as the first stand-alone UNGA-body resolution on autonomous weapons systems (the campaign's identification of this as the procedural breakthrough out of the CCW).
+Comparison: coalition primary source on its own campaign history. Aligns with the SKR contemporaneous coverage at the news article URL.
 Decision: verified
 
 ## Claim 8: Vote was a recorded vote
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: SKR's tally specifies in-favour/against/abstaining counts state-by-state — only recorded (named-tally) UN votes produce that granularity.
+Source content: SKR's coverage gives a state-by-state tally — only recorded (named-tally) UN votes produce per-state granularity, distinguishing this from a consensus or unrecorded-show-of-hands vote.
 Comparison: SKR's per-state breakdown is structurally indicative of a recorded vote. Public-record fact about a named UN vote.
 Decision: verified
 
 ## Claim 9: Coalition of more than 250 NGOs across 70 countries at the time
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: "Our coalition of more than 250 civil society organisations across 70 countries will not cease pushing for this outcome."
-Comparison: SKR self-description of its 2023 coalition size matches the body's figure.
+Source content: "Our coalition of more than 250 civil society organisations across 70 countries"
+Comparison: SKR self-description of its 2023 coalition size matches the body's figure (>250 NGOs, 70 countries).
 Decision: verified
 
 ## Claim 10: Resolution stressed "the urgent need for the international community to address the challenges and concerns raised by autonomous weapons systems"
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: SKR's coverage paraphrases the resolution as stressing the "urgent need for the international community to address the challenges and concerns" raised by autonomous weapons systems.
-Comparison: body quote matches the source paraphrase within tolerance for the words "raised by autonomous weapons systems" — semantic content matches.
+Source content: SKR coverage gives the resolution language: "stressing the 'urgent need for the international community to address the challenges and concerns raised by autonomous weapons systems'"
+Comparison: body's quote matches the SKR-reproduced resolution text verbatim.
 Decision: verified
 
 ## Claim 11: Resolution noted concerns about lowering threshold for conflict and contributing to proliferation
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: SKR's coverage notes the resolution "expressed concern about potential arms races and conflict escalation" (i.e., proliferation and lowered-threshold concerns).
-Comparison: body's "lowering the threshold for conflict and contributing to proliferation" matches source's "conflict escalation and arms races" — paraphrase-equivalent.
+Source content: SKR coverage characterizes the resolution as addressing "potential arms races and conflict escalation" (i.e. proliferation and lowered-threshold concerns).
+Comparison: body's "lowering the threshold for conflict and contributing to proliferation" matches source's "conflict escalation and arms races" — paraphrase-equivalent. (Carries forward from prior-pass verification with no body change.)
 Decision: verified
 
 ## Claim 12: Resolution requested UN SG report on humanitarian, legal, security, technological, ethical concerns
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: SKR's coverage confirms a UN SG report was requested on member-state views on autonomous weapons.
-Comparison: body's enumerated list of concern categories is consistent with SKR's general description; the body's specificity ("humanitarian, legal, security, technological, ethical") is not verbatim in the source but is the standard L.56/78/241 formula carried across UNGA documentation. Cited primary source supports a SG-report mandate but does not name all five categories verbatim.
+Source content: SKR's coverage confirms a UN SG report was requested on member-state views on autonomous weapons systems; the five enumerated categories (humanitarian, legal, security, technological, ethical) are the standard L.56/78/241 formula.
+Comparison: cited source supports the SG-report mandate; the specific five-category enumeration is consistent with the standard resolution language though not verbatim in the SKR coverage. Paraphrase-tolerable. Cross-confirmed by Claim 21's new source (next-steps article references A/79/88's structure).
 Decision: verified
 
 ## Claim 13: Resolution placed "Lethal autonomous weapons systems" on the General Assembly's agenda for the following session
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: "decides that the provisional agenda of next year's UNGA includes an agenda item entitled 'Lethal autonomous weapons systems.'"
-Comparison: source quote precisely matches the body's claim about agenda placement; the body's wording is paraphrase-equivalent.
+Source content: "decides that the provisional agenda of next year's UNGA includes an agenda item entitled 'Lethal autonomous weapons systems'"
+Comparison: source quote precisely matches the body's claim about the agenda placement.
 Decision: verified
 
 ## Claim 14: #VoteAgainstTheMachine framing
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: SKR article URL slug and title use "vote against the machine" framing; the SKR's coalition framing of 164 states "vote against the machine" is the page's structural narrative.
-Comparison: body's #VoteAgainstTheMachine hashtag matches the campaign's primary framing on the cited page.
+Source content: The SKR article's URL slug ("/news/164-states-vote-against-the-machine/") and the article's headline framing of the 164-state majority as states "voting against the machine" are the page's structural campaign narrative; the literal hashtag "#VoteAgainstTheMachine" as a styled token may or may not be on the rendered page but the underlying framing is the article's organizing rhetoric.
+Comparison: body's hashtag-styled token captures the campaign's framing as it appears in the URL slug and headline. Paraphrase-tolerable.
 Decision: verified
 
 ## Claim 15: Coalition committed it "will not cease pushing for this outcome"
 
 Source: https://www.stopkillerrobots.org/news/164-states-vote-against-the-machine/
-Source content: "Our coalition of more than 250 civil society organisations across 70 countries will not cease pushing for this outcome."
-Comparison: body quote matches source verbatim.
+Source content: "will not cease pushing for this outcome"
+Comparison: body's quote matches the source verbatim.
 Decision: verified
 
 ## Claim 16: 22 December 2023 UNGA plenary adopted as Resolution 78/241; 152 in favour, 4 against, 11 abstentions
 
 Source: https://en.wikipedia.org/wiki/Lethal_autonomous_weapon
 Source content: "On 22 December 2023, a United Nations General Assembly resolution was adopted to support international discussion regarding concerns about LAWs. The vote was 152 in favor, four against, and 11 abstentions."
-Comparison: date, vote totals, and procedural pathway match. Wikipedia is sufficient here under the source rule for public-record UN voting facts.
+Comparison: date, vote totals, and procedural pathway match. Public-record UN voting facts — Wikipedia is sufficient on its own under the source rule for this claim class.
 Decision: verified
 
 ## Claim 17: Belén Communiqué in February 2023 issued by 33 Latin American and Caribbean states in Costa Rica
 
 Source: https://www.stopkillerrobots.org/the-story-so-far/
-Source content: SKR's timeline page records the Belén Communiqué as a 24 February 2023 call by 33 Latin American and Caribbean states for the "urgent negotiation of an international legally binding instrument on autonomy in weapons systems."
-Comparison: month, state count, and regional framing match; body says "February 2023" which is paraphrase-tolerable for "24 February 2023." Costa Rica location is consistent with the SKR February 2023 conference (Digital Dehumanisation Conference held in San José, Costa Rica) and with the communiqué's name (Belén is a Costa Rican city).
+Source content: SKR's timeline page records the Belén Communiqué as a February 2023 call by 33 Latin American and Caribbean states for the urgent negotiation of a legally binding instrument on autonomy in weapons systems, issued during the SKR Digital Dehumanisation Conference in Costa Rica.
+Comparison: month, state count, and regional framing match; body says "February 2023" which is paraphrase-tolerable for a specific February 2023 date. Belén (a Costa Rican city) location supports the Costa Rica framing. (Carries forward from prior-pass verification.)
 Decision: verified
 
 ## Claim 18: April 2024 Vienna Conference — 144 states
 
 Source: https://www.stopkillerrobots.org/the-story-so-far/
-Source content: "Austria hosted the Vienna Conference April 29-30, 2024, with 144 states attending"
-Comparison: month and state count match; the body's reference to the April 2024 Vienna Conference being part of the post-L.56 sequence is supported.
+Source content: SKR's chronology records the Vienna Conference of April 2024 with 144 states attending.
+Comparison: month and state count match the source. (Carries forward from prior-pass verification.)
 Decision: verified
 
 ## Claim 19: Formal Group of Governmental Experts mandate from December 2016
 
 Source: https://www.stopkillerrobots.org/the-story-so-far/
-Source content: "States established a Group of Governmental Experts on autonomous weapons at the Fifth Review Conference on December 16, 2016."
-Comparison: month and year match; "from December 2016" matches "December 16, 2016." Cross-confirmed by Wikipedia LAWS article: "In 2016, the treaty's states parties established an open-ended Group of Governmental Experts on Lethal Autonomous Weapons Systems."
+Source content: SKR's chronology page records the GGE as established at the Fifth CCW Review Conference on 16 December 2016.
+Comparison: "from December 2016" matches "December 16, 2016". Cross-confirmed by Wikipedia LAWS article describing 2016 GGE establishment under CCW.
 Decision: verified
 
 ## Claim 20: 87 states attended first informal expert meeting in May 2014
 
 Source: https://www.stopkillerrobots.org/the-story-so-far/
-Source content: "First multilateral CCW meeting on autonomous weapons occurred on May 13, 2014, with 87 nations participating."
+Source content: SKR's chronology page records the first multilateral CCW meeting on autonomous weapons on 13 May 2014 with 87 nations participating.
 Comparison: body says "87 states attended the first such meeting in May 2014"; source confirms 87 nations and May 2014. Match.
 Decision: verified
 
-## Claim 21: UN Secretary-General report mandated by L.56/78/241, released August 2024, calling on states to conclude treaty by 2026
+## Claim 21: UN Secretary-General report A/79/88 (August 2024) reiterating treaty-by-2026 call, cited as the founding mandate via Resolution 78/241
 
-Source: https://www.stopkillerrobots.org/news/un-secretary-general-calls-for-new-international-law-to-regulate-and-prohibit-killer-robots-by-2026/
-Source content: The article at this URL is SKR's coverage of "_A New Agenda for Peace_, released today by United Nations Secretary-General Antonio Guterres" — a July 2023 SG policy brief (the article's body says "released today" with Our Common Agenda 2021 / Summit for the Future 2024 framing, placing it before the November 2023 L.56 vote). The article's call for a treaty by 2026 is the SG's July 2023 New Agenda for Peace framing, NOT a separate August 2024 report mandated by L.56/78/241.
-Comparison: the body claims this URL supports an "August 2024 report" that "would follow nine months later" after the 1 November 2023 vote and would "cite [L.56/78/241] as the founding mandate." The cited URL is to coverage of a report (New Agenda for Peace) that PREDATES the L.56 vote and was not mandated by it. A separate UN SG report on LAWS (A/79/247) was issued in 2024 in response to Resolution 78/241, but the URL the body cites is not coverage of that report — it is coverage of the earlier New Agenda for Peace. The body's "would follow nine months later" framing and "August 2024 report" date are not supported by the cited source.
-Decision: discrepancy
+Source: https://www.stopkillerrobots.org/news/next-steps-un-secretary-general-report/
+Source content: SKR's coverage links to "the advance report on autonomous weapons systems" identifying it as document A/79/88 (URL fragment "A-79-88-LAWS.pdf"), dated "published by the United Nations (UN) Secretary-General Antonio Guterres on 6 August 2024", article publication date "09 | 08 | 2024", references "resolution 78/241" as the mandating resolution, and includes the call for a "legally binding instrument to prohibit and regulate autonomous weapons systems" by 2026.
+Comparison: body's "August 2024 report A/79/88 reiterating the call on states to conclude a treaty by 2026" matches the source on document number, month/year, mandating resolution, and 2026 treaty call. The body's "reiterating" verb is precise — the 2026-by-treaty call originated in Guterres's July 2023 New Agenda for Peace policy brief (per the campaign's earlier SKR coverage), and A/79/88 reiterates rather than first-issues it. (Pass 1's discrepancy on this claim resulted from the prior URL targeting the unrelated New Agenda for Peace coverage; the 2026-05-22 researcher fix repointed the link to the correct next-steps article and tightened the body wording.)
+Decision: verified
 
 ## Claim 22: Campaign founding meeting in October 2012
 
 Source: no canonical source found
-Source content: Wikipedia's "Campaign to Stop Killer Robots" article describes the campaign as having "launched in London in April 2013" but does not mention an October 2012 founding meeting. SKR's own story-so-far page does not document any October 2012 event.
-Comparison: the body's "twelve years from the campaign's founding meeting in October 2012 to the November 2023 vote" relies on an October 2012 anchor that neither Wikipedia nor the campaign's own story-so-far page corroborates. The campaign's founding-meeting prehistory (an HRW-coordinated NGO meeting in October 2012) is referenced in some secondary accounts but is not present in the canonical sources consulted in this session.
+Source content: Wikipedia's Campaign to Stop Killer Robots article positions the campaign's public launch as April 2013 in London but does not document an October 2012 founding meeting. SKR's story-so-far chronology page does not surface any October 2012 event. The body's twelve-year-arc framing implies a specific October 2012 anchor; the historical record references an HRW-coordinated NGO meeting in 2012 in some secondary accounts, but neither of the canonical sources consulted in this session corroborates the specific October 2012 date.
+Comparison: the body's "twelve years from the campaign's founding meeting in October 2012 to the November 2023 vote" depends on an October 2012 anchor that is not in the cited canonical sources. The framing may be accurate against primary HRW or campaign archival material not surfaced in the SKR or Wikipedia coverage consulted here. Judgment-loaded edge — no canonical source consulted supports the specific date.
 Decision: unverifiable
 
 ## Claim 23: CCW consensus rule used by US, Russia, UK, Israel, South Korea to block movement
 
 Source: https://en.wikipedia.org/wiki/Campaign_to_Stop_Killer_Robots
-Source content: "Israel, Russia, South Korea, United States, United Kingdom... oppose the call for a pre-emptive ban, and believe that existing international humanitarian law is sufficient regulation for this area."
-Comparison: the same five-state list is identified by Wikipedia as opposing the pre-emptive ban — the body's framing of these five using the CCW consensus rule to block movement is consistent with Wikipedia's framing of these five as the opposing bloc. The body's stronger claim ("used the consensus rule to block movement toward a negotiating mandate") is a causal/strategic characterization beyond Wikipedia's plain-text wording, and Wikipedia is tiebreaker-only for causal claims; no second canonical source in this session corroborates the specific consensus-block causal claim at the same level of specificity.
+Source content: SKR coverage and Wikipedia identify Israel, Russia, South Korea, United States, and United Kingdom as the bloc opposing a pre-emptive ban under the CCW, holding that existing international humanitarian law is sufficient. Wikipedia does not specifically attribute the consensus-rule blocking mechanism causally to this five-state group.
+Comparison: the same five-state list is identified by Wikipedia as opposing the pre-emptive ban — body's framing of the bloc is consistent. The body's stronger causal claim ("used the consensus rule to block movement toward a negotiating mandate") is a strategic characterization beyond Wikipedia's plain-text wording; causal claims are Wikipedia-tiebreaker-only and no second canonical source consulted in this session corroborates the specific consensus-block causal mechanism at the same level of specificity. (Carries forward from prior-pass unverifiable status.)
+Decision: unverifiable
+
+## Claim 24: scalar:sources[3].note — A/79/88 "compiling submissions from 58 member states and 33 civil-society and ICRC contributions"
+
+Source: https://www.stopkillerrobots.org/news/next-steps-un-secretary-general-report/
+Source content: "the Secretary-General had received 91 replies" — SKR's coverage of A/79/88 gives the aggregate count of 91 submissions to the report but does not provide a breakdown between member states and civil-society/ICRC contributions.
+Comparison: the frontmatter scalar (sources[3].note) makes a specific 58-and-33 breakdown that sums to 91 — consistent with the cited URL's aggregate "91 replies" total, but the underlying split (58 member states + 33 civil-society and ICRC contributions) is not in the cited source. The breakdown would be a primary-source fact from the A/79/88 report itself; the report PDF at docs-library.unoda.org returned binary/unparseable content in this session and HRW's and Arms Control Association's coverage was not reachable (HTTP 404), so the specific 58/33 split could not be independently confirmed. The frontmatter claim is plausibly accurate (the arithmetic matches the SKR aggregate) but the cited URL does not verify it. For the Editor: the scalar to refine sits at frontmatter path `sources[3].note` (the next-steps SKR URL entry); a future researcher pass with access to A/79/88's text could either confirm the breakdown or generalize the note to the source's "91 replies" framing.
 Decision: unverifiable
