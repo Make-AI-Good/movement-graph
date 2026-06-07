@@ -16,7 +16,7 @@ public_profiles:
     url: https://fma.ph/the-team/
   - platform: fma-author-archive
     url: https://fma.ph/author/lisa-garcia/
-voice_entry:
+voice_entry: voice-liza-garcia
 sources:
   - url: https://fma.ph/the-team/
     last_checked: 2026-05-18
