@@ -11,7 +11,8 @@ founded: 2002
 location: Cairo, Egypt
 website: https://eipr.org
 strategies: []
-key_people: []
+key_people:
+  - person-hossam-bahgat
 board_and_advisors: []
 related_orgs:
   - org-masaar
