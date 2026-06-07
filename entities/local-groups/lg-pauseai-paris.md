@@ -49,7 +49,7 @@ sources:
     note: Pause IA's Élections municipales 2026 charter page — Pause IA's invitation to candidates in the March 2026 French municipal elections to commit to a fourteen-point municipal-level AI charter (a public roundtable on existential risks, a municipal resolution calling on the French government to request an international pause, a letter to territorial parliamentarians, and a dedicated citizen panel on AI risks)
   - url: https://presseagence.fr/nice-maxime-fournes-les-candidats-aux-municipales-doivent-se-positionner-clairement/
     last_checked: 2026-05-13
-    note: Presse Agence (Nice) interview with Maxime Fournes on the municipal-elections charter — names signing candidates' cities including Metz, Lille, Brest, Nantes, and Clermont-Ferrand and singles out Nice's Jean-Marc Governatori as the candidate who signed all fourteen commitments
+    note: Presse Agence (Nice) interview with Maxime Fournes on the municipal-elections charter — names signing candidates' cities including Metz, Lille, Brest, Nantes, and Clermont-Ferrand
   - url: https://cause-commune.fm/podcast/parlez-moi-d-ia-56/
     last_checked: 2026-05-13
     note: Cause Commune (Paris 93.1 FM) Parlez-moi d'IA episode #56 with Maxime Fournes recorded around the AI Action Summit — Fournes speaking for Pause IA on French AI policy and the pause demand, illustrative of the chapter's French-language broadcast cadence
