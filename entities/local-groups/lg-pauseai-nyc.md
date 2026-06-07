@@ -65,7 +65,7 @@ The chapter's [own action page](https://pauseai.info/nyc-action) names four line
 
 - **United Nations demonstrations.** The chapter's signature public output is sustained demonstration at United Nations Headquarters in Turtle Bay, framed around persuading diplomats to support a binding global AI treaty.
 - **Monthly action meetings on the 11th.** The chapter convenes [recurring monthly action meetings on the 11th of each month](https://pauseai.info/nyc-action), routed through Eventbrite and used to plan demonstrations, debrief recent actions, and onboard newcomers.
-- **First Friday Flyering.** From the October 2024 [premier session](https://pauseai.substack.com/p/pauseai-newsletter-7-october-24-2024), NYC has participated in PauseAI's First Friday Flyering cadence — a monthly tactic in which volunteers in nine cities around the world simultaneously [hand out flyers and recruit passers-by](https://pauseai.info/flyering) on the first Friday of each month.
+- **First Friday Flyering.** PauseAI NYC participates in PauseAI's First Friday Flyering cadence — a monthly tactic [launched in October 2024](https://pauseai.substack.com/p/pauseai-newsletter-7-october-24-2024) in which chapter volunteers [hand out flyers and recruit passers-by](https://pauseai.info/flyering) on the first Friday of each month.
 - **Community-building social events.** The chapter runs film nights and member socials inside its core organising — for example a documented [chapter watch of *The AI Doc: Or How I Became an Apocaloptimist*](https://www.pauseai-us.org/2026q2donorupdate/) — alongside its public-protest cadence.
 
 ## Notable actions
