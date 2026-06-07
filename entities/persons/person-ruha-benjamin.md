@@ -6,8 +6,9 @@ status: active
 confidence: high
 tags: [us, princeton, professor, sociologist, science-and-technology-studies, african-american-studies, algorithmic-accountability, race-and-technology, new-jim-code, abolitionist-tools, black-feminist, ida-b-wells-just-data-lab, macarthur-fellow-2024, author]
 created: 2026-06-03
-last_updated: 2026-06-03
+last_updated: 2026-06-06
 affiliations: []
+voice_entry: voice-ruha-benjamin
 public_profiles:
   - platform: personal-site
     url: https://www.ruhabenjamin.com/
