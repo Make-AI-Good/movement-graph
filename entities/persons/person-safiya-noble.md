@@ -11,6 +11,7 @@ affiliations:
   - org: org-dair-institute
     role: advisory committee member
     period: 2021-
+voice_entry: voice-safiya-noble
 public_profiles:
   - platform: personal-site
     url: https://safiyaunoble.com/
