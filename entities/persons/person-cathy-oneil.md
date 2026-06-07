@@ -8,6 +8,7 @@ tags: [new-york, us, mathematician, algorithmic-accountability, author, founder,
 created: 2026-06-03
 last_updated: 2026-06-03
 affiliations: []
+voice_entry: voice-cathy-oneil
 public_profiles:
   - platform: wikipedia
     url: https://en.wikipedia.org/wiki/Cathy_O%27Neil
