@@ -6,8 +6,9 @@ status: active
 confidence: high
 tags: [australia, us, researcher, artist-researcher, author, microsoft-research, usc, ai-now-institute, knowing-machines, algorithmic-accountability, extractive-ai, material-ai-critique, atlas-of-ai, ai-and-power, data-ethics, surveillance, anatomy-of-an-ai-system, calculating-empires]
 created: 2026-06-03
-last_updated: 2026-06-03
+last_updated: 2026-06-07
 affiliations: []
+voice_entry: voice-kate-crawford
 public_profiles:
   - platform: personal-site
     url: https://katecrawford.net/
