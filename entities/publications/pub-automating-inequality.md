@@ -7,7 +7,7 @@ confidence: high
 tags: [book, st-martins-press, picador, macmillan, monograph, foundational-artefact, algorithmic-accountability, welfare-algorithms, public-services-automation, digital-poorhouse, indiana-fssa, allegheny-family-screening-tool, los-angeles-coordinated-entry, predictive-risk-modeling, child-welfare, homelessness-services, social-services, automated-decision-making, our-data-bodies, university-at-albany, suny, new-america-fellow-2016-17, lillian-smith-2019, mcgannon-2018, stephan-russo-2018-shortlist, coded-bias-documentary]
 created: 2026-05-19
 last_updated: 2026-05-19
-authors: []
+authors: [person-virginia-eubanks]
 publisher: St. Martin's Press
 date: 2018-01-23
 url: https://us.macmillan.com/books/9781250074317/automatinginequality/
