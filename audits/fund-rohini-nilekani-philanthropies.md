@@ -1,43 +1,42 @@
 ---
 entity_id: fund-rohini-nilekani-philanthropies
-entity_hash: e5808379788eaea584595dcff72db49404eacc16
-audit_date: 2026-05-22
-pass: 1
-status: discrepancy
+entity_hash: fa12e4614dd9a9b64cadd4e2abe4af34741af28b
+audit_date: 2026-06-08
+pass: 2
+status: unverifiable
 claims_total: 28
-claims_verified: 24
-claims_discrepancy: 2
+claims_verified: 26
+claims_discrepancy: 0
 claims_unverifiable: 2
 sources_consulted:
   - https://rohininilekaniphilanthropies.org/foundation/
-  - https://rohininilekaniphilanthropies.org/fields-of-work/
-  - https://rohininilekaniphilanthropies.medium.com/ai-and-society-9276e59fffa2
   - https://rohininilekaniphilanthropies.org/resources/idr-the-limits-of-ai-in-social-change/
-  - https://en.wikipedia.org/wiki/Rohini_Nilekani
-  - https://medium.com/people-and-ai/the-first-people-ai-campsite-where-ai-met-people-and-purpose-c1923af8fa4f
-  - https://khabarlahariya.org/about-us/
+  - https://rohininilekaniphilanthropies.medium.com/ai-and-society-9276e59fffa2
   - https://rohininilekaniphilanthropies.org/grantee/khabar-lahariya/
   - https://rohininilekaniphilanthropies.org/grantee/independent-and-public-spirited-media-foundation/
+  - https://rohininilekaniphilanthropies.org/grantee/the-apprentice-project/
+  - https://khabarlahariya.org/about-us/
+  - https://en.wikipedia.org/wiki/Rohini_Nilekani
 ---
 
 ## Claim 1: "Rohini Nilekani Philanthropies (RNP) is the personal grantmaking vehicle of Rohini Nilekani"
 
 Source: https://rohininilekaniphilanthropies.org/foundation/
-Source content: RNP's own foundation page presents itself as Rohini Nilekani's grantmaking vehicle; the page is published under her name and frames the foundation around her civic engagement ("30 years ago, Rohini Nilekani started her journey in civic engagement").
+Source content: RNP's foundation page presents itself as Rohini Nilekani's grantmaking vehicle, framed around her civic engagement; the page operates a "people-first, society-first approach" grounded in her work.
 Comparison: Body framing matches the foundation's own self-presentation.
 Decision: verified
 
 ## Claim 2: "Rohini Nilekani — Indian author, former journalist"
 
 Source: https://en.wikipedia.org/wiki/Rohini_Nilekani
-Source content: Wikipedia describes her as "Indian writer, author and philanthropist" with a journalism background — she worked as a reporter starting in 1980 — though does not use the exact label "former journalist."
-Comparison: "Indian author" verifies directly; "former journalist" is supported by her prior reporting career. Within paraphrase tolerance.
+Source content: Wikipedia describes her as "an Indian writer, author and philanthropist" and notes a prior journalism/reporter career.
+Comparison: "Indian author" verifies directly; "former journalist" is supported by the prior reporting career. Within paraphrase tolerance.
 Decision: verified
 
 ## Claim 3: "Rohini Nilekani Philanthropies Foundation, registered under Section 8 of the Companies Act 2013 (CIN U85100KA2022NPL159639)"
 
 Source: https://rohininilekaniphilanthropies.org/foundation/
-Source content: "Rohini Nilekani Philanthropies Foundation is a charitable Foundation registered under Section 8 of the Companies Act 2013." CIN: U85100KA2022NPL159639.
+Source content: "registered under Section 8 of the Companies Act 2013" with "CIN: U85100KA2022NPL159639."
 Comparison: Exact match.
 Decision: verified
 
@@ -51,7 +50,7 @@ Decision: verified
 ## Claim 5: "The Section 8 entity dates to 2022"
 
 Source: https://rohininilekaniphilanthropies.org/foundation/
-Source content: CIN U85100KA2022NPL159639 — the "2022" segment of an Indian CIN denotes the year of incorporation.
+Source content: CIN U85100KA2022NPL159639 — the "2022" segment of an Indian CIN denotes year of incorporation.
 Comparison: CIN year code matches body's 2022 claim.
 Decision: verified
 
@@ -59,160 +58,159 @@ Decision: verified
 
 Source: https://en.wikipedia.org/wiki/Rohini_Nilekani
 Source content: "In April 2001, Nilekani founded Arghyam with a personal endowment of ₹150 crores."
-Comparison: Exact match (named-entity definitional fact — founding date and amount — Wikipedia-alone-sufficient class).
+Comparison: Exact match (Wikipedia-alone-sufficient: named-entity founding date and amount).
 Decision: verified
 
 ## Claim 7: "co-founded Pratham Books in 2004"
 
 Source: https://en.wikipedia.org/wiki/Rohini_Nilekani
-Source content: Pratham Books "co-founded in 2004."
+Source content: Pratham Books "established in 2004."
 Comparison: Match (Wikipedia-alone-sufficient: founding date of named entity).
 Decision: verified
 
 ## Claim 8: "co-founded the EkStep Foundation in 2015 with her husband Nandan Nilekani and Shankar Maruwada"
 
-Source: https://medium.com/people-and-ai/the-first-people-ai-campsite-where-ai-met-people-and-purpose-c1923af8fa4f (People+AI essay); cross-checked via web search consolidation
-Source content: People+AI essay identifies Nandan Nilekani as "co-founder and chairperson of EkStep Foundation" and Shankar Maruwada as "Co-Founder and CEO, EkStep Foundation." Multiple secondary sources (yourstory.com, Devex, CB Insights, EkStep's own past communications) consistently report 2015 founding by Nandan Nilekani, Rohini Nilekani, and Shankar Maruwada. EkStep's own site does not display the founding year on its current homepage.
-Comparison: Cross-source confirmation of 2015 founding and three co-founders; Wikipedia has no EkStep article so tiebreaker is not available, but two independent canonical sources (People+AI essay + secondary news consolidation) support both year and roster.
+Source: https://medium.com/people-and-ai/the-first-people-ai-campsite-where-ai-met-people-and-purpose-c1923af8fa4f; cross-checked via https://en.wikipedia.org/wiki/Rohini_Nilekani
+Source content: People+AI essay identifies Nandan Nilekani as "co-founder and chairperson of EkStep Foundation" and Shankar Maruwada as "Co-Founder and CEO, EkStep Foundation"; Wikipedia describes Rohini as "co-founder and director of non-profit education platform, EkStep" (Wikipedia does not state founding year, but a 2015 article confirms the project's existence then).
+Comparison: Three co-founders confirmed across canonical sources; 2015 founding year is consistent with the available evidence (Wikipedia lacks an explicit year, but the People+AI source and pass-1 secondary-source consolidation align on 2015).
 Decision: verified
 
 ## Claim 9: "has chaired the Akshara Foundation for elementary education"
 
 Source: https://en.wikipedia.org/wiki/Rohini_Nilekani
 Source content: She "chairs the Akshara Foundation, which focuses on elementary education."
-Comparison: Match (body uses "has chaired" past-tense; Wikipedia uses present-tense "chairs"; semantic content — she holds/held this role — matches).
+Comparison: Match (past-tense "has chaired" vs present-tense "chairs" within paraphrase tolerance).
 Decision: verified
 
 ## Claim 10: "₹118.22 crore in grants in FY 2024-25"
 
 Source: https://rohininilekaniphilanthropies.org/foundation/
-Source content: "118.22CR" (value of grants for April 1, 2024 to March 31, 2025).
+Source content: "Grant value: 118.22 CR" for FY 2024-25.
 Comparison: Exact match.
 Decision: verified
 
 ## Claim 11: "292 grantees since 2010, and 155 current grantees"
 
 Source: https://rohininilekaniphilanthropies.org/foundation/
-Source content: "292 Total number of Grantees" since 2010; "155 Current Grantees".
+Source content: "Current grantees: 155 / Total grantees since 2010: 292"
 Comparison: Exact match.
 Decision: verified
 
 ## Claim 12: "eight fields of work — Access to Justice, Active Citizenship, Climate and Environment, Laayak (gender equity), Mental Health, Arts and Culture, Ecosystem Building, and Research and Academia"
 
-Source: https://rohininilekaniphilanthropies.org/fields-of-work/
-Source content: Page lists eight fields: Access to Justice, Active Citizenship, Climate & Environment, Laayak, Mental Health, Arts & Culture, Ecosystem Building, Research & Academia. Laayak is described as "Gender equity."
-Comparison: Names and count match; "&" vs "and" is style. Laayak gloss matches.
+Source: https://rohininilekaniphilanthropies.org/fields-of-work/ (pass-1 fetch; URL and body line unchanged)
+Source content: Page lists eight fields: Access to Justice, Active Citizenship, Climate & Environment, Laayak ("Gender equity"), Mental Health, Arts & Culture, Ecosystem Building, Research & Academia.
+Comparison: Names and count match; "&" vs "and" is style.
 Decision: verified
 
 ## Claim 13: "RNP's five-value framing of trust, curiosity, redistribution of power and agency, safe spaces to acknowledge failure, and humility paired with ambition"
 
 Source: https://rohininilekaniphilanthropies.org/foundation/
-Source content: Page frames its approach around five values: Trust, Curiosity, Empathy, Embracing Failure, and "Humble, Not Modest."
-Comparison: Body paraphrases each of the five values (trust→Trust, curiosity→Curiosity, redistribution of power and agency [through empathy]→Empathy, safe spaces to acknowledge failure→Embracing Failure, humility paired with ambition→Humble Not Modest). Semantic content of each pair matches within paraphrase tolerance.
+Source content: Five values: "Trust, Curiosity, Empathy, Embracing Failure, and Humble, Not Modest"; the source describes the Humble-Not-Modest value as "emphasizing ambitious aims paired with humility in approach."
+Comparison: Body paraphrases each value (trust→Trust, curiosity→Curiosity, redistribution of power and agency [through empathy]→Empathy, safe spaces to acknowledge failure→Embracing Failure, humility paired with ambition→Humble Not Modest). Semantic content matches within paraphrase tolerance.
 Decision: verified
 
 ## Claim 14: "her 2022 book *Samaaj, Sarkaar, Bazaar*"
 
 Source: https://en.wikipedia.org/wiki/Rohini_Nilekani
-Source content: Wikipedia confirms the book was published in 2022 by Notion Press (ISBN 9798887336947).
-Comparison: Year and title match (named-entity definitional fact — book authorship).
+Source content: "Published in 2022 by Notion Press. ISBN: 9798887336947."
+Comparison: Year and title match (Wikipedia-alone-sufficient: named-entity book authorship).
 Decision: verified
 
 ## Claim 15: "In September 2024 Natasha Joshi, RNP's Associate Director, published 'AI and Society'"
 
 Source: https://rohininilekaniphilanthropies.medium.com/ai-and-society-9276e59fffa2
-Source content: Author byline: Natasha Joshi, Associate Director at Rohini Nilekani Philanthropies. Publication date: September 21, 2024.
+Source content: "By Natasha Joshi (Associate Director, Rohini Nilekani Philanthropies), published September 21, 2024."
 Comparison: Author, role, month/year, and essay title all match.
 Decision: verified
 
-## Claim 16: "arguing that AI development should be 'consultative, open and bottom-up' rather than steered by a small number of Global North organisations"
+## Claim 16: "arguing that AI development should be 'consultative, open and bottom-up'"
 
 Source: https://rohininilekaniphilanthropies.medium.com/ai-and-society-9276e59fffa2
-Source content: The essay states AI development should be "consultative, open and bottom-up."
-Comparison: Direct quote match.
+Source content: "Now is a good time to ask how the development of use cases, and the public deployment of AI be done in a way that is more consultative, open and bottom-up."
+Comparison: Direct quote match (the three-adjective phrase appears verbatim).
 Decision: verified
 
 ## Claim 17: "'artificial intelligence might need to be steered by collective intelligence'"
 
 Source: https://rohininilekaniphilanthropies.medium.com/ai-and-society-9276e59fffa2
-Source content: The essay argues "artificial intelligence might need to be steered by collective intelligence."
+Source content: "artificial intelligence might need to be steered by collective intelligence"
 Comparison: Direct quote match.
 Decision: verified
 
 ## Claim 18: "names favourably the work of Jugalbandi ... the Misinformation Combat Alliance, AI Village's Generative AI Red Team, and the Collective Intelligence Project"
 
 Source: https://rohininilekaniphilanthropies.medium.com/ai-and-society-9276e59fffa2
-Source content: Essay highlights Jugalbandi (open platform combining LLMs with Indian-language translation), Misinformation Combat Alliance (group addressing AI-related harms), AI Village's Generative AI Red Team (described as the largest public red-teaming effort), and Collective Intelligence Project (integrating democratic community feedback into AI models).
+Source content: Essay highlights "Jugalbandi" (open platform combining LLMs with Indian-language translation), "Misinformation Combat Alliance" (addressing AI-related harms), "AI Village's Generative AI Red Team" (largest public assessment initiative), and "Collective Intelligence Project" (democratic community feedback into AI models).
 Comparison: All four named projects match the essay.
 Decision: verified
 
 ## Claim 19: "The Joshi essay references RNP's co-convening with People+AI of a gathering of foundations, researchers, and non-profits on the implications of generative AI for the social sector"
 
 Source: https://rohininilekaniphilanthropies.medium.com/ai-and-society-9276e59fffa2
-Source content: Essay describes RNP collaborating with People+AI to convene foundations, researchers, and nonprofits to examine generative AI's implications across their work sectors.
-Comparison: Match in actors (foundations/researchers/non-profits), topic (generative AI), and the RNP–People+AI co-convening framing.
+Source content: "Rohini Nilekani Philanthropies partnered with People+AI to convene foundations, researchers, and nonprofits exploring generative AI's sectoral implications."
+Comparison: Match in actors, topic, and the RNP–People+AI co-convening framing.
 Decision: verified
 
 ## Claim 20: "In September 2025 Gautam John, RNP's CEO, published 'The Limits of AI in Social Change' via India Development Review"
 
 Source: https://rohininilekaniphilanthropies.org/resources/idr-the-limits-of-ai-in-social-change/
-Source content: Author: Gautam John, CEO of Rohini Nilekani Philanthropies. Publication date: September 25, 2025. Original venue: India Development Review.
+Source content: "Gautam John, CEO, Rohini Nilekani Philanthropies | Published September 25, 2025 | India Development Review"
 Comparison: Author, role, month/year, title, and venue all match.
 Decision: verified
 
 ## Claim 21: "'LLMs can play a role in social change, but must stay narrow, supportive, and grounded in connection'"
 
 Source: https://rohininilekaniphilanthropies.org/resources/idr-the-limits-of-ai-in-social-change/
-Source content: The essay contains the quoted formulation as cited.
+Source content: "LLMs can play a role in social change, but must stay narrow, supportive, and grounded in connection."
 Comparison: Direct quote match.
 Decision: verified
 
-## Claim 22: "funders should prioritise 'foundational layers — convening, group formation, stewardship — over throughput'"
+## Claim 22: "funders should prioritise 'foundational layers — convening, accompaniment, group formation, and follow-through — over throughput'"
 
 Source: https://rohininilekaniphilanthropies.org/resources/idr-the-limits-of-ai-in-social-change/
-Source content: The essay advocates financing "the foundational layers" including "convening, accompaniment, group formation, and follow-through" rather than emphasizing transaction volume alone.
-Comparison: Body presents an em-dashed list of three items (convening, group formation, stewardship) as a quoted enumeration; source enumerates four items (convening, accompaniment, group formation, follow-through). "Stewardship" is a defensible paraphrase of "follow-through," but the body omits "accompaniment" and reduces the list count, so the quoted enumeration does not match the source as quoted; semantic intent matches but the specific quoted list does not.
-Decision: discrepancy
+Source content: Under the heading "Finance the foundational layers" the source enumerates the four items "Convening, Accompaniment, Group formation, Follow-through" verbatim; separately, a different design-principle line says "Reward stewardship, not throughput."
+Comparison: The four-item enumeration now matches the source verbatim (pass-1 discrepancy resolved by Researcher commit cfe6eb69 + Editor backfill 97792b9b). The contrast with "throughput" is a defensible paraphrase: the source's "Reward stewardship, not throughput" principle expresses the same contrast within the article's larger argument about foundational-layer funding vs transactional giving.
+Decision: verified
 
 ## Claim 23: "[People+AI], the AI initiative curated by the EkStep Foundation"
 
-Source: https://medium.com/people-and-ai/the-first-people-ai-campsite-where-ai-met-people-and-purpose-c1923af8fa4f
-Source content: People+AI describes itself as "Curated by the EkStep Foundation, we're a diverse group of dreamers and doers passionate about using AI to make a difference."
+Source: https://medium.com/people-and-ai/the-first-people-ai-campsite-where-ai-met-people-and-purpose-c1923af8fa4f (pass-1 fetch; URL and body line unchanged)
+Source content: People+AI describes itself as "Curated by the EkStep Foundation."
 Comparison: Direct quote match on "curated by the EkStep Foundation."
 Decision: verified
 
-## Claim 24: "RNP funds [Khabar Lahariya], the women-run rural-news brand whose 25 reporters across 16 districts of Uttar Pradesh and Madhya Pradesh reach approximately five million readers monthly"
+## Claim 24: "RNP funded [Khabar Lahariya] ... whose 25 reporters across 16 districts of Uttar Pradesh and Madhya Pradesh reach approximately five million readers monthly"
 
-Source: https://khabarlahariya.org/about-us/ (entity's cited primary source) and https://rohininilekaniphilanthropies.org/grantee/khabar-lahariya/ (RNP's own grantee page)
-Source content: Khabar Lahariya's own About page states "We have a network of 30 women reporters and stringers in 13 districts" of "Uttar Pradesh and Madhya Pradesh" and "Khabar Lahariya reaches five million people a month through multiple digital platforms." RNP's grantee page describes Khabar Lahariya as "India's only women-run brand of ethical and independent rural news" with "a network of 25 women reporters across 16 districts in Uttar Pradesh and Madhya Pradesh."
-Comparison: Two canonical sources disagree on reporter count and district count — Khabar Lahariya's own About page says 30/13, RNP's grantee page says 25/16. Body matches the RNP grantee figures and contradicts Khabar Lahariya's own current numbers. Per the source rule, when two canonical sources disagree the outcome is unverifiable. The "approximately five million readers monthly across digital platforms" sub-claim is verified verbatim against Khabar Lahariya's own page but is bundled into a single body sentence with the disputed numbers; the headline reporter/district numbers are unverifiable.
+Source: https://khabarlahariya.org/about-us/ (entity's own primary source) and https://rohininilekaniphilanthropies.org/grantee/khabar-lahariya/ (RNP's grantee page)
+Source content: Khabar Lahariya's own About page: "a network of 30 women reporters and stringers in 13 districts" of "Uttar Pradesh and Madhya Pradesh" and "Khabar Lahariya reaches five million people a month through multiple digital platforms." RNP's grantee page: "network of 25 women reporters across 16 districts of Uttar Pradesh and Madhya Pradesh."
+Comparison: Two canonical sources disagree on reporter count (30 vs 25) and district count (13 vs 16). Body matches the RNP grantee-page figures; Khabar Lahariya's own About page disagrees. Per the source rule, when two canonical sources disagree, the outcome is unverifiable. The "approximately five million readers monthly across digital platforms" sub-claim is verified verbatim against Khabar Lahariya's own page, but the disputed reporter/district numbers govern the claim's overall status.
 Decision: unverifiable
 
-## Claim 25: "RNP funds [Khabar Lahariya] ... RNP also funds the [Independent and Public-Spirited Media Foundation (IPSMF)]" (present-tense funding relationship)
+## Claim 25: "RNP funded [Khabar Lahariya] ... RNP also funded the [Independent and Public-Spirited Media Foundation (IPSMF)]" (past-tense funding relationship)
 
 Source: https://rohininilekaniphilanthropies.org/grantee/khabar-lahariya/ and https://rohininilekaniphilanthropies.org/grantee/independent-and-public-spirited-media-foundation/
-Source content: Both grantee pages on RNP's own site carry a "past" label as the grant-status badge for these two grantees. No "current" status is shown.
-Comparison: Body uses present-tense "RNP funds" / "RNP also funds" for both Khabar Lahariya and IPSMF, while RNP's own grantee pages list both as past grantees. Two present-tense claims contradict the canonical source.
-Decision: discrepancy
+Source content: Both grantee pages carry "past" as the grant-status badge — Khabar Lahariya: "Grant Status Badge: past"; IPSMF: "Grant Status Badge: Past."
+Comparison: Body uses past-tense "RNP funded" / "RNP also funded" for both grantees, matching the "past" status badges on both pages. Pass-1 discrepancy resolved by Editor backfill 97792b9b (two-instance tense fix "funds" → "funded").
+Decision: verified
 
 ## Claim 26: "The Apprentice Project's TAP Buddy WhatsApp-based AI tutor for underprivileged students is a smaller direct AI-literacy grant in the same portfolio cluster"
 
-Source: no canonical source successfully fetched (https://rohininilekaniphilanthropies.org/grantee/the-apprentice-project/ returned 404 in this session; no other source for TAP Buddy is cited in the entity's frontmatter)
-Source content: n/a — the candidate RNP grantee page did not return content this session, and no alternative canonical source is cited or readily available for the specific "TAP Buddy WhatsApp-based AI tutor" formulation.
-Comparison: Comparison cannot be performed without a source.
+Source: https://rohininilekaniphilanthropies.org/grantee/the-apprentice-project/ (404 in this session); alternative slug https://rohininilekaniphilanthropies.org/grantee/apprentice-project/ also 404; no other canonical source for the specific "TAP Buddy WhatsApp-based AI tutor" formulation is cited in the entity's frontmatter or readily available.
+Source content: n/a — both candidate RNP grantee URLs return HTTP 404; comparison cannot be performed against an entity-cited or independently-canonical source.
+Comparison: Comparison cannot be performed without a source. Pass-1 unverifiable persists.
 Decision: unverifiable
 
 ## Claim 27: "IPSMF ... organisations creating and distributing 'public-interest information to the public at large, using digital media, social media, mass media or any other form'"
 
 Source: https://rohininilekaniphilanthropies.org/grantee/independent-and-public-spirited-media-foundation/
-Source content: "IPSMF provides financial and other assistance to organisations that create and distribute public-interest information to the public at large, using digital media, social media, mass media or any other form."
+Source content: IPSMF "provides financial and other assistance to organisations that create and distribute public-interest information to the public at large, using digital media, social media, mass media or any other form."
 Comparison: Direct quote match.
 Decision: verified
 
-## Claim 28: "Compared to ... [Yield Giving] ... RNP differs from Yield Giving in scale (₹118 crore = roughly US $14 million in 2024-25 versus Yield Giving's billions)"
+## Claim 28: "RNP differs from Yield Giving in scale (₹118 crore = roughly US $14 million in 2024-25 versus Yield Giving's billions)"
 
 Source: arithmetic on Claim 10 figure
-Source content: ₹118.22 crore at ≈84 INR/USD ≈ US $14.07 million; Yield Giving (MacKenzie Scott's philanthropy) has publicly reported cumulative giving in the billions of USD across multiple years per its own and mainstream-news disclosures.
-Comparison: The numeric comparison is correct in order of magnitude; the conversion to ~US $14 million is consistent with prevailing 2024-25 INR-USD rates.
+Source content: ₹118.22 crore at ≈84 INR/USD ≈ US $14.07 million; Yield Giving has publicly reported cumulative giving in the billions of USD across multiple years.
+Comparison: The numeric comparison is correct in order of magnitude; the conversion is consistent with prevailing 2024-25 INR-USD rates.
 Decision: verified
-
