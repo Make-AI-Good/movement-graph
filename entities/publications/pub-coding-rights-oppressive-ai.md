@@ -28,7 +28,7 @@ sources:
     note: Coding Rights's own home page — primary source for the institutional publisher of the Not My A.I. line through which this essay is hosted and operationalised; already cited in [org-coding-rights](../organizations/org-coding-rights.md)
   - url: https://www.pazpena.com/about
     last_checked: 2026-05-15
-    note: Paz Peña's own portfolio site — primary source for her Santiago, Chile base, her seven-years-of-work framing on the socio-environmental impacts of digital technologies in Latin America, her consultant relationships including the Chilean Cybersecurity Coordination Unit, and her co-authorship of the Not My A.I. project with Joana Varon
+    note: Paz Peña's own portfolio site — primary source for her Santiago, Chile base, her more-than-15-years-of-work framing on the socio-environmental impacts of digital technologies in Latin America, her consultant relationships including the Chilean Cybersecurity Coordination Unit, and her co-authorship of the Not My A.I. project with Joana Varon
   - url: https://policyreview.info/articles/analysis/artificial-intelligence-and-consent-feminist-anti-colonial-critique
     last_checked: 2026-05-15
     note: 'Internet Policy Review article *Artificial intelligence and consent: a feminist anti-colonial critique* by Varon and Peña (volume 10 issue 4, 7 December 2021, DOI 10.14763/2021.4.1602) — independent academic-venue companion piece to the Oppressive A.I. essay; primary source for the consent-and-Digital-Welfare-States analytical line that extends the same authorial collaboration into the peer-reviewed register'
