@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [cape-town, south-africa, sub-saharan-africa, ai-safety, reading-group, research, capacity-building, cooperative-ai, community-building, insider-community, open-philanthropy]
 created: 2026-05-26
-last_updated: 2026-05-26
+last_updated: 2026-06-08
 founded: 2023
 location: Cape Town, South Africa (Innovation City co-working space; expanding to Johannesburg and Stellenbosch)
 website_or_contact: https://www.aisafetysa.com/
@@ -29,7 +29,7 @@ sources:
     note: 'AISafety.com global community directory — lists AI Safety South Africa as a local platform rated "very active"; description matches aisafetysa.com self-description, confirming the organization is current and operational as of mid-2026'
   - url: https://www.benjaminsturgeon.com/
     last_checked: 2026-05-26
-    note: 'Benjamin Sturgeon personal website — describes himself as "strongly involved with AI Safety South Africa as cofounder and strategic director, growing the AI safety community in Cape Town"; researcher focused on AI safety, agency in AI systems, and impacts of powerful AI on human agency; pursuing MPhil in Applied Mathematics at UCT'
+    note: 'Benjamin Sturgeon personal website — describes himself as "cofounder and strategic director" of AISSA; listed as a MATS fellow doing the MATS extension; research focus on personas and emergent misalignment in large language models'
 ---
 
 # AI Safety South Africa (AISSA)
@@ -40,7 +40,7 @@ AI Safety South Africa (AISSA) is a Cape Town-based AI-safety capacity-building 
 
 AISSA grew out of an earlier Cape Town community effort — branded AI Safety Cape Town — that Leo Hyams built alongside Benjamin Sturgeon starting in 2023. By August 2024, the organization had a fast-growing community of around a hundred members and had begun formalizing its programs; the Substack newsletter published that month still used the "AI Safety Cape Town" masthead while the organization was already operating under both the AISCT events-space brand and the AISSA nonprofit brand. The two websites (aisafetysa.com and aisafetyct.com) remain live as parallel surfaces: the national nonprofit brand and the physical co-working space brand respectively.
 
-Hyams serves as Executive Director; Sturgeon, who is pursuing an MPhil in Applied Mathematics at UCT with a focus on AI safety and agency, serves as Strategic Advisor. The Innovation City co-working space in Cape Town provides the physical anchor for community members to work alongside one another; the website notes plans to expand presence to Johannesburg and Stellenbosch. [A September 2025 EA Forum post by Hyams](https://forum.effectivealtruism.org/posts/9AmYzjxPAbRgzbgq8/announcing-the-cooperative-ai-research-fellowship) describes AISSA as having worked alongside the University of Cape Town to integrate AI safety into the university's curriculum since the organization's inception.
+Hyams serves as Executive Director; Sturgeon serves as Strategic Advisor. The Innovation City co-working space in Cape Town provides the physical anchor for community members to work alongside one another; the website notes plans to expand presence to Johannesburg and Stellenbosch. [A September 2025 EA Forum post by Hyams](https://forum.effectivealtruism.org/posts/9AmYzjxPAbRgzbgq8/announcing-the-cooperative-ai-research-fellowship) describes AISSA as having worked alongside the University of Cape Town to integrate AI safety into the university's curriculum since the organization's inception.
 
 ## Programs
 
