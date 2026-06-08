@@ -6,11 +6,14 @@ status: active
 confidence: high
 tags: [taiwan, taipei, east-asia, asia-pacific, civic-hacker, civic-tech, g0v, gov-zero, open-source, free-software, perl-community, haskell-community, sunflower-movement, vtaiwan, polis, deliberative-democracy, participatory-governance, recursive-public, broad-listening, plurality, plurality-book, digital-democracy, ai-deliberation, ai-evaluation, alignment-assemblies, cofacts, talk-to-the-city, ministry-of-digital-affairs, moda-taiwan, public-digital-innovation-service, pdis, digital-minister, minister-without-portfolio, cyber-ambassador, transgender, non-binary, conservative-anarchist, right-livelihood-laureate-2025, oxford-institute-for-ethics-in-ai, mozilla-foundation, project-liberty-institute, ethereum-foundation, democracynext, ted-2026]
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-06-08
 affiliations:
   - org: org-g0v
     role: 'Co-initiator and longtime core contributor to the decentralised civic-tech community; joined shortly after the late-2012 founding and identified by g0v''s own community-history record as a driving force behind its creation'
     period: 2012-
+  - org: org-collective-intelligence-project
+    role: Senior Research Fellow
+    period: 2024-
 public_profiles:
   - platform: personal-site
     url: https://audreyt.org/
