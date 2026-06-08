@@ -1,13 +1,13 @@
 ---
 entity_id: fund-mozilla-foundation
-entity_hash: f8f501edc1c93820891701ff1447b7c9cefed438
-audit_date: 2026-05-22
-pass: 1
+entity_hash: 51f160534223d03af69801af75510135a358bef4
+audit_date: 2026-06-07
+pass: 2
 status: discrepancy
 claims_total: 35
-claims_verified: 28
+claims_verified: 29
 claims_discrepancy: 1
-claims_unverifiable: 6
+claims_unverifiable: 5
 sources_consulted:
   - https://en.wikipedia.org/wiki/Mozilla_Foundation
   - https://en.wikipedia.org/wiki/Mark_Surman
@@ -21,6 +21,8 @@ sources_consulted:
   - https://en.wikipedia.org/wiki/Common_Voice
   - https://en.wikipedia.org/wiki/Algorithmic_Justice_League
   - https://www.mozillafoundation.org/en/responsible-computing-challenge/grant-opportunities/
+  - https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/
+  - https://www.mozillafoundation.org/en/data-futures-lab/
   - https://cipesa.org/2025/07/democratising-big-tech-lessons-from-south-africas-2024-election/
 ---
 
@@ -34,7 +36,7 @@ Decision: verified
 ## Claim 2: "founded on 15 July 2003"
 
 Source: https://en.wikipedia.org/wiki/Mozilla_Foundation
-Source content: "Founded in July 2003" — specifically "July 15, 2003"; "the Mozilla Foundation was launched on July 15, 2003"
+Source content: "the Mozilla Foundation was launched on July 15, 2003"
 Comparison: Exact date match. Wikipedia-alone is sufficient for a named-entity definitional founding date.
 Decision: verified
 
@@ -139,30 +141,30 @@ Decision: verified
 ## Claim 17: 'Creating Trustworthy AI white paper "released in May 2020" after "a year-long consultation with AI domain experts across industry, civil society, academia, and the public sphere"'
 
 Source: https://www.mozillafoundation.org/en/blog/trustworthy-ai-abridged-version/
-Source content: "In May of this year, we released a white paper" (article dated August 2020, so May 2020); "We developed our theory of change over a one-year period, during which we consulted with scores of AI domain experts from industry, civil society, academia, and the public sphere"
+Source content: "In May of this year, we released a white paper" (abridged blog dated August 4, 2020 — so May 2020); "We developed our theory of change over a one-year period, during which we consulted with scores of AI domain experts from industry, civil society, academia, and the public sphere"
 Comparison: Release month, consultation duration, and domain composition all match.
 Decision: verified
 
 ## Claim 18: 'The paper focuses specifically on consumer AI — "general purpose internet products and services aimed at a wide audience"'
 
 Source: https://www.mozillafoundation.org/en/blog/trustworthy-ai-abridged-version/; https://www.mozillafoundation.org/en/insights/trustworthy-ai-whitepaper/
-Source content: Abridged blog: "AI in consumer technology: internet products and services aimed at a wide audience"; the white-paper insights landing page does not contain this phrase.
-Comparison: The body presents this as a direct quotation. The phrase "internet products and services aimed at a wide audience" matches, but "general purpose" does not appear in either canonical online source consulted. The cited Mozilla white-paper PDF was not directly accessible to verify the original wording.
+Source content: Abridged blog: "AI in consumer technology: internet products and services aimed at a wide audience"; the white-paper insights landing page enumerates seven challenges but does not contain the "general purpose internet products" phrase in the table-of-contents content fetched.
+Comparison: The body presents this as a direct quotation. The phrase "internet products and services aimed at a wide audience" matches the abridged blog, but "general purpose" does not appear in either canonical online source consulted. The cited Mozilla white-paper PDF was not directly accessible to verify the original wording in this pass.
 Decision: unverifiable
 
 ## Claim 19: 'names five guiding principles (agency, accountability, privacy, fairness, and safety)'
 
 Source: https://www.mozillafoundation.org/en/blog/trustworthy-ai-abridged-version/; https://www.mozillafoundation.org/en/what-we-fund/trustworthy-ai-funding-principles/
-Source content: The abridged blog mentions "values like agency, accountability, privacy, and safety in various contexts" but the page does not formally enumerate them as "five guiding principles." The funding-principles page does not contain such a list. The white-paper insights page does not enumerate five principles.
-Comparison: The "five principles" framing widely associated with Mozilla's Trustworthy AI work was not directly confirmable from the cited online sources consulted in this pass.
+Source content: The abridged blog mentions agency, accountability, privacy, and safety in passing (e.g. "strengthen human agency," "accountability," "data privacy") but does not present a formal numbered set titled "five guiding principles." The funding-principles page does not formally enumerate them. The white-paper insights page does not enumerate five principles in the fetched content.
+Comparison: The "five principles" framing widely associated with Mozilla's Trustworthy AI work was not directly confirmable from the cited online sources consulted in this pass; the white-paper PDF was not retrieved.
 Decision: unverifiable
 
-## Claim 20: "three core challenges the Foundation argues the field must address: monopoly and centralisation, data privacy and governance, and bias and discrimination"
+## Claim 20: "alongside seven challenges the Foundation argues the field must address — among them monopoly and centralisation, data privacy and governance, and bias and discrimination"
 
 Source: https://www.mozillafoundation.org/en/insights/trustworthy-ai-whitepaper/
 Source content: The page lists seven challenges under "Challenges with AI": "1. Monopoly and Centralization 2. Data Governance and Privacy 3. Bias and Discrimination 4. Accountability and Transparency 5. Industry Norms 6. Exploitation of Workers and the Environment 7. Safety and Security"
-Comparison: The body's quantitative framing of "three core challenges" is contradicted by the white-paper's own presentation of seven challenges. The three the body names are the first three items in Mozilla's seven-item list, but the framing as the complete set is incorrect.
-Decision: discrepancy
+Comparison: The "seven challenges" count matches the white-paper insights page exactly. The three the body names ("monopoly and centralisation, data privacy and governance, and bias and discrimination") are the first three in Mozilla's seven-item list, presented as exemplars rather than the complete set. Pass-1 discrepancy ("three core challenges" framing) was resolved by [movement-graph:researcher] commit 0e683149 reframing body to "seven challenges ... among them".
+Decision: verified
 
 ## Claim 21: "On 1 November 2023, the Foundation announced…"
 
@@ -208,16 +210,16 @@ Decision: verified
 
 ## Claim 27: "Mozilla Foundation Incubator, which runs cohort programmes for responsible-AI builders — including the Democracy x AI cohort and the Data Futures Lab"
 
-Source: cited https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/ — not directly fetched in this pass
-Source content: not retrieved
-Comparison: The cited Incubator page was not retrieved in this audit pass; cannot confirm the named cohort programmes from canonical sources within this session.
-Decision: unverifiable
+Source: https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/; https://www.mozillafoundation.org/en/data-futures-lab/
+Source content: Incubator page names current cohorts "Democracy x AI cohort" (with a March 16 deadline) and a 2025 cohort titled "Making the invisible visible," and describes the Build Track / Sustain Track pathways; the Data Futures Lab is **not** named among the Incubator's cohorts on that page. The Data Futures Lab page describes the Lab as "an experimental space for instigating new approaches to data stewardship challenges" with its own Infrastructure Fund and Prototype Fund, and does not position itself as part of the Incubator.
+Comparison: Democracy x AI cohort being run under the Incubator is confirmed. The body's framing that the Data Futures Lab is one of the Incubator's "cohort programmes for responsible-AI builders" is contradicted by Mozilla's own pages — the Lab is presented as a separate experimental initiative with its own funding mechanism, not as a cohort under the Incubator. Correction requires prose-judgment rephrasing to position the Data Futures Lab as a sibling Mozilla programme rather than an Incubator cohort, so route as `[editor-flag]` per the Audit-discrepancy backfill act.
+Decision: discrepancy
 
 ## Claim 28: "the programme expanded into South Africa in 2024 as part of Mozilla's wider push to seed responsible-computing capacity in the African higher-education system"
 
 Source: https://www.mozillafoundation.org/en/responsible-computing-challenge/grant-opportunities/
 Source content: "Applications in South Africa are now closed." The page does not state a 2024 expansion date or characterise it as part of an African higher-education push.
-Comparison: South African applications are confirmed by the source, but the specific 2024 expansion year and the African-higher-education framing are not present.
+Comparison: South African applications are confirmed by the source, but the specific 2024 expansion year and the African-higher-education framing are not present in the canonical source.
 Decision: unverifiable
 
 ## Claim 29: "AJL's own publicly listed funders place Mozilla alongside the Ford, MacArthur, Rockefeller, and Alfred P. Sloan foundations as core institutional supporters"
@@ -250,8 +252,8 @@ Decision: verified
 
 ## Claim 33: 'explicit framing that opening up training data is one concrete way to "level the playing field while mitigating AI bias"'
 
-Source: https://en.wikipedia.org/wiki/Common_Voice (cited as canonical source for Common Voice)
-Source content: The Wikipedia entry frames the project around addressing datasets that "underrepresented both women and people with pronounced accents" but does not contain the verbatim quoted phrase. The commonvoice.mozilla.org home page could not be parsed in this fetch attempt.
+Source: https://en.wikipedia.org/wiki/Common_Voice (cited as canonical source for Common Voice); https://commonvoice.mozilla.org/ (could not be parsed)
+Source content: The Wikipedia entry frames the project around addressing datasets that "underrepresented both women and people with pronounced accents" but does not contain the verbatim quoted phrase. The commonvoice.mozilla.org home page returned no extractable text in this pass.
 Comparison: The body presents this as a direct quotation but the cited canonical sources do not contain the verbatim phrase in this audit pass.
 Decision: unverifiable
 
@@ -262,7 +264,7 @@ Source content: "As of December 2025, Mozilla Common Voice collects voice data f
 Comparison: The size superlative ("world's largest") is not stated in the cited Wikipedia source; comparative size claims would require a domain database or news source making the comparison.
 Decision: unverifiable
 
-## Claim 35: 'the [Legal Resources Centre]'s Democratising Big Tech programme … ran its 2024 South-African-election experimental ad investigation as a "consortium with Mozilla, Global Witness, and CIPIT"'
+## Claim 35: 'the [Legal Resources Centre]''s Democratising Big Tech programme … ran its 2024 South-African-election experimental ad investigation as a "consortium with Mozilla, Global Witness, and CIPIT"'
 
 Source: https://cipesa.org/2025/07/democratising-big-tech-lessons-from-south-africas-2024-election/
 Source content: "Our collaboration with Global Witness, Mozilla, and the Centre for Intellectual Property and Information Technology Law (CIPIT)."
