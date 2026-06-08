@@ -14,7 +14,7 @@ strategies: [strat-empirical-audit-and-expose, strat-local-rapid-response-agains
 key_people: [person-silkie-carlo]
 board_and_advisors: []
 related_orgs: [org-foxglove, org-jcwi, org-worker-info-exchange]
-funders: [fund-open-society-foundations]
+funders: [fund-open-society-foundations, fund-joseph-rowntree-reform-trust]
 sources:
   - url: https://bigbrotherwatch.org.uk/about/
     last_checked: 2026-05-13
