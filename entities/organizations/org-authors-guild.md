@@ -17,6 +17,7 @@ board_and_advisors: []
 related_orgs:
   - org-wga
   - org-concept-art-association
+  - org-national-education-association
 funders: []
 sources:
   - url: https://authorsguild.org/about/

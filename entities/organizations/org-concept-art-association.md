@@ -20,6 +20,7 @@ board_and_advisors: []
 related_orgs:
   - org-wga
   - org-authors-guild
+  - org-national-education-association
 funders: []
 sources:
   - url: https://www.conceptartassociation.com/about
