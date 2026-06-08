@@ -126,38 +126,39 @@ A dimension belongs in this list only if it traces to a commitment the mission a
 
 A deterministic rollup, refreshed each release by `process/coverage-script.sh`. **These are measurements, not judgments** — the judgment layer is §4. Counts from the current corpus run:
 
-**Entity types — 552 entities across ten types:**
+**Entity types — 589 entities across ten types:**
 
 | type | count | | type | count |
 |---|---:|---|---|---:|
-| persons | 87 | | events | 54 |
-| organizations | 82 | | publications | 52 |
-| campaigns | 65 | | voices | 49 |
-| funders | 55 | | local-groups | 47 |
-| | | | messages | 47 |
-| | | | strategies | 14 |
+| persons | 92 | | voices | 57 |
+| organizations | 92 | | publications | 54 |
+| campaigns | 65 | | local-groups | 47 |
+| funders | 56 | | messages | 47 |
+| events | 54 | | strategies | 25 |
 
 **Geography — each entity assigned to one macro-region by tag set; entities with no geographic tag fall to `no-signal` (often persons whose geography lives via affiliation):**
 
 | region | count | | region | count |
 |---|---:|---|---|---:|
-| Europe | 132 | | Asia | 59 |
-| Americas-North | 120 | | Americas-Latin | 51 |
-| Africa | 76 | | MENA | 21 |
-| no-signal | 62 | | Oceania | 16 |
-| | | | Global-aggregate | 15 |
+| Americas-North | 135 | | Americas-Latin | 51 |
+| Europe | 134 | | MENA | 24 |
+| Africa | 76 | | Oceania | 18 |
+| no-signal | 74 | | Global-aggregate | 16 |
+| Asia | 61 | | | |
 
-**Cultural artifacts.** Messages, the mission's named under-tended type, are **47 entities — 8.5% of the corpus**.
+**Cultural artifacts.** Messages, the mission's named under-tended type, are **47 entities — 8.0% of the corpus**.
 
-**Insider/outsider engagement.** A coarse tag-based proxy for the mission's working principle (*are people outside AI being engaged in work to make AI better?*): **148 of 552 entities (26.8%) carry an outsider-audience tag.** The substring list driving the count is judgment; the count given the list is deterministic. See `process/coverage-script.sh`.
+**Insider/outsider engagement.** A coarse tag-based proxy for the mission's working principle (*are people outside AI being engaged in work to make AI better?*): **153 of 589 entities (26.0%) carry an outsider-audience tag.** The substring list driving the count is judgment; the count given the list is deterministic. See `process/coverage-script.sh`.
 
 ### 4 · Where we fall short, and why
 
 The judgment layer. Each verdict is tagged **correctable** (build-order or sourcing), **under-tended** (genuinely hard), or **deliberate** (out of scope or awaiting a decision).
 
-**Geographic skew — deliberate-plus-build-order.** Europe and Americas-North together hold **46% of the corpus (252 / 552)**. Latin America sits at 9%; MENA at 4%; Oceania at 3%. Sub-Saharan African coverage concentrates heavily on Kenya; South and Southeast Asia are thin; North America outside coastal tech hubs is thin. The skew is partly **build-order** — breadth-first work from English-language sources reaches Europe and North America first — and partly **deliberate**, because the team has not yet stood up the language and regional-sourcing tooling that would correct it at scale. Surfacing thin regions is a Synthesizer heuristic; concrete correction work flows through the Researcher inbox.
+**Geographic skew — deliberate-plus-build-order.** Europe and Americas-North together hold **46% of the corpus (269 / 589)**. Latin America sits at 9%; MENA at 4%; Oceania at 3%. Sub-Saharan African coverage concentrates heavily on Kenya; South and Southeast Asia are thin; North America outside coastal tech hubs is thin. The skew is partly **build-order** — breadth-first work from English-language sources reaches Europe and North America first — and partly **deliberate**, because the team has not yet stood up the language and regional-sourcing tooling that would correct it at scale. Surfacing thin regions is a Synthesizer heuristic; concrete correction work flows through the Researcher inbox.
 
-(More verdicts — on Messages thinness, Strategy seeding, audit coverage — will be added as the frame matures. v0.1 commits to *at least one* concrete verdict; the geographic one is the defensible one today.)
+**Strategy coverage — correctable / build-order.** The Strategy layer was seeded late (first entries 2026-06-06) and is **thin but actively being filled** — 25 named strategies in the corpus today, after a directed breadth pass; depth (evaluation of what works against what aims, ecology among strategies, adopter cross-linking) follows. Named here as a gap we are *closing on purpose*, not a deliberate omission. Naming a strategy takes no evidence — the test is whether the form holds — so breadth can move ahead of the slower evaluative layer.
+
+(More verdicts — on Messages thinness and audit coverage — will be added as the frame matures.)
 
 ### 5 · Blind-spot register — what our frame may not let us see
 
