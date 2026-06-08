@@ -13,7 +13,7 @@ website: https://www.gida-global.org/
 strategies: []
 key_people: []
 board_and_advisors: []
-related_orgs: []
+related_orgs: [org-first-nations-information-governance-centre]
 funders: []
 sources:
   - url: https://www.gida-global.org/whoweare
