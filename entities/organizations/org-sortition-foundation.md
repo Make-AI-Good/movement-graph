@@ -14,7 +14,8 @@ strategies:
   - strat-participatory-deliberation-as-policy-input
 key_people: []
 board_and_advisors: []
-related_orgs: []
+related_orgs:
+  - org-involve
 funders: []
 sources:
   - url: https://www.sortitionfoundation.org/
