@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 founded: 2011
 location: Los Angeles, California, USA (organising base in Skid Row, downtown Los Angeles; fiscally sponsored by the Los Angeles Community Action Network)
 website_or_contact: https://stoplapdspying.org/
-key_people: []
+key_people: [person-hamid-khan]
 sources:
   - url: https://stoplapdspying.org/
     last_checked: 2026-05-18
