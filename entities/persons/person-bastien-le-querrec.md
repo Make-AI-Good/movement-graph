@@ -18,7 +18,7 @@ public_profiles:
     url: https://mastodon.social/@blequerrec
   - platform: cairn
     url: https://shs.cairn.info/publications-de-bastien-le-querrec--765495?lang=fr
-voice_entry:
+voice_entry: voice-bastien-le-querrec
 sources:
   - url: https://www.laquadrature.net/nous/
     last_checked: 2026-05-18
