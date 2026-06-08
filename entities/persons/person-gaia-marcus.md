@@ -11,6 +11,7 @@ affiliations:
   - org: org-ada-lovelace-institute
     role: director
     period: 2024-
+voice_entry: voice-gaia-marcus
 public_profiles:
   - platform: ada-lovelace-institute
     url: https://www.adalovelaceinstitute.org/person/gaia-marcus/
