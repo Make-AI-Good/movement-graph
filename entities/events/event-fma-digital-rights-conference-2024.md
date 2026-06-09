@@ -15,7 +15,8 @@ participating_orgs:
   - org-foundation-for-media-alternatives
 participating_people:
   - person-liza-garcia
-related_events: []
+related_events:
+  - event-engagemedia-drapac23-chiang-mai-2023-05
 sources:
   - url: https://fma.ph/drc2024/
     last_checked: 2026-06-09
