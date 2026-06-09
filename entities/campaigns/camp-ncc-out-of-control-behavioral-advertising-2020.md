@@ -14,7 +14,8 @@ goals: |
 lead_orgs:
   - org-norwegian-consumer-council
 participating_orgs: []
-events: []
+events:
+  - event-ncc-out-of-control-report-launch-2020-01
 strategies:
   - strat-empirical-audit-and-expose
   - strat-coalition-lobbying-of-binding-regional-regulation
