@@ -16,6 +16,7 @@ lead_orgs:
 participating_orgs:
   - org-internet-freedom-foundation
 events:
+  - event-iff-delhi-police-frt-petition-2020
   - event-iff-project-panoptic-launch-2020-11-27
 strategies: []
 outcomes: |
