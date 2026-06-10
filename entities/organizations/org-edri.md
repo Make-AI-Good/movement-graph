@@ -14,7 +14,7 @@ strategies: [strat-coalition-lobbying-of-binding-regional-regulation]
 key_people: [person-ella-jakubowska]
 board_and_advisors: []
 related_orgs: [org-algorithmwatch, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net, org-hermes-center, org-tasz, org-article-19, org-digitale-gesellschaft, org-iure, org-norwegian-consumer-council, org-homo-digitalis]
-funders: [fund-open-society-foundations, fund-ford-foundation, fund-macarthur-foundation, fund-mozilla-foundation, fund-european-ai-society-fund, fund-luminate, fund-stiftung-mercator, fund-adessium-foundation]
+funders: [fund-open-society-foundations, fund-ford-foundation, fund-macarthur-foundation, fund-mozilla-foundation, fund-european-ai-society-fund, fund-luminate, fund-stiftung-mercator, fund-adessium-foundation, fund-limelight-foundation]
 sources:
   - url: https://edri.org/about-us/
     last_checked: 2026-05-13

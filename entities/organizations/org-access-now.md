@@ -14,7 +14,7 @@ strategies: [strat-coalition-lobbying-of-binding-regional-regulation]
 key_people: [person-felicia-anthonio, person-marwa-fatafta]
 board_and_advisors: []
 related_orgs: [org-edri, org-algorithmwatch, org-panoptykon-foundation, org-la-quadrature-du-net, org-article-19, org-citizen-lab, org-masaar, org-sinar-project, org-electronic-frontier-foundation]
-funders: [fund-ford-foundation, fund-open-society-foundations, fund-mozilla-foundation, fund-sigrid-rausing-trust, fund-european-ai-society-fund, fund-luminate, fund-patrick-j-mcgovern-foundation, fund-civitates, fund-hewlett-foundation, fund-charles-stewart-mott-foundation, fund-oak-foundation, fund-skoll-foundation]
+funders: [fund-ford-foundation, fund-open-society-foundations, fund-mozilla-foundation, fund-sigrid-rausing-trust, fund-european-ai-society-fund, fund-luminate, fund-patrick-j-mcgovern-foundation, fund-civitates, fund-hewlett-foundation, fund-charles-stewart-mott-foundation, fund-oak-foundation, fund-skoll-foundation, fund-limelight-foundation]
 sources:
   - url: https://www.accessnow.org/about-us/
     last_checked: 2026-05-13

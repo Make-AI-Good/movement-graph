@@ -14,7 +14,7 @@ strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, str
 key_people: []
 board_and_advisors: []
 related_orgs: [org-edri, org-panoptykon-foundation, org-la-quadrature-du-net, org-access-now]
-funders: [fund-adessium-foundation, fund-open-society-foundations, fund-civitates]
+funders: [fund-adessium-foundation, fund-open-society-foundations, fund-civitates, fund-limelight-foundation]
 sources:
   - url: https://www.bitsoffreedom.nl/en/what-we-do/
     last_checked: 2026-05-18

@@ -14,7 +14,7 @@ strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, str
 key_people: [person-bastien-le-querrec]
 board_and_advisors: []
 related_orgs: [org-edri, org-access-now, org-algorithmwatch, org-panoptykon-foundation]
-funders: [fund-digital-freedom-fund]
+funders: [fund-digital-freedom-fund, fund-limelight-foundation]
 sources:
   - url: https://www.laquadrature.net/en/
     last_checked: 2026-05-15
