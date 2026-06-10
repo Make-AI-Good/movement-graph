@@ -10,7 +10,7 @@ last_updated: 2026-06-09
 date: 2019-05-22
 location: Washington, D.C. — US House of Representatives, Committee on Oversight and Reform
 event_type: congressional testimony
-campaign:
+campaign: camp-fight-for-the-future-ban-frt-us-cities-2019-ongoing
 participating_orgs:
   - org-algorithmic-justice-league
   - org-aclu
