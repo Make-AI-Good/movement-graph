@@ -10,6 +10,7 @@ last_updated: 2026-06-07
 affiliations:
   - org: org-electronic-frontier-foundation
     role: advisory board member
+voice_entry: voice-michael-geist
 public_profiles:
   - platform: personal-site
     url: https://www.michaelgeist.ca/
