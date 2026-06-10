@@ -2,6 +2,7 @@
 entity_id: event-bof-syri-big-brother-award-2019-11-29
 entity_hash: eb5a4eeee875c4f000a143161888079510a64c2c
 audit_date: 2026-05-20
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 25

@@ -2,6 +2,7 @@
 entity_id: camp-stop-killer-robots-autonomous-weapons-treaty
 entity_hash: 61f362cf2289e07cdd00e72eaba60d377677dabf
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 27

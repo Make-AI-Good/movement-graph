@@ -2,6 +2,7 @@
 entity_id: event-andersen-v-stability-ai-class-action-filing-2023-01-13
 entity_hash: 1c2a688fe65d488c966b5c0d65461c847b1e9e42
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 28

@@ -2,6 +2,7 @@
 entity_id: event-concept-art-association-protecting-artists-gofundme-launch-2022-12-13
 entity_hash: afb1d136db49ecee7d77b97426281125a20462c2
 audit_date: 2026-05-20
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 21

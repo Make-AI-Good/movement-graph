@@ -2,6 +2,7 @@
 entity_id: event-bbw-stop-facial-recognition-joint-statement-2023-10-06
 entity_hash: 732f8559cba1d035e4a725bf4009b24847ec13ea
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 21

@@ -2,6 +2,7 @@
 entity_id: camp-worker-info-exchange-uber-driver-data-rights-uk
 entity_hash: 304cbec77ac0bd576379319ba2b964aa067b22db
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 20

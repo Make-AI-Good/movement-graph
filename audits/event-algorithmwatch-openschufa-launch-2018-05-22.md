@@ -2,6 +2,7 @@
 entity_id: event-algorithmwatch-openschufa-launch-2018-05-22
 entity_hash: 996f83fb94e882da72e90f26eaa14164dc4d68a1
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 22

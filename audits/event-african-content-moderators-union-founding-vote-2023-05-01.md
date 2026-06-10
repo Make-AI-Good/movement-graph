@@ -2,6 +2,7 @@
 entity_id: event-african-content-moderators-union-founding-vote-2023-05-01
 entity_hash: 95e1e9ec4f0e748f55ac5b30b7491427afd75367
 audit_date: 2026-06-05
+reclassified_at: 2026-06-10
 pass: 2
 status: corrections-pending
 claims_total: 15

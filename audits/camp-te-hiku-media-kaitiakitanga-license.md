@@ -2,6 +2,7 @@
 entity_id: camp-te-hiku-media-kaitiakitanga-license
 entity_hash: d9e960f68cebd92dd396459c7c3388154957d244
 audit_date: 2026-05-23
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 23

@@ -2,6 +2,7 @@
 entity_id: event-authors-guild-openai-class-action-filing-2023-09-20
 entity_hash: d95b4994c69f1acea71eef6f0103cf917d63d499
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 20

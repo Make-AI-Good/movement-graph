@@ -2,6 +2,7 @@
 entity_id: camp-wga-sag-aftra-ai-provisions-2023
 entity_hash: 1a9db284c9de5e5373badfa6f66f59c7e6b1fca6
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 16
