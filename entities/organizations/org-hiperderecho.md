@@ -11,7 +11,7 @@ founded: 2013
 location: Lima, Peru
 website: https://hiperderecho.org
 strategies: []
-key_people: []
+key_people: [person-miguel-morachimo]
 board_and_advisors: []
 related_orgs:
   - org-access-now
