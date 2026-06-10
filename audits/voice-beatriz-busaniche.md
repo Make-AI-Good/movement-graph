@@ -2,12 +2,12 @@
 entity_id: voice-beatriz-busaniche
 entity_hash: 863006e024f86313fcb3a302830e55884fe55ce0
 audit_date: 2026-06-10
-pass: 1
-status: unverifiable
-claims_total: 22
-claims_verified: 14
-claims_discrepancy: 0
-claims_unverifiable: 8
+pass: 2
+status: discrepancy
+claims_total: 23
+claims_verified: 20
+claims_discrepancy: 1
+claims_unverifiable: 2
 sources_consulted:
   - https://2020.allthingsopen.org/speakers/beatriz-busaniche/
   - https://blog.okfn.org/2023/04/20/beatriz-busaniche-hate-speech-is-sustained-by-stereotypes-which-are-often-driven-by-ai/
@@ -16,22 +16,41 @@ sources_consulted:
   - https://www.vialibre.org.ar/en/we-participated-in-the-iachr-hearing-artificial-intelligence-and-human-rights/
   - https://www.vialibre.org.ar/en/a-year-of-growth-and-major-challenges/
   - https://www.vialibre.org.ar/en/13964-2/
+  - https://www.vialibre.org.ar/en/home/
   - https://www.vialibre.org.ar/en/about-us/
-  - https://en.wikipedia.org/wiki/Beatriz_Busaniche
+  - https://www.vialibre.org.ar/edia-sesgos-de-genero/
+  - https://ia.vialibre.org.ar/en/home/
+  - https://ia.vialibre.org.ar/en/2024/06/05/a-tool-to-overcome-technical-barriers-for-bias-assessment-in-human-language-technologies/
+  - https://www.vialibre.org.ar/en/international-recognition-one-of-our-papers-among-the-highlights-of-iclr-2026/
+  - https://github.com/fvialibre/edia
+  - https://arxiv.org/abs/2505.24712
+  - https://aclanthology.org/2025.emnlp-main.1275/
+  - https://www.cels.org.ar/web/en/2023/04/the-court-of-appeals-of-the-city-of-buenos-aires-confirmed-the-unconstitutionality-of-the-use-of-the-fugitive-facial-recognition-system-srfp-implemented-by-the-buenos-aires-city-government/
+  - https://srfp.odia.legal/
+  - https://www.tedic.org/en/ai_iachr2025/
+  - https://es.wikipedia.org/wiki/Wikimedia_Argentina
+  - https://es.wikipedia.org/wiki/Sistema_de_Boleta_%C3%9Anica_Electr%C3%B3nica
+  - https://dl.acm.org/doi/10.1145/3653322
 ---
+
+Pass-2 re-audit (entity unchanged since pass 1; queued via `[work]` inbox item, Fable 5 A/B
+batch 2). Pass 1 left 9 claims unverifiable; this pass fetched secondary canonical sources
+and resolved 7 of them (6 to verified, 1 to discrepancy). Note: pass 1's frontmatter counts
+(14 V / 8 U) did not match its own per-claim decisions (13 V / 9 U); corrected by this
+overwrite.
 
 ## Claim 1: "president of [Fundación Vía Libre]"
 
 Source: https://2020.allthingsopen.org/speakers/beatriz-busaniche/
 Source content: "President at Fundación Vía Libre - Argentina"
-Comparison: Body matches source. Cross-checked against person-beatriz-busaniche pass 1 Claim 1 (verified).
+Comparison: Body matches source; OKFN interview (2023) independently confirms the role.
 Decision: verified
 
 ## Claim 2: "Córdoba-headquartered Argentine civil-society organisation" (Fundación Vía Libre)
 
-Source: cross-reference to org-fundacion-via-libre audit (verified via vialibre.org.ar's own about page).
-Source content: Vía Libre entity carries `location: Córdoba, Argentina` sourced to its own about page per org-fundacion-via-libre audit pass 1 (status verified).
-Comparison: Body matches.
+Source: https://www.vialibre.org.ar/en/about-us/
+Source content: "Fundación Vía Libre is a non-profit civil organization established in Córdoba, Argentina, in 2000."
+Comparison: Body matches the organisation's own about page (fetched this session).
 Decision: verified
 
 ## Claim 3: self-description "an activist for Free Software, free culture and human rights in environments mediated by ICTs"
@@ -43,133 +62,140 @@ Decision: verified
 
 ## Claim 4: "co-founded Wikimedia Argentina in 2007"
 
-Source: https://blog.okfn.org/2023/04/20/beatriz-busaniche-hate-speech-is-sustained-by-stereotypes-which-are-often-driven-by-ai/
-Source content: Confirmed via OKFN interview's listing of Wikimedia Argentina co-founder role. Cross-ref person-beatriz-busaniche Claim 9 (verified against pt.wikipedia).
-Comparison: Body matches source.
+Source: https://blog.okfn.org/2023/04/20/beatriz-busaniche-hate-speech-is-sustained-by-stereotypes-which-are-often-driven-by-ai/; https://es.wikipedia.org/wiki/Wikimedia_Argentina
+Source content: OKFN: "co-founder of the Argentine chapter of Wikimedia". es.wikipedia: "la Asamblea fundacional de Wikimedia Argentina tuvo lugar el 1 de septiembre de 2007 con 28 miembros fundadores."
+Comparison: Co-founder role from OKFN (primary interview); the 2007 founding date is a named-entity definitional fact for which Wikipedia-alone is sufficient per the source rule. Both halves match.
 Decision: verified
 
 ## Claim 5: "long-standing member of the Creative Commons Argentina team"
 
 Source: https://blog.okfn.org/2023/04/20/beatriz-busaniche-hate-speech-is-sustained-by-stereotypes-which-are-often-driven-by-ai/
-Source content: "Member of the Creative Commons Argentina team"
-Comparison: Cross-ref person-beatriz-busaniche Claim 11 (verified). "Long-standing" within paraphrase tolerance.
+Source content: "a member of the Creative Commons Argentina team"
+Comparison: Body matches source; "long-standing" within paraphrase tolerance given her two-decade public record.
 Decision: verified
 
 ## Claim 6: "teaching texts — used in her courses at the Universidad de Buenos Aires, Universidad Torcuato Di Tella, and FLACSO"
 
-Source: cross-reference to person-beatriz-busaniche pass 1 Claim 7 (verified against es.wikipedia.org/wiki/Beatriz_Busaniche).
-Source content: "Es docente en grado y posgrado en la Universidad de Buenos Aires, la Universidad Torcuato Di Tella y en FLACSO."
-Comparison: The three universities are confirmed; the body's specific claim that the named books are her teaching texts there is an interpretive overlay the source does not establish.
+Source: https://2020.allthingsopen.org/speakers/beatriz-busaniche/
+Source content: "a professor at the University of Buenos Aires and at Flacso Argentina" — the source confirms two of the three academic posts but says nothing about which texts she teaches from.
+Comparison: The academic posts are substantially confirmed (UBA, FLACSO; Di Tella only via Wikipedia, which is tiebreaker-only for living-person employment specifics). The specific claim that *Monopolios Artificiales sobre Bienes Intangibles* and *Propiedad Intelectual y Derechos Humanos* are the teaching texts used in those courses is an interpretive overlay no consulted source establishes.
 Decision: unverifiable
 
 ## Claim 7: "Boleta Única Electrónica (BUE) electronic voting machines introduced in Buenos Aires City elections from 2015 onward"
 
-Source: https://www.vialibre.org.ar/en/about-us/ (entity-cited source 8); https://en.wikipedia.org/wiki/Beatriz_Busaniche (404, no Wikipedia article)
-Source content: The Vía Libre about-us page lists "Civil and Political Rights and Electoral Technologies" as a programme area but does not name the BUE system, Buenos Aires City, or the 2015 introduction date. No other canonical source consulted in this session confirms the BUE name, the Buenos Aires City scope, or the 2015 date.
-Comparison: Specific named-system, jurisdiction, and date claim not established by the sources consulted.
-Decision: unverifiable
+Source: https://es.wikipedia.org/wiki/Sistema_de_Boleta_%C3%9Anica_Electr%C3%B3nica; https://www.vialibre.org.ar/en/about-us/
+Source content: es.wikipedia (via search-result content): "El sistema salteño fue luego utilizado en las elecciones del 2014 en Ecuador y en 2015 en las elecciones a Jefe de Gobierno de ciudad autónoma de Buenos Aires." Vía Libre about-us confirms the campaign context: monitoring of "the adoption of electoral technologies, including electronic voting machines" since 2003, hashtag "#NoAlVotoElectrónico (#NoEVoting)".
+Comparison: BUE use in the 2015 Buenos Aires City elections is a date-of-public-event fact for which Wikipedia-alone is sufficient per the source rule; the named system, jurisdiction, and 2015 date all match. (Resolves pass-1 unverifiable.)
+Decision: verified
 
 ## Claim 8: "Ekoparty's lifetime-achievement recognition of Vía Libre's electronic-voting security audit work"
 
-Source: https://www.vialibre.org.ar/en/a-year-of-growth-and-major-challenges/ (entity-cited source 6)
-Source content: "we are grateful for the recognition with the first lifetime achievement award presented by Ekoparty as part of its event celebrating 25 years of the most important security conference in the region"
-Comparison: The source confirms Ekoparty gave Vía Libre a lifetime-achievement award but does not specify *for which work* (electronic-voting security audit vs. other security work). The body's attribution of the recognition specifically to electronic-voting security audit work is an interpretive overlay the source does not establish.
+Source: https://www.vialibre.org.ar/en/a-year-of-growth-and-major-challenges/
+Source content: "the first lifetime achievement award presented by Ekoparty as part of its event celebrating 25 years of the most important security conference in the region" — the source does not say which body of work the award recognised.
+Comparison: The award is confirmed; its attribution specifically to electronic-voting security audit work (rather than Vía Libre's security work generally) is an interpretive overlay the source does not establish.
 Decision: unverifiable
 
 ## Claim 9: "hate speech is sustained by stereotypes, which are often driven by AI"
 
 Source: https://blog.okfn.org/2023/04/20/beatriz-busaniche-hate-speech-is-sustained-by-stereotypes-which-are-often-driven-by-ai/
-Source content: Article-title and headline quote verbatim, attributed to Busaniche in the 2023 OKFN interview.
-Comparison: Verbatim quote match.
+Source content: Article title quotes her verbatim: "Hate speech is sustained by stereotypes, which are often driven by AI" (OKFN interview, 20 April 2023).
+Comparison: Verbatim quote match, correctly attributed and dated.
 Decision: verified
 
 ## Claim 10: "EDIA — **E**stereotipos y **D**iscriminación en **I**nteligencias **A**rtificiales"
 
-Source: https://aplusalliance.org/e-d-i-a-a-democratising-toolkit-to-audit-biases-and-stereotypes-in-language-models/ (entity-cited source 2); https://www.vialibre.org.ar/en/about-us/ (entity-cited source 8)
-Source content: aplusalliance refers to the project as "E.D.I.A." but does not expand the acronym. Vía Libre's about-us page does not mention EDIA at all. No source consulted in this session expands the acronym as "Estereotipos y Discriminación en Inteligencias Artificiales".
-Comparison: Specific Spanish-expansion claim not established by the sources consulted.
-Decision: unverifiable
+Source: https://www.vialibre.org.ar/edia-sesgos-de-genero/; https://github.com/fvialibre/edia
+Source content: Vía Libre's own page: "La herramienta EDIA (Estereotipos y Discriminación en Inteligencia Artificial) fue desarrollada por el equipo de Etica en IA". GitHub repo (fvialibre/edia) English title: "EDIA: Stereotypes and Discrimination in Artificial Intelligence".
+Comparison: The body expands the acronym with plural "Inteligencias Artificiales"; the developer's own canonical expansion is singular "Inteligencia Artificial" (both the Spanish page and the English repo title agree). Fix location: body section "## \"Hate speech is sustained by stereotypes...\"", second paragraph, bolded acronym expansion — single replacement "Inteligencias Artificiales" → "Inteligencia Artificial". (Resolves pass-1 unverifiable to a citable discrepancy.)
+Decision: discrepancy
 
 ## Claim 11: "Co-developed alongside Laura Alonso Alemany and Luciana Benotti of the Universidad Nacional de Córdoba's FAMAF faculty"
 
-Source: https://aplusalliance.org/e-d-i-a-a-democratising-toolkit-to-audit-biases-and-stereotypes-in-language-models/
-Source content: "Laura Alonso Alemany, Luciana Benotti, Beatriz Busaniche (Fundación Vía Libre, Argentina)"
-Comparison: aplusalliance lists Alonso Alemany and Benotti under the Vía Libre affiliation only, not FAMAF. The team-composition portion matches; the FAMAF (UNC) faculty affiliation is not established by the sources consulted. Cross-ref person-beatriz-busaniche pass 1 Claim 16 (also unverifiable).
-Decision: unverifiable
+Source: https://ia.vialibre.org.ar/en/2024/06/05/a-tool-to-overcome-technical-barriers-for-bias-assessment-in-human-language-technologies/; https://aplusalliance.org/e-d-i-a-a-democratising-toolkit-to-audit-biases-and-stereotypes-in-language-models/
+Source content: Vía Libre's own IA site lists the EDIA authors as "Laura Alonso Alemany, Luciana Benotti, Lucía González, Hernán Maina, Sección de Computación, FAMAF, Universidad Nacional de Córdoba, Fundación Via Libre Argentina". A+ Alliance lists "Laura Alonso Alemany, Luciana Benotti, Beatriz Busaniche (Fundación Vía Libre, Argentina)" as the team.
+Comparison: Team composition and the FAMAF / Universidad Nacional de Córdoba affiliation both confirmed by the project's own publication page. (Resolves pass-1 unverifiable.)
+Decision: verified
 
 ## Claim 12: EDIA "supporting English and Spanish base models out of the box"
 
-Source: https://aplusalliance.org/e-d-i-a-a-democratising-toolkit-to-audit-biases-and-stereotypes-in-language-models/; https://www.vialibre.org.ar/en/about-us/
-Source content: Neither cited source contains specific language-support claims for the EDIA toolkit.
-Comparison: Specific technical claim (English + Spanish base-model support out of the box) not established by sources consulted.
-Decision: unverifiable
+Source: https://github.com/fvialibre/edia
+Source content: "The tool has models in Spanish and English to work with and explore biases in different languages"; the repo setup downloads English and Spanish embeddings and vocabulary files by default.
+Comparison: Vía Libre's own repository (primary source) confirms Spanish and English models ship with the tool; "out of the box" is within paraphrase tolerance of default-provided models. (Resolves pass-1 unverifiable.)
+Decision: verified
 
 ## Claim 13: "selected in 2024 as one of five Mozilla Data Futures Lab Infrastructure Fund awardees"
 
 Source: https://aplusalliance.org/e-d-i-a-a-democratising-toolkit-to-audit-biases-and-stereotypes-in-language-models/
 Source content: "E.D.I.A. has recently been selected as one of five funded projects in Mozilla's Data Futures Lab 2024 Infrastructure Fund Award."
-Comparison: Body matches source verbatim on count ("one of five"), year (2024), and award name.
+Comparison: Count ("one of five"), year (2024), and award name all match.
 Decision: verified
 
 ## Claim 14: "in 2025 won the Mozilla Festival audience-vote impact award in Barcelona"
 
 Source: https://www.vialibre.org.ar/en/a-year-of-growth-and-major-challenges/
-Source content: "We crowned that achievement with the public vote for the most impactful project at the Mozilla Festival in Barcelona." (2025 year-in-review context)
-Comparison: "audience-vote" paraphrases "public vote"; "impact award" paraphrases "most impactful project"; Barcelona location matches; 2025 supplied by the source's containing year-in-review framing.
+Source content: "We crowned that achievement with the public vote for the most impactful project at the Mozilla Festival in Barcelona." (2025 year-in-review)
+Comparison: "Audience-vote" paraphrases "public vote"; "impact award" paraphrases "most impactful project"; Barcelona and 2025 match the source and its year-in-review framing.
 Decision: verified
 
 ## Claim 15: "2023 ACL workshop paper *Bias assessment for experts in discrimination, not in computer science*"
 
 Source: https://aclanthology.org/2023.c3nlp-1.10/
-Source content: Title, year, and Busaniche co-authorship confirmed (cross-ref person-beatriz-busaniche pass 1 Claim 17, verified).
-Comparison: Body matches source.
+Source content: Title "Bias assessment for experts in discrimination, not in computer science", First Workshop on Cross-Cultural Considerations in NLP (C3NLP), May 2023; authors include Laura Alonso Alemany, Luciana Benotti, and Beatriz Busaniche. Abstract: "In this paper we present EDIA, a tool that facilitates that experts in discrimination explore social biases in word embeddings and masked language models."
+Comparison: Title, year, venue, and Busaniche co-authorship all match; the abstract also ties the paper to EDIA as the body claims.
 Decision: verified
 
 ## Claim 16: "2024 Communications of the ACM article *Exploring Stereotypes and Biases in Language Technologies in Latin America*"
 
-Source: https://cacm.acm.org/author/beatriz-busaniche/ (entity-cited source 3; not separately fetched this session)
-Source content: Entity's own sources[2].note attests author profile + 2024 article with EDIA team; the URL is consistent with that. No discrepancy with any source consulted in this session.
-Comparison: Within Wikipedia-alone equivalent for definitional fact about a public-record academic publication; the entity-cited primary source (CACM author profile) attests it.
+Source: https://dl.acm.org/doi/10.1145/3653322
+Source content: "Exploring Stereotypes and Biases in Language Technologies in Latin America", Communications of the ACM, Vol. 67 No. 8 (August 2024), pp. 54–56; authors Hernán Maina, Laura Alonso Alemany, Guido Ivetta, Mariela Rajngewerc, Beatriz Busaniche, Luciana Benotti.
+Comparison: Title, venue, year, and EDIA-team co-authorship confirmed against the ACM Digital Library record (the entity-cited cacm.acm.org author page returned HTTP 403 this session; the publisher's DOI record is the stronger primary record). Strengthens pass 1, which had verified this claim without a fetch.
 Decision: verified
 
 ## Claim 17: HESEIA = "a community-based dataset for evaluating social biases in large language models, co-designed in real school settings in Latin America"
 
-Source: https://www.vialibre.org.ar/en/home/ (entity-cited source 9)
-Source content: Per entity sources[8].note, this is the verbatim Vía Libre home-page self-description.
-Comparison: Quote is presented verbatim in the body and is consistent with the entity's own source note for the Vía Libre home page.
+Source: https://www.vialibre.org.ar/en/home/
+Source content: "HESEIA: A community-based dataset for evaluating social biases in large language models, co-designed in real school settings in Latin America"
+Comparison: Verbatim quote match against the Vía Libre home page, fetched this session.
 Decision: verified
 
-## Claim 18: "June 2024 launch ... extension course *Tools to Explore Biases and Stereotypes of Artificial Intelligence in the Classroom* ... more than 500 registrants ... 34.1% from outside the provincial capital ... 55.6% with no prior AI-tool experience"
+## Claim 18: "June 2024 launch ... extension course *Tools to Explore Biases and Stereotypes of Artificial Intelligence in the Classroom* ... more than 500 registrants ... 34.1% from outside the provincial capital ... 55.6% with no prior AI-tool experience" (+ sources[9].note: FAMAF and Córdoba Ministry of Education partnership; instructors Benotti and Echeveste)
 
 Source: https://www.vialibre.org.ar/en/13964-2/
-Source content: "With more than 500 registrants, on Saturday, June 1, the extension course 'Tools to Explore Biases and Stereotypes of Artificial Intelligence in the Classroom' (RCD 205/2024 – FAMAF) was launched"; "34.1% of the registered teachers are from outside the provincial capital"; "55.6% acknowledge that they have never used tools with artificial intelligence."
-Comparison: All four quantitative/temporal/identification claims match source verbatim or near-verbatim.
+Source content: "With more than 500 registrants, on Saturday, June 1, the extension course 'Tools to Explore Biases and Stereotypes of Artificial Intelligence in the Classroom' was launched"; "34.1% of the registered teachers are from outside the provincial capital"; "55.6% acknowledge that they have never used tools with artificial intelligence"; partners "the Faculty of Mathematics, Astronomy, Physics, and Computing (FAMAF), the Vía Libre Foundation, and the Ministry of Education of the Province of Córdoba"; led by "Luciana Benotti and Emilia Echeveste".
+Comparison: All quantitative, temporal, and identification claims — body and the scalar at sources[9].note — match the source verbatim or near-verbatim.
 Decision: verified
 
 ## Claim 19: "HESEIA / EDIA combination was accepted at EMNLP 2025"
 
-Source: https://www.vialibre.org.ar/en/a-year-of-growth-and-major-challenges/
-Source content: "Our work and academic output was selected by a very demanding jury for presentation at EMNLP2025, the world's most important natural language processing conference"
-Comparison: Source confirms EMNLP 2025 acceptance for Vía Libre work; the HESEIA/EDIA attribution is consistent with the broader Vía Libre programme structure.
+Source: https://aclanthology.org/2025.emnlp-main.1275/; https://www.vialibre.org.ar/en/a-year-of-growth-and-major-challenges/
+Source content: ACL Anthology carries "HESEIA: A community-based dataset for evaluating social biases in large language models, co-designed in real school settings in Latin America" as EMNLP 2025 main-conference paper 1275 (Busaniche and Benotti among authors per the arXiv record at arxiv.org/abs/2505.24712). Vía Libre year-in-review: "Our work and academic output was selected by a very demanding jury for presentation at EMNLP2025".
+Comparison: The HESEIA paper's EMNLP 2025 acceptance is now confirmed by the conference's own anthology record, closing the attribution gap pass 1 noted.
 Decision: verified
 
 ## Claim 20: "a related paper recognised at ICLR 2026"
 
-Source: https://www.vialibre.org.ar/en/a-year-of-growth-and-major-challenges/; https://en.wikipedia.org/wiki/Beatriz_Busaniche (404)
-Source content: The Vía Libre year-in-review (which covers 2025) does not mention ICLR 2026. No other source consulted in this session names an ICLR 2026 paper.
-Comparison: Specific named-venue claim (ICLR 2026) not established by sources consulted.
-Decision: unverifiable
+Source: https://www.vialibre.org.ar/en/international-recognition-one-of-our-papers-among-the-highlights-of-iclr-2026/
+Source content: Sofía Martinelli presented research developed with Luciana Benotti and Guido Ivetta at ICLR 2026; the paper was "selected for an oral presentation at the workshop, a distinction awarded to only 8 papers out of the 206 accepted submissions" and received "the Outstanding Paper recognition, granted to the most notable works presented in the oral session."
+Comparison: Vía Libre's own announcement confirms a paper recognised at ICLR 2026 by HESEIA-team authors (Benotti, Ivetta) on bias evaluation in reasoning models — "related paper" holds within paraphrase tolerance. (Resolves pass-1 unverifiable.)
+Decision: verified
 
 ## Claim 21: "the wider regional civil-society submission co-signed by seventeen Latin American organisations" (IACHR hearing)
 
-Source: https://www.vialibre.org.ar/en/we-participated-in-the-iachr-hearing-artificial-intelligence-and-human-rights/
-Source content: The page enumerates twelve named participating civil-society organisations (Article 19 Mexico and Central America Office; Human Rights Centre, Faculty of Law U. of Chile; Centro de Estudios en Derecho, Tecnología y Sociedad; CELS; Democracia en Red; Digital Rights; Fundación Vía Libre; ICNL; ODIA; PUCRS; R3D; Red Feminista de Investigación en Inteligencia Artificial Nodo Latinoamerica) under the heading "Civil Society Organisations that participated in the session." The page does not provide an explicit total count or name a "seventeen" figure.
-Comparison: Body claim of seventeen co-signing organisations is not established by the cited source; the source enumerates twelve named participants and gives no total. Cannot confirm or rule out additional co-signers beyond the enumerated list.
-Decision: unverifiable
+Source: https://www.tedic.org/en/ai_iachr2025/; https://www.vialibre.org.ar/en/we-participated-in-the-iachr-hearing-artificial-intelligence-and-human-rights/
+Source content: TEDIC: "Derechos Digitales de América Latina led the drafting of the region's civil society contributions, a collaborative effort involving 17 organizations." The Vía Libre page separately lists twelve organisations under "Civil Society Organisations that participated in the session."
+Comparison: The seventeen figure attaches to the regional written contribution (TEDIC, a participating organisation's primary account), which is consistent with twelve organisations participating in the hearing session itself — the two counts describe different things and do not conflict. Body matches. (Resolves pass-1 unverifiable.)
+Decision: verified
 
 ## Claim 22: "multi-year challenge to the City of Buenos Aires's Fugitive Facial Recognition System (SRFP) — in which ODIA's *amparo* lawsuit (joined by Vía Libre as *amicus curiae*) had produced the September 2022 first-instance unconstitutionality ruling and the April 2023 Court of Appeals confirmation"
 
+Source: https://www.cels.org.ar/web/en/2023/04/the-court-of-appeals-of-the-city-of-buenos-aires-confirmed-the-unconstitutionality-of-the-use-of-the-fugitive-facial-recognition-system-srfp-implemented-by-the-buenos-aires-city-government/; https://srfp.odia.legal/
+Source content: CELS: "In 2020, ODIA initiated an amparo action in which it challenged the constitutionality and legality of the regulations"; "in September 2022 she ruled that the implementation of the SRFP by the Buenos Aires government was unconstitutional"; confirmed by "the Court of Appeals on April 28" (2023). ODIA's own case site lists Fundación Vía Libre among the amici curiae filings.
+Comparison: Named system (SRFP), ODIA's amparo, Vía Libre's amicus role, the September 2022 first-instance ruling, and the April 2023 appellate confirmation are each confirmed by a primary or canonical source. (Resolves pass-1 unverifiable.)
+Decision: verified
+
+## Claim 23: "On 7 March 2025 she appeared at the Inter-American Commission on Human Rights' regional hearing ... on behalf of a four-organisation Argentine civil-society coalition — CELS, Democracia en Red, Fundación Vía Libre, and ODIA — raising concerns about the Argentine state's adoption of predictive-algorithm surveillance technologies"
+
 Source: https://www.vialibre.org.ar/en/we-participated-in-the-iachr-hearing-artificial-intelligence-and-human-rights/
-Source content: The cited IACHR source (entity source 5) does not mention SRFP, the ODIA amparo lawsuit, the September 2022 unconstitutionality ruling, the April 2023 Court of Appeals confirmation, or Vía Libre's amicus curiae role in any of those proceedings.
-Comparison: Specific named-system (SRFP), named-procedure (amparo, amicus curiae), and dated court rulings (September 2022 first-instance; April 2023 appellate) not established by the sources consulted; no other canonical source consulted in this session confirms them.
-Decision: unverifiable
+Source content: "On 7 March, we participated virtually in the regional thematic hearing" (2025); Busaniche spoke for the consortium of Centro de Estudios Legales y Sociales (CELS), Democracia en Red, Fundación Vía Libre, and Observatorio de Derecho Informático Argentino (ODIA); the presentation expressed alarm about "the use of surveillance technologies based on predictive algorithms by state actors" and the lack of "adequate legislation to regulate the incorporation of AI in these tasks".
+Comparison: Date, speaker role, the four named coalition organisations, and the predictive-algorithm surveillance concern all match. (New claim this pass — pass 1 carried no explicit entry for the hearing's core facts.)
+Decision: verified
