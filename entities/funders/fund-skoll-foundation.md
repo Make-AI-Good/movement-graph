@@ -21,7 +21,7 @@ sources:
     note: ProPublica Nonprofit Explorer for Skoll Foundation (EIN 11-3659133) — San Francisco address; FY2024 revenue $47.9M, total assets $846,865,174, charitable disbursements $70,996,475; Donald Gips listed as CEO
   - url: https://en.wikipedia.org/wiki/Skoll_Foundation
     last_checked: 2026-05-29
-    note: Skoll Foundation Wikipedia entry — Jeff Skoll as founder; eBay first president; civil engineering degree McGill University, MBA Stanford; combined assets ~$2.2B unaudited Dec 31 2025; cumulative giving more than $1.3B across 425+ organisations
+    note: Skoll Foundation Wikipedia entry — Jeff Skoll as founder; eBay first president; cumulative giving more than $1.3B across 425+ organisations
   - url: https://skoll.org/about/financials/
     last_checked: 2026-05-29
     note: Skoll Foundation financials page — combined assets $2.202 billion as of Dec 31 2025 ($1.019B Foundation + $1.183B Fund); $128M awarded in 2025 (30% spending increase announced at 2025 Skoll World Forum)
