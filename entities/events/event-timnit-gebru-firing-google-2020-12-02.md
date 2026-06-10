@@ -12,7 +12,8 @@ location: Mountain View, CA
 event_type: forced employee departure
 participating_orgs: []
 participating_people: [person-timnit-gebru]
-related_events: []
+related_events:
+  - event-openai-employees-safety-letter-2024-06-04
 sources:
   - url: https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/
     last_checked: 2026-06-10
