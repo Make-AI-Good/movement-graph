@@ -8,6 +8,7 @@ tags: [us, anthropologist, media-scholar, microsoft-research, indiana-university
 created: 2026-06-08
 last_updated: 2026-06-08
 affiliations: []
+voice_entry: voice-mary-l-gray
 public_profiles:
   - platform: personal-site
     url: https://marylgray.org/
