@@ -11,7 +11,7 @@ founded: 2010
 location: Kuala Lumpur, Malaysia
 website: https://sinarproject.org
 strategies: []
-key_people: []
+key_people: [person-khairil-yusof]
 board_and_advisors: []
 related_orgs:
   - org-article-19
