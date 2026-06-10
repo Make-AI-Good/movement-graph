@@ -3,6 +3,7 @@ entity_id: fund-nuffield-foundation
 entity_hash: 05fb2747dd8fe589f35b329bd5ad34adb8c65d56
 audit_date: 2026-06-08
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 24
 claims_corroborated: 22

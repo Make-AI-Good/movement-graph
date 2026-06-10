@@ -3,6 +3,7 @@ entity_id: fund-sasakawa-peace-foundation
 entity_hash: dc511b96d724a20073e29764d1785074eed8c39e
 audit_date: 2026-06-09
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 33
 claims_corroborated: 25

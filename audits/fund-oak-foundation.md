@@ -3,6 +3,7 @@ entity_id: fund-oak-foundation
 entity_hash: bc0ee80700e286e9c6160529ddea0585176c5666
 audit_date: 2026-06-07
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 31
 claims_corroborated: 29

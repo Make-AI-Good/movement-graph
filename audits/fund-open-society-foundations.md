@@ -3,6 +3,7 @@ entity_id: fund-open-society-foundations
 entity_hash: b1afdf8d33266a011c304e9e36caa6b0616c0e26
 audit_date: 2026-05-22
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 28
 claims_corroborated: 26

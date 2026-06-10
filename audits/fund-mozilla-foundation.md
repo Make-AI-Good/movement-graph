@@ -3,6 +3,7 @@ entity_id: fund-mozilla-foundation
 entity_hash: 51f160534223d03af69801af75510135a358bef4
 audit_date: 2026-06-07
 pass: 2
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 35
 claims_corroborated: 29

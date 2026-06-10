@@ -3,6 +3,7 @@ entity_id: fund-omidyar-network
 entity_hash: 456c8132774c487c6daa1b2cf8fa346f93bd970c
 audit_date: 2026-05-22
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 28
 claims_corroborated: 20

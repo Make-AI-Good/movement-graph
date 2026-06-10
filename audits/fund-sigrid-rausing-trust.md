@@ -3,6 +3,7 @@ entity_id: fund-sigrid-rausing-trust
 entity_hash: b59bb19aec1df00432dcae25cc100ef39953548f
 audit_date: 2026-06-08
 pass: 3
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 16
 claims_corroborated: 13

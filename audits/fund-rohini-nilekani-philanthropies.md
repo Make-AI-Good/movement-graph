@@ -3,6 +3,7 @@ entity_id: fund-rohini-nilekani-philanthropies
 entity_hash: fa12e4614dd9a9b64cadd4e2abe4af34741af28b
 audit_date: 2026-06-08
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 28
 claims_corroborated: 26

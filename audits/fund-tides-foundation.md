@@ -3,13 +3,14 @@ entity_id: fund-tides-foundation
 entity_hash: f8cf6c976f7fe02f01940df1bd12b30291529013
 audit_date: 2026-05-22
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 25
-claims_corroborated: 22
+claims_corroborated: 21
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 3
+claims_uncorroborated: 4
 sources_consulted:
   - https://en.wikipedia.org/wiki/Tides_Foundation
   - https://www.tides.org/what-we-do/fiscal-sponsorship/

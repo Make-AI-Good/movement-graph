@@ -3,6 +3,7 @@ entity_id: fund-robert-bosch-stiftung
 entity_hash: 6015d899caabfdba317c7012218ee917da040154
 audit_date: 2026-06-08
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 33
 claims_corroborated: 31

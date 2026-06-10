@@ -3,6 +3,7 @@ entity_id: fund-stiftung-mercator
 entity_hash: ce94987458500308955194e79b6aa846ce554a45
 audit_date: 2026-06-08
 pass: 3
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 26
 claims_corroborated: 24

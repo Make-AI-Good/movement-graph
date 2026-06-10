@@ -3,6 +3,7 @@ entity_id: fund-patrick-j-mcgovern-foundation
 entity_hash: a6250b4195aa58d7a859ada87f04f9bad334b05c
 audit_date: 2026-05-22
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 31
 claims_corroborated: 30

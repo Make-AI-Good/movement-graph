@@ -3,6 +3,7 @@ entity_id: fund-stefan-batory-foundation
 entity_hash: 322788f935b989607352a9f8f9a9add77c30fe07
 audit_date: 2026-06-08
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 26
 claims_corroborated: 22

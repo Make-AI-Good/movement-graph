@@ -3,6 +3,7 @@ entity_id: fund-wellcome-trust
 entity_hash: b5cf3bd6c37bbf8e773b91104165b238d3536e6a
 audit_date: 2026-06-08
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 21
 claims_corroborated: 18

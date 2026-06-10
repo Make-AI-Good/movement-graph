@@ -3,13 +3,14 @@ entity_id: fund-nationale-postcode-loterij
 entity_hash: 095c4e615544953053266739d99fef293ff73ca7
 audit_date: 2026-06-06
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 28
-claims_corroborated: 20
+claims_corroborated: 21
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 8
+claims_uncorroborated: 7
 sources_consulted:
   - https://en.wikipedia.org/wiki/Nationale_Postcode_Loterij
   - https://en.wikipedia.org/wiki/Postcode_Lottery_Group
