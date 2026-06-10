@@ -2,6 +2,7 @@
 entity_id: event-mijente-notechforice-campus-actions-2019-11
 entity_hash: 456d58182543f03778c4ce407f3294f46cfcd752
 audit_date: 2026-06-05
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 25

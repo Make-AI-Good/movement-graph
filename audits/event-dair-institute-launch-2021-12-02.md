@@ -2,6 +2,7 @@
 entity_id: event-dair-institute-launch-2021-12-02
 entity_hash: b9da79c421ac53b17ca003177649d21dcc1be828
 audit_date: 2026-06-02
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 23

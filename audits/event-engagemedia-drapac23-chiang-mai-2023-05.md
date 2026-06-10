@@ -2,14 +2,15 @@
 entity_id: event-engagemedia-drapac23-chiang-mai-2023-05
 entity_hash: ad52a0dba1a0021d5f48fb844370b0ec13f8dcb1
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 21
-claims_corroborated: 11
+claims_corroborated: 12
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 10
+claims_uncorroborated: 9
 sources_consulted:
   - https://globalvoices.org/2023/05/21/time-for-reflection-on-lock-ins-lockdowns-and-shutdowns-at-the-digital-rights-asia-pacific-assembly/
   - https://www.apc.org/en/pubs/digital-rights-asia-pacific-assembly-drapac23-statement-solidarity

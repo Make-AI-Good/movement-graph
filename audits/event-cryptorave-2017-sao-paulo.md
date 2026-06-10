@@ -2,6 +2,7 @@
 entity_id: event-cryptorave-2017-sao-paulo
 entity_hash: 9bef3a7220b6f230496df0523847fe34d82f2574
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 31

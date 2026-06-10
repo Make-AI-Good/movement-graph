@@ -2,6 +2,7 @@
 entity_id: event-edri-reclaim-your-face-eci-launch-2021-02-17
 entity_hash: 8777afce3b9402135dfc5e1f6d06a638a22d4bf6
 audit_date: 2026-06-04
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 18

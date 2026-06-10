@@ -2,6 +2,7 @@
 entity_id: event-foxglove-gmcdp-dwp-closing-disclosure-2025-05-06
 entity_hash: 610a25901f61977435696186bd662213e34c1ff3
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 16

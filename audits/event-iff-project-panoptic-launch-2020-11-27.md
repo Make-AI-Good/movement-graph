@@ -2,6 +2,7 @@
 entity_id: event-iff-project-panoptic-launch-2020-11-27
 entity_hash: f3d58ff4ee914c1c3eccf373f1ee29126356303e
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 25

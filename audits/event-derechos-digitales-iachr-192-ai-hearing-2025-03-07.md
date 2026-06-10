@@ -2,6 +2,7 @@
 entity_id: event-derechos-digitales-iachr-192-ai-hearing-2025-03-07
 entity_hash: eb6658ee0c3c314d1b44ca0fab99d0bc8f52e52b
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 20

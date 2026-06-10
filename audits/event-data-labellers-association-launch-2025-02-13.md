@@ -2,6 +2,7 @@
 entity_id: event-data-labellers-association-launch-2025-02-13
 entity_hash: f16756c4d294e7fa98ff57ba988a4f4d4fb8f62a
 audit_date: 2026-06-02
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 16

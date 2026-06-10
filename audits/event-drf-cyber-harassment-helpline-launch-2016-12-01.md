@@ -2,6 +2,7 @@
 entity_id: event-drf-cyber-harassment-helpline-launch-2016-12-01
 entity_hash: 26f3f3c814e4037f3e80b7f84793bad6a6b2253f
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 23

@@ -2,6 +2,7 @@
 entity_id: event-foxglove-motaung-meta-sama-petition-filing-2022-05-10
 entity_hash: 280e6d241997ad3170b49600fa47cf851c5df328
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 30

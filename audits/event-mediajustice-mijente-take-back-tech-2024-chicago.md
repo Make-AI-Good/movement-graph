@@ -2,6 +2,7 @@
 entity_id: event-mediajustice-mijente-take-back-tech-2024-chicago
 entity_hash: 3ac3a9e368d7ac8739176a12ecca1d57a702d25c
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 27

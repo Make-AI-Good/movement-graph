@@ -2,6 +2,7 @@
 entity_id: event-foxglove-gmcdp-dwp-case-launch-2021-12-01
 entity_hash: 5b122c8e33ef6cce0b2c7c20f53643fe2111a737
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 14

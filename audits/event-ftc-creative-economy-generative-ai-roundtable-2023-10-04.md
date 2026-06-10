@@ -2,6 +2,7 @@
 entity_id: event-ftc-creative-economy-generative-ai-roundtable-2023-10-04
 entity_hash: 446bc232c701b1ffc1f9a50f7a649d50b435a012
 audit_date: 2026-06-04
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 22

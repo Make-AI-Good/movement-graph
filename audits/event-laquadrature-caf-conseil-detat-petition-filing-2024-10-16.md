@@ -2,14 +2,15 @@
 entity_id: event-laquadrature-caf-conseil-detat-petition-filing-2024-10-16
 entity_hash: 989e4ee0e7e0b4ef0cc19c646e86e7b3eeb91385
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 26
-claims_corroborated: 18
+claims_corroborated: 20
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
-claims_uncorroborated: 7
+claims_uncorroborated: 5
 sources_consulted:
   - https://www.laquadrature.net/en/2024/10/16/french-family-welfare-scoring-algorithm-challenged-in-court-by-15-organisations/
   - https://www.amnesty.fr/presse/lalgorithme-de-notation-de-la-cnaf-attaque-devant-le-conseil-detat-par-15-organisations
