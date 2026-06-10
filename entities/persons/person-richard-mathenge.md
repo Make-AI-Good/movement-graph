@@ -19,7 +19,7 @@ public_profiles:
     url: https://ke.linkedin.com/in/richard-mathenge-
   - platform: techworker-community-africa
     url: https://www.techworkercommunityafrica.com/our-team
-voice_entry:
+voice_entry: voice-richard-mathenge
 sources:
   - url: https://time.com/collection/time100-ai/6308980/richard-mathenge/
     last_checked: 2026-05-23
