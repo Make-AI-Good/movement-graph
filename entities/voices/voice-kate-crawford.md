@@ -18,6 +18,7 @@ public_profiles:
     url: https://en.wikipedia.org/wiki/Kate_Crawford
 recent_works:
   - pub-atlas-of-ai
+  - pub-ainowinstitute-discriminating-systems-2019
 sources:
   - url: https://katecrawford.net/
     last_checked: 2026-06-07
