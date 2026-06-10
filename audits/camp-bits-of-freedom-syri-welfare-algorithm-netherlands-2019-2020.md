@@ -3,13 +3,14 @@ entity_id: camp-bits-of-freedom-syri-welfare-algorithm-netherlands-2019-2020
 entity_hash: a8d82b5e4ea8ac114690cfcf4aa66605b27bbd00
 audit_date: 2026-05-29
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 19
-claims_corroborated: 11
+claims_corroborated: 9
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 8
+claims_uncorroborated: 10
 sources_consulted:
   - https://algorithmwatch.org/en/syri-netherlands-algorithm/
   - https://www.hrw.org/news/2019/11/08/welfare-surveillance-trial-netherlands

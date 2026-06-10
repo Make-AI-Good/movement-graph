@@ -3,6 +3,7 @@ entity_id: camp-access-now-ban-biometric-surveillance-global-2021-ongoing
 entity_hash: 9c2243088668958beceec12409843b465c79a375
 audit_date: 2026-06-01
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 18
 claims_corroborated: 14

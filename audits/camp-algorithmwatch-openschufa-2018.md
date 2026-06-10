@@ -3,6 +3,7 @@ entity_id: camp-algorithmwatch-openschufa-2018
 entity_hash: 80750e6618acbc0857d87ad24e34030eeb7ec679
 audit_date: 2026-05-18
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 20
 claims_corroborated: 17

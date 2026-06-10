@@ -3,13 +3,14 @@ entity_id: camp-derechos-digitales-iachr-ai-hearing-2025
 entity_hash: eca821571585022b0089fb772692c1c85c1c7c40
 audit_date: 2026-05-18
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 17
-claims_corroborated: 11
+claims_corroborated: 12
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 6
+claims_uncorroborated: 5
 sources_consulted:
   - https://www.vialibre.org.ar/en/we-participated-in-the-iachr-hearing-artificial-intelligence-and-human-rights/
   - https://www.tedic.org/en/ai_iachr2025/

@@ -3,6 +3,7 @@ entity_id: camp-coding-rights-chupadados
 entity_hash: 6ba5316f35881204c76c5d12705d5b5f76046c4b
 audit_date: 2026-05-22
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 22
 claims_corroborated: 21

@@ -3,13 +3,14 @@ entity_id: camp-access-now-keep-it-on-internet-shutdowns-2016-ongoing
 entity_hash: dea8b95619161c9cfb58dc1f04edc68ff229c93b
 audit_date: 2026-05-18
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 22
-claims_corroborated: 17
+claims_corroborated: 18
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
-claims_uncorroborated: 4
+claims_uncorroborated: 3
 sources_consulted:
   - https://www.accessnow.org/campaign/keepiton/
   - https://www.accessnow.org/campaign/keepiton/keepiton-faq/

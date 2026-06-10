@@ -3,6 +3,7 @@ entity_id: camp-drf-cyber-harassment-helpline-pakistan
 entity_hash: 4911c612900f460f46791bfe511049aab580488c
 audit_date: 2026-05-18
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 23
 claims_corroborated: 20

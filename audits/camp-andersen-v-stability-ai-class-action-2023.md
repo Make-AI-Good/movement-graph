@@ -3,6 +3,7 @@ entity_id: camp-andersen-v-stability-ai-class-action-2023
 entity_hash: 284d0b66f722d7692bae976985a3c110300c4602
 audit_date: 2026-05-18
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 19
 claims_corroborated: 17

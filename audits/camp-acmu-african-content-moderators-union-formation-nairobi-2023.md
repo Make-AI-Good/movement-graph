@@ -3,6 +3,7 @@ entity_id: camp-acmu-african-content-moderators-union-formation-nairobi-2023
 entity_hash: 4efaacc17eb62ab69e2f3e4022cf38369eea9cdd
 audit_date: 2026-05-18
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 20
 claims_corroborated: 13

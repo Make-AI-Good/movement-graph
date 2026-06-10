@@ -3,6 +3,7 @@ entity_id: camp-apc-take-back-the-tech
 entity_hash: b5f2c852148366c49e3740912bbbdb2a4be59b20
 audit_date: 2026-05-18
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 20
 claims_corroborated: 16

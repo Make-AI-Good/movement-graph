@@ -3,6 +3,7 @@ entity_id: camp-concept-art-association-federal-policy-advocacy-2022-ongoing
 entity_hash: de3d3e06276e732d130ff3fa7438ca96a18f9226
 audit_date: 2026-06-05
 pass: 3
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 20
 claims_corroborated: 17

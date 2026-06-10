@@ -3,6 +3,7 @@ entity_id: camp-7amleh-meta-palestinian-content-moderation-2023-ongoing
 entity_hash: 80a570740cc6e53f042c585b0f4dd99d4193d85b
 audit_date: 2026-06-01
 pass: 3
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 24
 claims_corroborated: 22

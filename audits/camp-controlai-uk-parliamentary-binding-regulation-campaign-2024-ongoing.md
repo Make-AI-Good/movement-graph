@@ -3,6 +3,7 @@ entity_id: camp-controlai-uk-parliamentary-binding-regulation-campaign-2024-ongo
 entity_hash: 9cf0691c77a9ab0b6d073c0d10e8611050bb1937
 audit_date: 2026-05-18
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 24
 claims_corroborated: 21

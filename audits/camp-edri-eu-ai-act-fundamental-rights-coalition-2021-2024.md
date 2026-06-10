@@ -3,6 +3,7 @@ entity_id: camp-edri-eu-ai-act-fundamental-rights-coalition-2021-2024
 entity_hash: d9e1ffd44c0f68dab28ece24640609d6258609ad
 audit_date: 2026-05-18
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 22
 claims_corroborated: 19
