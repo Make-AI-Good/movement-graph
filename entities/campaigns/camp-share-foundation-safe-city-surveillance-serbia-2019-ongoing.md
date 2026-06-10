@@ -15,7 +15,8 @@ lead_orgs:
   - org-share-foundation
 participating_orgs:
   - org-share-foundation
-events: []
+events:
+  - event-share-foundation-safe-city-belgrade-protest-2019
 strategies: []
 outcomes: |
   The campaign has produced several durable outcomes without yet securing an outright halt to the Safe City infrastructure. The March 2019 investigation exposing Huawei's own promotional case study — which revealed the Belgrade system's full capabilities including facial recognition, behaviour analysis, automatic licence plate recognition, and a one-year data retention period — prompted Huawei to remove the case study from its website, constituting the campaign's first transparency win and a documented instance of an operator scrubbing its public record under civil society scrutiny. The December 2019 policy brief produced the Commissioner for Personal Data Protection's public confirmation that the Ministry of Interior's DPIA did not meet the requirements of Serbia's Personal Data Protection Law and lacked "risk assessment regarding the rights and freedoms of data subjects". The crowdmapping platform, launched May 2020, identified 689 cameras with facial recognition capabilities across Belgrade — twice the count on the official police list — producing the first independent public record of the surveillance infrastructure's actual footprint. Serbian authorities attempted on multiple occasions to pass legislation legalising biometric surveillance in public spaces; each attempt was withdrawn under sustained civil society pressure. No mass biometric surveillance law had passed as of 2026.
