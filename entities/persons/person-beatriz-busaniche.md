@@ -20,7 +20,7 @@ voice_entry: voice-beatriz-busaniche
 sources:
   - url: https://pt.wikipedia.org/wiki/Beatriz_Busaniche
     last_checked: 2026-05-23
-    note: 'Portuguese Wikipedia biography — secondary source for her full canonical name (María Beatriz Busaniche), 17 August 1970 birth in Río Gallegos, Santa Cruz Province, Argentina, her degree in Social Communication from the Universidad Nacional de Rosario and master''s in intellectual property from FLACSO with doctoral candidacy in Social Sciences at FLACSO, her 2003 entry into Fundación Vía Libre and current presidency, her 2007 co-founding of Wikimedia Argentina, her Creative Commons Argentina team membership, and her co-organisation of the August 2009 World Conference of Wikipedians in Buenos Aires'
+    note: 'Portuguese Wikipedia biography — secondary source for her full canonical name (María Beatriz Busaniche), 17 August 1970 birth in Río Gallegos, Santa Cruz Province, Argentina, her degree in Social Communication from the Universidad Nacional de Rosario and master''s in intellectual property from FLACSO with doctoral candidacy in Social Sciences at FLACSO, her 2003 entry into Fundación Vía Libre and current presidency, her 2007 co-founding of Wikimedia Argentina, and her Creative Commons Argentina team membership'
   - url: https://es.wikipedia.org/wiki/Beatriz_Busaniche
     last_checked: 2026-05-23
     note: 'Spanish Wikipedia biography — secondary source for her teaching positions at the Universidad de Buenos Aires, Universidad Torcuato Di Tella, and FLACSO, her authorship of *Monopolios Artificiales sobre Bienes Intangibles* (2007) and *Propiedad Intelectual y Derechos Humanos* (2016), and her opinion columns in La Nación; already cited in org-fundacion-via-libre'
