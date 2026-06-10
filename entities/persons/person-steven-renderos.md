@@ -11,6 +11,7 @@ affiliations:
   - org: org-mediajustice
     role: Executive Director (previously National Organising Director, Campaigns Director)
     period: 2012-
+voice_entry: voice-steven-renderos
 public_profiles:
   - platform: mediajustice
     url: https://mediajustice.org/staff/steven-renderos/
