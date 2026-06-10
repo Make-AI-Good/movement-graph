@@ -22,7 +22,7 @@ sources:
     note: LAist (April 2026) on RDU Uber lawsuit; quotes Moore on drivers joining RDU for pay and deactivation concerns
   - url: https://calmatters.org/economy/2026/04/uber-proposition22-lawsuit/
     last_checked: 2026-06-03
-    note: CalMatters (April 2026) on the Uber deactivation lawsuit; attributes the Prop 22 theory-of-case framing to Moore
+    note: CalMatters (April 2026) on the Uber deactivation lawsuit; attributes the Prop 22 theory-of-case framing to attorney Shannon Liss-Riordan; quotes Moore on member pay and deactivation priorities
   - url: https://www.sfexaminer.com/news/technology/california-uber-lyft-drivers-union-next-steps-2026/article_b286cf0d-9180-4535-9fe4-57e5dbf8bcb1.html
     last_checked: 2026-06-03
     note: SF Examiner (2026) on AB 1340 implementation; quotes Moore on the driver-led union model
