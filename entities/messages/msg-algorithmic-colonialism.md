@@ -19,10 +19,10 @@ related_messages:
 sources:
   - url: https://reallifemag.com/the-algorithmic-colonization-of-africa/
     last_checked: 2026-05-28
-    note: 'Abeba Birhane, "The Algorithmic Colonization of Africa," Real Life magazine, 18 July 2019 — the framing''s first public introduction, arguing that AI deployment in Africa follows colonial extraction patterns and that Nigeria imports approximately 90 percent of its software infrastructure from Western corporations'
+    note: 'Abeba Birhane, "The Algorithmic Colonization of Africa," Real Life magazine, 18 July 2019 — the framing''s first public introduction, arguing that AI deployment in Africa follows colonial extraction patterns'
   - url: https://journals.ed.ac.uk/script-ed/article/view/11592
     last_checked: 2026-05-28
-    note: 'Abeba Birhane, "Algorithmic Colonization of Africa," SCRIPTed: A Journal of Law, Technology and Society, vol. 17, issue 2, August 2020, pp. 389–409 — peer-reviewed primary source for the full three-stage model (justification as AI-for-development; extraction as data mining; institutionalisation of Western values through algorithmic systems) and the working formulation that "colonialism in the age of Artificial Intelligence takes the form of state-of-the-art algorithms and AI driven solutions to social problems"'
+    note: 'Abeba Birhane, "Algorithmic Colonization of Africa," SCRIPTed: A Journal of Law, Technology and Society, vol. 17, issue 2, August 2020, pp. 389–409 — peer-reviewed primary source for the full three-stage model (justification as AI-for-development; extraction as data mining; institutionalisation of Western values through algorithmic systems), the working formulation that "colonialism in the age of Artificial Intelligence takes the form of state-of-the-art algorithms and AI driven solutions to social problems", and the statistic that Nigeria imports approximately 90 percent of all software used in the country from Western corporations'
   - url: https://www.theelephant.info/analysis/2020/08/21/algorithmic-colonisation-of-africa/
     last_checked: 2026-05-28
     note: Republication of Birhane's SCRIPTed paper by The Elephant (a Nairobi-based pan-African analysis platform), 21 August 2020 — primary source for the framing's distribution into the English-reading African civil-society and academic field via pan-African journalism
