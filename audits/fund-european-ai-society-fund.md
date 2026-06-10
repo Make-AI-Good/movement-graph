@@ -2,6 +2,7 @@
 entity_id: fund-european-ai-society-fund
 entity_hash: c6ec9e43970923186474fa633ff5cd9b4a94593d
 audit_date: 2026-06-06
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 26

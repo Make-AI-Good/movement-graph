@@ -2,6 +2,7 @@
 entity_id: fund-bertelsmann-stiftung
 entity_hash: 929a971583b15f276c55d609e10d5eb7004e6ec7
 audit_date: 2026-06-06
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 39

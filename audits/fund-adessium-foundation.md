@@ -2,6 +2,7 @@
 entity_id: fund-adessium-foundation
 entity_hash: b0c8c0cc4a2755ca0c5d87090fb956c26593ffbf
 audit_date: 2026-05-22
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 30

@@ -2,6 +2,7 @@
 entity_id: fund-democracy-fund
 entity_hash: a9b734da8138aa25ffca8c77beeb8666d1b7984d
 audit_date: 2026-06-05
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 26

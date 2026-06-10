@@ -2,6 +2,7 @@
 entity_id: fund-charles-stewart-mott-foundation
 entity_hash: 20114c413040187756c8566b847a0ed19671d7f7
 audit_date: 2026-05-22
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 29

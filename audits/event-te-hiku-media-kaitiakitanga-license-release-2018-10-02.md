@@ -2,6 +2,7 @@
 entity_id: event-te-hiku-media-kaitiakitanga-license-release-2018-10-02
 entity_hash: 3f9a5265e02d8f9908d63366e7ec5887d921c151
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 29

@@ -2,6 +2,7 @@
 entity_id: event-srfp-buenos-aires-first-instance-ruling-2022-09-07
 entity_hash: 188ad7d96114fa01674fbae9ec72e116deefc39e
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 29

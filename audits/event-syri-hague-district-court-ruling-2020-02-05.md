@@ -2,6 +2,7 @@
 entity_id: event-syri-hague-district-court-ruling-2020-02-05
 entity_hash: 5df9da85dc010575bb68c45afe4cbaae95849238
 audit_date: 2026-05-22
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 23

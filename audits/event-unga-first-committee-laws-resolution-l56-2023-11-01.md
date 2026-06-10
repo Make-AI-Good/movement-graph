@@ -2,6 +2,7 @@
 entity_id: event-unga-first-committee-laws-resolution-l56-2023-11-01
 entity_hash: 6329b047ae5ec4157d53430f2e1eb55af8d1e5b4
 audit_date: 2026-06-06
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 24

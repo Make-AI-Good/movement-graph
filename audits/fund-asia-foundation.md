@@ -2,6 +2,7 @@
 entity_id: fund-asia-foundation
 entity_hash: 8ada0fbbb8c7220904df2d51502e7e592331a1bd
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 22

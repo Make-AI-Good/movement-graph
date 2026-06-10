@@ -2,6 +2,7 @@
 entity_id: fund-fondation-de-france
 entity_hash: e6446deae9a63d45689b5aaf546fa2aa70de9c21
 audit_date: 2026-06-06
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 29

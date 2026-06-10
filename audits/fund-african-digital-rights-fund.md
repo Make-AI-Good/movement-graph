@@ -2,6 +2,7 @@
 entity_id: fund-african-digital-rights-fund
 entity_hash: 6cff8e0b82634a760cbe049a7e4c799262c9622e
 audit_date: 2026-05-22
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 25

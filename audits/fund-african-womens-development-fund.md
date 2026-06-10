@@ -2,6 +2,7 @@
 entity_id: fund-african-womens-development-fund
 entity_hash: ec7d83e3cadd8f4a34f7103db93ef60a6e6996a4
 audit_date: 2026-05-22
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 25

@@ -2,6 +2,7 @@
 entity_id: fund-arab-human-rights-fund
 entity_hash: a0a35e1b975590e92212ff85abff6ef094c96caf
 audit_date: 2026-06-06
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 17

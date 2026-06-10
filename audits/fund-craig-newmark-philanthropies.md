@@ -2,6 +2,7 @@
 entity_id: fund-craig-newmark-philanthropies
 entity_hash: bac50460e5a4d1cdf9f8dd15c44294a21c1aa61e
 audit_date: 2026-06-09
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 25
