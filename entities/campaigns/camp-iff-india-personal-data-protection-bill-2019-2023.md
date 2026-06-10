@@ -15,7 +15,8 @@ lead_orgs:
   - org-internet-freedom-foundation
 participating_orgs:
   - org-internet-freedom-foundation
-events: []
+events:
+  - event-india-dpdpa-civil-society-response-2023-08
 strategies: []
 outcomes: |
   The Digital Personal Data Protection Act, 2023 was enacted after passing Lok Sabha on August 7 (52 minutes of debate, 9 members speaking) and Rajya Sabha on August 9 (67 minutes, 7 members speaking) and receiving Presidential assent on August 11, 2023. The Act retained broad government surveillance exemptions allowing the Union Government to exempt any "instrumentality" of the State from its provisions; the Data Protection Board remained subject to executive control; and an amendment to the Right to Information Act allowed personal information about public officials to be withheld even when in the public interest. IFF's statement on passage characterised the Act as "extremely disappointing" on all substantive fronts the campaign had pressed. The campaign's legacy is India's civil society data-protection discourse: IFF produced the principal public-facing analysis at each legislative stage, establishing the constitutional framework of arguments that inform ongoing litigation. In 2025, IFF filed a constitutional challenge to the DPDP Act, 2023 and the DPDP Rules, 2025 in the Supreme Court; the Court issued notice on the petition.
