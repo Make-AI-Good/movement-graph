@@ -22,6 +22,7 @@ related_orgs:
   - org-r3d
   - org-tedic
   - org-worker-info-exchange
+  - org-homo-digitalis
 funders:
   - fund-ford-foundation
   - fund-luminate

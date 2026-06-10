@@ -15,6 +15,7 @@ key_people: []
 board_and_advisors: []
 related_orgs:
   - org-edri
+  - org-homo-digitalis
 funders:
   - fund-hivos
 sources:
