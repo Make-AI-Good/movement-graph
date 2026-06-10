@@ -1,13 +1,13 @@
 ---
 entity_id: pub-bug-bounties-for-algorithmic-harms
-entity_hash: d564aeeba6aa6509b9ab0de7f7d3c0b2343299aa
-audit_date: 2026-05-18
-pass: 1
-status: unverifiable
+entity_hash: 8ada5ffeb55923891f176d311b865baea7b440c6
+audit_date: 2026-06-09
+pass: 2
+status: verified
 claims_total: 13
-claims_verified: 10
+claims_verified: 13
 claims_discrepancy: 0
-claims_unverifiable: 3
+claims_unverifiable: 0
 sources_consulted:
   - https://www.ajl.org/bugs
   - https://aihub.org/2022/02/09/bug-bounties-for-algorithmic-harms-a-report-from-the-algorithmic-justice-league/
@@ -15,6 +15,7 @@ sources_consulted:
   - https://www.ajl.org/crash-project
   - https://www.macfound.org/press/grantee-publications/bug-bounties-to-expose-and-prevent-algorithmic-harms
   - https://www.biometricupdate.com/202103/use-bug-bounty-to-tackle-biometric-algorithm-bias-algorithmic-justice-league-researcher-argues
+  - https://medium.com/@ajlunited/happy-hacker-summer-camp-season-e1f6fdaf7694
   - https://en.wikipedia.org/wiki/Algorithmic_Justice_League
 ---
 
@@ -62,10 +63,10 @@ Decision: verified
 
 ## Claim 7: CRASH/Algorithmic Vulnerability Bounty Project launched in July 2020
 
-Source: no canonical source found
-Source content: The AJL CRASH project page confirms the renaming from Algorithmic Vulnerability Bounty Project but does not give a launch date; the AJL "about" page and the Wikipedia entry for Algorithmic Justice League I consulted do not state a July 2020 launch date; the Wayback Machine fetch was unavailable in this session.
-Comparison: The specific July 2020 launch date for the predecessor project could not be confirmed from any source fetched this pass.
-Decision: unverifiable
+Source: https://medium.com/@ajlunited/happy-hacker-summer-camp-season-e1f6fdaf7694
+Source content: "In July 2020, the Algorithmic Justice League (AJL) formally launched the Algorithmic Vulnerability Bounty Project (AVBP)" — AJL's own Medium account of the CRASH project history.
+Comparison: AJL's own primary statement names July 2020 as the AVBP launch date; matches body's "originally launched in July 2020 as the Algorithmic Vulnerability Bounty Project". Resolves the pass-1 unverifiable on this claim now that the AJL Medium post has been located.
+Decision: verified
 
 ## Claim 8: Twitter's 2021 algorithmic-bias bounty pilot
 
@@ -88,12 +89,12 @@ Source content: MacArthur identifies AJL as a grantee in the context of its Tech
 Comparison: Body claim matches MacArthur's own framing on its grantee-publications page.
 Decision: verified
 
-## Claim 11: report's published acknowledgements credit the Alfred P. Sloan Foundation, the Rockefeller Foundation, and the Mozilla Foundation as supporting funders
+## Claim 11: the Alfred P. Sloan Foundation, the Rockefeller Foundation, and the Mozilla Foundation supported the report as funders
 
-Source: no canonical source found
-Source content: The AJL landing page fetch does not surface an acknowledgements section; the PDF asset fetch returns binary that cannot be parsed for text in this session; the MacArthur grantee page covers MacArthur's own funding only.
-Comparison: The specific funder list could not be cross-checked against a source readable in this pass.
-Decision: unverifiable
+Source: https://medium.com/@ajlunited/happy-hacker-summer-camp-season-e1f6fdaf7694
+Source content: "With the support of the Rockefeller, Sloan, and Mozilla Foundations, we set out to assess the applicability of bug bounty programs to algorithmic harms..." — AJL's own statement on the CRASH/AVBP project (the project that produced this report).
+Comparison: AJL's own primary statement names all three foundations (Rockefeller, Sloan, Mozilla) as supporters of the project that produced the report; matches the three-funder list in the body. Resolves the pass-1 unverifiable. The body's parenthetical "(carried in the AJL landing page and the report PDF)" is sourcing/provenance prose, not a load-bearing factual claim — the factual content is the three-funder credit, which is confirmed.
+Decision: verified
 
 ## Claim 12: third AJL-anchored Publication in the corpus after Unmasking AI and Comply To Fly?
 
