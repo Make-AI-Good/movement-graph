@@ -2,6 +2,7 @@
 entity_id: camp-kairos-mediajustice-fight-data-centers-2024-ongoing
 entity_hash: e2d486976e67be906498e1f92a726d63d09287b1
 audit_date: 2026-05-23
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 26

@@ -2,6 +2,7 @@
 entity_id: camp-foxglove-gmcdp-dwp-2021-ongoing
 entity_hash: 2d985896fb7bd424d391a2a41786ff809523069d
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 14

@@ -2,6 +2,7 @@
 entity_id: camp-iff-aarogya-setu-india-2020
 entity_hash: 1daaffc31662a94a647bbc6f779249056e6421c5
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 21

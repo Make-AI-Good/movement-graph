@@ -2,6 +2,7 @@
 entity_id: camp-freedom-flyers
 entity_hash: 9d6c2d2ae5531765caa5c17d80be110c55ebc8ad
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 20

@@ -2,6 +2,7 @@
 entity_id: camp-edri-reclaim-your-face-eu-citizens-initiative-2020-2022
 entity_hash: ae6227393c20898cbc655bff88e483e3d4679a26
 audit_date: 2026-05-22
+reclassified_at: 2026-06-10
 pass: 2
 status: corrections-pending
 claims_total: 19

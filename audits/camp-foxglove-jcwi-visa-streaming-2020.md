@@ -2,6 +2,7 @@
 entity_id: camp-foxglove-jcwi-visa-streaming-2020
 entity_hash: 86549cebff25a4e99fa200e7257f43297761c70e
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 20

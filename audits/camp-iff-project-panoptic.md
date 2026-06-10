@@ -2,6 +2,7 @@
 entity_id: camp-iff-project-panoptic
 entity_hash: e6fed86c0c000277b1bed594ac338f5a8d90eecf
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 22

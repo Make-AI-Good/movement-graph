@@ -2,6 +2,7 @@
 entity_id: camp-foxglove-south-africa-data-centre
 entity_hash: 3846122b527bbfc2cbaa82fbc9902840b1104302
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 17

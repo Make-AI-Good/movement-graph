@@ -2,6 +2,7 @@
 entity_id: camp-foxglove-185-moderators-meta-kenya
 entity_hash: 750bb156233e9c74ac7a63747692a2be97c3a89f
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 26

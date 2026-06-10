@@ -2,6 +2,7 @@
 entity_id: camp-foxglove-motaung-meta-sama-kenya
 entity_hash: 5a4554fc67d9922b3375a53251a17dbaed6a4b03
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 25

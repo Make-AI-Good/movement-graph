@@ -2,6 +2,7 @@
 entity_id: camp-foxglove-ofqual-a-level-2020
 entity_hash: 44fd1e1632289d4f315e2bd6813f5b4ccd472184
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 18

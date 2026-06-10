@@ -2,6 +2,7 @@
 entity_id: camp-fma-sim-card-registration-philippines
 entity_hash: 957c9bc5766856d4608b502e0b0e9bf33bf1bf9b
 audit_date: 2026-05-22
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 26

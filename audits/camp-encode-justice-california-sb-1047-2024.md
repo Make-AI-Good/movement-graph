@@ -2,6 +2,7 @@
 entity_id: camp-encode-justice-california-sb-1047-2024
 entity_hash: dcffd41b6d2bb2af6f9facce1b70614f649c759b
 audit_date: 2026-05-22
+reclassified_at: 2026-06-10
 pass: 2
 status: corrections-pending
 claims_total: 20

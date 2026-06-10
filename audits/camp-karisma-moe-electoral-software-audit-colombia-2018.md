@@ -2,6 +2,7 @@
 entity_id: camp-karisma-moe-electoral-software-audit-colombia-2018
 entity_hash: 0a0aec5cc1502372e440d510e6abc6b0bd6c943c
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 20

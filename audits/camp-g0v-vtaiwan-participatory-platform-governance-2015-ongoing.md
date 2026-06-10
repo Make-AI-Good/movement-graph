@@ -2,6 +2,7 @@
 entity_id: camp-g0v-vtaiwan-participatory-platform-governance-2015-ongoing
 entity_hash: 74797e6bb4dba5901556d91edf49b8d5997eca23
 audit_date: 2026-05-30
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 27
