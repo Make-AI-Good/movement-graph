@@ -17,6 +17,7 @@ related_orgs:
   - org-apc
   - org-foundation-for-media-alternatives
   - org-safenet
+  - org-digitally-right
 funders: [fund-ford-foundation]
 sources:
   - url: https://www.apc.org/en/news/apc-member-organisation-engagemedia-celebrates-15-years-digital-rights-video-change-and-open
