@@ -10,7 +10,7 @@ last_updated: 2026-05-23
 founded: 2023-01
 location: Tokyo, Japan (Shibuya-headquartered; monthly benkyoukai venues at Kojima Law Offices and HiRAKU GATE, Todaimae)
 website_or_contact: https://aisafety.tokyo/
-key_people: []
+key_people: [person-blaine-rogers]
 sources:
   - url: https://aisafety.tokyo/about
     last_checked: 2026-05-23
