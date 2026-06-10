@@ -51,19 +51,23 @@ Each entity is a single markdown file with YAML frontmatter and a markdown body.
 
 Each entity in this corpus is fact-checked by a dedicated auditor role that compares body factual claims against canonical sources (the entity's own cited sources first, then independent primary documents and mainstream news outlets; Wikipedia per a type-based canonicality rule). The result is a per-entity audit file at `audits/<entity-id>.md`.
 
-Each audit file has YAML frontmatter — `entity_id`, `entity_hash` (the git hash of the entity file at audit time), `audit_date`, `pass`, `status`, claim counts, and the list of sources consulted — followed by a per-claim breakdown showing the body quote, source URL, source content, comparison reasoning, and decision.
+Each audit file has YAML frontmatter — `entity_id`, `entity_hash` (the git hash of the entity file at audit time), `audit_date`, `pass`, `status`, claim counts, and the list of sources consulted — followed by a per-claim breakdown showing the body quote, source URL, source tier, source content, comparison reasoning, and decision.
 
-Per-claim decisions are one of:
+A rolled-up corpus-wide reliability statement is published at [`RELIABILITY.md`](RELIABILITY.md), refreshed on every commit.
 
-- **`verified`** — body claim matches source content within paraphrase tolerance.
-- **`discrepancy`** — body claim contradicts source content. Specific and citable.
-- **`unverifiable`** — source dead, sources contradict each other, claim too paraphrastic for specific comparison, no canonical source exists for this class of claim, or a judgment-loaded edge.
+Per-claim **decisions** sit alongside a recorded **source tier** (primary / mainstream / database / tiebreaker / caution / none). The governing invariant: source quality can only ever raise support, never lower it. The decision is one of:
 
-The entity's overall `status` in the audit frontmatter is the most-severe per-claim outcome (`discrepancy` ⟶ `unverifiable` ⟶ `verified`).
+- **`corroborated`** — body claim matches; confirmed by ≥2 independent canonical sources. A pass.
+- **`primary-sourced`** — body claim matches and rests on one primary-tier source (a court record, the entity's own filing, a government record). A pass — one authoritative source can be worth more than two weak ones.
+- **`single-source`** — body claim matches and rests on one non-primary canonical source. Supported on lighter sourcing — **not** a finding of error.
+- **`uncorroborated`** — no canonical source found, canonical sources conflict, the claim is too paraphrastic to compare, or a judgment-loaded edge. Names where the audit reaches its limits — **not** a finding of error.
+- **`correction`** — the body carries a specific factual token (a date, number, name) that contradicts the best source and has a single correct replacement. The only decision that asserts the body is wrong; routes to the team's repair pipe.
 
-**Re-audit cadence is hash-based.** Audits become stale when their entity file changes (`entity_hash` no longer matches the current git hash); the auditor's next session re-audits the oldest stale entity. So a `status: verified` audit is current only against the specific commit named in `entity_hash` — fresh audits are produced as the corpus evolves.
+The entity's overall `status` in the audit frontmatter is **a distribution, never the most-severe single claim** — collapsing the rollup to its worst claim hides the claim-level reality. Status is one of `corroborated` (every claim passes), `supported` (passes plus some single-source / uncorroborated), or `corrections-pending` (one or more `correction` claims open).
 
-If you build something downstream that surfaces entity claims to readers, the audit file is the verification trail you can point them to. `unverifiable` is not a failure — it names where audit reaches its limits, and is itself useful provenance.
+**Re-audit cadence is hash-based.** Audits become stale when their entity file changes (`entity_hash` no longer matches the current git hash); the auditor's next session re-audits the oldest stale entity. A `status: corroborated` audit is current only against the specific commit named in `entity_hash` — fresh audits are produced as the corpus evolves.
+
+If you build something downstream that surfaces entity claims to readers, the audit file is the verification trail you can point them to. `single-source` and `uncorroborated` are **not** failures — they name how much sourcing backs a claim, which is itself useful provenance.
 
 ## Cross-references
 
