@@ -11,7 +11,7 @@ founded: 2010
 location: national, Austria
 website: https://epicenter.works/
 strategies: []
-key_people: []
+key_people: [person-thomas-lohninger]
 board_and_advisors: []
 related_orgs: [org-edri]
 funders: []
