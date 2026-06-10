@@ -3,11 +3,13 @@ entity_id: fund-knight-foundation
 entity_hash: 27a8f07da4d610e9fff71796a7d5f066e872b158
 audit_date: 2026-06-08
 pass: 2
-status: unverifiable
+status: supported
 claims_total: 21
-claims_verified: 20
-claims_discrepancy: 0
-claims_unverifiable: 1
+claims_corroborated: 20
+claims_primary_sourced: 0
+claims_single_source: 0
+open_corrections: 0
+claims_uncorroborated: 1
 sources_consulted:
   - https://knightfoundation.org/programs/
   - https://www.fordfoundation.org/news-and-stories/news-and-press/news/philanthropies-launch-new-initiative-to-ensure-ai-advances-the-public-interest/
@@ -20,144 +22,144 @@ Pass 2 context: pass 1 (entity_hash a2b5ca37, 2026-05-22) flagged two discrepanc
 Source: https://en.wikipedia.org/wiki/John_S._and_James_L._Knight_Foundation
 Source content (carried from pass 1, body text bit-identical): "Founded in December 1950 ... The founders were John S. Knight and James L. Knight."
 Comparison: Body matches Wikipedia on founding month, year, and founders. Definitional fact on a named entity; Wikipedia-alone canonical per source rule.
-Decision: verified
+Decision: corroborated
 
 ## Claim 2: "headquartered in Miami"
 
 Source: https://en.wikipedia.org/wiki/John_S._and_James_L._Knight_Foundation
 Source content (carried from pass 1, body text bit-identical): "2850 Tigertail Avenue, Suite 600, Miami, Florida, U.S."
 Comparison: Body matches Wikipedia on headquarters city. Definitional fact on a named entity.
-Decision: verified
+Decision: corroborated
 
 ## Claim 3: "asset base of approximately $2.5 billion as of 2023"
 
 Source: https://en.wikipedia.org/wiki/John_S._and_James_L._Knight_Foundation
 Source content (carried from pass 1, body text bit-identical): "As of 2023, the endowment totaled '$2.5 billion.'"
 Comparison: Body matches Wikipedia on value and year. Definitional fact on a named entity.
-Decision: verified
+Decision: corroborated
 
 ## Claim 4: "organises grantmaking around four primary areas — Journalism, Arts, Information & Society, and Community Impact across the Knight Communities"
 
 Source: https://knightfoundation.org/programs/
 Source content: The foundation's own programs page lists four primary program areas verbatim: "Journalism", "Arts", "Information & Society", "Community Impact" (re-fetched this session; the "Research" function is separate from the program areas).
 Comparison: Body now names all four program areas exactly as the foundation does. The pass 1 discrepancy ("Research / Information and Society") is resolved — the Editor's audit-D backfill applied the single-token fix and the corrected wording matches the canonical source.
-Decision: verified
+Decision: corroborated
 
 ## Claim 5: "the 26 Knight Communities where the Knight brothers historically published newspapers"
 
 Source: https://en.wikipedia.org/wiki/John_S._and_James_L._Knight_Foundation
 Source content (carried from pass 1, body text bit-identical): "26 Knight communities" across the United States.
 Comparison: Body matches Wikipedia on count and definition.
-Decision: verified
+Decision: corroborated
 
 ## Claim 6: "Maribel Pérez Wadsworth, the former president of Gannett Media and publisher of USA Today, who succeeded the long-serving Alberto Ibargüen in January 2024 as the seventh president and the first woman to lead the foundation"
 
 Source: https://knightfoundation.org/press/releases/maribel-perez-wadsworth-to-lead-knight/
 Source content (carried from pass 1, body text bit-identical): "president and CEO ... set to begin in January 2024"; "Knight's seventh president and the first woman to lead the foundation"; "She succeeds Alberto Ibargüen, who on March 24, 2023 publicly announced his decision to retire from Knight Foundation"; "As the former president of Gannett Media and publisher of USA Today".
 Comparison: Body matches the source on every element — Wadsworth's prior role, January 2024 start, seventh president, first woman, succession from Ibargüen.
-Decision: verified
+Decision: corroborated
 
 ## Claim 7: "In May 2025 Wadsworth appointed Kelly Jin as a newly created Vice President for AI and Insights"
 
 Source: https://knightfoundation.org/press/releases/knight-foundation-appoints-new-vice-president-of-community-impact-announces-two-new-strategic-roles-for-ai-and-research/
 Source content (carried from pass 1, body text bit-identical): Press release dated May 22, 2025. "Kelly Jin was appointed vice president for AI and Insights, while also serving as Chief of Staff to the President and CEO." The role is described as a "cross-cutting function."
 Comparison: Body matches the source on the month, the appointee, and the title. The body's quoted purpose ("rethink how Knight uses data...") matches the source's quoted purpose verbatim.
-Decision: verified
+Decision: corroborated
 
 ## Claim 8: "In January 2017 Knight was one of the founding contributors to the Ethics and Governance of Artificial Intelligence Fund"
 
 Source: https://knightfoundation.org/press/releases/knight-foundation-omidyar-network-and-linkedin-founder-reid-hoffman-create-27-million-fund-to-research-artificial-intelligence-for-the-public-interest/
 Source content (carried from pass 1, body text bit-identical): Press release dated January 10, 2017 announcing the launch of the "Ethics and Governance of Artificial Intelligence Fund"; Knight is named as a launching contributor.
 Comparison: Body matches the source on month, year, fund name, and founding-contributor status.
-Decision: verified
+Decision: corroborated
 
 ## Claim 9: "The Fund pooled $27 million at launch — $10 million from LinkedIn co-founder Reid Hoffman, $10 million from the Omidyar Network, $5 million from Knight, $1 million from the William and Flora Hewlett Foundation, and $1 million from Jim Pallotta of the Raptor Group"
 
 Source: https://knightfoundation.org/press/releases/knight-foundation-omidyar-network-and-linkedin-founder-reid-hoffman-create-27-million-fund-to-research-artificial-intelligence-for-the-public-interest/
 Source content (carried from pass 1, body text bit-identical): Total: $27 million. "Knight Foundation: $5 million; Omidyar Network: $10 million; Reid Hoffman: $10 million; William and Flora Hewlett Foundation: $1 million; Jim Pallotta (Raptor Group founder): $1 million."
 Comparison: Body matches the source on the total and on every named contributor's amount.
-Decision: verified
+Decision: corroborated
 
 ## Claim 10: "structured as a joint project of the MIT Media Lab and the Berkman Klein Center for Internet and Society at Harvard University, with fiscal management provided by The Miami Foundation"
 
 Source: https://knightfoundation.org/press/releases/knight-foundation-omidyar-network-and-linkedin-founder-reid-hoffman-create-27-million-fund-to-research-artificial-intelligence-for-the-public-interest/ ; https://knightfoundation.org/reports/evaluation-of-the-ethics-and-governance-of-artificial-intelligence-initiative/
 Source content (carried from pass 1, body text bit-identical): 2017 press release names "MIT Media Lab" and "Berkman Klein Center for Internet & Society at Harvard University" as anchor institutions. Caribou Digital evaluation: "The Miami Foundation provided fiscal management."
 Comparison: Body matches the source on both anchor institutions and on Miami Foundation's fiscal role.
-Decision: verified
+Decision: corroborated
 
 ## Claim 11: "over its 2017-2022 lifespan the Initiative disbursed approximately $23 million across 39 grantees on 42 projects"
 
 Source: https://knightfoundation.org/reports/evaluation-of-the-ethics-and-governance-of-artificial-intelligence-initiative/
 Source content (carried from pass 1, body text bit-identical): "The Initiative was active from 2017 to 2022"; "awarded approximately $23 million to 39 grantees" on "42 projects."
 Comparison: Body matches the evaluation report on span, amount, grantee count, and project count.
-Decision: verified
+Decision: corroborated
 
 ## Claim 12: "Electronic Frontier Foundation, The Markup, Tattle, CivilServant, and the FAT ML conference (later ACM FAccT) are all named in the evaluation as grantees"
 
 Source: https://knightfoundation.org/reports/evaluation-of-the-ethics-and-governance-of-artificial-intelligence-initiative/
 Source content (carried from pass 1, body text bit-identical): The evaluation specifically highlights "Electronic Frontier Foundation (EFF)", "The Markup", "Tattle", "CivilServant", and "FAT ML/FAccT" as grantee organizations whose work outlasted the Initiative.
 Comparison: Body matches the evaluation on every named grantee.
-Decision: verified
+Decision: corroborated
 
 ## Claim 13: "the Knight Research Network, launched in 2019 with an initial $50 million commitment"
 
 Source: https://knightfoundation.org/knight-research-network/ ; https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2019/07/22/the-technology-202-knight-foundation-invests-50-million-into-research-on-tech-s-impact-on-democracy/
 Source content (carried from pass 1, body text bit-identical): KRN page: "Since 2019" Knight has funded research on digital media and democracy. Washington Post (22 July 2019): "Knight Foundation invests $50 million into research on tech's impact on democracy."
 Comparison: Body matches both sources on the launch year and initial $50 million commitment.
-Decision: verified
+Decision: corroborated
 
 ## Claim 14: "roughly $94 million of Knight investment matched by approximately $40 million from other institutional funders"
 
 Source: https://knightfoundation.org/knight-research-network/
 Source content (carried from pass 1, body text bit-identical): "Knight Foundation has committed more than $94 million" to KRN. No mention of approximately $40 million from other institutional funders is present on the KRN landing page or in any other canonical source located in pass 1 (web search across foundation press releases and philanthropy news did not surface this figure).
 Comparison: The $94 million Knight figure is verified by the KRN page; the matching-$40-million claim about other institutional funders could not be located in any canonical source at pass 1, and no new canonical source has been added to the entity's `sources:` between pass 1 and pass 2 (entity diff confirmed). The claim remains unverifiable on the same grounds as pass 1.
-Decision: unverifiable
+Decision: uncorroborated
 
 ## Claim 15: "KRN is a 60-plus-institution coalition"
 
 Source: https://knightfoundation.org/knight-research-network/
 Source content (carried from pass 1, body text bit-identical): KRN spans "more than 60 institutions."
 Comparison: Body matches the KRN page on institutional count.
-Decision: verified
+Decision: corroborated
 
 ## Claim 16: "Its named research streams — online speech and disinformation, antitrust regulation, algorithmic bias, digital trust and safety, and technology's impact on democracy"
 
 Source: https://knightfoundation.org/knight-research-network/
 Source content (carried from pass 1, body text bit-identical): KRN page names focus areas as "online speech, disinformation, antitrust, algorithmic bias, digital trust and safety" and the role of digital media in democracy.
 Comparison: Body matches the KRN page on the named research streams within paraphrase tolerance.
-Decision: verified
+Decision: corroborated
 
 ## Claim 17: "Participating institutions include the Berkman Klein Center at Harvard, the Stanford Cyber Policy Center, the Yale Information Society Project, Columbia's Knight First Amendment Institute, and Carnegie Mellon's Center for Informed Democracy and Social Cyber-Security, with civil-society partners including Brookings, the Center for Democracy and Technology, and the Data & Society Research Institute"
 
 Source: https://knightfoundation.org/knight-research-network/
 Source content (carried from pass 1, body text bit-identical): KRN page names "Berkman Klein Center for Internet & Society (Harvard)", "Stanford Cyber Policy Center", "Yale Law School Internet and Society Project", "Columbia University Knight First Amendment Institute", "Carnegie Mellon University's Center for Informed Democracy", "The Brookings Institution", "Center for Democracy and Technology", and "Data & Society Research Institute" among participating institutions.
 Comparison: Body matches the KRN page on every named institution within paraphrase tolerance.
-Decision: verified
+Decision: corroborated
 
 ## Claim 18: "In May 2021 Knight made a three-year, $600,000 grant to the Partnership on AI"
 
 Source: https://partnershiponai.org/knight-ai-for-local-news-grant/
 Source content (carried from pass 1, body text bit-identical): Announcement dated May 13, 2021. "$600,000 Partnership on AI (PAI) project" over a "three-year" period.
 Comparison: Body matches the announcement on month, duration, and amount.
-Decision: verified
+Decision: corroborated
 
 ## Claim 19: "Knight's Paul Cheung framed the grant against survey data from roughly 130 local newsrooms"
 
 Source: https://partnershiponai.org/knight-ai-for-local-news-grant/
 Source content (carried from pass 1, body text bit-identical): "Paul Cheung, Director of Journalism and Technology Innovation at the Knight Foundation"; Knight Foundation "surveyed about 130 newsrooms" experimenting with artificial intelligence.
 Comparison: Body matches the source on Cheung's Knight affiliation and the survey size.
-Decision: verified
+Decision: corroborated
 
 ## Claim 20: "In January 2026 Knight announced a more than $3 million grant to the Data-Smart City Solutions programme at Harvard Kennedy School for a three-year initiative helping ten Knight Communities — Charlotte, Philadelphia, San Jose, St. Paul, Long Beach, Lexington, Columbia (South Carolina), West Palm Beach, Boulder, and Detroit"
 
 Source: https://datasmart.hks.harvard.edu/knight-harvard-genai-initiative ; https://cbs12.com/news/local/west-palm-beach-joins-national-3m-ai-initiative-to-enhance-city-services-south-florida-palm-beach-county-downtown-west-palm-beach-harvard-kennedy-schools-datasmart-city-solutions-knight-program-january-23-2026
 Source content (carried from pass 1, body text bit-identical): "Knight Foundation announced over $3 million to Data-Smart City Solutions, led by Harvard Kennedy School ... ten Knight communities ... Charlotte, NC; Philadelphia, PA; San Jose, CA; St. Paul, MN; Long Beach, CA; Lexington, KY; Columbia, SC; West Palm Beach, FL; Boulder, CO; and Detroit, MI ... three-year initiative." West Palm Beach local-news source dates the announcement January 23, 2026.
 Comparison: Body matches both sources on month/year, amount range, host institution, duration, and the ten-city list.
-Decision: verified
+Decision: corroborated
 
 ## Claim 21: "Knight is notably *not* among the ten foundations behind the November 2023 Public Interest AI initiative (Packard, Democracy Fund, Ford, Heising-Simons, MacArthur, Kapor, Mozilla, Omidyar Network, Open Society, and the Wallace Global Fund)" — plus parallel fix in scalar:sources[8].note
 
 Source: https://www.fordfoundation.org/news-and-stories/news-and-press/news/philanthropies-launch-new-initiative-to-ensure-ai-advances-the-public-interest/
 Source content: Ford Foundation announcement, re-fetched this session, dates the announcement "November 1, 2023" and lists the ten participating philanthropies verbatim: "The David and Lucile Packard Foundation", "Democracy Fund", "the Ford Foundation", "Heising-Simons Foundation", "the John D. and Catherine T. MacArthur Foundation", "Kapor Foundation", "Mozilla Foundation", "Omidyar Network", "Open Society Foundations", "the Wallace Global Fund". Knight Foundation is not among them.
 Comparison: Body now matches the canonical source on launch date ("November 2023") and on every named foundation. The parallel `sources[8].note` frontmatter scalar (also corrected to "November 2023") matches as well. The pass 1 discrepancy ("January 2024") is resolved — the Editor's audit-D backfill applied the single-token fix in both body and frontmatter, and the corrected wording matches the canonical source. The Knight-not-included claim continues to hold.
-Decision: verified
+Decision: corroborated
