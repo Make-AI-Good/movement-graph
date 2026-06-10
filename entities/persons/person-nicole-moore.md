@@ -8,7 +8,7 @@ tags: [los-angeles, california, usa, rideshare, gig-workers, algorithmic-managem
 created: 2026-06-03
 last_updated: 2026-06-03
 affiliations:
-  - org: lg-rideshare-drivers-united
+  - org: org-rideshare-drivers-united
     role: president
 public_profiles:
   - platform: twitter
@@ -30,4 +30,4 @@ sources:
 
 # Nicole Moore
 
-Nicole Moore is the president of [Rideshare Drivers United (RDU)](../local-groups/lg-rideshare-drivers-united.md), the Los Angeles–anchored California rideshare driver collective. She is the organisation's principal public spokesperson, [identified across coverage of RDU's key campaigns](https://logicmag.io/out-of-place/rideshare-drivers-united-versus-the-prop-22-consensus-with-nicole-moore-and/) including the 2020 Proposition 22 opposition, the *Fired By App* algorithmic-deactivation programme, the AB 1340 unionisation negotiations, and the [April 2026 San Francisco Superior Court lawsuit against Uber](https://laist.com/news/politics/california-rideshare-drivers-sue-uber-over-being-kicked-off-app). Her organising frame holds that gig-platform independent-contractor classification is undercut by algorithmic control — drivers are managed end-to-end by platform algorithms while being denied the protections employment status brings.
+Nicole Moore is the president of [Rideshare Drivers United (RDU)](../organizations/org-rideshare-drivers-united.md), the Los Angeles–anchored California rideshare driver collective. She is the organisation's principal public spokesperson, [identified across coverage of RDU's key campaigns](https://logicmag.io/out-of-place/rideshare-drivers-united-versus-the-prop-22-consensus-with-nicole-moore-and/) including the 2020 Proposition 22 opposition, the *Fired By App* algorithmic-deactivation programme, the AB 1340 unionisation negotiations, and the [April 2026 San Francisco Superior Court lawsuit against Uber](https://laist.com/news/politics/california-rideshare-drivers-sue-uber-over-being-kicked-off-app). Her organising frame holds that gig-platform independent-contractor classification is undercut by algorithmic control — drivers are managed end-to-end by platform algorithms while being denied the protections employment status brings.
