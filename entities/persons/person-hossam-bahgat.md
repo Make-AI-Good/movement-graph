@@ -11,6 +11,7 @@ affiliations:
   - org: org-eipr
     role: founder, Director General (2002–c.2015); Executive Director (2021–present)
     period: 2002-
+voice_entry: voice-hossam-bahgat
 public_profiles:
   - platform: twitter
     url: https://twitter.com/hossambahgat
