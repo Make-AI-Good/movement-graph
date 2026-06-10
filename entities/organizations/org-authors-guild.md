@@ -18,6 +18,7 @@ related_orgs:
   - org-wga
   - org-concept-art-association
   - org-national-education-association
+  - org-newsguild-cwa
 funders: []
 sources:
   - url: https://authorsguild.org/about/

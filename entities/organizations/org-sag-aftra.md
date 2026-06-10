@@ -18,6 +18,7 @@ related_orgs:
   - org-wga
   - org-authors-guild
   - org-concept-art-association
+  - org-newsguild-cwa
 funders: []
 sources:
   - url: https://en.wikipedia.org/wiki/SAG-AFTRA

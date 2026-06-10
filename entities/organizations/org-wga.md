@@ -17,6 +17,7 @@ related_orgs:
   - org-sag-aftra
   - org-authors-guild
   - org-concept-art-association
+  - org-newsguild-cwa
 funders: []
 sources:
   - url: https://en.wikipedia.org/wiki/Writers_Guild_of_America
