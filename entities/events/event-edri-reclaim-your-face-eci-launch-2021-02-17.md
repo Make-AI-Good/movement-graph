@@ -19,7 +19,8 @@ participating_orgs:
   - org-la-quadrature-du-net
 participating_people:
   - person-ella-jakubowska
-related_events: []
+related_events:
+  - event-edri-eu-ai-act-civil-society-statement-2023-07
 sources:
   - url: https://www.accessnow.org/press-release/reclaim-your-face/
     last_checked: 2026-05-18
