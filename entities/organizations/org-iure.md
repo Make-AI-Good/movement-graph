@@ -11,7 +11,7 @@ founded: 2001
 location: Prague, Czech Republic
 website: https://iure.org/
 strategies: []
-key_people: []
+key_people: [person-jan-voboril]
 board_and_advisors: []
 related_orgs:
   - org-edri
