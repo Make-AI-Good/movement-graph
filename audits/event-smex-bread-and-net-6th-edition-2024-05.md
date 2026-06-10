@@ -2,6 +2,7 @@
 entity_id: event-smex-bread-and-net-6th-edition-2024-05
 entity_hash: dae52c5fc91dd75b22a33fd9862e39ed329470e5
 audit_date: 2026-05-22
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 27

@@ -2,6 +2,7 @@
 entity_id: event-reset-australia-launch-2020-11-11
 entity_hash: 4ee30cf3aebf8d7d81d6c0e745d71a8e0fb282de
 audit_date: 2026-05-22
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 12

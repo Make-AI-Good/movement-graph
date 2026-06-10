@@ -2,6 +2,7 @@
 entity_id: event-pauseai-paris-ai-action-summit-protests-2025-02
 entity_hash: c905dfe74fff3b2473dbcdcd75ad59728694dae6
 audit_date: 2026-06-02
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 28

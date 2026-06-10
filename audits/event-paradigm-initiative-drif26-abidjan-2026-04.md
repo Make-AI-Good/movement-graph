@@ -2,6 +2,7 @@
 entity_id: event-paradigm-initiative-drif26-abidjan-2026-04
 entity_hash: f3b37f4ad665974371a6973672e9435427093a65
 audit_date: 2026-05-20
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 31

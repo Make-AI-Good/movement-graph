@@ -2,6 +2,7 @@
 entity_id: event-pauseai-uk-bletchley-park-protest-2023
 entity_hash: 5242ab3594644f8a6a6c7c9183d01c8d8e9baa1f
 audit_date: 2026-06-02
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 22

@@ -2,6 +2,7 @@
 entity_id: event-polish-constitutional-tribunal-k-53-16-2018-06-06
 entity_hash: de7f8629ee4934461a2ef7ff6a2ce9ef3932c06f
 audit_date: 2026-06-05
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 17

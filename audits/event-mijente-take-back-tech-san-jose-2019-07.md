@@ -2,6 +2,7 @@
 entity_id: event-mijente-take-back-tech-san-jose-2019-07
 entity_hash: 12b7c6229e29af6556a9017de43595c9de3fc613
 audit_date: 2026-06-04
+reclassified_at: 2026-06-10
 pass: 2
 status: corrections-pending
 claims_total: 26

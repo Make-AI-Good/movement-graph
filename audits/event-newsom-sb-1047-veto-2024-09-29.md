@@ -2,6 +2,7 @@
 entity_id: event-newsom-sb-1047-veto-2024-09-29
 entity_hash: a9610af8d9d05e8a96e7a4cdae2f48ef6ed20c36
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 28

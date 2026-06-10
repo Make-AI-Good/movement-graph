@@ -2,6 +2,7 @@
 entity_id: event-safenet-founding-denpasar-2013-06-27
 entity_hash: ff1e9ddbb49e0ab567c45bb3fa426a41990537fe
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 19

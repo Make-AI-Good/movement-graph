@@ -2,6 +2,7 @@
 entity_id: event-right2yourface-canada-frt-moratorium-letter-2023-11-01
 entity_hash: 62c4d43114de9a352700deddb49a453e3fba1045
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 22

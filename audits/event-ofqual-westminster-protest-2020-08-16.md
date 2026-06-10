@@ -2,6 +2,7 @@
 entity_id: event-ofqual-westminster-protest-2020-08-16
 entity_hash: 3becb4f54d718f038090f20f0fa3d08864518da5
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 18

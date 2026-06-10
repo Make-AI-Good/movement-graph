@@ -2,6 +2,7 @@
 entity_id: event-open-net-korea-deepfake-election-act-constitutional-complaint-2025-10-01
 entity_hash: 5bcbe96f0626f26027a48fd5ebe3d8fb6ea43cfe
 audit_date: 2026-06-02
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 20

@@ -2,6 +2,7 @@
 entity_id: event-skr-launch-london-2013-04
 entity_hash: 465a96feddf4d7c97df12de5e5c2ebda137b6947
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 14

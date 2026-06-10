@@ -2,6 +2,7 @@
 entity_id: event-pauseai-international-day-of-action-2024-05-13
 entity_hash: 01f563b75f210017d0fad4d697fdf7ba153fed0c
 audit_date: 2026-06-05
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 23
