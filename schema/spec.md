@@ -16,8 +16,8 @@ Two layers, treated differently:
 
 Ten types. Each lives in `product/entities/<type>/<id>.md` with YAML frontmatter and Markdown body.
 
-- **Organization** — national or regional groups doing grassroots organizing or AI-good advocacy
-- **Local Group** — smaller, city- or region-scoped, often informal
+- **Organization** — national or regional groups doing grassroots organizing or AI-good advocacy. National scale makes a group an Organization regardless of its organizational character — a national member-led or worker-led collective is an Organization, not a Local Group (ratified 2026-06-10).
+- **Local Group** — true local groups: city- or sub-regional scope, often informal. Scope is the discriminator against Organization; member-led character does not keep a national-scale group in this type.
 - **Campaign** — sustained, named effort with goals, tactics, and a time-arc
 - **Event** — specific moment in time (action, protest, hearing, conference, launch)
 - **Strategy** — the Analyst's layer: a named approach the movement uses (or could use) to pursue its aims, true by its form (naming needs no evidence); evidence enters only when evaluating a strategy as good vs. bad (see `../../agents/analyst/ANALYST.md`)
