@@ -11,7 +11,7 @@ founded: 2000
 location: Bengaluru, Karnataka, India
 website: https://itforchange.net/
 strategies: []
-key_people: []
+key_people: [person-anita-gurumurthy]
 board_and_advisors: []
 related_orgs: []
 funders: []
