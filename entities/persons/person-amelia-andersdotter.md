@@ -22,7 +22,7 @@ public_profiles:
     url: https://amelia.andersdotter.cc/
   - platform: internet-policy-review
     url: https://policyreview.info/users/amelia-andersdotter
-voice_entry:
+voice_entry: voice-amelia-andersdotter
 sources:
   - url: https://en.wikipedia.org/wiki/Amelia_Andersdotter
     last_checked: 2026-06-08
