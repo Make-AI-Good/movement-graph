@@ -11,7 +11,7 @@ founded: 2021
 location: Dhaka, Bangladesh
 website: https://digitallyright.org/
 strategies: []
-key_people: []
+key_people: [person-miraj-ahmed-chowdhury]
 board_and_advisors: []
 related_orgs: [org-engagemedia]
 funders: []
