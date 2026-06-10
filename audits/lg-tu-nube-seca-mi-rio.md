@@ -1,12 +1,12 @@
 ---
 entity_id: lg-tu-nube-seca-mi-rio
-entity_hash: f0babdc7a438014dea1ad39e9328f6efa11a2bbe
-audit_date: 2026-05-28
-pass: 1
+entity_hash: 2b1af1827fde2377d052bdf15caf1925e761a238
+audit_date: 2026-06-10
+pass: 2
 status: discrepancy
 claims_total: 30
-claims_verified: 26
-claims_discrepancy: 2
+claims_verified: 27
+claims_discrepancy: 1
 claims_unverifiable: 2
 sources_consulted:
   - https://www.greeneuropeanjournal.eu/dry-land-for-thirsty-data/
@@ -165,18 +165,18 @@ Source content: "una potencia concedida de 1.846 MW" and "un consumo anunciado d
 Comparison: Exact match on the 1,846 MW concession and the 10,709 GWh announced consumption.
 Decision: verified
 
-## Claim 22: Microsoft complex "would make it Spain's second-largest energy consumer"
+## Claim 22: Microsoft complex "would make it Aragón's second-largest energy consumer"
 
 Source: https://tunubesecamirio.com/2026/01/02/un-punado-de-colectivos-presentamos-alegaciones-contra-el-centro-de-datos-de-microsoft-en-zaragoza-aragon/
-Source content: "lo convertirá en el segundo mayor consumidor de energía de la comunidad"
-Comparison: The source says "de la comunidad" — i.e. second-largest energy consumer of the Comunidad Autónoma de Aragón (the Aragón region), not of Spain. The body's "Spain's second-largest energy consumer" overstates the scope from a regional to a national ranking.
-Decision: discrepancy
+Source content: "lo convertirá en el segundo mayor consumidor de energía de la comunidad superado escasamente por AWS"
+Comparison: Body reads "Aragón's second-largest energy consumer" (changed from prior pass-1 wording "Spain's second-largest"). Source's "de la comunidad" refers to the Comunidad Autónoma de Aragón, so the corrected body now matches scope. Pass-1 discrepancy resolved by Editor Audit-discrepancy backfill in the body.
+Decision: verified
 
 ## Claim 23: scalar:sources[6].note — "making the complex Spain's second-largest energy consumer"
 
 Source: https://tunubesecamirio.com/2026/01/02/un-punado-de-colectivos-presentamos-alegaciones-contra-el-centro-de-datos-de-microsoft-en-zaragoza-aragon/
-Source content: "lo convertirá en el segundo mayor consumidor de energía de la comunidad"
-Comparison: Same overstatement as Claim 22, mirrored in the sources[6].note frontmatter scalar (the parenthetical "(making the complex Spain's second-largest energy consumer)"). The source's "de la comunidad" refers to the Aragón autonomous community, not Spain. The Editor's Audit-discrepancy backfill act should apply the same single-token replacement here as in the body, per its prose-bearing-scalar mirror rule.
+Source content: "lo convertirá en el segundo mayor consumidor de energía de la comunidad superado escasamente por AWS"
+Comparison: The frontmatter scalar at `sources[6].note` still contains the parenthetical "(making the complex Spain's second-largest energy consumer)" — unchanged between pass-1 and pass-2 entity hashes. Source's "de la comunidad" refers to the Comunidad Autónoma de Aragón (the regional autonomous community), not to Spain. The pass-1 body backfill (Claim 22) was applied; the parallel scalar replacement was not. Editor's Audit-discrepancy backfill act, prose-bearing-scalar mirror rule: replace "Spain's" with "Aragón's" in sources[6].note.
 Decision: discrepancy
 
 ## Claim 24: Microsoft alegaciones — "nine further supporting endorsements including the Federación de Barrios de Zaragoza"
