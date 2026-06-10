@@ -15,6 +15,7 @@ lead_orgs:
   - org-access-now
 participating_orgs:
   - org-access-now
+  - org-amnesty-international
   - org-edri
   - org-human-rights-watch
   - org-internet-freedom-foundation

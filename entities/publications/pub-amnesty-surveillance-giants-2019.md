@@ -8,7 +8,7 @@ tags: [report, amnesty-international, surveillance-capitalism, privacy, freedom-
 created: 2026-06-10
 last_updated: 2026-06-10
 authors: []
-publisher: Amnesty International
+publisher: org-amnesty-international
 date: 2019-11-21
 url: https://www.amnesty.org/en/documents/pol30/1404/2019/en/
 publication_type: report
