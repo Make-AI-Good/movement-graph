@@ -20,6 +20,7 @@ participating_people:
   - person-cori-crider
 related_events:
   - event-african-content-moderators-union-founding-vote-2023-05-01
+  - event-kenya-elrc-sama-content-moderators-ruling-2023
 sources:
   - url: https://www.foxglove.org.uk/2022/05/10/motaung-facebook-world-first/
     last_checked: 2026-05-14

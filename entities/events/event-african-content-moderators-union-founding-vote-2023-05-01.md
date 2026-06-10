@@ -22,6 +22,7 @@ participating_people:
   - person-cori-crider
 related_events:
   - event-foxglove-motaung-meta-sama-petition-filing-2022-05-10
+  - event-kenya-elrc-sama-content-moderators-ruling-2023
   - event-data-labellers-association-launch-2025-02-13
 sources:
   - url: https://time.com/6275995/chatgpt-facebook-african-workers-union/
