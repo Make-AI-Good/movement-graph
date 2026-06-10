@@ -3,6 +3,7 @@ entity_id: fund-mackenzie-scott-yield-giving
 entity_hash: 465270f5f6446d565aec26eaa5714b10044cf943
 audit_date: 2026-05-22
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 28
 claims_corroborated: 27

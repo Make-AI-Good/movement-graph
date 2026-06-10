@@ -3,6 +3,7 @@ entity_id: fund-ford-foundation
 entity_hash: 7b833f2393b8be99bc4c1e18d45f11c37b61594c
 audit_date: 2026-05-18
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 14
 claims_corroborated: 12

@@ -3,6 +3,7 @@ entity_id: fund-macarthur-foundation
 entity_hash: dd4578e3abaff6e9c14a1b761dabf6a64e3e440b
 audit_date: 2026-05-18
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 18
 claims_corroborated: 13

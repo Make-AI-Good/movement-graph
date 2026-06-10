@@ -3,6 +3,7 @@ entity_id: fund-internet-society-foundation
 entity_hash: 0976034d6e1e083979483436a9c9df3378bc3966
 audit_date: 2026-05-22
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 27
 claims_corroborated: 25

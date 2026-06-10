@@ -3,6 +3,7 @@ entity_id: fund-luminate
 entity_hash: a032f3c41883c26e582d82ba0467227fcccf6b1f
 audit_date: 2026-06-08
 pass: 2
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 30
 claims_corroborated: 25

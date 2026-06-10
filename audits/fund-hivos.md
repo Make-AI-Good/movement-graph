@@ -3,6 +3,7 @@ entity_id: fund-hivos
 entity_hash: 38275fcfcdfc26cbc7e9e84fcc4d471af7c2b2f5
 audit_date: 2026-06-07
 pass: 2
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 31
 claims_corroborated: 28

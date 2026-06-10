@@ -3,6 +3,7 @@ entity_id: fund-fundacion-avina
 entity_hash: db0734168cb89221f533ea61c1cf48f314202856
 audit_date: 2026-05-22
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 25
 claims_corroborated: 23

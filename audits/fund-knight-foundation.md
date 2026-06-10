@@ -3,6 +3,7 @@ entity_id: fund-knight-foundation
 entity_hash: 27a8f07da4d610e9fff71796a7d5f066e872b158
 audit_date: 2026-06-08
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 21
 claims_corroborated: 20

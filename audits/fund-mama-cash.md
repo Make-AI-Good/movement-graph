@@ -3,6 +3,7 @@ entity_id: fund-mama-cash
 entity_hash: dee4b4626598df82167b5c2ac1008704329d5066
 audit_date: 2026-06-08
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 32
 claims_corroborated: 31

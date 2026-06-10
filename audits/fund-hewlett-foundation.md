@@ -3,6 +3,7 @@ entity_id: fund-hewlett-foundation
 entity_hash: 07ebabeaadb17188a211927fa3036cd0efe52504
 audit_date: 2026-06-05
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 30
 claims_corroborated: 29

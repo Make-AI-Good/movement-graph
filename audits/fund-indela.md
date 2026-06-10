@@ -3,6 +3,7 @@ entity_id: fund-indela
 entity_hash: d56cfc64f2bc6b91e000c366b3514e0f2c92e096
 audit_date: 2026-05-22
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 22
 claims_corroborated: 21

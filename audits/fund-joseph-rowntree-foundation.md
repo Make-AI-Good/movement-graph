@@ -3,6 +3,7 @@ entity_id: fund-joseph-rowntree-foundation
 entity_hash: d293896b7fc1832a40952317fc99ba23e56bf311
 audit_date: 2026-06-09
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 20
 claims_corroborated: 15

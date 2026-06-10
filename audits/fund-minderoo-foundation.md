@@ -3,6 +3,7 @@ entity_id: fund-minderoo-foundation
 entity_hash: f196811f63a44afc6153c6aced5cf96407dc2af7
 audit_date: 2026-05-22
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 24
 claims_corroborated: 16

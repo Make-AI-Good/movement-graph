@@ -3,6 +3,7 @@ entity_id: fund-kapor-foundation
 entity_hash: 7a21e148f0f24f0a4295d3c49f77a6918f770064
 audit_date: 2026-06-08
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 29
 claims_corroborated: 26
