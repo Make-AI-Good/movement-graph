@@ -2,6 +2,7 @@
 entity_id: camp-r3d-pegasus-mexico-civil-society-response-2017-ongoing
 entity_hash: 5c7f997eb62ca80ea28530096e37ffdd6ed82d71
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 16

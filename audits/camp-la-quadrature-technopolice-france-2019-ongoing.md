@@ -2,6 +2,7 @@
 entity_id: camp-la-quadrature-technopolice-france-2019-ongoing
 entity_hash: 6f57a2e127226ac5ebc37fa350499ad6a4265e91
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 27

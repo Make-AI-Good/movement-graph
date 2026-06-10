@@ -2,6 +2,7 @@
 entity_id: camp-open-net-korea-deepfake-election-law-constitutional-complaint-2025
 entity_hash: 10d2604c1700db8b0ea4cc11168d53e38069b597
 audit_date: 2026-05-20
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 25

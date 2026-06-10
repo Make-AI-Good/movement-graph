@@ -2,6 +2,7 @@
 entity_id: camp-pauseai-international-protests-2023-ongoing
 entity_hash: c8934044f1ae1c53a864e018b52c7298eb053e6a
 audit_date: 2026-06-05
+reclassified_at: 2026-06-10
 pass: 2
 status: corrections-pending
 claims_total: 28

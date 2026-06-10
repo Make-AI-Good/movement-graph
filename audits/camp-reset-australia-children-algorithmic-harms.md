@@ -2,6 +2,7 @@
 entity_id: camp-reset-australia-children-algorithmic-harms
 entity_hash: 7e5e8d66ad8294afbc57b370d6b720ed41387779
 audit_date: 2026-05-22
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 20

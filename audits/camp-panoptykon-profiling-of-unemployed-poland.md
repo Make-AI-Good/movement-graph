@@ -2,6 +2,7 @@
 entity_id: camp-panoptykon-profiling-of-unemployed-poland
 entity_hash: 0e9b771c8700f8812d8d5107faf275df6b80e58d
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 26

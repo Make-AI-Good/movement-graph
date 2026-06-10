@@ -2,6 +2,7 @@
 entity_id: camp-mutemi-meta-meareg-tekle-tigray
 entity_hash: 21be6e1777788e4ab15ec881a8ba677a704afe88
 audit_date: 2026-05-23
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 22

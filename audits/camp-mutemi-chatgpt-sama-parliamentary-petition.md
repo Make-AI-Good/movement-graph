@@ -2,6 +2,7 @@
 entity_id: camp-mutemi-chatgpt-sama-parliamentary-petition
 entity_hash: d9c0ae1760e4408b77b57cc433ec63f9cc28adba
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 24

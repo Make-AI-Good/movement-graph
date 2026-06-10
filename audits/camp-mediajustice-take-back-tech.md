@@ -2,6 +2,7 @@
 entity_id: camp-mediajustice-take-back-tech
 entity_hash: 491123708b3cba39c3646fffb1c6ce1c39aafd97
 audit_date: 2026-05-23
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 22

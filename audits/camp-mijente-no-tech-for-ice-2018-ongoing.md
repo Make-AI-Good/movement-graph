@@ -2,6 +2,7 @@
 entity_id: camp-mijente-no-tech-for-ice-2018-ongoing
 entity_hash: 79c4c9e65e7f00ecc7fb7defb4caeda2fd476853
 audit_date: 2026-05-22
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 25

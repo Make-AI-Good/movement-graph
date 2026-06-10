@@ -2,6 +2,7 @@
 entity_id: camp-oversight-lab-meta-ray-ban-glasses-2026
 entity_hash: 5af6fa53114ee2b304a3e8db901ddebabab4c1d4
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 17

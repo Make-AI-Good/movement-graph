@@ -2,6 +2,7 @@
 entity_id: camp-la-quadrature-caf-conseil-detat-2024-ongoing
 entity_hash: 671ffa9106a53c0841e56f1a0db320461cbdd493
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 17

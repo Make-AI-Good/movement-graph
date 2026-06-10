@@ -2,6 +2,7 @@
 entity_id: camp-pollicy-afro-feminist-data-futures-2021-ongoing
 entity_hash: 75f5af9f0c2fd6025f0bf438613aafe04689c366
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 16

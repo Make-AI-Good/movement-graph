@@ -2,6 +2,7 @@
 entity_id: camp-paradigm-initiative-londa-africa-digital-rights
 entity_hash: 09b9a32616a5262ca67eb5f4582464f9f994e769
 audit_date: 2026-05-22
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 25

@@ -2,6 +2,7 @@
 entity_id: camp-katiba-institute-huduma-namba-data-protection-2019-2021
 entity_hash: 02372299b8d20122ce0c6c42005b14b49f1ac8f1
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 22
