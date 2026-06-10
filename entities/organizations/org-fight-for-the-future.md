@@ -11,7 +11,7 @@ founded: 2011
 location: national (headquartered in Worcester, Massachusetts; all-remote staff)
 website: https://www.fightforthefuture.org/
 strategies: [strat-local-rapid-response-against-single-deployment]
-key_people: []
+key_people: [person-evan-greer]
 board_and_advisors: []
 related_orgs: [org-electronic-frontier-foundation]
 funders: []
