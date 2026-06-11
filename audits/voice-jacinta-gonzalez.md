@@ -2,6 +2,7 @@
 entity_id: voice-jacinta-gonzalez
 entity_hash: 8e7b7d276cb79ec07b435ca2e4e43a6932a112ac
 audit_date: 2026-06-06
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 22

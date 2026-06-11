@@ -2,6 +2,7 @@
 entity_id: voice-katarzyna-szymielewicz
 entity_hash: 105ae23b288da597f9e2cd186bb2b7aee00aa954
 audit_date: 2026-06-09
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 16

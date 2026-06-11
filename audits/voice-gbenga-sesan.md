@@ -2,6 +2,7 @@
 entity_id: voice-gbenga-sesan
 entity_hash: 4c0784187d7f7b583b7c84e09e76d6ac47f0539e
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 31

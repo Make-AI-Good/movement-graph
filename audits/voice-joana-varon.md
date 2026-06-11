@@ -2,6 +2,7 @@
 entity_id: voice-joana-varon
 entity_hash: ea3b7e8bbf8c0c38283f16c25753791cae072f4c
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 28

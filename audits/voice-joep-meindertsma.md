@@ -2,6 +2,7 @@
 entity_id: voice-joep-meindertsma
 entity_hash: d1689c015fcd2206de0d043640751a84abc5d19f
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 17

@@ -2,6 +2,7 @@
 entity_id: voice-daniel-motaung
 entity_hash: fb8ec5af53136fb84ad95ef7cc9ac37bab6015ed
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 23

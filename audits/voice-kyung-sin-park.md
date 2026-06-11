@@ -2,6 +2,7 @@
 entity_id: voice-kyung-sin-park
 entity_hash: 66030fe5961f6f21dd470f380818a7126ed73682
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 21

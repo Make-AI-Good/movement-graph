@@ -2,6 +2,7 @@
 entity_id: voice-juan-carlos-lara
 entity_hash: af231a0497ce971823821698bd558bd60d52c821
 audit_date: 2026-06-09
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 19

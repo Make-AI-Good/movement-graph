@@ -2,6 +2,7 @@
 entity_id: voice-jamila-venturini
 entity_hash: 06e2543eb059cffcf39c019f8d498126f228bcbf
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 15

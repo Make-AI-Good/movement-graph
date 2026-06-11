@@ -2,6 +2,7 @@
 entity_id: voice-holly-elmore
 entity_hash: ac97076781f01e0cc8f38185f15ceef6ef6aafea
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 32

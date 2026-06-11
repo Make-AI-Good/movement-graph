@@ -2,6 +2,7 @@
 entity_id: voice-james-farrar
 entity_hash: 5e4b6cb9d6f38fbed17f4241a3935b4a4f28a09e
 audit_date: 2026-06-07
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 25

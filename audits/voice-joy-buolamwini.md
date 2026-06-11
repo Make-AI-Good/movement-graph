@@ -2,6 +2,7 @@
 entity_id: voice-joy-buolamwini
 entity_hash: 28b876752ed85831ba1523c8df1fb23bb97337e3
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 7

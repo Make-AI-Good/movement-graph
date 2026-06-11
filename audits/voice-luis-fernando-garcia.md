@@ -2,6 +2,7 @@
 entity_id: voice-luis-fernando-garcia
 entity_hash: 3e9645ffe2d1c624df2f9cc909313696546b3e86
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 22

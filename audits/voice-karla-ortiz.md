@@ -2,6 +2,7 @@
 entity_id: voice-karla-ortiz
 entity_hash: ca9cef07a66566809683b386c8c36fa832c3318e
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 28
