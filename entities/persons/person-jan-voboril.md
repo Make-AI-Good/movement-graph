@@ -11,6 +11,7 @@ affiliations:
   - org: org-iure
     role: Executive Director and principal lawyer
     period: 2009-
+voice_entry: voice-jan-voboril
 public_profiles:
   - platform: ochranademokracie
     url: https://www.ochranademokracie.cz/lide/jan-voboril
