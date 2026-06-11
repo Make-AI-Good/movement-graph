@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
 claims_uncorroborated: 2
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://edri.org/about-us/our-team/
   - https://edri.org/our-work/eu-ai-act-deal-reached-but-too-soon-to-celebrate/

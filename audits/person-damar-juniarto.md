@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 2
 claims_uncorroborated: 5
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://damarjuniarto.wordpress.com/about/
   - https://restofworld.org/profile/damar-juniarto/

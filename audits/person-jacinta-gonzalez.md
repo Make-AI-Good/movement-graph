@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 3
 claims_uncorroborated: 7
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://mediajustice.org/news/trailblazing-strategist-jacinta-gonzalez-joins-mediajustice/
   - https://mediajustice.org/staff/jacinta-gonzalez/
