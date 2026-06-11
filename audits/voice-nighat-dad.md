@@ -3,6 +3,7 @@ entity_id: voice-nighat-dad
 entity_hash: 31d0802917eab39912ce5ad4600c313b16b9c3b1
 audit_date: 2026-06-03
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 27
 claims_corroborated: 20

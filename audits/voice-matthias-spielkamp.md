@@ -3,13 +3,14 @@ entity_id: voice-matthias-spielkamp
 entity_hash: b6a5e2e0164ed0065df2eb218d1b2a0bc98a4890
 audit_date: 2026-06-09
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 22
-claims_corroborated: 18
+claims_corroborated: 19
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
-claims_uncorroborated: 3
+claims_uncorroborated: 2
 sources_consulted:
   - https://algorithmwatch.org/en/team/matthias-spielkamp/
   - https://algorithmwatch.org/en/ai-regulation-europe-big-tech-and-security/

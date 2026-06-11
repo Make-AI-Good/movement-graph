@@ -3,13 +3,14 @@ entity_id: voice-sasha-costanza-chock
 entity_hash: 0cce74598f60425961d1ccaabff1f5a9f7254db3
 audit_date: 2026-06-09
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 22
-claims_corroborated: 14
+claims_corroborated: 16
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
-claims_uncorroborated: 7
+claims_uncorroborated: 5
 sources_consulted:
   - https://en.wikipedia.org/wiki/Sasha_Costanza-Chock
   - https://just-tech.ssrc.org/our-network/sasha-costanza-chock/

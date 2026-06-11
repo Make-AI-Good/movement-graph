@@ -3,6 +3,7 @@ entity_id: voice-neema-iyer
 entity_hash: e2512f1c3729b9907b697b812022a6867d9b6344
 audit_date: 2026-06-09
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 18
 claims_corroborated: 12

@@ -3,6 +3,7 @@ entity_id: voice-mohamad-najem
 entity_hash: 25bce13d141d1816016fb7f7525112e45c565be8
 audit_date: 2026-06-09
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 16
 claims_corroborated: 13

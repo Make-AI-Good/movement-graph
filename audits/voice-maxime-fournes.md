@@ -3,13 +3,14 @@ entity_id: voice-maxime-fournes
 entity_hash: bf1ce5220b28bd393f930a727bf2d1e1a76e0dac
 audit_date: 2026-06-03
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 24
-claims_corroborated: 14
+claims_corroborated: 16
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 3
-claims_uncorroborated: 7
+claims_uncorroborated: 5
 sources_consulted:
   - https://pauseai.substack.com/p/meet-our-new-ceo-maxime-fournes
   - https://pauseai.info/about

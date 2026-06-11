@@ -3,6 +3,7 @@ entity_id: voice-mercy-mutemi
 entity_hash: 589ec3ab2856022c71ab1eb1b2012e402559a581
 audit_date: 2026-06-03
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 21
 claims_corroborated: 15

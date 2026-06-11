@@ -3,6 +3,7 @@ entity_id: voice-silkie-carlo
 entity_hash: ad57e969b335672001fa655b53263a77c02060e0
 audit_date: 2026-06-03
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 18
 claims_corroborated: 14

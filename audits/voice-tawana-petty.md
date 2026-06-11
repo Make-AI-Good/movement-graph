@@ -3,6 +3,7 @@ entity_id: voice-tawana-petty
 entity_hash: 692b0e9227df36fa957b43148f1d80638d179a3f
 audit_date: 2026-06-09
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 23
 claims_corroborated: 18

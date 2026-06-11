@@ -3,6 +3,7 @@ entity_id: voice-peter-lucas-jones
 entity_hash: 76a25f0880b57856f5cd6e8dccb1f4abc253f45e
 audit_date: 2026-06-09
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 24
 claims_corroborated: 19

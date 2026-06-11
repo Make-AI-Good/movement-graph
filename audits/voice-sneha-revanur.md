@@ -3,13 +3,14 @@ entity_id: voice-sneha-revanur
 entity_hash: 65f2f17e8fbe61db5a8831bab697db029ff4c6d4
 audit_date: 2026-06-04
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 19
-claims_corroborated: 15
+claims_corroborated: 16
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 4
+claims_uncorroborated: 3
 sources_consulted:
   - https://en.wikipedia.org/wiki/Sneha_Revanur
   - https://encodeai.org/
