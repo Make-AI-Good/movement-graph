@@ -2,6 +2,7 @@
 entity_id: msg-no-tech-for-ice
 entity_hash: e373ad2366f7966de4264ba4a425a778c7f4714f
 audit_date: 2026-06-05
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 15

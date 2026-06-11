@@ -2,14 +2,15 @@
 entity_id: msg-toeslagenaffaire
 entity_hash: 37bc032b9eea9d98120c06ded0952aa1c066e094
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 22
-claims_corroborated: 14
+claims_corroborated: 12
 claims_primary_sourced: 0
 claims_single_source: 0
-open_corrections: 3
-claims_uncorroborated: 5
+open_corrections: 4
+claims_uncorroborated: 6
 sources_consulted:
   - https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal
   - https://www.amnesty.org/en/latest/news/2021/10/xenophobic-machines-dutch-child-benefit-scandal/

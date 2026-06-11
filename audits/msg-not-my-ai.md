@@ -2,6 +2,7 @@
 entity_id: msg-not-my-ai
 entity_hash: a695d6651d47d3d25ed900ebddb0c76f03f058cb
 audit_date: 2026-06-07
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 19

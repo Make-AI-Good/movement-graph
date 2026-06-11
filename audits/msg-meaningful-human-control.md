@@ -2,6 +2,7 @@
 entity_id: msg-meaningful-human-control
 entity_hash: fb47e821976eca32a4a1b03775263fbc97759ec4
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 24

@@ -2,6 +2,7 @@
 entity_id: msg-no-tech-for-apartheid
 entity_hash: 80b1940bdce1558f797b064fe5054b103c6c71f9
 audit_date: 2026-06-05
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 21

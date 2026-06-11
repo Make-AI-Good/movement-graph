@@ -2,6 +2,7 @@
 entity_id: msg-no-more-data-weapons
 entity_hash: cf368c37585067b9dd14052e4fa30b0b726ee64d
 audit_date: 2026-06-09
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 14

@@ -2,6 +2,7 @@
 entity_id: msg-tire-meu-rosto-da-sua-mira
 entity_hash: 615ee4e88c5c902872a213d5220893aaa7bb74d7
 audit_date: 2026-06-05
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 21

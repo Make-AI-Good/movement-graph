@@ -2,6 +2,7 @@
 entity_id: msg-laquadrature-caf-algorithm
 entity_hash: a1f6887d395a2412a6ae2a0c701e1b5b528459da
 audit_date: 2026-06-04
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 18

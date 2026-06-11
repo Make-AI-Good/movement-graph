@@ -2,6 +2,7 @@
 entity_id: msg-robodebt
 entity_hash: 03bb9c6dac35c79a9816f6b572ae0cd3e96619f2
 audit_date: 2026-05-29
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 24

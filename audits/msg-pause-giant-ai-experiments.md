@@ -2,6 +2,7 @@
 entity_id: msg-pause-giant-ai-experiments
 entity_hash: 7d79ce46b4042c61788040ba686231961dd3fbc8
 audit_date: 2026-05-29
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 24

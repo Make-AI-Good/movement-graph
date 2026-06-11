@@ -2,14 +2,15 @@
 entity_id: msg-modern-slavery-content-moderation
 entity_hash: 16f789c2874fcce7adc4a8912f0d535c71987982
 audit_date: 2026-05-29
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 18
-claims_corroborated: 11
+claims_corroborated: 12
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
-claims_uncorroborated: 6
+claims_uncorroborated: 5
 sources_consulted:
   - https://new.kenyalaw.org/akn/ke/judgment/keelrc/2023/320/eng@2023-02-06
   - https://www.opendemocracy.net/en/5050/whistleblower-daniel-motaung-facebook-kenya-court-case/

@@ -2,6 +2,7 @@
 entity_id: msg-indigenous-data-sovereignty
 entity_hash: 43165f8adcb997e86ad9d82eb27d191686d7dc77
 audit_date: 2026-06-09
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 28

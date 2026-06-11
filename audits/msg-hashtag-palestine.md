@@ -2,6 +2,7 @@
 entity_id: msg-hashtag-palestine
 entity_hash: 75601a18ea323f3cecb14343d2577896cc32a3a4
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 28
