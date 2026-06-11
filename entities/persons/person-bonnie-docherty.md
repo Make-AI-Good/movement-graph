@@ -16,6 +16,7 @@ public_profiles:
     url: https://www.hrw.org/about/people/bonnie-docherty
   - platform: harvard-ihrc
     url: https://humanrightsclinic.law.harvard.edu/team/bonnie-docherty/
+voice_entry: voice-bonnie-docherty
 sources:
   - url: https://www.hrw.org/about/people/bonnie-docherty
     last_checked: 2026-05-09
