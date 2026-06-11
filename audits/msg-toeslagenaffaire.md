@@ -1,16 +1,15 @@
 ---
 entity_id: msg-toeslagenaffaire
-entity_hash: 37bc032b9eea9d98120c06ded0952aa1c066e094
-audit_date: 2026-06-08
-reclassified_at: 2026-06-10
-pass: 1
-status: corrections-pending
-claims_total: 22
-claims_corroborated: 12
-claims_primary_sourced: 0
-claims_single_source: 0
-open_corrections: 4
-claims_uncorroborated: 6
+entity_hash: f74c973ed06506acd8fd775e825f71f1a7014e3a
+audit_date: 2026-06-10
+pass: 2
+status: supported
+claims_total: 25
+claims_corroborated: 4
+claims_primary_sourced: 10
+claims_single_source: 8
+claims_uncorroborated: 3
+open_corrections: 0
 sources_consulted:
   - https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal
   - https://www.amnesty.org/en/latest/news/2021/10/xenophobic-machines-dutch-child-benefit-scandal/
@@ -19,161 +18,218 @@ sources_consulted:
   - https://nos.nl/artikel/2315973-pieter-klein-rtl-en-jan-kleinnijenhuis-trouw-journalist-van-het-jaar
   - https://www.rijksoverheid.nl/actueel/nieuws/2022/05/30/aandacht-voor-institutioneel-racisme-binnen-toezicht-belastingdienst-en-toeslagen
   - https://www.cbs.nl/nl-nl/maatwerk/2022/19/actualisatie-uithuisplaatsingen-toeslagenaffaire-2015-t-m-2021
-  - https://www.cbs.nl/nl-nl/maatwerk/2022/48/actualisatie-uithuisplaatsingen-toeslagenaffaire-2015-t-m-juni-2022
   - https://herstel.toeslagen.nl/fraude-signalering-voorziening-fsv/
-  - https://nl.wikipedia.org/wiki/Fraudesignaleringsvoorziening
+  - https://herstel.toeslagen.nl/feiten-en-cijfers-35-537-erkend-gedupeerde-ouders/
+  - https://www.mensenrechten.nl/actueel/nieuws/2021/01/20/nooit-meer-een-toeslagenaffaire-pak-discriminatie-aan
+  - https://nos.nl/artikel/2561277-toeslagenaffaire-had-grote-rol-bij-uithuisplaatsingen-gevolgen-elke-dag-voelbaar
+  - https://www.villamedia.nl/artikel/jan-kleinnijenhuis-en-pieter-klein-over-de-affaire-die-stinkt/35253550-3691540d
+  - https://www.human.nl/medialogica/artikelen/het-toeslagendrama-in-drie-aktes-
+  - https://edri.org/our-work/amnesty-international-calls-to-ban-discriminatory-algorithms-in-its-report-xenophobic-machines/
+  - https://www.dutchnews.nl/2021/10/tax-office-algorithm-led-to-racial-profiling-amnesty-international/
+  - https://nos.nl/artikel/2364977-schulden-gedupeerden-toeslagenaffaire-bij-overheidsinstanties-kwijtgescholden
 ---
 
-## Claim 1: "the Netherlands' childcare benefits scandal" — official program name "kinderopvangtoeslag" administered since the 2004 Childcare Act by the Belastingdienst (Dutch Tax and Customs Administration)
+Pass-2 re-audit (inbox `[work]` item): pass 1 found 4 `correction` claims (Villamedia
+misattribution in body and scalar; "25 May 2022"/"root cause" overshoot; CBS 2,090-vs-1,675
+figure). All four fixes verify in the current body (researcher commits d7dec83c, a70234b3) —
+re-audited here as Claims 15, 16, 18, 20, all now pass states. No new corrections.
+
+## Claim 1: official program name "kinderopvangtoeslag" administered since the 2004 Childcare Act by the Belastingdienst
 
 Source: https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal
-Source content: "Childcare benefits were introduced to the Dutch social welfare system in 2004, when the States General adopted the Childcare Act"
-Comparison: Body claim aligns: 2004 Childcare Act and administration by Belastingdienst are correctly named.
-Decision: corroborated
+Source tier: tiebreaker
+Source content: "Childcare benefits were introduced to the Dutch social welfare system in 2004, when the States General of the Netherlands adopted the Childcare Act"; "the Tax and Customs Administration (part of the Ministry of Finance) is responsible for its implementation, including payment and fraud prevention."
+Comparison: Statute date and administering agency match; named-statute / definitional facts are in the Wikipedia-alone-sufficient class.
+Decision: single-source
 
 ## Claim 2: "wrongly accusing roughly 26,000 families … of childcare-benefits fraud"
 
 Source: https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal
-Source content: "Between 2005 and 2019, approximately 26,000 parents were wrongly accused of making fraudulent benefit claims"
-Comparison: The 26,000 figure matches. Body says "families" where Wikipedia says "parents" — semantically equivalent in this context.
-Decision: corroborated
+Source tier: tiebreaker
+Source content: "Between 2005 and 2019, approximately 26,000 parents were wrongly accused of making fraudulent benefit claims."
+Comparison: The specific figure matches Wikipedia exactly. Primary-tier sources fetched this pass confirm the substance at scale but not the figure: College voor de Rechten van de Mens ("tienduizenden ouders ten onrechte als fraudeur bestempeld") and herstel.toeslagen.nl (35,537 recognized affected parents). The 26,000 token itself rests on Wikipedia in this pass.
+Decision: single-source
 
 ## Claim 3: "by some estimates closer to 35,000" wrongly-accused families
 
-Source: no canonical source found
-Source content: Searched sources do not cite a 35,000 figure; Wikipedia and other canonical sources consistently cite ~26,000.
-Comparison: The "closer to 35,000" range is not supported by canonical sources consulted in this pass. Cannot positively contradict without exhausting alternate registries, so flagged as unverifiable rather than discrepancy.
-Decision: uncorroborated
+Source: https://herstel.toeslagen.nl/feiten-en-cijfers-35-537-erkend-gedupeerde-ouders/
+Source tier: primary
+Source content: "35.537" erkend gedupeerde ouders (recognized affected parents), publication date 27-05-2024; recognized parents "recht hebben op compensatie en hulp bij hun schulden."
+Comparison: The government recovery operation's own published count of recognized affected parents passed 35,000 — the canonical basis for estimates above the 26,000 figure. Pass-1 uncorroborated; now supported by the primary record.
+Decision: primary-sourced
 
 ## Claim 4: "demanding full reimbursement of received benefits in lump sums averaging €20,000–€60,000 per family"
 
 Source: https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal
+Source tier: tiebreaker
 Source content: "In many cases, this sum amounted to tens of thousands of euros, driving families into severe financial hardship."
-Comparison: Wikipedia confirms "tens of thousands of euros" range, consistent with the body's €20,000–€60,000 specification; the more specific bracketed range is not contradicted but is not explicitly substantiated by the cited sources.
+Comparison: "Tens of thousands" is consistent with but does not substantiate the specific "averaging €20,000–€60,000" bracket; published recovery statistics found this pass measure different things (e.g. median €14,075 among O/GS-labelled parents; "at least €30,000" compensation floor) and none carries this average range. No canonical source found for the bracket as stated; no single replacement token either.
 Decision: uncorroborated
 
-## Claim 5: "Fraude Signalering Voorziening (FSV) … system introduced in 2013, with a self-learning mechanism, no meaningful human oversight"
-
-Source: https://nl.wikipedia.org/wiki/Fraudesignaleringsvoorziening (via web search)
-Source content: Multiple canonical sources (NL Wikipedia article on FSV; Belastingdienst's own historical descriptions) confirm FSV was in use between November 4, 2013 and February 27, 2020.
-Comparison: 2013 introduction year confirmed. "Self-learning mechanism, no meaningful human oversight" is the specific Amnesty characterisation of the risk-profiling layer (separate from FSV-the-database) — confirmed under Claim 12.
-Decision: corroborated
-
-## Claim 6: FSV used "Dutch nationality, dual nationality, and 'foreign-sounding names' as risk-of-fraud indicators"
+## Claim 5: the algorithmic risk-profiling system was "introduced in 2013"
 
 Source: https://www.amnesty.org/en/latest/news/2021/10/xenophobic-machines-dutch-child-benefit-scandal/
-Source content: "the system used information on whether an applicant had Dutch nationality as a risk factor and non-Dutch nationals received higher risk-scores." A separate Amnesty/derivative source confirms dual nationality was used as a selection criterion.
-Comparison: Dutch nationality as risk factor: verified. Dual nationality as risk indicator: verified via secondary canonical sources. The specific phrase "foreign-sounding names" is not located in the cited Amnesty page summary or other canonical sources consulted; the precise phrasing is likely in the full Amnesty PDF report (not directly fetched this pass) — flagged as unverifiable for that specific phrase.
+Source tier: mainstream
+Source content: "From the start, racial and ethnic discrimination was central to the design of the algorithmic system introduced in 2013 by the Dutch tax authorities."
+Comparison: Introduction year matches the Amnesty record.
+Decision: single-source
+
+## Claim 6: the system "used Dutch nationality, dual nationality, and 'foreign-sounding names' as risk-of-fraud indicators"
+
+Source: https://www.amnesty.org/en/latest/news/2021/10/xenophobic-machines-dutch-child-benefit-scandal/ (Dutch nationality); https://www.mensenrechten.nl/actueel/nieuws/2021/01/20/nooit-meer-een-toeslagenaffaire-pak-discriminatie-aan (dual nationality)
+Source tier: primary
+Source content: Amnesty: "The tax authorities used information on whether an applicant had Dutch nationality as a risk factor and non-Dutch nationals received higher risk-scores." College voor de Rechten van de Mens: "ging de Belastingdienst soms actief op zoek naar mensen die aan bepaalde kenmerken voldeden, zoals het hebben van een dubbele nationaliteit."
+Comparison: Two of the three indicators verify (Dutch nationality — Amnesty; dual nationality — College, primary tier). The quoted phrase "foreign-sounding names" was not located in any source fetched this pass (Amnesty news page, EDRi summary, DutchNews coverage all checked); same residual as pass 1 — likely inside the full Amnesty PDF, which is not text-extractable in this environment. Compound claim as attributed remains partially confirmed.
 Decision: uncorroborated
 
-## Claim 7: FSV was shut down on 27 February 2020
+## Claim 7: the FSV "was shut down on 27 February 2020" after internal review found it could not be brought into GDPR compliance
 
 Source: https://herstel.toeslagen.nl/fraude-signalering-voorziening-fsv/
-Source content: "By careless use it failed to meet requirements and was discontinued on 27 February 2020."
-Comparison: Date matches exactly.
+Source tier: primary
+Source content: "het is op 27 februari 2020 stopgezet"; "Door onzorgvuldig gebruik voldeed het niet aan de eisen" — with non-compliance with GDPR/AVG, excessive staff access, improper data retention, and incorrect data usage named as the problems.
+Comparison: Date and GDPR-noncompliance grounds match the government recovery operation's own record.
+Decision: primary-sourced
+
+## Claim 8: Parliamentary Interrogation Committee report "Ongekend onrecht" ("Unprecedented Injustice") presented 17 December 2020
+
+Source: https://nl.wikipedia.org/wiki/Parlementaire_ondervraging_Kinderopvangtoeslag; https://www.parlement.com/kabinetscrisis-2021-kinderopvangtoeslagaffaire
+Source tier: database
+Source content: NL Wikipedia: "Op 17 december 2020 overhandigde de commissie haar rapport getiteld Ongekend onrecht aan Tweede Kamervoorzitter Khadija Arib." Parlement.com: "Op 17 december 2020 verscheen het rapport van de Commissie, getiteld 'Ongekend onrecht'."
+Comparison: Title and date match in two independent canonical sources.
 Decision: corroborated
 
-## Claim 8: Parliamentary Interrogation Committee report "Ongekend onrecht" ("Unprecedented Injustice"), released 17 December 2020
+## Claim 9: POK "established by the Tweede Kamer on 2 July 2020 and chaired by Chris van Dam"
 
 Source: https://nl.wikipedia.org/wiki/Parlementaire_ondervraging_Kinderopvangtoeslag
-Source content: "The committee delivered its report titled 'Ongekend onrecht' on December 17, 2020."
-Comparison: Date and Dutch title match. English title "Unprecedented Injustice" is the standard rendering and matches Wikipedia.
+Source tier: tiebreaker
+Source content: "Op initiatief van GroenLinks-Kamerlid Bart Snels stelde de Tweede Kamer op 2 juli 2020 de parlementaire ondervragingscommissie Kinderopvangtoeslag in"; "Chris van Dam (voorzitter, CDA)".
+Comparison: Establishment date and chair match; official-action dates and office-holders are in the Wikipedia-alone-sufficient class.
+Decision: single-source
+
+## Claim 10: "resignation of the Rutte III cabinet on 15 January 2021" in response to the POK report
+
+Source: https://www.parlement.com/kabinetscrisis-2021-kinderopvangtoeslagaffaire; https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal
+Source tier: database
+Source content: Parlement.com: "Op 15 januari 2021 boden de ministers en staatssecretarissen van het kabinet-Rutte III hun ontslag aan." EN Wikipedia: the third Rutte cabinet resigned on 15 January 2021.
+Comparison: Date and cause match in two independent canonical sources.
 Decision: corroborated
 
-## Claim 9: Parliamentary Interrogation Committee (POK) established by the Tweede Kamer on 2 July 2020 and chaired by Chris van Dam
-
-Source: https://nl.wikipedia.org/wiki/Parlementaire_ondervraging_Kinderopvangtoeslag
-Source content: "The Tweede Kamer established the committee on July 2, 2020"; "Chris van Dam (CDA) served as voorzitter (chair) of the committee."
-Comparison: Both date and chair match.
-Decision: corroborated
-
-## Claim 10: Rutte III cabinet resignation on 15 January 2021
-
-Source: https://www.parlement.com/kabinetscrisis-2021-kinderopvangtoeslagaffaire
-Source content: "Op 15 januari 2021 boden de ministers en staatssecretarissen van het kabinet-Rutte III hun ontslag aan naar aanleiding van de kritiek in het rapport van de Parlementaire ondervragingscommissie Kinderopvangtoeslag (POK)."
-Comparison: Date matches; cause (POK report) matches.
-Decision: corroborated
-
-## Claim 11: Rutte III resignation was "the first peacetime Dutch cabinet to fall over an administrative-state failure since World War II"
+## Claim 11: the resignation was "the first peacetime Dutch cabinet to fall over an administrative-state failure since World War II"
 
 Source: no canonical source found
-Source content: The cited parlement.com page does not assert this characterisation; web searches across NL Times, NPR, Reuters, and Dutch Wikipedia did not surface a canonical source carrying this specific "first peacetime since WWII" framing tied to administrative-state failure.
-Comparison: Load-bearing characterisation that appears in the body twice but is not substantiated in any consulted canonical source — falls in the contested-attribution / load-bearing-characterisation register where Wikipedia is tiebreaker-only (per AUDITOR.md Source rule). Marked unverifiable.
+Source tier: none
+Source content: The cited parlement.com page (fetched this pass) does not carry this characterisation; targeted Dutch-language searches across parlement.com, Binnenlands Bestuur, EenVandaag, and BNNVARA coverage of the resignation surfaced no canonical source asserting the "first since WWII" framing tied to administrative-state failure.
+Comparison: Load-bearing characterisation appearing in body and frontmatter origin; second pass also finds no canonical source. Contested/superlative attribution class — Wikipedia tiebreaker-only and no source found at all.
 Decision: uncorroborated
 
-## Claim 12: Amnesty International's "Xenophobic Machines" report published 25 October 2021; named the algorithm as self-learning, without meaningful human oversight; described risk-profiling as "xenophobic"
+## Claim 12: Amnesty's "Xenophobic Machines" report published 25 October 2021; algorithm self-learning, without meaningful human oversight; named as "xenophobic"; "discriminatory loop" register
 
 Source: https://www.amnesty.org/en/latest/news/2021/10/xenophobic-machines-dutch-child-benefit-scandal/
-Source content: Page date matches 25 October 2021; describes "a self-learning mechanism that meant the algorithm adapted over time based on experience, with no meaningful human oversight"; quotes Merel Koning's "Thousands of lives were ruined by a disgraceful process which included a xenophobic algorithm based on racial profiling."
-Comparison: All three sub-claims match the cited source.
-Decision: corroborated
+Source tier: primary
+Source content: Page dated 25 October 2021; "These discriminatory design flaws were reproduced by a self-learning mechanism that meant the algorithm adapted over time based on experience, with no meaningful human oversight"; section heading "Discriminatory loop"; Koning quote naming "a xenophobic algorithm based on racial profiling."
+Comparison: For what Amnesty published and said, Amnesty's own page is the primary record; all sub-claims match.
+Decision: primary-sourced
 
-## Claim 13: Merel Koning is Amnesty's Senior Advisor on Technology and Human Rights and is the source of the "thousands of lives ruined … xenophobic algorithm based on racial profiling" quote
-
-Source: https://www.amnesty.org/en/latest/news/2021/10/xenophobic-machines-dutch-child-benefit-scandal/
-Source content: Quote and attribution to Merel Koning, Senior Advisor on Technology and Human Rights at Amnesty International, both present.
-Comparison: Matches body's `sources[].note` scalar.
-Decision: corroborated
-
-## Claim 14: scalar:sources[].note (Amnesty) — Amnesty policy demands include mandatory HRIAs before deployment; effective monitoring and oversight; accountability and remedies; a ban on black-box and self-learning algorithms with significant rights impacts
+## Claim 13: Merel Koning is Amnesty's Senior Advisor on Technology and Human Rights; quoted "thousands of lives were ruined by a disgraceful process which included a xenophobic algorithm based on racial profiling"
 
 Source: https://www.amnesty.org/en/latest/news/2021/10/xenophobic-machines-dutch-child-benefit-scandal/
-Source content: "Implement mandatory human rights impact assessments before algorithmic system deployment; Establish effective monitoring and oversight mechanisms for public sector algorithms; Hold responsible parties accountable and provide remedies to affected individuals; Discontinue black box systems and self-learning algorithms where decisions significantly impact individual rights."
-Comparison: All four demands match.
+Source tier: primary
+Source content: "Thousands of lives were ruined by a disgraceful process which included a xenophobic algorithm based on racial profiling" — attributed to Merel Koning, Senior Advisor on Technology and Human Rights at Amnesty International.
+Comparison: Title and quote match the scalar (sources[1].note) exactly; Amnesty's own page is the primary record of its staffer's statement.
+Decision: primary-sourced
+
+## Claim 14: scalar:sources[1].note — Amnesty policy demands: mandatory HRIAs before deployment; effective monitoring and oversight; accountability and remedies; ban on black-box and self-learning algorithms with significant rights impacts
+
+Source: https://www.amnesty.org/en/latest/news/2021/10/xenophobic-machines-dutch-child-benefit-scandal/
+Source tier: primary
+Source content: Calls for "a mandatory and binding human rights impact assessment," "establish effective monitoring and oversight mechanisms," "Hold those responsible for violations to account," and "Stop the use of black box systems and self-learning algorithms."
+Comparison: All four demands match the scalar at sources[1].note.
+Decision: primary-sourced
+
+## Claim 15: Klein and Kleinnijenhuis "jointly named Dutch Journalist of the Year for 2019 by Vakblad Villamedia"
+
+Source: https://nos.nl/artikel/2315973-pieter-klein-rtl-en-jan-kleinnijenhuis-trouw-journalist-van-het-jaar; https://www.villamedia.nl/artikel/jan-kleinnijenhuis-en-pieter-klein-over-de-affaire-die-stinkt/35253550-3691540d
+Source tier: mainstream
+Source content: NOS: "Jan Kleinnijenhuis (Trouw) en Pieter Klein (RTL Nieuws) zijn verkozen tot Journalist van het Jaar 2019"; "Vakblad Villamedia kent ieder jaar de prijs toe." Villamedia's own interview with the laureates confirms the title.
+Comparison: Pass-1 correction (body previously attributed the award to the NVJ) verifies as FIXED — the body now names Vakblad Villamedia, matching both sources.
 Decision: corroborated
 
-## Claim 15: Klein (RTL Nieuws) and Kleinnijenhuis (Trouw) "jointly named Dutch Journalist of the Year for 2019 by the Nederlandse Vereniging van Journalisten (NVJ)"
+## Claim 16: scalar:sources[4].note — "Villamedia Journalist of the Year 2019 award" attribution in the NOS source note
 
-Source: https://nos.nl/artikel/2315973-pieter-klein-rtl-en-jan-kleinnijenhuis-trouw-journalist-van-het-jaar
-Source content: "Jan Kleinnijenhuis (Trouw) en Pieter Klein (RTL Nieuws) zijn verkozen tot Journalist van het Jaar 2019." Awarder named in the cited article: "Vakblad Villamedia kent ieder jaar de prijs toe" (trade magazine Villamedia awards the prize annually). No NVJ attribution in the cited source.
-Comparison: The fact of the joint award and the year (2019) verify. The awarding body attribution is the discrepancy: the cited source names Vakblad Villamedia as the awarder, not NVJ. (Villamedia is NVJ-published, so the bodies are related, but the body's "by the NVJ" attribution is not supported by the cited source — fix is a single substitution to "by Vakblad Villamedia" or "by Villamedia magazine" in both the body and the `sources[].note` scalar; the NOS award page is also titled by the awarders.)
-Decision: correction
-
-## Claim 16: scalar:sources[5].note — same NVJ attribution as Claim 15, appearing in the prose-bearing source note for the NOS URL
-
-Source: https://nos.nl/artikel/2315973-pieter-klein-rtl-en-jan-kleinnijenhuis-trouw-journalist-van-het-jaar
+Source: https://nos.nl/artikel/2315973-pieter-klein-rtl-en-jan-kleinnijenhuis-trouw-journalist-van-het-jaar; https://www.villamedia.nl/artikel/jan-kleinnijenhuis-en-pieter-klein-over-de-affaire-die-stinkt/35253550-3691540d
+Source tier: mainstream
 Source content: As Claim 15.
-Comparison: The `sources[].note` for the NOS source repeats "Dutch Association of Journalists (NVJ) Journalist of the Year 2019 award" — the same misattribution as in the body. Single replacement at this scalar location.
-Decision: correction
-
-## Claim 17: investigative reporting began in "September 2018 onward" by Klein and Kleinnijenhuis
-
-Source: no canonical source found in this pass
-Source content: Cited NOS award article does not specify a September 2018 start date; Wikipedia's English article references the reporting without naming a specific start month.
-Comparison: Not contradicted, but not substantiated by sources consulted; the 2018 start is broadly known but the specific month requires direct confirmation against the original Trouw/RTL pieces or Kleinnijenhuis' own statements.
-Decision: uncorroborated
-
-## Claim 18: Dutch government's acknowledgement of institutional racism as the root cause was "made first on 25 May 2022" with the public statement published 30 May 2022
-
-Source: https://www.rijksoverheid.nl/actueel/nieuws/2022/05/30/aandacht-voor-institutioneel-racisme-binnen-toezicht-belastingdienst-en-toeslagen
-Source content: Page dated "30-05-2022 | 15:00"; states there "is geweest van institutioneel racisme" (was institutional racism) within intensive supervision. Source does not identify it as "root cause" in those words and contains no reference to a 25 May 2022 prior statement.
-Comparison: The Rijksoverheid publication date verifies as 30 May 2022. The "25 May 2022" date for the first acknowledgement is not present in the cited source — discrepancy of date attribution. The body's "root cause" wording is stronger than the cited source's "is geweest van" framing (which says institutional racism existed within supervision, not that it was the root cause of the scandal). The body's characterisation overshoots the cited source.
-Decision: correction
-
-## Claim 19: PwC (PricewaterhouseCoopers) investigations were commissioned by the Dutch government into FSV and Toeslagen practices
-
-Source: https://www.rijksoverheid.nl/actueel/nieuws/2022/05/30/aandacht-voor-institutioneel-racisme-binnen-toezicht-belastingdienst-en-toeslagen
-Source content: "Op basis van meerdere voorbeelden uit de onderzoeken van PricewaterhouseCoopers (PwC) naar de Fraude signalering voorziening (FSV)"
-Comparison: PwC investigations into FSV referenced in the cited government source.
+Comparison: Pass-1 correction verifies as FIXED — the scalar at sources[4].note now reads "Villamedia Journalist of the Year 2019 award" and matches the cited source.
 Decision: corroborated
 
-## Claim 20: CBS data shows "approximately 2,090 children identified by CBS" removed in 2015-2021 period
+## Claim 17: the framing's public life "begins on a September 2018 court-record observation" — Kleinnijenhuis, attending a tax-court hearing, witnessed the Belastingdienst withholding documentary evidence from the court
+
+Source: https://www.human.nl/medialogica/artikelen/het-toeslagendrama-in-drie-aktes-
+Source tier: mainstream
+Source content: "Als Trouw journalist Jan Kleinnijenhuis in september 2018 een rechtszaak van González Pérez bijwoont, constateert hij met eigen ogen hoe de Belastingdienst belangrijke stukken achterhoudt voor de rechter."
+Comparison: Direct match for date, hearing attendance, and document-withholding observation (Medialogica/HUMAN, Dutch public broadcaster). EN Wikipedia independently confirms the September 2018 start of RTL/Trouw public reporting. The Villamedia interview gives a complementary account (two internal Belastingdienst memos obtained in summer 2018) that does not contradict the hearing account — Kleinnijenhuis there too describes realizing information was withheld "from Parliament and the court." Hearing specifics rest on one source.
+Decision: single-source
+
+## Claim 18: Dutch government's 30 May 2022 official acknowledgement that institutional racism had occurred within the intensive supervision of the Tax and Customs Administration and the Toeslagen branch
+
+Source: https://www.rijksoverheid.nl/actueel/nieuws/2022/05/30/aandacht-voor-institutioneel-racisme-binnen-toezicht-belastingdienst-en-toeslagen
+Source tier: primary
+Source content: Page dated "30-05-2022 | 15:00": "er binnen het intensief toezicht van de Belastingdienst en Toeslagen sprake is geweest van institutioneel racisme."
+Comparison: Pass-1 correction (body previously carried an unsupported "25 May 2022" first-acknowledgement date and a "root cause" framing stronger than the source) verifies as FIXED — the body now states the 30 May 2022 acknowledgement that institutional racism occurred within the intensive supervision, matching the source's own framing.
+Decision: primary-sourced
+
+## Claim 19: PwC investigations commissioned into the FSV and Toeslagen practices
+
+Source: https://www.rijksoverheid.nl/actueel/nieuws/2022/05/30/aandacht-voor-institutioneel-racisme-binnen-toezicht-belastingdienst-en-toeslagen
+Source tier: primary
+Source content: "Op basis van meerdere voorbeelden uit de onderzoeken van PricewaterhouseCoopers (PwC) naar de Fraude signalering voorziening (FSV), aangetroffen werkwijzen bij Toeslagen"
+Comparison: PwC investigations into FSV and Toeslagen practices named in the government's own statement.
+Decision: primary-sourced
+
+## Claim 20: "approximately 1,675 children were removed from Toeslagenaffaire-affected families" over 2015–2021 per the CBS record
 
 Source: https://www.cbs.nl/nl-nl/maatwerk/2022/19/actualisatie-uithuisplaatsingen-toeslagenaffaire-2015-t-m-2021
+Source tier: primary
 Source content: "Van de kinderen op deze actuele lijst hebben 1 675 een uithuisplaatsing gehad in de jaren 2015 t/m 2021"
-Comparison: The CBS URL cited in the entity (2022/19, covering 2015-2021) reports 1,675 children — not 2,090. The 2,090 figure appears in a later CBS publication (2022/48, "Actualisatie uithuisplaatsingen toeslagenaffaire, 2015 t/m juni 2022", extending the period through June 2022). Either the figure should be updated to 1,675 with the 2015-2021 cited URL, or the URL should be updated to the 2022/48 publication that contains the 2,090 figure. The numeric/source mismatch is the discrepancy.
-Decision: correction
+Comparison: Pass-1 correction (body previously carried 2,090, the figure from the later 2022/48 publication covering through June 2022) verifies as FIXED — the body's 1,675 now matches the cited 2022/19 publication and its 2015–2021 period.
+Decision: primary-sourced
 
-## Claim 21: Ministry of Justice and Security's parallel record carries "3,058" children removed
+## Claim 21: "the Ministry of Justice and Security's parallel administrative record carries 3,058 children"
 
-Source: https://www.cbs.nl/nl-nl/maatwerk/2022/19/actualisatie-uithuisplaatsingen-toeslagenaffaire-2015-t-m-2021 (no support); secondary canonical sources confirm 3,058 figure independent of cited URL.
-Source content: The 2022/19 CBS publication does not reference a Ministry of Justice 3,058 figure; multiple Dutch news sources (e.g., NOS, NL Times) report the 3,058 Ministry-of-Justice count alongside the CBS 2,090 figure.
-Comparison: The 3,058 figure is canonically attested in derivative reporting, but the cited URL does not carry it (and there is no separate citation in `sources[]` for the Ministry-of-Justice number). Substantively the body's figure stands; the citation gap is real. Flagged unverifiable rather than discrepancy because the figure itself is canonically supported; only the citation is missing.
-Decision: uncorroborated
+Source: https://nos.nl/artikel/2561277-toeslagenaffaire-had-grote-rol-bij-uithuisplaatsingen-gevolgen-elke-dag-voelbaar
+Source tier: mainstream
+Source content: "Het ministerie van Justitie en Veiligheid zegt dat er 3058 kinderen bij hun ouders weg zijn gehaald."
+Comparison: The figure and its attribution to the Ministry of Justice and Security match the NOS article cited in the entity's sources. Pass-1 uncorroborated (citation gap); the cited NOS source does carry it.
+Decision: single-source
 
-## Claim 22: The Autoriteit Persoonsgegevens (AP) October 2021 investigation report found unlawful processing of personal data through the FSV in breach of GDPR; the FSV was shut down on 27 February 2020 after Belastingdienst-internal review
+## Claim 22: the AP's October 2021 report found systematic unlawful processing of personal data through the FSV in breach of the GDPR (over-broad access, inappropriate inclusion, excessive retention)
 
-Source: https://www.autoriteitpersoonsgegevens.nl/uploads/imported/onderzoek_belastingdienst_fraude_signalering_voorziening_fsv.pdf (timed out on direct fetch); cross-confirmed via https://herstel.toeslagen.nl/fraude-signalering-voorziening-fsv/
-Source content: Herstel Toeslagen page: "By careless use it failed to meet requirements and was discontinued on 27 February 2020." Multiple derivative canonical sources confirm the AP October 2021 report's findings of GDPR breach (over-broad employee access, excessive retention, inappropriate inclusion).
-Comparison: 27 February 2020 shutdown matches; AP findings consistent with derivative canonical sources but the primary PDF was not directly readable this pass.
-Decision: corroborated
+Source: https://herstel.toeslagen.nl/fraude-signalering-voorziening-fsv/
+Source tier: primary
+Source content: "Door onzorgvuldig gebruik voldeed het niet aan de eisen" — with GDPR/AVG non-compliance, excessive staff access, improper data retention, and incorrect data usage named; "het is op 27 februari 2020 stopgezet."
+Comparison: The violation substance and shutdown verify against the government recovery operation's primary record; the AP's own report PDF timed out on fetch (both passes) and its news page timed out twice this pass, so the October-2021-report attribution rests on the official-domain record located in search (rijksoverheid.nl hosts "Onderzoeksrapport AP … FSV," dated 29-10-2021) rather than a directly fetched AP page.
+Decision: primary-sourced
+
+## Claim 23: the financial pressure of repayment demands drove a cascade into financial stress, mental-health crisis, partner separation, and child-protection contact that drove the removals
+
+Source: https://nos.nl/artikel/2561277-toeslagenaffaire-had-grote-rol-bij-uithuisplaatsingen-gevolgen-elke-dag-voelbaar
+Source tier: mainstream
+Source content: "De schulden, armoede en financiële problemen die ontstonden door de toeslagenaffaire leidden er vaak toe dat de stabiliteit in het gezin verdween … financiële stress, mentale problemen, verlies van werk, conflicten tussen partners en een verslechterde relatie tussen de kinderen en hun ouders."
+Comparison: Causal-claim class (Wikipedia tiebreaker-only); the NOS report of the inquiry findings matches the body's cascade description on one canonical source.
+Decision: single-source
+
+## Claim 24: scalar:sources[8].note — College voor de Rechten van de Mens 20 January 2021 statement "Nooit meer een toeslagenaffaire: pak discriminatie aan"
+
+Source: https://www.mensenrechten.nl/actueel/nieuws/2021/01/20/nooit-meer-een-toeslagenaffaire-pak-discriminatie-aan
+Source tier: primary
+Source content: Title "Nooit meer een toeslagenaffaire: pak discriminatie aan" dated 20-01-2021; "tienduizenden ouders ten onrechte als fraudeur bestempeld"; names dual-nationality targeting and demands the national coordinator combat "institutioneel racisme."
+Comparison: Title, date, anti-discrimination demand, and institutional-discrimination framing all match the scalar at sources[8].note; the institution's own page is the primary record.
+Decision: primary-sourced
+
+## Claim 25: the POK report "substantively criticised the legislature … and the judiciary for its … deference to the Tax Administration's contested risk-of-fraud findings"
+
+Source: https://www.parlement.com/kabinetscrisis-2021-kinderopvangtoeslagaffaire
+Source tier: database
+Source content: The committee criticized "niet alleen de uitvoering door de belastingdienst, maar ook de wetgever en de rechtspraak"; the judiciary "had … 'zijn belangrijke functie van (rechts)bescherming van individuele burgers veronachtzaamd.'"
+Comparison: The criticized targets (legislature and judiciary) and the judiciary's neglected protection function verify on parlement.com; the body's specific "without a hardship clause" reason for the legislature criticism is attested in parliamentary-record search results (the committee named the absent hardheidsclausule a critical choice moment) but was not directly fetched from a quotable page this pass.
+Decision: single-source

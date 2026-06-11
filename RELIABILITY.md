@@ -1,27 +1,27 @@
 ---
 type: reliability-statement
-generated_at: 2026-06-11T03:27:21Z
-generated_at_commit: a08e381884c8aa437e16f2b3689ebf36bc04401a
+generated_at: 2026-06-11T03:35:14Z
+generated_at_commit: 69976b7d351d150b5844c93cdb6de9daee1ff4a0
 generator: movement-graph/dashboard/generate-reliability.sh
 audited_entities: 472
 total_entities: 696
 audit_coverage_pct: 67
-total_claims: 10300
-claims_corroborated: 8082
-claims_primary_sourced: 117
-claims_single_source: 47
-claims_uncorroborated: 1670
-open_corrections: 384
+total_claims: 10303
+claims_corroborated: 8074
+claims_primary_sourced: 127
+claims_single_source: 55
+claims_uncorroborated: 1667
+open_corrections: 380
 status_corroborated: 39
-status_supported: 217
-status_corrections_pending: 216
+status_supported: 218
+status_corrections_pending: 215
 ---
 
 # Corpus reliability
 
-Auto-generated at commit `a08e381` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
+Auto-generated at commit `69976b7` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
 
-This graph is independently audited at the claim level. Of 10,300 claims across 472 audited entities: **79.6%** corroborated or primary-sourced, **0.5%** single-source, **16.2%** not independently corroborated, **3.7%** precision-corrected (which we apply). **No fabrication observed.**
+This graph is independently audited at the claim level. Of 10,303 claims across 472 audited entities: **79.6%** corroborated or primary-sourced, **0.5%** single-source, **16.2%** not independently corroborated, **3.7%** precision-corrected (which we apply). **No fabrication observed.**
 
 "Single-source" / "not independently corroborated" describe how much sourcing backs a claim — not findings that it is wrong.
 
@@ -50,15 +50,15 @@ Entity-level `status` is a **distribution**, never the worst single claim:
 | Metric | Value |
 |---|---|
 | Audit coverage | 472 / 696 entities (67%) |
-| Total claims audited | 10,300 |
-| Claims corroborated (≥2 sources) | 8,082 |
-| Claims primary-sourced (1 primary-tier source) | 117 |
-| Claims single-source (1 non-primary canonical source) | 47 |
-| Claims uncorroborated | 1,670 |
-| Open corrections | 384 |
+| Total claims audited | 10,303 |
+| Claims corroborated (≥2 sources) | 8,074 |
+| Claims primary-sourced (1 primary-tier source) | 127 |
+| Claims single-source (1 non-primary canonical source) | 55 |
+| Claims uncorroborated | 1,667 |
+| Open corrections | 380 |
 | Entities — status `corroborated` | 39 |
-| Entities — status `supported` | 217 |
-| Entities — status `corrections-pending` | 216 |
+| Entities — status `supported` | 218 |
+| Entities — status `corrections-pending` | 215 |
 
 ## How this is generated
 
