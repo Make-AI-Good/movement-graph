@@ -10,7 +10,7 @@ last_updated: 2026-05-20
 founded: 2002
 location: Brussels, Belgium
 website: https://edri.org/
-strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-counter-narrative-framing]
+strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-counter-narrative-framing, strat-civil-society-inside-technical-standards-bodies]
 key_people: [person-ella-jakubowska, person-thomas-lohninger]
 board_and_advisors: []
 related_orgs: [org-algorithmwatch, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net, org-hermes-center, org-tasz, org-article-19, org-digitale-gesellschaft, org-iure, org-norwegian-consumer-council, org-homo-digitalis]

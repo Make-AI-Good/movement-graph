@@ -10,7 +10,7 @@ last_updated: 2026-05-21
 founded: 2015
 location: Rio de Janeiro, Brazil (Latin American reach)
 website: https://codingrights.org/
-strategies: [strat-counter-narrative-framing, strat-parallel-community-research-institution]
+strategies: [strat-counter-narrative-framing, strat-parallel-community-research-institution, strat-civil-society-inside-technical-standards-bodies]
 key_people:
   - person-joana-varon
 board_and_advisors: []

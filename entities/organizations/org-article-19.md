@@ -10,7 +10,7 @@ last_updated: 2026-05-26
 founded: 1987
 location: London, United Kingdom
 website: https://www.article19.org/
-strategies: [strat-coalition-lobbying-of-binding-regional-regulation]
+strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-civil-society-inside-technical-standards-bodies]
 key_people: []
 board_and_advisors: []
 related_orgs:
