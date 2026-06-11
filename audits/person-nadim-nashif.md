@@ -5,11 +5,12 @@ audit_date: 2026-06-02
 pass: 1
 status: supported
 claims_total: 16
-claims_corroborated: 10
+claims_corroborated: 9
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 6
+claims_uncorroborated: 7
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://al-shabaka.org/authors/nadim-nashif/
   - https://www.civicus.org/index.php/media-resources/news/interviews/5843-palestine-they-label-us-antisemites-or-terrorists-to-silence-us-and-paralyse-our-human-rights-work

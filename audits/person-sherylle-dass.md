@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
 claims_uncorroborated: 4
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://lrc.org.za/who-we-are-lrc/
   - https://www.foxglove.org.uk/2026/04/29/foxglove-south-african-housing-movement-challenge-new-hyperscale-data-centre/

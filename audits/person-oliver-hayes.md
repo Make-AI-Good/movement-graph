@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 3
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://www.globalactionplan.org.uk/about-us/our-team/oliver-hayes
   - https://www.globalactionplan.org.uk/insights/news/global-action-plan-and-foxglove-launch-legal-challenge-against-government-decision-to-force-construction-of-a-hyperscale-data-centre

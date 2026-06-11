@@ -5,11 +5,12 @@ audit_date: 2026-06-08
 pass: 1
 status: corrections-pending
 claims_total: 24
-claims_corroborated: 19
+claims_corroborated: 20
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 3
-claims_uncorroborated: 2
+claims_uncorroborated: 1
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://deadline.com/2024/09/jane-fonda-shonda-rhimes-pedro-pascal-urge-gavin-newsom-sign-ai-safety-bill-open-letter-1236099942/
   - https://blog.biocomm.ai/2024/09/24/an-open-letter-artists-call-for-gov-newsom-to-sign-sb-1047-read-the-letter/

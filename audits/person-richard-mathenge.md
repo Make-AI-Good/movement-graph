@@ -5,11 +5,12 @@ audit_date: 2026-06-06
 pass: 1
 status: supported
 claims_total: 20
-claims_corroborated: 14
+claims_corroborated: 15
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 6
+claims_uncorroborated: 5
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://citizen.digital/article/kenyas-richard-mathenge-makes-time-magazines-list-of-100-most-influential-people-in-ai-n327125
   - https://citizen.digital/tech/kenyan-moderators-behind-chatgpt-want-parliament-to-probe-openai-sama-over-exploitation-n323387

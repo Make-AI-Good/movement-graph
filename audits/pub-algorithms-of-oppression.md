@@ -5,11 +5,12 @@ audit_date: 2026-06-02
 pass: 1
 status: corrections-pending
 claims_total: 25
-claims_corroborated: 21
+claims_corroborated: 22
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
-claims_uncorroborated: 3
+claims_uncorroborated: 2
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://nyupress.org/9781479837243/algorithms-of-oppression/
   - https://en.wikipedia.org/wiki/Algorithms_of_Oppression

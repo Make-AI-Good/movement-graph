@@ -4,12 +4,13 @@ entity_hash: 3445914a7e6d11d58ab61ad77851169595dcb1f1
 audit_date: 2026-06-02
 pass: 1
 status: supported
-claims_total: 18
-claims_corroborated: 15
+claims_total: 19
+claims_corroborated: 16
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 3
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://en.wikipedia.org/wiki/2024_Senegalese_parliamentary_election
   - https://en.wikipedia.org/wiki/Wolof_language
