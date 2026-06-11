@@ -2,6 +2,7 @@
 entity_id: voice-fran-drescher
 entity_hash: 303b088f399c09ea3f23c754625f99ac2c157d3f
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 30

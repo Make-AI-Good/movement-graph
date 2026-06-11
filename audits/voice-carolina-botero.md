@@ -2,6 +2,7 @@
 entity_id: voice-carolina-botero
 entity_hash: e70fd99c97b2d60b320f57d9e2a1ee21834d8adc
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 14

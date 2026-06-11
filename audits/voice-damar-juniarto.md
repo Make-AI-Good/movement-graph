@@ -2,6 +2,7 @@
 entity_id: voice-damar-juniarto
 entity_hash: ec7537bcadec0557bf26eb020572f6a150a71562
 audit_date: 2026-06-06
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 38

@@ -2,6 +2,7 @@
 entity_id: voice-anriette-esterhuysen
 entity_hash: 36b108129977943d2a714699a1b0c3653f307770
 audit_date: 2026-06-07
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 28

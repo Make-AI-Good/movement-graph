@@ -2,6 +2,7 @@
 entity_id: pub-toronto-declaration-2018
 entity_hash: f3bc0eaa52a08ab351e12ddb1e3df96d2ea375e3
 audit_date: 2026-06-07
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 24

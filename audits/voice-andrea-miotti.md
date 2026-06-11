@@ -2,6 +2,7 @@
 entity_id: voice-andrea-miotti
 entity_hash: 24b4372e49281db5487c5246d8aa37815670dc75
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 18

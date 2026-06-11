@@ -2,6 +2,7 @@
 entity_id: voice-chat-garcia-ramilo
 entity_hash: ba3e6d0dcc836ef684577f7d79c5101eaa4d5f18
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 18

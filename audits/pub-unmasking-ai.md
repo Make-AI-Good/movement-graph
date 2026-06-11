@@ -2,6 +2,7 @@
 entity_id: pub-unmasking-ai
 entity_hash: 4864e71a3b50745f344bfb907a48f6e60ccba89f
 audit_date: 2026-05-18
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 13

@@ -2,6 +2,7 @@
 entity_id: voice-alix-dunn
 entity_hash: 9dbf78dad6e3bce82de1732a7a4f3ac2dc3e734a
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 15

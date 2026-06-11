@@ -2,6 +2,7 @@
 entity_id: voice-apar-gupta
 entity_hash: 63073464b7b6cc64d31cb8f2114aded1640f9e9d
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 12

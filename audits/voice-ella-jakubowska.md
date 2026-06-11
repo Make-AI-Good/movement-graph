@@ -2,6 +2,7 @@
 entity_id: voice-ella-jakubowska
 entity_hash: 75347ffc8e6c86c3217b4ee528ac49fc96bef724
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 17

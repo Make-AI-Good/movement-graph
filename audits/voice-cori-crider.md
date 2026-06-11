@@ -2,6 +2,7 @@
 entity_id: voice-cori-crider
 entity_hash: 7b7631e449a6b0ca4725cb152d48211e98c6f4ae
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 14
