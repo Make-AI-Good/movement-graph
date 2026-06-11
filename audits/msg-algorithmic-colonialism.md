@@ -3,13 +3,14 @@ entity_id: msg-algorithmic-colonialism
 entity_hash: 1f16e2336b08bf30881f67a6aab400bbcab2ec75
 audit_date: 2026-06-09
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 18
-claims_corroborated: 10
+claims_corroborated: 11
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 2
-claims_uncorroborated: 6
+claims_uncorroborated: 5
 sources_consulted:
   - https://reallifemag.com/the-algorithmic-colonization-of-africa/
   - https://www.theelephant.info/analysis/2020/08/21/algorithmic-colonisation-of-africa/

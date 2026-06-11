@@ -3,6 +3,7 @@ entity_id: lg-pauseai-kenya
 entity_hash: 99131ec3d9d010cbf234204ca1b55512a3496dcf
 audit_date: 2026-05-28
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 20
 claims_corroborated: 17

@@ -3,6 +3,7 @@ entity_id: lg-panhandle-1st-coalition
 entity_hash: aca1a8065594806a5d3736801020300c7c839e61
 audit_date: 2026-06-09
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 22
 claims_corroborated: 20

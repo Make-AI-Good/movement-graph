@@ -3,13 +3,14 @@ entity_id: lg-singapore-ai-safety-hub
 entity_hash: e49afc0f5dbdaefd5805a1cd38f90ea074cc21bb
 audit_date: 2026-06-08
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 25
-claims_corroborated: 15
+claims_corroborated: 14
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
-claims_uncorroborated: 9
+claims_uncorroborated: 10
 sources_consulted:
   - https://www.aisafety.sg/
   - https://aisafety.com/communities

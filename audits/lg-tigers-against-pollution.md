@@ -3,6 +3,7 @@ entity_id: lg-tigers-against-pollution
 entity_hash: ec4469c05c4447f772c3bd078a52b493870511b6
 audit_date: 2026-05-28
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 27
 claims_corroborated: 21

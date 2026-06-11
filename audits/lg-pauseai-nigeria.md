@@ -3,13 +3,14 @@ entity_id: lg-pauseai-nigeria
 entity_hash: b0891f3cd37a09daf38de0acd28a6a36160b4f43
 audit_date: 2026-05-28
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 14
 claims_corroborated: 9
 claims_primary_sourced: 0
 claims_single_source: 0
-open_corrections: 2
-claims_uncorroborated: 3
+open_corrections: 3
+claims_uncorroborated: 2
 sources_consulted:
   - https://pauseai.info/communities
   - https://pauseai.info/about

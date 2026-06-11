@@ -3,6 +3,7 @@ entity_id: lg-pauseai-paris
 entity_hash: f4612e17276f3f63ee612c8f47cb874961f40d18
 audit_date: 2026-06-04
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 23
 claims_corroborated: 20

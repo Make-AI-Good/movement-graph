@@ -3,6 +3,7 @@ entity_id: msg-ai-companies-less-regulated-than-sandwich-shops
 entity_hash: 620e7dbec1d9c3f573af01bd0423383d104bfd69
 audit_date: 2026-05-29
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 24
 claims_corroborated: 22

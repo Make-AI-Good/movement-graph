@@ -3,6 +3,7 @@ entity_id: lg-stop-lapd-spying-coalition
 entity_hash: 109787a57b3d5302f36967c67b9b3a5e739f076a
 audit_date: 2026-06-04
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 28
 claims_corroborated: 24

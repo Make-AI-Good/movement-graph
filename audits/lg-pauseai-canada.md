@@ -3,6 +3,7 @@ entity_id: lg-pauseai-canada
 entity_hash: d35e2698f684a7952eb0ca8a94ae74a549e927e5
 audit_date: 2026-06-09
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 21
 claims_corroborated: 20

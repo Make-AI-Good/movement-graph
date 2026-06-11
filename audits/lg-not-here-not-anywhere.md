@@ -3,6 +3,7 @@ entity_id: lg-not-here-not-anywhere
 entity_hash: 3282140f08ea215414b4fb44f0526f0ef6043f38
 audit_date: 2026-06-09
 pass: 2
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 21
 claims_corroborated: 19

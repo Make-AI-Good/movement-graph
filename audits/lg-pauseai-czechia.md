@@ -3,6 +3,7 @@ entity_id: lg-pauseai-czechia
 entity_hash: cfb9eb665ba8937e2c68feb5235d48b6b43e263c
 audit_date: 2026-05-28
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 22
 claims_corroborated: 17

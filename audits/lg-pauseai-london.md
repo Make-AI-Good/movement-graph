@@ -3,6 +3,7 @@ entity_id: lg-pauseai-london
 entity_hash: 6d2e7b5a6d1cbe35b8274170f601213db6e88eb3
 audit_date: 2026-05-28
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 22
 claims_corroborated: 18
