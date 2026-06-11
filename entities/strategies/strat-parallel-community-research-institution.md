@@ -14,6 +14,7 @@ related_strategies:
   - strat-participatory-deliberation-as-policy-input
   - strat-survivor-led-testimony-as-evidence
   - strat-insider-whistleblowing-from-frontier-labs
+  - strat-indigenous-and-community-data-sovereignty
 effects:
   - description: The Kenya Data Labellers Association — the country's first worker-led data-annotator association — launched in Nairobi on 13 February 2025 with DAIR as one of the named international supporters anchoring the launch alongside AI Now, Turkopticon, the German Essen content moderators, and Foxglove; the DLA's public organising page is hosted on the Data Workers' Inquiry / DAIR infrastructure.
     type: coalition-adoption

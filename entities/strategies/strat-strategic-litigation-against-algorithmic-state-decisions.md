@@ -7,7 +7,7 @@ confidence: high
 tags: [strategic-litigation, judicial-review, algorithmic-accountability, automated-decision-making, public-bodies, due-process, courts]
 created: 2026-06-06
 last_updated: 2026-06-10
-related_strategies: [strat-empirical-audit-and-expose, strat-survivor-led-testimony-as-evidence, strat-class-action-litigation-against-private-ai, strat-organize-ai-supply-chain-workers]
+related_strategies: [strat-empirical-audit-and-expose, strat-survivor-led-testimony-as-evidence, strat-class-action-litigation-against-private-ai, strat-organize-ai-supply-chain-workers, strat-indigenous-and-community-data-sovereignty]
 effects:
   - description: The Hague District Court declared the Dutch SyRI welfare-fraud risk-profiling system an unlawful violation of Article 8 of the European Convention on Human Rights on 5 February 2020, in a coalition challenge led by Bits of Freedom, the Dutch Section of the International Commission of Jurists, and others.
     type: judicial-outcome

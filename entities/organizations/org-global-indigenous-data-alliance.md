@@ -10,7 +10,7 @@ last_updated: 2026-06-08
 founded: 2019
 location: international
 website: https://www.gida-global.org/
-strategies: []
+strategies: [strat-indigenous-and-community-data-sovereignty]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-first-nations-information-governance-centre, org-te-mana-raraunga]

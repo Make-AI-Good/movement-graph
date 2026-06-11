@@ -10,7 +10,7 @@ last_updated: 2026-06-08
 founded: 2010
 location: national
 website: https://fnigc.ca/
-strategies: []
+strategies: [strat-indigenous-and-community-data-sovereignty]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-global-indigenous-data-alliance]

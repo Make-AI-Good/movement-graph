@@ -10,7 +10,7 @@ last_updated: 2026-05-23
 founded: 1990
 location: Kaitaia, Te Hiku o Te Ika (Far North), Aotearoa New Zealand
 website: https://tehiku.nz/
-strategies: [strat-participatory-deliberation-as-policy-input]
+strategies: [strat-participatory-deliberation-as-policy-input, strat-indigenous-and-community-data-sovereignty]
 key_people: [person-peter-lucas-jones]
 board_and_advisors: []
 related_orgs: []
