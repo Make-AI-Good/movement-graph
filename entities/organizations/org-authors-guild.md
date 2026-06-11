@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 founded: 1912
 location: New York City (national)
 website: https://authorsguild.org/
-strategies: [strat-creator-class-collective-bargaining-on-generative-ai]
+strategies: [strat-creator-class-collective-bargaining-on-generative-ai, strat-class-action-litigation-against-private-ai]
 key_people:
   - person-mary-rasenberger
 board_and_advisors: []

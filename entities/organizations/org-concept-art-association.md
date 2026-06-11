@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 founded: 2017
 location: Los Angeles, California
 website: https://www.conceptartassociation.com/
-strategies: [strat-creator-class-collective-bargaining-on-generative-ai]
+strategies: [strat-creator-class-collective-bargaining-on-generative-ai, strat-class-action-litigation-against-private-ai]
 key_people:
   - person-nicole-hendrix
   - person-ryan-meinerding
