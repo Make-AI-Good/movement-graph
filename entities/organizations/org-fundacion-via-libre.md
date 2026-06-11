@@ -10,7 +10,7 @@ last_updated: 2026-05-23
 founded: 2000
 location: Córdoba, Argentina (Latin American regional reach)
 website: https://www.vialibre.org.ar/
-strategies: []
+strategies: [strat-local-rapid-response-against-single-deployment]
 key_people:
   - person-beatriz-busaniche
 board_and_advisors: []
