@@ -11,6 +11,7 @@ affiliations:
   - org: org-norwegian-consumer-council
     role: Director of Digital Policy (formerly Director of Digital Services)
     period: 2013-
+voice_entry: voice-finn-myrstad
 public_profiles:
   - platform: institutional
     url: https://www.forbrukerradet.no/ansatt/finn-myrstad-2/
