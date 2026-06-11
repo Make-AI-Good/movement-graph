@@ -10,7 +10,7 @@ last_updated: 2026-05-07
 founded: 2020
 location: international (founded in San José, California)
 website: https://encodeai.org/
-strategies: [strat-coalition-lobbying-of-binding-regional-regulation]
+strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-insider-whistleblowing-from-frontier-labs]
 key_people:
   - person-sneha-revanur
   - person-adam-billen

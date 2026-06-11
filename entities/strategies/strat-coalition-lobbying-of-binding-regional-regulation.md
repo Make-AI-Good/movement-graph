@@ -7,7 +7,7 @@ confidence: high
 tags: [eu-ai-act, gdpr, coalition, lobbying, binding-regulation, regional, fundamental-rights, policy-advocacy]
 created: 2026-06-06
 last_updated: 2026-06-10
-related_strategies: [strat-empirical-audit-and-expose, strat-open-letter-collective-signatory-action, strat-strategic-litigation-against-algorithmic-state-decisions, strat-civil-society-inside-technical-standards-bodies, strat-counter-narrative-framing]
+related_strategies: [strat-empirical-audit-and-expose, strat-open-letter-collective-signatory-action, strat-strategic-litigation-against-algorithmic-state-decisions, strat-civil-society-inside-technical-standards-bodies, strat-counter-narrative-framing, strat-insider-whistleblowing-from-frontier-labs]
 effects:
   - description: The European Parliament adopted the EU AI Act on 13 March 2024 by 523 votes to 46 with 49 abstentions; the Council of the EU approved the final text on 21 May 2024; it entered into force on 1 August 2024 — the world's first horizontal AI law. The adopted text carries, as anchor demands of the EDRi-coordinated civil-society coalition from its November 2021 fundamental-rights statement onward, mandatory fundamental-rights impact assessments for users (deployers) of high-risk systems, a public register of high-risk deployments, and prohibitions on emotion recognition in workplaces and educational settings, AI physiognomy, social scoring by public authorities, and discriminatory biometric categorisation on protected characteristics.
     type: legislation-enacted
