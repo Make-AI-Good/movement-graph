@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [united-states, national, federal, municipal, facial-recognition, biometric-surveillance, government-surveillance, ban-facial-recognition, digital-rights, privacy, grassroots-mobilization, online-petition, coalition, civil-liberties, legislative-advocacy, concert-venues, airports, ai-accountability, ai-and-human-rights]
 created: 2026-06-10
-last_updated: 2026-06-10
+last_updated: 2026-06-11
 start_date: 2019-07-09
 end_date: ongoing
 goals: |
@@ -22,6 +22,7 @@ events:
   - event-ajl-buolamwini-us-house-facial-recognition-testimony-2019-05-22
 strategies:
   - strat-municipal-affirmative-ban-on-a-class-of-ai-use
+  - strat-institutional-procurement-refusal-of-ai-vendors
   - strat-open-letter-collective-signatory-action
   - strat-counter-narrative-framing
 outcomes: |

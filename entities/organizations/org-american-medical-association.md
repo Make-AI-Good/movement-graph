@@ -6,11 +6,12 @@ status: active
 confidence: high
 tags: [united-states, national, chicago, healthcare, physician-advocacy, professional-community, sectoral-pivot, augmented-intelligence, prior-authorization, algorithmic-bias, health-equity, payor-oversight, ai-governance, transparency, liability, workforce]
 created: 2026-06-08
-last_updated: 2026-06-08
+last_updated: 2026-06-11
 founded: 1847
 location: national (Chicago headquarters)
 website: https://www.ama-assn.org/
-strategies: []
+strategies:
+  - strat-institutional-procurement-refusal-of-ai-vendors
 key_people: []
 board_and_advisors: []
 related_orgs: []

@@ -6,11 +6,12 @@ status: active
 confidence: high
 tags: [united-states, national, washington-dc, teachers-union, labor, professional-community, sectoral-pivot, generative-ai, ai-in-education, data-privacy, algorithmic-bias, equity, professional-development, federal-policy, advocacy, collective-bargaining, education, surveillance, workforce, policy-statement]
 created: 2026-06-08
-last_updated: 2026-06-08
+last_updated: 2026-06-11
 founded: 1857
 location: national (Washington D.C. headquarters)
 website: https://www.nea.org/
-strategies: []
+strategies:
+  - strat-institutional-procurement-refusal-of-ai-vendors
 key_people: []
 board_and_advisors: []
 related_orgs:

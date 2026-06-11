@@ -6,11 +6,12 @@ status: active
 confidence: high
 tags: [united-states, national, chicago, library-profession, professional-community, sectoral-pivot, generative-ai, training-data, copyright, fair-use, privacy, equity, information-access, intellectual-freedom, advocacy, professional-development, ai-in-libraries, workforce, policy]
 created: 2026-06-08
-last_updated: 2026-06-08
+last_updated: 2026-06-11
 founded: 1876
 location: national (Chicago headquarters)
 website: https://www.ala.org/
-strategies: []
+strategies:
+  - strat-institutional-procurement-refusal-of-ai-vendors
 key_people: []
 board_and_advisors: []
 related_orgs:
