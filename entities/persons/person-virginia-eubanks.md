@@ -7,7 +7,10 @@ confidence: high
 tags: [us, new-york, university-at-albany, suny, political-science, science-and-technology-studies, rensselaer-polytechnic-institute, algorithmic-accountability, welfare-algorithms, digital-poorhouse, author, organizer, our-data-bodies, popular-technology-workshops, our-knowledge-our-power, new-america-fellow-2016-17, coded-bias-documentary, lillian-smith-award-2019, mcgannon-prize-2018]
 created: 2026-06-07
 last_updated: 2026-06-07
-affiliations: []
+affiliations:
+  - org: org-our-data-bodies
+    role: co-founder and research collaborator
+    period: 2015-2019
 voice_entry: voice-virginia-eubanks
 public_profiles:
   - platform: personal-site

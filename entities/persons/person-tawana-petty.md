@@ -8,6 +8,9 @@ tags: [organizer, data-justice, policy]
 created: 2026-05-08
 last_updated: 2026-05-18
 affiliations:
+  - org: org-our-data-bodies
+    role: co-researcher and Detroit site lead (Detroit Community Technology Project)
+    period: 2015-2019
   - org: org-algorithmic-justice-league
     role: director of policy and advocacy
     period: 2021-
