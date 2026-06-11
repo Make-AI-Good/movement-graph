@@ -5,11 +5,12 @@ audit_date: 2026-06-01
 pass: 1
 status: supported
 claims_total: 21
-claims_corroborated: 14
+claims_corroborated: 15
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 7
+claims_uncorroborated: 6
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://www.laquadrature.net/nous/
   - https://shs.cairn.info/publications-de-bastien-le-querrec--765495?lang=fr

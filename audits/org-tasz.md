@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 2
 claims_uncorroborated: 6
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://en.wikipedia.org/wiki/Hungarian_Civil_Liberties_Union
   - https://tasz.hu/en/

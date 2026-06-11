@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 4
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://en.wikipedia.org/wiki/Writers_Guild_of_America
   - https://en.wikipedia.org/wiki/Writers_Guild_of_America_West

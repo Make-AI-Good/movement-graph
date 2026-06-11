@@ -5,11 +5,12 @@ audit_date: 2026-06-07
 pass: 1
 status: corrections-pending
 claims_total: 24
-claims_corroborated: 14
+claims_corroborated: 15
 claims_primary_sourced: 0
 claims_single_source: 0
-open_corrections: 3
+open_corrections: 2
 claims_uncorroborated: 7
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://www.apc.org/en/profile/anriette
   - https://en.wikipedia.org/wiki/Anriette_Esterhuysen

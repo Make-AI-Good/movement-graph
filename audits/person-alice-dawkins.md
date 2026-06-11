@@ -5,11 +5,12 @@ audit_date: 2026-06-01
 pass: 1
 status: corrections-pending
 claims_total: 15
-claims_corroborated: 11
+claims_corroborated: 13
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
-claims_uncorroborated: 3
+claims_uncorroborated: 1
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://law.anu.edu.au/news-and-events/news/tackling-digital-threats-democracy-alice-dawkins-and-big-tech-dominance
   - https://www.techpolicy.press/author/alice-dawkins/

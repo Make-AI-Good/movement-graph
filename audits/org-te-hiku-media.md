@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 4
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://papareo.nz/
   - https://tehiku.nz/te-hiku-tech/te-hiku-dev-korero/25141/data-sovereignty-and-the-kaitiakitanga-license

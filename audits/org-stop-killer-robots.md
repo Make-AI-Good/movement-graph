@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
 claims_uncorroborated: 4
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://www.stopkillerrobots.org/about-us/
   - https://www.stopkillerrobots.org/news/press-release-urgent-action-needed-to-ban-fully-autonomous-weapons-non-governmental-organizations-convene-to-launch-campaign-to-stop-killer-robots/

@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 3
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://www.foxglove.org.uk/2024/09/09/alix-non-executive-director/
   - https://www.foxglove.org.uk/who-we-are/people/alix-dunn/

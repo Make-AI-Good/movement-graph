@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 4
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://en.wikipedia.org/wiki/Apar_Gupta
   - https://en.wikipedia.org/wiki/Internet_Freedom_Foundation

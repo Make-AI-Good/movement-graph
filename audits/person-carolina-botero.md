@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 7
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://blog.karisma.org.co/press-release-01-2024/
   - https://www.eff.org/press/releases/electronic-frontier-foundation-present-annual-eff-awards-carolina-botero-connecting
