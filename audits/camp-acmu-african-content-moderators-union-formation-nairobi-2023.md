@@ -1,166 +1,260 @@
 ---
 entity_id: camp-acmu-african-content-moderators-union-formation-nairobi-2023
-entity_hash: 4efaacc17eb62ab69e2f3e4022cf38369eea9cdd
-audit_date: 2026-05-18
-pass: 1
-reclassified_at: 2026-06-10
+entity_hash: 5f4972e560aa569de2aead042a5f9eb17aaec5fd
+audit_date: 2026-06-11
+pass: 2
 status: corrections-pending
-claims_total: 20
-claims_corroborated: 13
-claims_primary_sourced: 0
-claims_single_source: 0
+claims_total: 28
+claims_corroborated: 9
+claims_primary_sourced: 4
+claims_single_source: 11
+claims_uncorroborated: 3
 open_corrections: 1
-claims_uncorroborated: 6
 sources_consulted:
   - https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/
-  - https://restofworld.org/2023/meta-content-moderators-kenya-fired-unionize/
   - https://nonprofitquarterly.org/can-african-unions-beat-big-tech/
-  - https://www.codastory.com/authoritarian-tech/kenya-content-moderators/
+  - https://www.techpolicy.press/checking-on-the-progress-of-content-moderators-in-africa/
+  - https://restofworld.org/2023/meta-content-moderators-kenya-fired-unionize/
   - https://www.business-humanrights.org/en/latest-news/kenya-facebook-youtube-tiktok-content-moderators-form-labour-union-to-push-for-better-working-conditions/
-  - https://www.aljazeera.com/podcasts/2023/5/22/can-africas-first-content-moderators-union-change-big-tech
   - https://uniglobalunion.org/news/moderation-alliance/
+  - https://www.codastory.com/authoritarian-tech/kenya-content-moderators/
+  - https://www.context.news/big-tech/mental-trauma-african-content-moderators-push-big-tech-on-rights
   - https://privacyinternational.org/examples/5139/african-content-moderators-form-union
   - https://africasolutionsmediahub.org/2023/05/01/workers-at-facebook-tiktok-and-chatgpt-to-register-first-african-content-moderators-union/
-  - https://www.context.news/big-tech/mental-trauma-african-content-moderators-push-big-tech-on-rights
-  - https://en.wikipedia.org/wiki/Sama_(company)
+  - https://www.aljazeera.com/podcasts/2023/5/22/can-africas-first-content-moderators-union-change-big-tech
+  - https://hapakenya.com/2022/05/11/whistleblower-daniel-motaung-sues-facebook-sama-for-forced-labour-human-rights-abuses/
+  - https://abcnews.go.com/International/wireStory/facebook-sued-kenya-work-conditions-moderators-84621169
+  - https://tedai-vienna.ted.com/speakers-2026/kauna-ibrahim-malgwi
+  - https://time.com/collections/time100-ai-2024/7012799/kauna-malgwi/
 ---
+
+Pass-2 note: re-audit triggered by entity change (Analyst added `strategies:
+[strat-organize-ai-supply-chain-workers]` — a link field, not a factual claim).
+TIME URLs (time.com/6275995 and the TIME100 Malgwi profile) returned HTTP 403 in
+this session as in pass 1; TIME-dependent facts were checked against alternate
+canonical sources and search-result snippets, noted per claim. Pass 1's open
+correction (Claim 9 then, Claim 10 now) persists — body unchanged since 2026-05-18.
 
 ## Claim 1: "founding vote was held on Monday 1 May 2023 at the Mövenpick Hotel in Nairobi — Kenyan Labour Day"
 
-Source: https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/
-Source content: "we joined over 150 social media content moderators from TikTok, YouTube, Facebook and ChatGPT at the Mövenpick Hotel in Nairobi"
-Comparison: Foxglove confirms venue (Mövenpick, Nairobi). Africa Solutions Media Hub and BHR both confirm 1 May 2023 / Labour Day. 1 May 2023 was indeed a Monday.
+Source: https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/; https://www.business-humanrights.org/...; https://africasolutionsmediahub.org/...
+Source tier: primary
+Source content: Foxglove: "we joined over 150 social media content moderators from TikTok, YouTube, Facebook and ChatGPT at the Mövenpick Hotel in Nairobi". BHR: "moderators covering 14 different African languages came together on Labour Day to vote for establishing a union". Africa Solutions (dated 1 May 2023): "A mass summit of over 150 content moderators ... convened this Labour Day and formally resolved to register the Content Moderators Union."
+Comparison: Venue (Foxglove, first-person convenor account), date/Labour Day (BHR, ASMH same-day) all match; 1 May 2023 was a Monday.
 Decision: corroborated
 
 ## Claim 2: "more than 150 current and former content moderators in the room"
 
-Source: https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/; https://africasolutionsmediahub.org/...; https://www.business-humanrights.org/...
-Source content: Foxglove: "over 150 social media content moderators"; Africa Solutions: "A mass summit of over 150 content moderators"; Rest of World: "roughly 150 professionals from across Africa who gathered in Nairobi"
-Comparison: Multiple canonical sources independently attest "over 150" / "more than 150".
+Source: https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/; https://privacyinternational.org/...; https://restofworld.org/...
+Source tier: primary
+Source content: Foxglove: "over 150 social media content moderators"; Privacy International: "More than 150 workers employed by third-party outsourcing companies"; Rest of World: "roughly 150 professionals from across Africa who gathered in Nairobi". (BHR reports "200 content moderators from Sama and Majorel" — consistent with "more than 150".)
+Comparison: Multiple independent canonical sources attest over/roughly 150; BHR's 200 does not contradict "more than 150".
 Decision: corroborated
 
 ## Claim 3: "Daniel Motaung's 2019 in-facility Alliance organising at Samasource — for which he was fired"
 
-Source: https://restofworld.org/2023/meta-content-moderators-kenya-fired-unionize/
-Source content: Motaung "claimed he had been wrongfully terminated by the latter [Sama] in 2019 as he was attempting to start a union"
-Comparison: Rest of World confirms 2019 termination at Sama for union-organising activity. Foxglove confirms Motaung "had previously been forced to leave Kenya after attempting to organize a union in 2019."
+Source: https://restofworld.org/2023/meta-content-moderators-kenya-fired-unionize/; https://privacyinternational.org/...; https://www.foxglove.org.uk/...
+Source tier: mainstream
+Source content: Rest of World: Motaung "claimed he had been wrongfully terminated by the latter [Sama] in 2019 as he was attempting to start a union". Privacy International: "Sama fired Facebook content moderator Daniel Motaung for trying to form a union" (2019). Foxglove quotes Motaung: "when I started the Alliance in 2019".
+Comparison: Termination year, employer, union-organising cause, and the "Alliance" name all attested across independent sources.
 Decision: corroborated
 
-## Claim 4: "10 May 2022 filing of Motaung's 'world-first' constitutional petition against Meta and Sama"
+## Claim 4: "10 May 2022 filing of Motaung's ... constitutional petition against Meta and Sama"
 
-Source: https://en.wikipedia.org/wiki/Sama_(company)
-Source content: "In May 2022, Motaung officially filed a lawsuit against both Sama and Meta over these alleged unsafe and unfair working conditions."
-Comparison: Wikipedia confirms month and year (May 2022) but not specific day. No fetched source attested "10 May 2022" exactly; the cited TIME and Foxglove URLs were not reachable in this session to verify the specific day. The "world-first" characterization is also not directly confirmed in fetched sources.
+Source: https://abcnews.go.com/International/wireStory/facebook-sued-kenya-work-conditions-moderators-84621169; https://hapakenya.com/2022/05/11/whistleblower-daniel-motaung-sues-facebook-sama-for-forced-labour-human-rights-abuses/
+Source tier: mainstream
+Source content: ABC News (AP wire): "The case against Meta Platforms ... and the outsourcing firm Sama was lodged Tuesday, May 10, 2022 with a court in the Kenyan capital, Nairobi" (per search-result content). HapaKenya (11 May 2022): Nzili & Sumbi Advocates "filed a Constitutional Petition at the Labour Court" against Meta Platforms, Meta Platforms Ireland, and Samasource Kenya EPZ Limited.
+Comparison: Exact filing day (10 May 2022), court, and defendants match. Resolves pass 1's unverified-day gap.
+Decision: corroborated
+
+## Claim 5: the petition was a "'world-first' constitutional petition"
+
+Source: no fetched source attests the "world-first" label this session
+Source tier: none
+Source content: Search results characterize the case as "the first of its kind" seeking global content-moderation reforms, but no fetched canonical source uses the "world-first" phrasing the body places in quotation marks.
+Comparison: Contested "first"-type characterization (tiebreaker-only class). The body's quoted label could not be matched to a fetched source; the underlying case facts are verified in Claim 4.
 Decision: uncorroborated
 
-## Claim 5: "the petition was brought in Kenya by Mercy Mutemi of Nzili & Sumbi Advocates"
+## Claim 6: "brought in Kenya by Mercy Mutemi of Nzili & Sumbi Advocates"
 
-Source: https://en.wikipedia.org/wiki/Sama_(company)
-Source content: "the law firm Nzili and Sumbi Advocates" represented Motaung; Wikipedia did not name individual counsel.
-Comparison: Firm-level claim verified (Nzili & Sumbi). Mercy Mutemi's specific role as lead counsel was not attested in any fetched source this pass.
-Decision: uncorroborated
-
-## Claim 6: "with the support of Cori Crider and Martha Dark at Foxglove"
-
-Source: https://restofworld.org/2023/meta-content-moderators-kenya-fired-unionize/; https://www.codastory.com/authoritarian-tech/kenya-content-moderators/
-Source content: Rest of World cites "Cori Crowder (co-founder)" of Foxglove (transparent transliteration of Crider). Coda Story names Martha Dark of Foxglove as principal external organising support.
-Comparison: Both named individuals are attested at Foxglove in the campaign context.
+Source: https://hapakenya.com/2022/05/11/whistleblower-daniel-motaung-sues-facebook-sama-for-forced-labour-human-rights-abuses/; https://abcnews.go.com/...
+Source tier: mainstream
+Source content: HapaKenya: "Mercy Mutemi filed the petition in court Tuesday morning. Lead counsel Mercy Mutemi said, 'Content moderators struggle every day to make Facebook safer for 10 million Kenyan users and many more Africans.'" Firm named as Nzili & Sumbi Advocates representing Motaung.
+Comparison: Both the individual (lead counsel) and the firm match. Resolves pass 1's counsel-attribution gap.
 Decision: corroborated
 
-## Claim 7: "January 2023 Sama redundancies, in which Sama terminated its Facebook content-moderation contract with Meta"
+## Claim 7: "with the support of Cori Crider and Martha Dark at Foxglove"
 
-Source: https://restofworld.org/2023/meta-content-moderators-kenya-fired-unionize/
-Source content: "Around 260 employees abruptly lost their jobs when Facebook's Kenyan content moderation partner ended its contract." Sama statement: "The Sama moderation contract with Facebook has expired."
-Comparison: Confirms January 2023 timing and Sama-side termination of the Facebook moderation contract.
+Source: https://restofworld.org/...; https://www.codastory.com/authoritarian-tech/kenya-content-moderators/; https://www.aljazeera.com/podcasts/2023/5/22/...
+Source tier: mainstream
+Source content: Rest of World: "Cori Crowder [Crider] ... co-founder of tech justice nonprofit Foxglove". Coda: "Martha Dark, Foxglove's co-founder and director" — Foxglove "helped organize the May meeting where content moderators voted to unionize". Al Jazeera credits "Martha Dark ... co-founder and director of Foxglove" as episode guest.
+Comparison: Both individuals attested at Foxglove in the campaign-support context across independent sources.
 Decision: corroborated
 
-## Claim 8: "roughly 260 Kenyan-based moderators redundant"
+## Claim 8: "January 2023 Sama redundancies, in which Sama terminated its Facebook content-moderation contract with Meta"
 
 Source: https://restofworld.org/2023/meta-content-moderators-kenya-fired-unionize/
+Source tier: mainstream
+Source content: "Around 260 employees abruptly lost their jobs when Facebook's Kenyan content moderation partner ended its contract with the social media giant in January." Sama statement: "The Sama moderation contract with Facebook has expired."
+Comparison: Timing and contract termination match. The corroborating TIME100 Malgwi profile cited by the entity returned 403; Rest of World is the sole source fetched this pass.
+Decision: single-source
+
+## Claim 9: "roughly 260 Kenyan-based moderators redundant"
+
+Source: https://restofworld.org/2023/meta-content-moderators-kenya-fired-unionize/
+Source tier: mainstream
 Source content: "Around 260 employees abruptly lost their jobs"
-Comparison: Body figure matches source within paraphrase tolerance ("roughly 260" / "around 260").
-Decision: corroborated
+Comparison: Figure matches within paraphrase tolerance ("roughly 260" / "around 260"). Second source (TIME100 profile) unreachable (403).
+Decision: single-source
 
-## Claim 9: "Motaung — by then unable to return safely to Kenya — delivered the founding address from exile"
+## Claim 10: "Motaung — by then unable to return safely to Kenya — delivered the founding address from exile"
 
 Source: https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/
-Source content: "Joining the celebration was former content moderator Daniel Motaung." ... "It was a joy to see him back – as sharply dressed as ever – standing side by side with moderators."
-Comparison: Foxglove's first-person account of the summit places Motaung physically present at the Mövenpick Hotel ("standing side by side with moderators", "joy to see him back"). The body's claim that he addressed the meeting "from exile" and was "unable to return safely to Kenya" contradicts Foxglove's account. The earlier exile (post-2019 termination) is real, but for the May 2023 summit he returned to Nairobi in person.
+Source tier: primary
+Source content: "Joining the celebration was former content moderator Daniel Motaung." ... "It was a joy to see him back – as sharply dressed as ever – standing side by side with moderators." His address: "I never thought, when I started the Alliance in 2019, we would be here today – with moderators from every major social media giant forming the first African moderators union."
+Comparison: Foxglove's first-person account of the summit it co-hosted places Motaung physically present at the Mövenpick Hotel. The body's "delivered the founding address from exile" / "unable to return safely to Kenya" contradicts this. The same error appears in the frontmatter scalar:outcomes ("Daniel Motaung — by then in exile from Kenya — delivering the founding-vote address"). The earlier post-2019 exile is real, but for the May 2023 summit he returned in person. Fix locations: body § "The 1 May 2023 founding vote" and scalar:outcomes. The fix requires rephrasing beyond a single token replacement — Editor should `[editor-flag]` to Researcher. Persists unfixed since pass 1 (2026-05-18).
 Decision: correction
 
-## Claim 10: "workers moderating Facebook, YouTube, TikTok, and ChatGPT"
+## Claim 11: "workers moderating Facebook, YouTube, TikTok, and ChatGPT"
 
-Source: https://www.business-humanrights.org/...; https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/
-Source content: BHR: union represents moderators working for "Facebook, YouTube, TikTok, and ChatGPT". Foxglove: "content moderators from TikTok, YouTube, Facebook and ChatGPT".
-Comparison: Platform composition matches across sources.
+Source: https://www.foxglove.org.uk/...; https://www.business-humanrights.org/...
+Source tier: primary
+Source content: Foxglove: "content moderators from TikTok, YouTube, Facebook and ChatGPT". BHR: "Kenya-based content moderators working for Facebook, YouTube, TikTok and Chat GPT have established a labour union."
+Comparison: Platform set matches across two independent sources.
 Decision: corroborated
 
-## Claim 11: "on behalf of Meta, ByteDance, and OpenAI"
+## Claim 12: "on behalf of Meta, ByteDance, and OpenAI"
 
 Source: https://www.business-humanrights.org/...
-Source content: BHR identifies platforms (Facebook=Meta, TikTok=ByteDance, ChatGPT=OpenAI, YouTube=Google) but the body's parent-company list omits Google despite naming YouTube among the moderated platforms.
-Comparison: The named parent companies (Meta, ByteDance, OpenAI) are correct for Facebook, TikTok, and ChatGPT respectively, but the list is incomplete relative to the body's own platform list since YouTube's parent (Google/Alphabet) is omitted.
+Source tier: database
+Source content: BHR names the platform set as Facebook, YouTube, TikTok, ChatGPT — whose parent companies are Meta, Google/Alphabet, ByteDance, OpenAI respectively.
+Comparison: The three named parents are correct for Facebook, TikTok, and ChatGPT, but the body's own platform list includes YouTube while the parent list omits Google/Alphabet — an incompleteness relative to the body's own enumeration rather than a false token; no single-token replacement applies.
 Decision: uncorroborated
 
-## Claim 12: "workforces from Sama, Majorel, and Teleperformance"
+## Claim 13: "workforces from Sama, Majorel, and Teleperformance"
 
 Source: https://nonprofitquarterly.org/can-african-unions-beat-big-tech/
-Source content: NPQ mentions workers hired through "Sama" and "Majorel". Teleperformance was not named in the fetched content of the cited NPQ article.
-Comparison: Sama and Majorel verified in cited source; Teleperformance not attested in fetched canonical sources this pass.
-Decision: uncorroborated
+Source tier: mainstream
+Source content: NPQ explicitly names Sama, Majorel, and Teleperformance as the outsourcing companies whose workforces the union draws on. (BHR independently attests Sama and Majorel: "200 content moderators from Sama and Majorel"; Teleperformance rests on NPQ alone.)
+Comparison: All three employers attested in NPQ; Teleperformance — pass 1's gap — is now confirmed there, but by one source.
+Decision: single-source
 
-## Claim 13: "fourteen African languages"
+## Claim 14: "fourteen African languages"
 
 Source: https://www.business-humanrights.org/...
+Source tier: database
 Source content: "moderators covering 14 different African languages came together on Labour Day to vote for establishing a union"
-Comparison: Direct numeric match.
+Comparison: Direct numeric match; no second independent source for the figure fetched this pass.
+Decision: single-source
+
+## Claim 15: "named participants from at least Kenya, Nigeria, Ghana, Uganda, Ethiopia, and South Africa"
+
+Source: https://www.context.news/big-tech/mental-trauma-african-content-moderators-push-big-tech-on-rights
+Source tier: mainstream
+Source content: "members were largely from Kenya, but also included Nairobi-based workers from countries such as Nigeria, Ghana, Uganda, Ethiopia and South Africa"
+Comparison: Exact country-list match (Context/Thomson Reuters Foundation, October 2023). Resolves pass 1's gap. Syndicated copies (timeslive, businesslive) are the same TRF wire, not independent corroboration.
+Decision: single-source
+
+## Claim 16: "founding committee of six former tech-outsourcing employees with James Oyange ('Mojez') as committee secretary"
+
+Source: https://nonprofitquarterly.org/can-african-unions-beat-big-tech/; https://www.codastory.com/...
+Source tier: mainstream
+Source content: NPQ: "a committee of six former employees, agitated by their exploitation"; "James Oyange, the committee's secretary". Coda attests the "Mojez" nickname and his former-Majorel background; TechPolicy.Press has Oyange as "union organizer".
+Comparison: The six-member figure and the secretary title rest on NPQ alone; Oyange's identity and organiser role are corroborated elsewhere.
+Decision: single-source
+
+## Claim 17: wage range "from as little as $1–2 per hour"
+
+Source: https://nonprofitquarterly.org/can-african-unions-beat-big-tech/
+Source tier: mainstream
+Source content: moderators earned "$1 to $2 per hour" — described as "meager salaries"
+Comparison: Direct match; one source.
+Decision: single-source
+
+## Claim 18: wage range "to $429–450 per month at the more recent end" (also scalar:sources[5].note "$429–450/month")
+
+Source: https://www.techpolicy.press/checking-on-the-progress-of-content-moderators-in-africa/
+Source tier: mainstream
+Source content: "the moderators were earning, it's just a mere $429. And those who are expatriates used to get like an additional $200 on top of that"; a further reference to "$450".
+Comparison: Both endpoints of the body's monthly range appear in the cited source. Resolves pass 1's unfetched-source gap. One source.
+Decision: single-source
+
+## Claim 19: "three-part coalition: the platforms (Meta, ByteDance, OpenAI), the outsourcers (Sama, Majorel, Teleperformance), and the Kenyan state"
+
+Source: https://nonprofitquarterly.org/can-african-unions-beat-big-tech/
+Source tier: mainstream
+Source content: NPQ identifies the union's opposition as tech giants (OpenAI, Meta, ByteDance), the outsourcing companies, and the Kenyan government acting as "a united front against the union".
+Comparison: Three-part structure and membership match the source; one source.
+Decision: single-source
+
+## Claim 20: "ACMU has submitted its promoter certificate, drafted its constitution ... has not been granted formal recognition"
+
+Source: https://nonprofitquarterly.org/can-african-unions-beat-big-tech/; https://www.codastory.com/authoritarian-tech/kenya-content-moderators/
+Source tier: mainstream
+Source content: NPQ (Oyange): "We have submitted our promoter certificate, drafted the constitutions and laws that'll govern the union...Yet, we haven't gotten a response from the ministry." Coda: "The Moderator's Union is not yet registered with Kenya's labor office."
+Comparison: Registration impasse attested by two independent canonical sources.
 Decision: corroborated
 
-## Claim 14: "named participants from at least Kenya, Nigeria, Ghana, Uganda, Ethiopia, and South Africa"
+## Claim 21: Oyange: "the government thinks we're fighting against good"
 
-Source: no single canonical source enumerated this exact country list in fetched content.
-Source content: BHR/NPQ/Rest of World note multi-country composition; specific countries Ghana, Uganda, Ethiopia, South Africa were not individually confirmed in fetched sources.
-Comparison: Kenya and Nigeria participation verified (Malgwi from Nigeria via Rest of World/TIME; Kenya as venue). Ghana, Uganda, Ethiopia, South Africa specifics not attested in fetched content.
+Source: https://nonprofitquarterly.org/can-african-unions-beat-big-tech/
+Source tier: mainstream
+Source content: "The government thinks we're fighting against good. They view these companies as investors who are creating jobs for youths."
+Comparison: Direct quote match. Living-person quoted statement — needs a second source per the Wikipedia-tiebreaker class, but the single source here is the originating interview outlet.
+Decision: single-source
+
+## Claim 22: "named ACMU organisers have reported being blacklisted from further moderation employment"
+
+Source: https://nonprofitquarterly.org/can-african-unions-beat-big-tech/
+Source tier: mainstream
+Source content: Oyange recounts being rejected after clearing interviews: "my name was all over the internet as a key figure in advocating for workers' rights, being part of their team would really complicate things for them." (Rest of World separately attests a Majorel instruction "not to hire any moderators previously employed by Sama" — related but about Sama alumni broadly, not ACMU organisers specifically.)
+Comparison: Organiser-specific blacklisting rests on NPQ's first-person account alone.
+Decision: single-source
+
+## Claim 23: scalar:outcomes — "As of mid-2024 organisers placed membership at roughly 400"
+
+Source: https://www.context.news/big-tech/mental-trauma-african-content-moderators-push-big-tech-on-rights
+Source tier: mainstream
+Source content: "the membership stands at around 400, according to organisers" — Context/TRF reporting dated October 2023.
+Comparison: The ~400 organiser figure is real but attested as of October 2023, not mid-2024; NPQ's May 2024 one-year-on review gives no membership figure ("hundreds of other affected workers"). The October 2023 figure is compatible with — but does not attest — a mid-2024 reading, so this is a date-attribution gap, not a contradiction. Fix location if re-sourced: scalar:outcomes.
 Decision: uncorroborated
 
-## Claim 15: "founding committee of six former tech-outsourcing employees with James Oyange ('Mojez') as committee secretary"
+## Claim 24: "Nigeria-chapter steering work led by Kauna Malgwi ... chairperson of the Nigeria chapter's steering committee"
 
-Source: https://nonprofitquarterly.org/can-african-unions-beat-big-tech/
-Source content: "a committee of six former employees, agitated by their exploitation and tired of being ignored by their workplaces"; "James Oyange, the committee's secretary"
-Comparison: Both the number six and Oyange's role as secretary match the source.
+Source: https://time.com/collections/time100-ai-2024/7012799/kauna-malgwi/ (via search snippet; direct fetch 403); https://tedai-vienna.ted.com/speakers-2026/kauna-ibrahim-malgwi
+Source tier: mainstream
+Source content: TIME100 AI 2024 (search snippet): "She leads the Nigeria chapter of the Content Moderators Union, where she sees her responsibility as ensuring young people know their rights when they sign up to work for tech companies." TEDAI Vienna speaker bio: "a clinical psychologist ... chairs the steering committee of the African Content Moderators Union (Nigeria Chapter)."
+Comparison: Chair role and clinical-psychologist background attested by two independent sources. The four-year-Sama-tenure detail was not separately verifiable this pass (TIME 403).
 Decision: corroborated
 
-## Claim 16: "wage range running... from as little as $1–2 per hour ... to $429–450 per month"
-
-Source: https://nonprofitquarterly.org/can-african-unions-beat-big-tech/
-Source content: "while getting paid $1 to $2 per hour"
-Comparison: NPQ confirms $1–2/hr. The upper bound $429–450/month cited to TechPolicy.Press was not fetched this pass; cannot verify directly.
-Decision: uncorroborated
-
-## Claim 17: "three-part coalition: the platforms (Meta, ByteDance, OpenAI), the outsourcers (Sama, Majorel, Teleperformance), and the Kenyan state"
-
-Source: https://nonprofitquarterly.org/can-african-unions-beat-big-tech/
-Source content: "going up against a full-blown coalition: a trio of the tech giants, the outsourcing companies, and the Kenyan government"
-Comparison: Three-part structure matches the source.
-Decision: corroborated
-
-## Claim 18: "ACMU has submitted its promoter certificate, drafted its constitution... but as of the most recent public reporting the union has not been granted formal recognition"
-
-Source: https://www.codastory.com/authoritarian-tech/kenya-content-moderators/; https://nonprofitquarterly.org/can-african-unions-beat-big-tech/
-Source content: Coda: "The Moderator's Union is not yet registered with Kenya's labor office." NPQ: "we haven't gotten a response from the ministry."
-Comparison: Multiple sources confirm registration impasse with the labour ministry.
-Decision: corroborated
-
-## Claim 19: "ACMU organisers have themselves reported being blacklisted from further moderation employment"
-
-Source: https://nonprofitquarterly.org/can-african-unions-beat-big-tech/
-Source content: "One of the people I reached out to told me that because my name was all over the internet as a key figure in advocating for workers' rights, being part of their team would really complicate things for them."
-Comparison: NPQ attests blacklisting pattern in the words of organisers.
-Decision: corroborated
-
-## Claim 20: "30 April 2025 Nairobi launch of the Global Trade Union Alliance of Content Moderators... workers from nine countries and the Communication Workers Union of Kenya (general secretary Benson Okwaro)... Kenya as 'a global hub for global moderation'"
+## Claim 25: "30 April 2025 Nairobi launch of the Global Trade Union Alliance of Content Moderators ... workers from nine countries and the Communication Workers Union of Kenya (general secretary Benson Okwaro) participating ... Kenya as 'a global hub for global moderation'"
 
 Source: https://uniglobalunion.org/news/moderation-alliance/
-Source content: "The Global Trade Union Alliance of Content Moderators, launched today in Nairobi, Kenya" (article dated 30 April 2025); "an inaugural gathering of workers from nine countries"; Okwaro quote: "Kenya has become a global hub for global moderation, and we welcome investors to Kenya to invest in this sector, but it must not be against the health of workers in this country."
-Comparison: Date, nine-countries figure, COWU general secretary identification, and the "global hub for global moderation" phrasing all match UNI's source. Note: the body attributes the phrasing to "UNI's launch communique"; in the source the phrase appears in Okwaro's quoted statement — minor attribution framing distinction within paraphrase tolerance for verification purposes.
-Decision: corroborated
+Source tier: primary
+Source content: Launched 30 April 2025 in Nairobi with workers from nine countries; Benson Okwaro, General Secretary of COWU: "Kenya has become a global hub for global moderation, and we welcome investors to Kenya to invest in this sector, but it must not be against the health of workers in this country."
+Comparison: Date, city, nine-countries figure, COWU identification, and the quoted phrase all match UNI's own launch communique — the convening organisation's primary record. Note (carried from pass 1): the body attributes the "global hub" phrasing to "UNI's launch communique" where the source has it inside Okwaro's quoted statement — within paraphrase tolerance.
+Decision: primary-sourced
+
+## Claim 26: scalar:sources[1].note — Motaung's verbatim founding-vote address and the "confetti-and-applause record of the vote outcome"
+
+Source: https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/
+Source tier: primary
+Source content: "I never thought, when I started the Alliance in 2019, we would be here today – with moderators from every major social media giant forming the first African moderators union." And: "When the vote to form the new union was announced, confetti rained from the ceiling and the moderators erupted into applause."
+Comparison: The scalar's verbatim quote matches the source exactly; the confetti/applause record is on the cited page. The cited page is itself the primary record of its own content. Note: the same scalar's phrase "Motaung's verbatim founding-vote address" is accurate, but the body prose around it carries the exile error (Claim 10).
+Decision: primary-sourced
+
+## Claim 27: scalar:sources[5].note — TechPolicy.Press attests "James Oyange Odhiambo as union organiser, Richard Mathenge as administrator, Njenga Kimani at Siasa Place as the union's advocacy researcher"
+
+Source: https://www.techpolicy.press/checking-on-the-progress-of-content-moderators-in-africa/
+Source tier: primary
+Source content: Oyange: "I'm a former TikTok content moderator. Currently, I'm working as a union organizer." Mathenge: "former ChatGPT content Moderator at Sama and the current admin in as far as African Content Moderators Union is concerned." Kimani: "I work at Siasa Place as a researcher...identifying some of the issues that moderators are facing and creating advocacy strategies."
+Comparison: All three role attributions in the scalar match the cited page's own content (the page is the primary record of what it attests); the demand set (profession recognition, transparent contracts, mental-health support, insurance) also appears there.
+Decision: primary-sourced
+
+## Claim 28: scalar:sources[6].note — Al Jazeera podcast (22 May 2023, with Foxglove's Martha Dark) frames the union as "the first union of its kind on the continent"
+
+Source: https://www.aljazeera.com/podcasts/2023/5/22/can-africas-first-content-moderators-union-change-big-tech
+Source tier: primary
+Source content: Episode dated 22 May 2023; credits list "Martha Dark ... co-founder and director of Foxglove"; the page states: "It's the first union of its kind on the continent for African content moderators."
+Comparison: Date, guest, and quoted framing all match the cited page — the primary record of its own framing.
+Decision: primary-sourced
