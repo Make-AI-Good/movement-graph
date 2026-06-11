@@ -2,6 +2,7 @@
 entity_id: org-foundation-for-media-alternatives
 entity_hash: 8cc0d0be7cd065672a32602e3841f043f1b1edba
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 26

@@ -2,6 +2,7 @@
 entity_id: org-derechos-digitales
 entity_hash: 7d1444ea8c8af8f027a276febc9dc6b9f37980ef
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 31

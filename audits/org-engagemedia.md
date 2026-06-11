@@ -2,14 +2,15 @@
 entity_id: org-engagemedia
 entity_hash: 13aa385aa67677ead3fe4d19dbdeb53eda748534
 audit_date: 2026-05-30
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 33
-claims_corroborated: 14
+claims_corroborated: 16
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 19
+claims_uncorroborated: 17
 sources_consulted:
   - https://www.apc.org/en/news/apc-member-organisation-engagemedia-celebrates-15-years-digital-rights-video-change-and-open
   - https://www.apc.org/en/engagemedia

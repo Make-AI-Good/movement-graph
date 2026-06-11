@@ -2,6 +2,7 @@
 entity_id: org-coding-rights
 entity_hash: 8d17c20c7c4104cb2f2203ef6d300dd75c907948
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 26

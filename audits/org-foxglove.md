@@ -2,14 +2,15 @@
 entity_id: org-foxglove
 entity_hash: d3c1845768b01ad92ceeb8949bf4532af5747126
 audit_date: 2026-05-30
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 28
-claims_corroborated: 16
+claims_corroborated: 15
 claims_primary_sourced: 0
 claims_single_source: 0
-open_corrections: 4
-claims_uncorroborated: 8
+open_corrections: 3
+claims_uncorroborated: 10
 sources_consulted:
   - https://find-and-update.company-information.service.gov.uk/company/12052097
   - https://find-and-update.company-information.service.gov.uk/company/12052097/officers

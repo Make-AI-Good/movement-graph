@@ -2,14 +2,15 @@
 entity_id: org-edri
 entity_hash: 0fe37682181e8e5cf9352d143bc3170dc50280f1
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 30
-claims_corroborated: 24
+claims_corroborated: 25
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
-claims_uncorroborated: 5
+claims_uncorroborated: 4
 sources_consulted:
   - https://edri.org/about-us/
   - https://en.wikipedia.org/wiki/European_Digital_Rights

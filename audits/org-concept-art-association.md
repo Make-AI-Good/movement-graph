@@ -2,14 +2,15 @@
 entity_id: org-concept-art-association
 entity_hash: ce3e68eaabe19d675faaf0d1a7fc177a6047167f
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 13
-claims_corroborated: 11
+claims_corroborated: 12
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 2
+claims_uncorroborated: 1
 sources_consulted:
   - https://www.conceptartassociation.com/about
   - https://www.conceptartassociation.com/advocacy

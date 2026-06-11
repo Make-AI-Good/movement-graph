@@ -2,6 +2,7 @@
 entity_id: org-existential-risk-observatory
 entity_hash: 12a19b6c9679f3ad33fbb50a16d551e0f6b709bf
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 30

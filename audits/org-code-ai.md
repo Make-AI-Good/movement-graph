@@ -2,6 +2,7 @@
 entity_id: org-code-ai
 entity_hash: 4a91a6b916da83cff5ec58d20b550b42e437dbf7
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 31

@@ -2,6 +2,7 @@
 entity_id: org-data-labellers-association
 entity_hash: 7d202abe846518ebd81d7ae3ee8de13a08eee180
 audit_date: 2026-05-29
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 32

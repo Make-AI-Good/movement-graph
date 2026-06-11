@@ -2,6 +2,7 @@
 entity_id: org-encode-justice
 entity_hash: 257cd8368ad67edc2628cd0606d0b30bb58c13fc
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 20

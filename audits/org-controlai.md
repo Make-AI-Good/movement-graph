@@ -2,6 +2,7 @@
 entity_id: org-controlai
 entity_hash: 953c7da0f6543a427730c7ad65fc8f49114a1780
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 32

@@ -2,6 +2,7 @@
 entity_id: org-digital-rights-foundation
 entity_hash: dfbb50046d372ac7bb95d4a2c0359be7e4ca5e8f
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 2
 status: supported
 claims_total: 27

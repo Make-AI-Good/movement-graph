@@ -2,6 +2,7 @@
 entity_id: org-fundacion-karisma
 entity_hash: 56575820f51d6ad123e2cd7fbae6697d87724819
 audit_date: 2026-05-30
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 21

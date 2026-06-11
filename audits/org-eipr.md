@@ -2,6 +2,7 @@
 entity_id: org-eipr
 entity_hash: b8d4e8072fda734fc05870ef6410b8d91e30fb65
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 22
