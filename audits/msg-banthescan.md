@@ -3,6 +3,7 @@ entity_id: msg-banthescan
 entity_hash: b7d7ed14682b97deebfbd8791af981a27e1564d0
 audit_date: 2026-06-04
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 17
 claims_corroborated: 14

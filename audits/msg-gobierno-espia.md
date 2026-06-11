@@ -3,6 +3,7 @@ entity_id: msg-gobierno-espia
 entity_hash: 82a48ecf57a327f6795a0f7f78246b9cc7b66cb7
 audit_date: 2026-06-07
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 18
 claims_corroborated: 11

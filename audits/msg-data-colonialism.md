@@ -3,6 +3,7 @@ entity_id: msg-data-colonialism
 entity_hash: 37af8d827901a9fa1315992faf7a88bcb14d907b
 audit_date: 2026-06-07
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 22
 claims_corroborated: 18

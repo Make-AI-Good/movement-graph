@@ -3,6 +3,7 @@ entity_id: msg-bossware
 entity_hash: ff0e518c6a10ba4aa6c8fb6034ce9cbdff44f88f
 audit_date: 2026-06-06
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 25
 claims_corroborated: 17

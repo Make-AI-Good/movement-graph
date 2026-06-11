@@ -3,13 +3,14 @@ entity_id: msg-algorithmic-management
 entity_hash: f5b9b75ff4dd37d9d8ce15ef937312a91d5af487
 audit_date: 2026-06-05
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 18
-claims_corroborated: 11
+claims_corroborated: 12
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 7
+claims_uncorroborated: 6
 sources_consulted:
   - https://en.wikipedia.org/wiki/Algorithmic_management
   - https://datasociety.net/library/explainer-algorithmic-management-in-the-workplace/

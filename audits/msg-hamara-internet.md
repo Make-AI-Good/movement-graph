@@ -3,6 +3,7 @@ entity_id: msg-hamara-internet
 entity_hash: 28307d4102ef7b86b424982287ef23c8dc24b9f4
 audit_date: 2026-06-08
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 27
 claims_corroborated: 25

@@ -3,6 +3,7 @@ entity_id: msg-fuck-the-algorithm
 entity_hash: b057f1ee3605245193a0c3a67cee1c530fd934b4
 audit_date: 2026-06-03
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 16
 claims_corroborated: 12

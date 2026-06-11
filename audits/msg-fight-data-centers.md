@@ -3,6 +3,7 @@ entity_id: msg-fight-data-centers
 entity_hash: 0ea094b9bb2a51b9659e929428c208c5cd5f1d67
 audit_date: 2026-05-29
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 20
 claims_corroborated: 18

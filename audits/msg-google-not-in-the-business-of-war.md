@@ -3,6 +3,7 @@ entity_id: msg-google-not-in-the-business-of-war
 entity_hash: 60abd4896693d2ce14bfb218ab3f41e1fad37c97
 audit_date: 2026-06-05
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 32
 claims_corroborated: 29

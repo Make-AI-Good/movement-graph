@@ -3,6 +3,7 @@ entity_id: msg-feminist-ai
 entity_hash: 513948d1d9a30bb32d3cffa73c55eb41147d3686
 audit_date: 2026-06-08
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 19
 claims_corroborated: 18

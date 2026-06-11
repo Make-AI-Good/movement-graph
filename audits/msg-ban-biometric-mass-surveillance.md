@@ -3,6 +3,7 @@ entity_id: msg-ban-biometric-mass-surveillance
 entity_hash: 9dc186b05e0f4f52db0efe033d256ea936f6f458
 audit_date: 2026-06-04
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 15
 claims_corroborated: 11

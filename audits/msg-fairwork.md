@@ -3,6 +3,7 @@ entity_id: msg-fairwork
 entity_hash: f4cd16df1dfa96bf96284701d2f17a61d670176b
 audit_date: 2026-06-05
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 23
 claims_corroborated: 18

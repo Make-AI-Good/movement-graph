@@ -3,6 +3,7 @@ entity_id: msg-coded-gaze
 entity_hash: d2062120ccaed2d128293d1e2821c5cbfd587994
 audit_date: 2026-06-05
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 16
 claims_corroborated: 13

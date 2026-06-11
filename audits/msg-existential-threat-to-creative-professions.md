@@ -3,6 +3,7 @@ entity_id: msg-existential-threat-to-creative-professions
 entity_hash: 5dbcdd17dd5f8998544f3801dff31c836c4c5d51
 audit_date: 2026-06-08
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 18
 claims_corroborated: 12

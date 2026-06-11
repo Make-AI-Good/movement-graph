@@ -3,6 +3,7 @@ entity_id: msg-automating-banishment
 entity_hash: 69c2a87760d758b03d441cf81a126f02d07fef7e
 audit_date: 2026-06-05
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 22
 claims_corroborated: 19
