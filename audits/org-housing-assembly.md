@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
 claims_uncorroborated: 3
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://housingassembly.wordpress.com/about/
   - https://constructingsolidarities.wordpress.com/the-movements/the-housing-assembly/

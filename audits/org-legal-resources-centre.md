@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 2
 claims_uncorroborated: 2
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://lrc.org.za/who-we-are-lrc/
   - https://en.wikipedia.org/wiki/Legal_Resources_Centre

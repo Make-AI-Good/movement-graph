@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 2
 claims_uncorroborated: 11
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://ooni.org/partners/masaar/
   - https://ooni.org/post/2019-egypt-blocks-bbc-and-alhurra

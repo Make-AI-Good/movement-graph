@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 2
 claims_uncorroborated: 4
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://register-of-charities.charitycommission.gov.uk/charity-details/?subid=0&regid=1026148
   - https://www.globalactionplan.org.uk/about-us

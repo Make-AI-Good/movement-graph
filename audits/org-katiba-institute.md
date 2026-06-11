@@ -5,11 +5,12 @@ audit_date: 2026-06-01
 pass: 1
 status: corrections-pending
 claims_total: 22
-claims_corroborated: 16
+claims_corroborated: 18
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
-claims_uncorroborated: 5
+claims_uncorroborated: 3
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://katibainstitute.org/
   - https://katibainstitute.org/about-us/

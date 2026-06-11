@@ -5,11 +5,12 @@ audit_date: 2026-05-30
 pass: 1
 status: supported
 claims_total: 24
-claims_corroborated: 14
+claims_corroborated: 15
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 10
+claims_uncorroborated: 9
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://en.wikipedia.org/wiki/Internet_Freedom_Foundation
   - https://en.wikipedia.org/wiki/Apar_Gupta
