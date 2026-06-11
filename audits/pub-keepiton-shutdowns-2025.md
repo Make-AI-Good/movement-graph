@@ -2,6 +2,7 @@
 entity_id: pub-keepiton-shutdowns-2025
 entity_hash: d2386a2308e9d259723367b5b3a86b52a847ecd3
 audit_date: 2026-06-02
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 33

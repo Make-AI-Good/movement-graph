@@ -2,6 +2,7 @@
 entity_id: pub-pollicy-afrofeminist-data-futures
 entity_hash: 4b9acbbd55272c7def6513aa708872716771a1dc
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 19

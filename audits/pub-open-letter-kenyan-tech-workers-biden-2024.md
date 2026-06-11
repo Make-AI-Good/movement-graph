@@ -2,6 +2,7 @@
 entity_id: pub-open-letter-kenyan-tech-workers-biden-2024
 entity_hash: 3ab9361011463aa034837e56a80a5279640331fc
 audit_date: 2026-06-02
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 17

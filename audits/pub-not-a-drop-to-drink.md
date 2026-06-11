@@ -2,6 +2,7 @@
 entity_id: pub-not-a-drop-to-drink
 entity_hash: 6c616f2f910320582ad8ea3b2d5dc154e808be93
 audit_date: 2026-06-02
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 15

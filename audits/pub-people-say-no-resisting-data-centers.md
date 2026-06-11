@@ -2,6 +2,7 @@
 entity_id: pub-people-say-no-resisting-data-centers
 entity_hash: bef5f250382163d075a5add80f78101f4f05ec82
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 27

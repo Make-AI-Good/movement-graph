@@ -2,6 +2,7 @@
 entity_id: pub-race-after-technology
 entity_hash: 6baab18f89d29a3ad1b2d64524c1bb83610b21cb
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 26

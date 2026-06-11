@@ -2,6 +2,7 @@
 entity_id: pub-tescreal-bundle
 entity_hash: f0b41785774f0a4ea066721cda3ab047db19d9c9
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 16

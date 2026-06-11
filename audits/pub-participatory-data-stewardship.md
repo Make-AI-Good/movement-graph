@@ -2,6 +2,7 @@
 entity_id: pub-participatory-data-stewardship
 entity_hash: affb5f1423d027e2eb7877f969033454fff236b6
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 24

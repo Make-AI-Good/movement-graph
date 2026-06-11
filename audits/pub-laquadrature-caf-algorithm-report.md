@@ -2,6 +2,7 @@
 entity_id: pub-laquadrature-caf-algorithm-report
 entity_hash: 7582eeba9395ca155e7bdc88685e6c9a4fe950cb
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 15

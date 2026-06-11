@@ -2,6 +2,7 @@
 entity_id: pub-r3d-estado-vigilancia
 entity_hash: 2fd93330f389bfcba72b37b6e423340490539a1c
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 22

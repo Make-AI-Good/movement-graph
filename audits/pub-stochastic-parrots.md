@@ -2,6 +2,7 @@
 entity_id: pub-stochastic-parrots
 entity_hash: 1a27d2bf0d1876f1848d65369d898ee59eb481dc
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 15

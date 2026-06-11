@@ -2,6 +2,7 @@
 entity_id: pub-pauseai-treaty-proposal
 entity_hash: d4c1c688b6e47ec8a37429af27e01c68627f20ec
 audit_date: 2026-06-03
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 27

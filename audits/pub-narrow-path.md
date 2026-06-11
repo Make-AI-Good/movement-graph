@@ -2,6 +2,7 @@
 entity_id: pub-narrow-path
 entity_hash: fa203be8d34dbe41904880870781cc94160bfd7a
 audit_date: 2026-06-08
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 21
