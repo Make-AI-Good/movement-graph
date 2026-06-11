@@ -7,7 +7,7 @@ confidence: high
 tags: [survivor-led, lived-experience, testimony, plaintiffs, public-record, content-moderation, automated-decision-making]
 created: 2026-06-06
 last_updated: 2026-06-10
-related_strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-organize-ai-supply-chain-workers, strat-counter-narrative-framing, strat-empirical-audit-and-expose, strat-humanitarian-disarmament-treaty, strat-map-the-ai-supply-chain-of-state-harm]
+related_strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-organize-ai-supply-chain-workers, strat-counter-narrative-framing, strat-empirical-audit-and-expose, strat-humanitarian-disarmament-treaty, strat-map-the-ai-supply-chain-of-state-harm, strat-faith-institutional-moral-framing-of-ai]
 effects:
   - description: 'On 6 February 2023 Justice Jacob Gakeri Kariuki of Kenya''s Employment and Labour Relations Court held in Petition E071 of 2022 that Meta is a "proper party" amenable to Kenyan jurisdiction over the conditions of work performed in Kenya for Facebook content moderation, declining Meta''s strike-out application — the first domestic court ruling on the African continent that a US platform can be sued in the country where its outsourced AI-adjacent labour is performed. The petition was the named-whistleblower vehicle led by Daniel Motaung; absent a credible witness-plaintiff with a documented organising lineage (the 2019 Alliance attempt and his subsequent firing), there was no constitutional petition for the court to hold Meta to.'
     type: judicial-outcome

@@ -7,7 +7,7 @@ confidence: high
 tags: [mass-protest, direct-action, ai-safety, frontier-ai, moratorium, existential-risk, public-mobilization]
 created: 2026-06-06
 last_updated: 2026-06-10
-related_strategies: [strat-open-letter-collective-signatory-action, strat-coalition-lobbying-of-binding-regional-regulation, strat-counter-narrative-framing, strat-humanitarian-disarmament-treaty]
+related_strategies: [strat-open-letter-collective-signatory-action, strat-coalition-lobbying-of-binding-regional-regulation, strat-counter-narrative-framing, strat-humanitarian-disarmament-treaty, strat-faith-institutional-moral-framing-of-ai]
 effects:
   - description: 'On 30 June 2025, sitting UK MP Iqbal Mohamed joined the PauseAI picket and mock-trial at Google DeepMind''s London headquarters — the first publicly recorded attendance of a serving UK MP at a PauseAI street action. The protest converted street presence into a constituency-office bridge: the same UK constituency-lobbying track produced a 60-politician open letter to Google DeepMind two months later.'
     type: public-mobilization
