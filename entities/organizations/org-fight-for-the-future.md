@@ -10,7 +10,7 @@ last_updated: 2026-06-03
 founded: 2011
 location: national (headquartered in Worcester, Massachusetts; all-remote staff)
 website: https://www.fightforthefuture.org/
-strategies: [strat-local-rapid-response-against-single-deployment, strat-counter-narrative-framing]
+strategies: [strat-local-rapid-response-against-single-deployment, strat-counter-narrative-framing, strat-municipal-affirmative-ban-on-a-class-of-ai-use]
 key_people: [person-evan-greer]
 board_and_advisors: []
 related_orgs: [org-electronic-frontier-foundation]
