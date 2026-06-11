@@ -2,6 +2,7 @@
 entity_id: org-citizen-lab
 entity_hash: e8634dc55a9f24808ee863a70766c83d22b20b0d
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 30

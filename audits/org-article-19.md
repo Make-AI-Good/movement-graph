@@ -2,6 +2,7 @@
 entity_id: org-article-19
 entity_hash: 78ebcdf2c7746cfdb223bd6e7e879150eb66a47a
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 30

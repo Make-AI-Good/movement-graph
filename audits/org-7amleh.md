@@ -2,6 +2,7 @@
 entity_id: org-7amleh
 entity_hash: e1d3cd19707800fc182251f3a7d55b470f072f99
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 25

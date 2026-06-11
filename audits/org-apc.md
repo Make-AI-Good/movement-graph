@@ -2,6 +2,7 @@
 entity_id: org-apc
 entity_hash: 6e77dd363de513cc12c845d85d30e69aeaa86bc7
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 30

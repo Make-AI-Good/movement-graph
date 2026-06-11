@@ -2,6 +2,7 @@
 entity_id: org-algorithmwatch
 entity_hash: f4e102c0e65b419e208affccd037d061cd4188b9
 audit_date: 2026-05-29
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 25

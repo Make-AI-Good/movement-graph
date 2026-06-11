@@ -2,6 +2,7 @@
 entity_id: org-ada-lovelace-institute
 entity_hash: 92550a8539047c6ed2bfabbeac18f4887b103858
 audit_date: 2026-05-29
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 22

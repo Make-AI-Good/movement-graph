@@ -2,6 +2,7 @@
 entity_id: org-africa-tech-workers-movement
 entity_hash: ce8721f071e8ddc923767ba32bba8921d1991d1d
 audit_date: 2026-05-29
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 20

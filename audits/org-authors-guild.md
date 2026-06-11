@@ -2,6 +2,7 @@
 entity_id: org-authors-guild
 entity_hash: efe30b24889ffae3636994f97fc6e23d9169fcf0
 audit_date: 2026-05-29
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 30

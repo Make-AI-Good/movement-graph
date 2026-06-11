@@ -2,6 +2,7 @@
 entity_id: org-bits-of-freedom
 entity_hash: 4152efdb37a707cab97d8dd41f7439ec131355d2
 audit_date: 2026-05-29
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 28

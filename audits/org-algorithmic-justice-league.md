@@ -2,6 +2,7 @@
 entity_id: org-algorithmic-justice-league
 entity_hash: 26b237ccfa73ef78339ae3bccfdbde2a5902f9af
 audit_date: 2026-05-19
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 21

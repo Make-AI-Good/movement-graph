@@ -2,6 +2,7 @@
 entity_id: org-algorace
 entity_hash: ea367b5692c984a78c5323dac96754b0768018e6
 audit_date: 2026-05-29
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 24

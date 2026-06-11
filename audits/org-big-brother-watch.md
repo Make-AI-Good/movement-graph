@@ -2,6 +2,7 @@
 entity_id: org-big-brother-watch
 entity_hash: dadb0c1188ba68be09a285d9939d5e57caeea1b7
 audit_date: 2026-05-29
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 28

@@ -2,6 +2,7 @@
 entity_id: org-african-content-moderators-union
 entity_hash: a022f4ebf2a659c9055504ba6b52b0caef5cc955
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: supported
 claims_total: 22

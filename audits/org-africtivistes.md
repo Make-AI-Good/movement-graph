@@ -2,6 +2,7 @@
 entity_id: org-africtivistes
 entity_hash: 8895ca6b152a2ca617f716e4b2ecfd6ef92e8004
 audit_date: 2026-06-01
+reclassified_at: 2026-06-10
 pass: 1
 status: corrections-pending
 claims_total: 28
