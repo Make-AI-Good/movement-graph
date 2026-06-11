@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 3
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://www.derechosdigitales.org/en/about-us/
   - https://www.derechosdigitales.org/16242/derechos-digitales-the-start-of-a-new-cycle/

@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 6
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://www.luisfgarcia.net/
   - https://r3d.mx/2025/04/15/r3d-anuncia-cambios-en-su-direccion-ejecutiva/

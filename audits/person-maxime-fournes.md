@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 1
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://pauseai.substack.com/p/meet-our-new-ceo-maxime-fournes
   - https://pauseai.info/people

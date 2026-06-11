@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 1
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://jcwi.org.uk/updates/lavanya-pallapi-to-join-jcwi-as-executive-director-in-2026/
   - https://www.facebook.com/JCWImmigrants/posts/we-are-delighted-to-announce-that-lavanya-pallapi-will-be-joining-jcwi-as-execut/1310482134429893/

@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 7
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://restofworld.org/2023/meta-content-moderators-kenya-fired-unionize/
   - https://www.codastory.com/authoritarian-tech/kenya-content-moderators/

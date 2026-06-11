@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 3
 claims_uncorroborated: 3
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://fma.ph/the-team/
   - https://www.apc.org/en/news/fma-human-rights-groups-condemn-philippine-anti-terrorism-act-2020-call-mass-resistance

@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
 claims_uncorroborated: 3
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://www.conceptartassociation.com/advocacy
   - https://disconnect.blog/how-artists-are-fighting-generative-ai/
