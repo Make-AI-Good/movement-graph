@@ -9,6 +9,7 @@ claims_corroborated: 31
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
+reclassified_at: 2026-06-10
 claims_uncorroborated: 4
 sources_consulted:
   - https://en.wikipedia.org/wiki/Atlas_of_AI

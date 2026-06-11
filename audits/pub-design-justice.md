@@ -9,6 +9,7 @@ claims_corroborated: 20
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 3
+reclassified_at: 2026-06-10
 claims_uncorroborated: 4
 sources_consulted:
   - https://news.mit.edu/2020/design-justice-book-0304

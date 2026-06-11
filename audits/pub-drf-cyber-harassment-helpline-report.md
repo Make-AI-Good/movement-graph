@@ -9,6 +9,7 @@ claims_corroborated: 18
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 2
+reclassified_at: 2026-06-10
 claims_uncorroborated: 3
 sources_consulted:
   - https://digitalrightsfoundation.pk/wp-content/uploads/2024/04/DRFs-Cyber-Harassment-Helpline-Report-2023.pdf

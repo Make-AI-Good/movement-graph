@@ -9,6 +9,7 @@ claims_corroborated: 9
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
+reclassified_at: 2026-06-10
 claims_uncorroborated: 6
 sources_consulted:
   - https://jun-etan.com/posts/2021-12-15-new-report-out/

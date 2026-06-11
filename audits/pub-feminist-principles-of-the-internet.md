@@ -9,6 +9,7 @@ claims_corroborated: 18
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
+reclassified_at: 2026-06-10
 claims_uncorroborated: 3
 sources_consulted:
   - https://www.apc.org/en/pubs/feminist-principles-internet-version-20

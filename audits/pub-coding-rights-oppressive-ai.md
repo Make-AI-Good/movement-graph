@@ -9,6 +9,7 @@ claims_corroborated: 10
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
+reclassified_at: 2026-06-10
 claims_uncorroborated: 5
 sources_consulted:
   - https://notmy.ai/news/oppressive-a-i-feminist-categories-to-understand-its-political-effects/

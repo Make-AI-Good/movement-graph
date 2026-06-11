@@ -9,6 +9,7 @@ claims_corroborated: 14
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 3
+reclassified_at: 2026-06-10
 claims_uncorroborated: 4
 sources_consulted:
   - https://www.derechosdigitales.org/15446/lanzamiento-de-inteligencia-artificial-e-inclusion-en-america-latina/

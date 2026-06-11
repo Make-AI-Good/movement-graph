@@ -9,6 +9,7 @@ claims_corroborated: 17
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
+reclassified_at: 2026-06-10
 claims_uncorroborated: 2
 sources_consulted:
   - https://www.giswatch.org/2019-artificial-intelligence-human-rights-social-justice-and-development

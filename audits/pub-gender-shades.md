@@ -9,6 +9,7 @@ claims_corroborated: 12
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
+reclassified_at: 2026-06-10
 claims_uncorroborated: 8
 sources_consulted:
   - https://proceedings.mlr.press/v81/buolamwini18a.html
