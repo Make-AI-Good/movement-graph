@@ -16,6 +16,7 @@ public_profiles:
     url: https://itforchange.net/Anita
   - platform: internet-policy-review
     url: https://policyreview.info/users/anita-gurumurthy
+voice_entry: voice-anita-gurumurthy
 sources:
   - url: https://itforchange.net/Anita
     last_checked: 2026-06-09
