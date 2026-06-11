@@ -5,11 +5,12 @@ audit_date: 2026-06-01
 pass: 1
 status: supported
 claims_total: 33
-claims_corroborated: 27
+claims_corroborated: 28
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 6
+claims_uncorroborated: 5
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://en.wikipedia.org/wiki/MediaJustice
   - https://projects.propublica.org/nonprofits/organizations/300520981

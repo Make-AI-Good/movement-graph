@@ -5,11 +5,12 @@ audit_date: 2026-06-01
 pass: 1
 status: supported
 claims_total: 29
-claims_corroborated: 22
+claims_corroborated: 23
 claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
-claims_uncorroborated: 7
+claims_uncorroborated: 6
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://smex.org/about-us/
   - https://en.wikipedia.org/wiki/Social_Media_Exchange

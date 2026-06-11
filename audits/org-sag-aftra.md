@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 4
 claims_uncorroborated: 7
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://en.wikipedia.org/wiki/SAG-AFTRA
   - https://en.wikipedia.org/wiki/2023_SAG-AFTRA_strike

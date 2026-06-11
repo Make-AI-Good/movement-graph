@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
 claims_uncorroborated: 8
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://mijente.net/
   - https://mijente.net/blog/introducing-mijente-the-why-the-name-and-our-first-gathering

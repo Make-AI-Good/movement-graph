@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 5
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://safenet.or.id/about-us/
   - https://globalnetworkinitiative.org/gni-welcomes-new-members-safenet-and-internetbolivia-org-foundation/

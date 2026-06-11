@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 1
 claims_uncorroborated: 3
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://en.wikipedia.org/wiki/OpenNet_(organization)
   - https://www.apc.org/en/news/interview-open-net-their-10th-anniversary-we-still-believe-power-internet-internet-great

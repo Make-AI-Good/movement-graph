@@ -10,6 +10,7 @@ claims_primary_sourced: 0
 claims_single_source: 0
 open_corrections: 0
 claims_uncorroborated: 4
+reclassified_at: 2026-06-10
 sources_consulted:
   - https://www.fordfoundation.org/news-and-stories/stories/when-technology-meets-justice-nettrice-gaskins-and-mercy-mutemi-on-building-equitable-digital-futures/
   - https://techcabal.com/2026/03/06/kenyan-watchdog-asks-regulator-to-probe-meta-ai-glasses/
