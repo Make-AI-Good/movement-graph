@@ -11,7 +11,7 @@ date: 2018-04
 location: Mountain View, CA
 event_type: employee petition
 participating_orgs: []
-participating_people: []
+participating_people: [person-meredith-whittaker]
 related_events: []
 sources:
   - url: https://gizmodo.com/thousands-of-google-employees-protest-companys-involvem-1824988565
