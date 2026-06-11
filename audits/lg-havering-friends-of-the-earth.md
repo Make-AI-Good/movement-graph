@@ -3,6 +3,7 @@ entity_id: lg-havering-friends-of-the-earth
 entity_hash: 9572a51b182d533642c51c8086b4331024a4d94b
 audit_date: 2026-06-08
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 15
 claims_corroborated: 13

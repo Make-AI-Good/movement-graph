@@ -3,6 +3,7 @@ entity_id: lg-coalition-protect-prince-william
 entity_hash: d980eb6b87dfa9c6e0d07ef179e481e04db832a6
 audit_date: 2026-05-23
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 23
 claims_corroborated: 17

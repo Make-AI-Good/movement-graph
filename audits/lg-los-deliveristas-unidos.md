@@ -3,6 +3,7 @@ entity_id: lg-los-deliveristas-unidos
 entity_hash: 5836a7635ee686639068ac22f65713e27f497a45
 audit_date: 2026-06-04
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 26
 claims_corroborated: 17

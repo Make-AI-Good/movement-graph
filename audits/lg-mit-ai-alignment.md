@@ -3,6 +3,7 @@ entity_id: lg-mit-ai-alignment
 entity_hash: 7480a61a54eedabe6e52e2dd71ba0a28c40bbb0b
 audit_date: 2026-06-08
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 27
 claims_corroborated: 22

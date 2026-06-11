@@ -3,6 +3,7 @@ entity_id: lg-north-ockendon-residents-association
 entity_hash: c586e9ae58a81cbcaf536ccc739fdb0faa3ec3a7
 audit_date: 2026-05-23
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 26
 claims_corroborated: 24

@@ -3,6 +3,7 @@ entity_id: lg-ai-safety-south-africa
 entity_hash: dbf7332f2df1c8f97e7a6f55c01e24ef3fe1b485
 audit_date: 2026-06-08
 pass: 1
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 28
 claims_corroborated: 14

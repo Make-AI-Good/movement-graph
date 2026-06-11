@@ -3,6 +3,7 @@ entity_id: lg-detroit-community-technology-project
 entity_hash: a7c7dbc09dafd25fcff9990324d37036f81a4bf7
 audit_date: 2026-05-23
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 29
 claims_corroborated: 25

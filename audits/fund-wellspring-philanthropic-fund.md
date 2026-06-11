@@ -3,6 +3,7 @@ entity_id: fund-wellspring-philanthropic-fund
 entity_hash: 1983effe9f515e47987adb9c1745cbfb8b98af07
 audit_date: 2026-05-22
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 21
 claims_corroborated: 18

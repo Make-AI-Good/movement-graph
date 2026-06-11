@@ -3,6 +3,7 @@ entity_id: lg-memphis-communities-against-pollution
 entity_hash: 840e70f2b97fa849d8b1a90d64046305c0ee7318
 audit_date: 2026-06-09
 pass: 2
+reclassified_at: 2026-06-10
 status: corrections-pending
 claims_total: 31
 claims_corroborated: 27

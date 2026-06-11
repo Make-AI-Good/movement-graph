@@ -3,6 +3,7 @@ entity_id: lg-encode-justice-north-carolina
 entity_hash: 923ba3df1c48bf581db3c2e062ae4e4a4234374f
 audit_date: 2026-06-09
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 19
 claims_corroborated: 17

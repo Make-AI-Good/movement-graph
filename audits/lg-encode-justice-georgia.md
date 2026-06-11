@@ -3,6 +3,7 @@ entity_id: lg-encode-justice-georgia
 entity_hash: 4c6e5a8c2f3adcbb46f1ac435a4423fe116ca290
 audit_date: 2026-06-08
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 18
 claims_corroborated: 17

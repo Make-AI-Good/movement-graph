@@ -3,6 +3,7 @@ entity_id: lg-mosacat
 entity_hash: 439851b7396ab27f8d2ce748e19a32867e78859c
 audit_date: 2026-05-23
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 16
 claims_corroborated: 15

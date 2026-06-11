@@ -3,6 +3,7 @@ entity_id: lg-ai-safety-berlin
 entity_hash: dbac730d28e4743f2b6924aa86fd65cf7a9f00e5
 audit_date: 2026-06-08
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 26
 claims_corroborated: 21

@@ -3,6 +3,7 @@ entity_id: lg-datatruc-zeewolde
 entity_hash: fb927a5ebc5f7e25eea17a39afcd9629ea3e367d
 audit_date: 2026-05-23
 pass: 1
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 23
 claims_corroborated: 17

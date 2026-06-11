@@ -3,6 +3,7 @@ entity_id: lg-encode-justice-oregon
 entity_hash: 95c5172a403220ed75ba143d4c4e6325b1366510
 audit_date: 2026-06-09
 pass: 2
+reclassified_at: 2026-06-10
 status: supported
 claims_total: 21
 claims_corroborated: 15
