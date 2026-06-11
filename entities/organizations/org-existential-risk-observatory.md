@@ -10,7 +10,7 @@ last_updated: 2026-05-26
 founded: 2021
 location: Amsterdam, Netherlands
 website: https://www.existentialriskobservatory.org/
-strategies: [strat-mass-protest-for-ai-moratorium]
+strategies: []
 key_people: []
 board_and_advisors: []
 related_orgs:

@@ -10,7 +10,7 @@ last_updated: 2026-05-13
 founded: 2023
 location: international (UK-headquartered)
 website: https://controlai.com/
-strategies: [strat-mass-protest-for-ai-moratorium, strat-coalition-lobbying-of-binding-regional-regulation]
+strategies: [strat-coalition-lobbying-of-binding-regional-regulation]
 key_people:
   - person-andrea-miotti
 board_and_advisors: []
