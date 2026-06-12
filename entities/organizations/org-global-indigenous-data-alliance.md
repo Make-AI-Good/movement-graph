@@ -6,14 +6,14 @@ status: active
 confidence: high
 tags: [international, indigenous, data-sovereignty, data-governance, network, care-principles, ai-governance, indigenous-rights]
 created: 2026-06-08
-last_updated: 2026-06-08
+last_updated: 2026-06-12
 founded: 2019
 location: international
 website: https://www.gida-global.org/
 strategies: [strat-indigenous-and-community-data-sovereignty]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-first-nations-information-governance-centre, org-te-mana-raraunga, org-pacific-data-sovereignty-network]
+related_orgs: [org-first-nations-information-governance-centre, org-te-mana-raraunga, org-pacific-data-sovereignty-network, org-us-indigenous-data-sovereignty-network]
 funders: []
 sources:
   - url: https://www.gida-global.org/whoweare

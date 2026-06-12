@@ -6,14 +6,14 @@ status: active
 confidence: high
 tags: [canada, first-nations, indigenous, data-sovereignty, ocap, data-governance, national-survey, health-survey, ai-governance, indigenous-rights]
 created: 2026-06-08
-last_updated: 2026-06-08
+last_updated: 2026-06-12
 founded: 2010
 location: national
 website: https://fnigc.ca/
 strategies: [strat-indigenous-and-community-data-sovereignty]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-global-indigenous-data-alliance]
+related_orgs: [org-global-indigenous-data-alliance, org-us-indigenous-data-sovereignty-network]
 funders: []
 sources:
   - url: https://en.wikipedia.org/wiki/First_Nations_Information_Governance_Centre
