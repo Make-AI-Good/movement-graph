@@ -11,7 +11,7 @@ date: 2024-06-04
 location: online
 event_type: open letter
 participating_orgs: []
-participating_people: []
+participating_people: [person-daniel-kokotajlo]
 related_events:
   - event-timnit-gebru-firing-google-2020-12-02
 sources:
