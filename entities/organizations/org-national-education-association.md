@@ -17,6 +17,7 @@ board_and_advisors: []
 related_orgs:
   - org-authors-guild
   - org-concept-art-association
+  - org-american-federation-of-teachers
 funders: []
 sources:
   - url: https://www.nea.org/about-nea/mission-vision-values/history-nea
