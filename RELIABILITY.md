@@ -1,25 +1,25 @@
 ---
 type: reliability-statement
-generated_at: 2026-06-12T01:40:54Z
-generated_at_commit: f4f53d1ca361b9f7ea9533b29432b40fc6fe2a82
+generated_at: 2026-06-12T01:41:46Z
+generated_at_commit: 458b3f3682ae530eb4c44287c68e3855efd3f20b
 generator: movement-graph/dashboard/generate-reliability.sh
 audited_entities: 488
 total_entities: 698
 audit_coverage_pct: 69
 total_claims: 10770
 claims_corroborated: 8060
-claims_primary_sourced: 443
+claims_primary_sourced: 444
 claims_single_source: 176
 claims_uncorroborated: 1692
-open_corrections: 399
+open_corrections: 398
 status_corroborated: 40
-status_supported: 224
-status_corrections_pending: 224
+status_supported: 225
+status_corrections_pending: 223
 ---
 
 # Corpus reliability
 
-Auto-generated at commit `f4f53d1` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
+Auto-generated at commit `458b3f3` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
 
 This graph is independently audited at the claim level. Of 10,770 claims across 488 audited entities: **79.0%** corroborated or primary-sourced, **1.6%** single-source, **15.7%** not independently corroborated, **3.7%** precision-corrected (which we apply). **No fabrication observed.**
 
@@ -52,13 +52,13 @@ Entity-level `status` is a **distribution**, never the worst single claim:
 | Audit coverage | 488 / 698 entities (69%) |
 | Total claims audited | 10,770 |
 | Claims corroborated (≥2 sources) | 8,060 |
-| Claims primary-sourced (1 primary-tier source) | 443 |
+| Claims primary-sourced (1 primary-tier source) | 444 |
 | Claims single-source (1 non-primary canonical source) | 176 |
 | Claims uncorroborated | 1,692 |
-| Open corrections | 399 |
+| Open corrections | 398 |
 | Entities — status `corroborated` | 40 |
-| Entities — status `supported` | 224 |
-| Entities — status `corrections-pending` | 224 |
+| Entities — status `supported` | 225 |
+| Entities — status `corrections-pending` | 223 |
 
 ## How this is generated
 
