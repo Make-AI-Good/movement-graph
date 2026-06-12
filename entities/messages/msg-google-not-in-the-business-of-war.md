@@ -12,6 +12,7 @@ origin: |
 originating_person:
 originating_org:
 propagated_by_orgs:
+  - org-tech-workers-coalition
 related_messages:
   - msg-no-tech-for-ice
   - msg-no-tech-for-apartheid
