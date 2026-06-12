@@ -13,7 +13,7 @@ website: https://pacificdatasovereignty.com/
 strategies: [strat-indigenous-and-community-data-sovereignty]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-global-indigenous-data-alliance, org-te-mana-raraunga, org-maiam-nayri-wingara]
+related_orgs: [org-global-indigenous-data-alliance, org-te-mana-raraunga, org-maiam-nayri-wingara, org-us-indigenous-data-sovereignty-network, org-first-nations-information-governance-centre]
 funders: []
 sources:
   - url: https://pacificdatasovereignty.com/
@@ -55,7 +55,7 @@ In July 2025, the PDSN and Moana Connect published [*Preserving our Heritage in 
 
 ## GIDA and International Network
 
-The PDSN is a member network of the [Global Indigenous Data Alliance](../organizations/org-global-indigenous-data-alliance.md) and participated in GIDA's [February 25–27, 2026 IDSov and AI Workshop](https://www.gida-global.org/gidaidsovaiworkshop) in Texcoco, Mexico. The workshop brought together representatives from Te Mana Raraunga, Maiam nayri Wingara, the US Indigenous Data Sovereignty Network, the First Nations Information Governance Centre, GIDA-Inuit, and GIDA-Sápmi alongside scholars and activists from Latin America and Africa to develop community-specific protocols for engaging with AI that uphold Indigenous data sovereignty principles. PDSN's participation extends the IDSov framework's AI governance work into the specific context of Pacific peoples, whose cultural knowledge and oral traditions face particular risks from AI systems trained on digitized heritage collections without community consent.
+The PDSN is a member network of the [Global Indigenous Data Alliance](../organizations/org-global-indigenous-data-alliance.md) and participated in GIDA's [February 25–27, 2026 IDSov and AI Workshop](https://www.gida-global.org/gidaidsovaiworkshop) in Texcoco, Mexico. The workshop brought together representatives from [Te Mana Raraunga](../organizations/org-te-mana-raraunga.md), [Maiam nayri Wingara](../organizations/org-maiam-nayri-wingara.md), the [US Indigenous Data Sovereignty Network](../organizations/org-us-indigenous-data-sovereignty-network.md), the [First Nations Information Governance Centre](../organizations/org-first-nations-information-governance-centre.md), GIDA-Inuit, and GIDA-Sápmi alongside scholars and activists from Latin America and Africa to develop community-specific protocols for engaging with AI that uphold Indigenous data sovereignty principles. PDSN's participation extends the IDSov framework's AI governance work into the specific context of Pacific peoples, whose cultural knowledge and oral traditions face particular risks from AI systems trained on digitized heritage collections without community consent.
 
 ## Corpus Role
 

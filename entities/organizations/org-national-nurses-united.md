@@ -13,7 +13,7 @@ website: https://www.nationalnursesunited.org/
 strategies: [strat-empirical-audit-and-expose, strat-counter-narrative-framing]
 key_people: []
 board_and_advisors: []
-related_orgs: []
+related_orgs: [org-royal-college-of-nursing]
 funders: []
 sources:
   - url: https://www.nationalnursesunited.org/

@@ -15,7 +15,7 @@ strategies:
   - strat-counter-narrative-framing
 key_people: []
 board_and_advisors: []
-related_orgs: []
+related_orgs: [org-national-nurses-united]
 funders: []
 sources:
   - url: https://www.rcn.org.uk/

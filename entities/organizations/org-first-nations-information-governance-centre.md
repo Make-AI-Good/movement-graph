@@ -13,7 +13,7 @@ website: https://fnigc.ca/
 strategies: [strat-indigenous-and-community-data-sovereignty]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-global-indigenous-data-alliance, org-us-indigenous-data-sovereignty-network, org-maiam-nayri-wingara]
+related_orgs: [org-global-indigenous-data-alliance, org-us-indigenous-data-sovereignty-network, org-maiam-nayri-wingara, org-pacific-data-sovereignty-network]
 funders: []
 sources:
   - url: https://en.wikipedia.org/wiki/First_Nations_Information_Governance_Centre
@@ -79,7 +79,7 @@ In 2020, FNIGC [delivered to the Government of Canada](https://fnigc.ca/what-we-
 
 ## AI and Data Sovereignty
 
-FNIGC participated in the [February 25–27 2026 GIDA IDSov and AI Workshop](https://iwgia.org/en/indigenous-data-sovereignty/6018-iw-2026-indigenous-data-sovereignty.html) at COLPOS in Texcoco, Mexico — convened by the [Global Indigenous Data Alliance](../organizations/org-global-indigenous-data-alliance.md) alongside [Te Mana Raraunga](../organizations/org-te-mana-raraunga.md), the Pacific Data Sovereignty Network, the US Indigenous Data Sovereignty Network, and other member networks — addressing AI as the primary site where data sovereignty is currently being tested. At stake: AI systems trained on Indigenous languages, traditional knowledge, and oral histories collected without consent, concentrating benefit with corporations and governments rather than communities.
+FNIGC participated in the [February 25–27 2026 GIDA IDSov and AI Workshop](https://iwgia.org/en/indigenous-data-sovereignty/6018-iw-2026-indigenous-data-sovereignty.html) at COLPOS in Texcoco, Mexico — convened by the [Global Indigenous Data Alliance](../organizations/org-global-indigenous-data-alliance.md) alongside [Te Mana Raraunga](../organizations/org-te-mana-raraunga.md), the [Pacific Data Sovereignty Network](../organizations/org-pacific-data-sovereignty-network.md), the [US Indigenous Data Sovereignty Network](../organizations/org-us-indigenous-data-sovereignty-network.md), and other member networks — addressing AI as the primary site where data sovereignty is currently being tested. At stake: AI systems trained on Indigenous languages, traditional knowledge, and oral histories collected without consent, concentrating benefit with corporations and governments rather than communities.
 
 Within Canada, [OCAP®'s integration into national AI policy frameworks remains limited](https://policyoptions.irpp.org/2025/05/ai-indigenous-data/) despite the framework's widespread adoption in health and demographic research. As Canada advances AI legislation including the Artificial Intelligence and Data Act, FNIGC's position is that Indigenous data governance — OCAP® principles including prior consent, community control, and benefit-sharing — must be structurally embedded, not merely acknowledged in principle.
 
