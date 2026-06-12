@@ -19,6 +19,7 @@ board_and_advisors: []
 related_orgs:
   - org-human-rights-watch
   - org-amnesty-international
+  - org-pax
 funders: []
 sources:
   - url: https://www.stopkillerrobots.org/about-us/
