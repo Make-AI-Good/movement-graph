@@ -21,6 +21,7 @@ related_orgs:
   - org-amnesty-international
   - org-pax
   - org-world-council-of-churches
+  - org-religions-for-peace
 funders: []
 sources:
   - url: https://www.stopkillerrobots.org/about-us/
