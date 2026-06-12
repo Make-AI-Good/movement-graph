@@ -13,7 +13,7 @@ website: https://www.temanararaunga.maori.nz/
 strategies: [strat-indigenous-and-community-data-sovereignty]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-global-indigenous-data-alliance]
+related_orgs: [org-global-indigenous-data-alliance, org-pacific-data-sovereignty-network]
 funders: []
 sources:
   - url: https://www.temanararaunga.maori.nz/
