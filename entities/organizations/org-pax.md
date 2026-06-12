@@ -16,6 +16,7 @@ key_people: []
 board_and_advisors: []
 related_orgs:
   - org-stop-killer-robots
+  - org-world-council-of-churches
 funders:
   - fund-nationale-postcode-loterij
   - fund-open-society-foundations
