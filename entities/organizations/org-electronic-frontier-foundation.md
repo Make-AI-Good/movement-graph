@@ -13,7 +13,7 @@ website: https://www.eff.org/
 strategies: [strat-municipal-affirmative-ban-on-a-class-of-ai-use]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-access-now, org-fight-for-the-future, org-aclu]
+related_orgs: [org-access-now, org-fight-for-the-future, org-aclu, org-nacdl]
 funders: [fund-craig-newmark-philanthropies, fund-knight-foundation]
 sources:
   - url: https://www.eff.org/about

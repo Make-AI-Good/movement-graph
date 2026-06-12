@@ -13,7 +13,7 @@ website: https://www.aclu.org/
 strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-empirical-audit-and-expose, strat-municipal-affirmative-ban-on-a-class-of-ai-use]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-electronic-frontier-foundation, org-algorithmic-justice-league]
+related_orgs: [org-electronic-frontier-foundation, org-algorithmic-justice-league, org-nacdl]
 funders: []
 sources:
   - url: https://www.aclu.org/about/aclu-history
