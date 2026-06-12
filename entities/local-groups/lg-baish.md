@@ -65,7 +65,7 @@ Beyond the structured tracks, BAISH runs a paper-reading club, introductory soci
 
 BAISH describes its technical research focus as "Chain of Thought interpretability, LLM evaluations, Mechanistic interpretability of neural networks." Its members have produced a body of peer-reviewed and preprint work in its first two years:
 
-Eitan Sprejer is first author of "Approximating Human Preferences Using a Multi-Judge Learned System," presented at the NeurIPS 2025 LatinX in AI and Reliable ML workshops. He is second author (with Austin Meek) of "Measuring Chain-of-Thought Monitorability Through Faithfulness and Verbosity," submitted to AAAI 2026. The BAISH FAIR research group contributed to "AI Debaters are More Persuasive when Arguing in Alignment with Their Own Beliefs" (NeurIPS 2024 workshop) and produced the arXiv preprint "Mind the Performance Gap: Capability-Behavior Trade-offs in Feature Steering," with Sprejer as first author. A formal research fellowships programme is in planning for 2026.
+Eitan Sprejer is first author of "Approximating Human Preferences Using a Multi-Judge Learned System," presented at the NeurIPS 2025 LatinX in AI and Reliable ML workshops. He is second author (with Austin Meek) of "Measuring Chain-of-Thought Monitorability Through Faithfulness and Verbosity," submitted to AAAI 2026. The BAISH FAIR research group contributed to "AI Debaters are More Persuasive when Arguing in Alignment with Their Own Beliefs" (NeurIPS 2025 workshop) and produced the arXiv preprint "Mind the Performance Gap: Capability-Behavior Trade-offs in Feature Steering," with Sprejer as first author. A formal research fellowships programme is in planning for 2026.
 
 ## Regional connections
 
