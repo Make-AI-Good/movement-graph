@@ -18,6 +18,7 @@ related_orgs:
   - org-wga
   - org-sag-aftra
   - org-authors-guild
+  - org-nuj
 funders: []
 sources:
   - url: https://newsguild.org/about/
