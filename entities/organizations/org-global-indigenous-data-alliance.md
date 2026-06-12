@@ -13,7 +13,7 @@ website: https://www.gida-global.org/
 strategies: [strat-indigenous-and-community-data-sovereignty]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-first-nations-information-governance-centre, org-te-mana-raraunga, org-pacific-data-sovereignty-network, org-us-indigenous-data-sovereignty-network]
+related_orgs: [org-first-nations-information-governance-centre, org-te-mana-raraunga, org-pacific-data-sovereignty-network, org-us-indigenous-data-sovereignty-network, org-maiam-nayri-wingara]
 funders: []
 sources:
   - url: https://www.gida-global.org/whoweare

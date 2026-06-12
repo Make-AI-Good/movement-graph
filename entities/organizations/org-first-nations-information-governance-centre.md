@@ -13,7 +13,7 @@ website: https://fnigc.ca/
 strategies: [strat-indigenous-and-community-data-sovereignty]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-global-indigenous-data-alliance, org-us-indigenous-data-sovereignty-network]
+related_orgs: [org-global-indigenous-data-alliance, org-us-indigenous-data-sovereignty-network, org-maiam-nayri-wingara]
 funders: []
 sources:
   - url: https://en.wikipedia.org/wiki/First_Nations_Information_Governance_Centre

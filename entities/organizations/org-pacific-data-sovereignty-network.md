@@ -13,7 +13,7 @@ website: https://pacificdatasovereignty.com/
 strategies: [strat-indigenous-and-community-data-sovereignty]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-global-indigenous-data-alliance, org-te-mana-raraunga]
+related_orgs: [org-global-indigenous-data-alliance, org-te-mana-raraunga, org-maiam-nayri-wingara]
 funders: []
 sources:
   - url: https://pacificdatasovereignty.com/
