@@ -18,7 +18,7 @@ sources:
     note: 'AI Safety India primary website — tagline "Tackling AI Risks to Save Humanity"; offers free courses and research opportunities in AI safety, alignment, and governance; entry point for the three-phase programme pipeline (Fundamentals of Safe AI → Research Fellowship → Research Paper)'
   - url: https://aisafetyindia.com/about
     last_checked: 2026-06-03
-    note: 'AI Safety India About page — lists team as Aditya Prasad (Founder), Aditya Raj (Partnerships Lead), Sireesha Chavali (Advisor); names supporting organisations: ARENA, EA Hungary, ENAIS, Stanford Center for AI Safety, AI Safety Asia, AI Plans; mission stated as bringing together students and researchers to align advanced AI systems with human values'
+    note: 'AI Safety India About page — lists team as Aditya Raj (Founder), Sireesha Chavali (Partnerships Lead), Aditya Prasad (Advisor); names supporting organisations: ARENA, EA Hungary, ENAIS, Stanford Center for AI Safety, AI Safety Asia, AI Plans; mission stated as bringing together students and researchers to align advanced AI systems with human values'
   - url: https://forum.effectivealtruism.org/posts/DYbxFGaFvhnBrQAoD/applications-open-ai-safety-india-phase-1-fundamentals-of
     last_checked: 2026-06-03
     note: 'EA Forum post by Aditya Raj (April 28, 2025) — opens applications for Phase 1 (Fundamentals of Safe AI); free 10-week online cohort; 6–10 hours weekly commitment; application deadline May 10 2025; programme June 1 – mid-August 2025; small-group sessions of 5–10 participants; modelled after BlueDot and Atlas programmes'
@@ -32,7 +32,7 @@ sources:
 
 # AI Safety India
 
-AI Safety India (aisafetyindia.com) is a national Indian community initiative whose mission is to "bring together students, researchers to work on the most important challenge of our time — aligning advanced AI systems with human values." Founded in 2025, the group is led by Aditya Prasad (Founder), Aditya Raj (Partnerships Lead), and Sireesha Chavali (Advisor), and runs India's first structured AI-safety cohort programme: a three-phase pipeline — Fundamentals of Safe AI, Research Fellowship, and Research Paper — designed to move participants from zero AI-safety background through independent research and publication, offered free of charge. It is the corpus's first entry covering the AI-safety community-building layer in South Asia.
+AI Safety India (aisafetyindia.com) is a national Indian community initiative whose mission is to "bring together students, researchers to work on the most important challenge of our time — aligning advanced AI systems with human values." Founded in 2025, the group is led by Aditya Raj (Founder), Sireesha Chavali (Partnerships Lead), and Aditya Prasad (Advisor), and runs India's first structured AI-safety cohort programme: a three-phase pipeline — Fundamentals of Safe AI, Research Fellowship, and Research Paper — designed to move participants from zero AI-safety background through independent research and publication, offered free of charge. It is the corpus's first entry covering the AI-safety community-building layer in South Asia.
 
 ## Founding and motivation
 
