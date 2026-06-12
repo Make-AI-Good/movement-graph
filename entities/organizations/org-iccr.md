@@ -13,7 +13,7 @@ website: https://www.iccr.org/
 strategies: []
 key_people: []
 board_and_advisors: []
-related_orgs: []
+related_orgs: [org-investor-alliance-for-human-rights]
 funders: []
 sources:
   - url: https://www.iccr.org/about-iccr/
