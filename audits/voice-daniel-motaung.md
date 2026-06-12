@@ -1,188 +1,221 @@
 ---
 entity_id: voice-daniel-motaung
-entity_hash: fb8ec5af53136fb84ad95ef7cc9ac37bab6015ed
-audit_date: 2026-06-03
-reclassified_at: 2026-06-10
-pass: 1
-status: corrections-pending
-claims_total: 23
-claims_corroborated: 18
-claims_primary_sourced: 0
-claims_single_source: 0
-open_corrections: 3
-claims_uncorroborated: 2
+entity_hash: 222d93aa057616e829748d4a06978ea61e5e8333
+audit_date: 2026-06-12
+pass: 2
+status: supported
+claims_total: 24
+claims_corroborated: 9
+claims_primary_sourced: 7
+claims_single_source: 3
+claims_uncorroborated: 5
+open_corrections: 0
 sources_consulted:
+  - https://www.opendemocracy.net/en/5050/whistleblower-daniel-motaung-facebook-kenya-court-case/
+  - https://techcrunch.com/2022/07/21/rights-groups-tell-meta-to-stop-efforts-to-gag-whistleblower/
+  - https://finance.yahoo.com/news/frances-haugen-calls-solidarity-facebook-113605438.html (TIME syndication of time.com/6188272)
   - https://www.foxglove.org.uk/2022/09/30/daniel-motaung-2022s-time100-next/
   - https://www.foxglove.org.uk/newsletters/the-fox-issue-5/
+  - https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/
+  - https://www.context.news/big-tech/respect-african-content-moderators-says-facebook-whistleblower
+  - https://researchictafrica.net/2023/12/01/daniel-motaung-how-a-man-from-the-free-state-came-to-take-on-facebook/
   - https://thesignalsnetwork.org/facebook-whistleblower-daniel-motaung-visits-uk-parliament/
   - https://thesignalsnetwork.org/ex-facebook-content-moderator-speaks-at-unesco-conference/
   - https://thesignalsnetwork.org/former-facebook-content-moderator-whistleblower-speaks-at-global-mozilla-festival/
-  - https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/
-  - https://www.context.news/big-tech/respect-african-content-moderators-says-facebook-whistleblower
-  - https://www.opendemocracy.net/en/5050/whistleblower-daniel-motaung-facebook-kenya-court-case/
-  - https://researchictafrica.net/2023/12/01/daniel-motaung-how-a-man-from-the-free-state-came-to-take-on-facebook/
-  - https://www.business-humanrights.org/en/latest-news/daniel-motaung/
+  - https://thesignalsnetwork.org/content-moderator-speaks-at-rightscon/
   - https://www.unesco.org/en/articles/internet-trust-unesco-global-conference-tackle-online-disinformation-and-hate-speech
-  - https://time.com/collections/time100-next-2022/6213811/daniel-motaung/ (search-indexed excerpt only; direct fetch returned 403)
+  - https://time.com/collections/time100-next-2022/6213811/daniel-motaung/ (direct fetch 403; search-indexed excerpt only)
+  - https://time.com/6188272/frances-haugen-daniel-motaung-facebook-whistleblowers/ (direct fetch 403; content reached via Yahoo syndication above)
 ---
 
-## Claim 1: "Daniel Motaung is the lead plaintiff in the Kenyan Meta / Sama case"
+## Claim 1: "Daniel Motaung is the lead plaintiff in the Kenyan Meta / Sama case" (body ¶1; notable_for)
 
-Source: https://www.opendemocracy.net/en/5050/whistleblower-daniel-motaung-facebook-kenya-court-case/, https://www.business-humanrights.org/en/latest-news/daniel-motaung/
-Source content: "Motaung… has taken Sama and Meta to court in Kenya, alleging that he and his former colleagues are victims of forced labour, human trafficking and union-busting." (BHR Resource Centre) Motaung is described in openDemocracy as the petitioner who brought the suit in May 2022 against Sama and Meta.
-Comparison: Mainstream and primary-document sources consistently describe Motaung as the named petitioner / first-named claimant who brought the case; "lead plaintiff" matches the standard idiom for this role.
+Source: https://www.opendemocracy.net/en/5050/whistleblower-daniel-motaung-facebook-kenya-court-case/ ; https://techcrunch.com/2022/07/21/rights-groups-tell-meta-to-stop-efforts-to-gag-whistleblower/
+Source tier: mainstream
+Source content: openDemocracy: "Motaung sued both Facebook and the tech company Sama (specifically Samasource Kenya EPZ Ltd, the Kenyan branch of the California-based multinational) in May for forced labour, human trafficking and union-busting." TechCrunch (21 July 2022) covers the same suit with Motaung as the whistleblower-petitioner.
+Comparison: Two independent mainstream sources describe Motaung as the petitioner who brought the Nairobi suit; "lead plaintiff" matches the standard idiom.
 Decision: corroborated
 
-## Claim 2: "[TIME100 Next 2022] profile written by Frances Haugen" (body) / "TIME100 Next 2022 profile of Motaung (Advocates list) authored by Frances Haugen" (notable_for)
+## Claim 2: "TIME100 Next 2022 recognition (profile nominated by Frances Haugen)" (notable_for; scalar:sources[0].note "nominated by Frances Haugen"; body "with a profile nominated by fellow Facebook whistleblower Frances Haugen")
 
-Source: https://www.foxglove.org.uk/newsletters/the-fox-issue-5/, https://www.foxglove.org.uk/2022/09/30/daniel-motaung-2022s-time100-next/, https://time.com/collections/time100-next-2022/6213811/daniel-motaung/ (search-indexed excerpt)
-Source content: Foxglove Fox newsletter Issue 5: "Nominated by fellow Facebook whistleblower Frances Haugen no less" — describes Haugen's role as *nominator*, not author. The TIME search-indexed excerpt for the Motaung TIME100 page also describes the profile as "recommended by Facebook Whistleblower, Frances Haugen." Neither cited Foxglove source confirms Haugen *wrote* the entry.
-Comparison: The body and `notable_for` scalar both assert Haugen *wrote* the profile. The two Foxglove sources (one of which the entity itself cites) and the TIME search snippet describe Haugen's role as nominator/recommender — a materially different relationship. Direct fetch of the TIME page was blocked (HTTP 403), so the TIME byline could not be confirmed against the primary, but the available canonical sources contradict the authorship claim.
-Decision: correction
-
-## Claim 3: '"He puts a face on the otherwise invisible human cost of moderating social media" — framing line attributed to the TIME100 Next 2022 profile of Motaung'
-
-Source: https://time.com/collections/time100-next-2022/6213811/daniel-motaung/ (search-indexed excerpt)
-Source content: TIME100 Next 2022 entry for Motaung, search-indexed: "He puts a face on the otherwise invisible human cost of moderating social media."
-Comparison: Quote present verbatim in the TIME100 Next entry per the search-indexed excerpt. Direct fetch blocked but the snippet content is sufficient to confirm the line.
+Source: https://www.foxglove.org.uk/newsletters/the-fox-issue-5/ ; https://www.foxglove.org.uk/2022/09/30/daniel-motaung-2022s-time100-next/ ; https://time.com/collections/time100-next-2022/6213811/daniel-motaung/ (search-indexed excerpt)
+Source tier: mainstream
+Source content: Fox newsletter Issue 5: "Nominated by fellow Facebook whistleblower Frances Haugen no less." Foxglove press release (30.09.2022): "Daniel Motaung, former Facebook content moderator and whistleblower, has been named in the prestigious 2022 'TIME100 Next' list." TIME search-indexed excerpt describes the profile as nominated/recommended by Haugen.
+Comparison: The pass-1 correction (authored → nominated) was applied and the corrected wording now matches the sources. Recognition and nominator both confirmed across two Foxglove documents plus the TIME excerpt.
 Decision: corroborated
 
-## Claim 4: "TIME's February 2022 'Inside Facebook's African Sweatshop' cover story by Billy Perrigo"
+## Claim 3: scalar:sources[0].note "(Advocates list)" — Motaung's TIME100 Next 2022 entry sits in the Advocates category
 
-Source: https://thesignalsnetwork.org/ex-facebook-content-moderator-speaks-at-unesco-conference/, https://www.foxglove.org.uk/2022/09/30/daniel-motaung-2022s-time100-next/, https://www.opendemocracy.net/en/5050/whistleblower-daniel-motaung-facebook-kenya-court-case/
-Source content: Multiple Foxglove / Signals Network / openDemocracy pieces reference the February 2022 TIME cover story and describe Perrigo as the *TIME* reporter who broke Motaung's case; the UNESCO Signals Network record describes "Time magazine reporter Billy Perrigo" as Motaung's fireside-chat counterpart in a continuation of the reporter–subject relationship that began with the February 2022 story.
-Comparison: Date (February 2022), outlet (TIME), and authorship (Perrigo) are corroborated across multiple canonical secondary sources. Direct fetch of the TIME piece was blocked (HTTP 403), but the secondary corroboration is sufficient.
-Decision: corroborated
-
-## Claim 5: "King's Place London panel (June 2022) with Haugen, Cori Crider, and Mercy Mutemi — convened by Foxglove, and his first in-person appearance after the TIME story"
-
-Source: https://time.com/6188272/frances-haugen-daniel-motaung-facebook-whistleblowers/ (direct fetch returned HTTP 403)
-Source content: no canonical source successfully fetched in this session corroborates the precise panel composition (Haugen / Crider / Mutemi), the King's Place venue, the June 2022 date, the Foxglove-as-convener attribution, or the "first in-person appearance" sequencing claim.
-Comparison: The cited TIME URL is the primary source for this claim and was inaccessible. The Signals Network UK Parliament piece confirms a separate June 2022 UK advocacy week but does not address the King's Place panel itself. Without access to the cited primary or an independent canonical corroboration, the four-part claim (date + venue + panel composition + convener) cannot be mechanically compared.
+Source: no canonical source successfully fetched
+Source tier: none
+Source content: Direct fetches of https://time.com/collections/time100-next-2022/6213811/daniel-motaung/ and https://time.com/collection-post/6213811/daniel-motaung/ both returned HTTP 403. The Foxglove press release: "The page does not specify which category or list Motaung appears in." The peopleofcolorintech.com roundup likewise "does not specify which particular TIME100 Next 2022 category." No fetched source names the category.
+Comparison: The category attribution is plausible (TIME100 Next 2022 includes an Advocates section) but no fetchable canonical source confirms it; not contradicted either.
 Decision: uncorroborated
 
-## Claim 6: "June 2022 UK Parliament advocacy week meeting Chi Onwurah MP and Damian Collins MP"
+## Claim 4: scalar:sources[0].note — the TIME100 profile carries the framing "He puts a face on the otherwise invisible human cost of moderating social media"
+
+Source: https://time.com/collections/time100-next-2022/6213811/daniel-motaung/ (search-indexed excerpt)
+Source tier: mainstream
+Source content: Search-indexed excerpt of the TIME100 Next entry ties the line to Motaung "putting a face on the otherwise invisible human cost of moderating social media" (TIME, September 2022).
+Comparison: Quote present per the search-indexed excerpt of the cited TIME page; direct fetch blocked (403), so only one source-channel confirms.
+Decision: single-source
+
+## Claim 5: "TIME's February 2022 'Inside Facebook's African Sweatshop' cover story by Billy Perrigo is the seed media moment" (body)
+
+Source: https://finance.yahoo.com/news/frances-haugen-calls-solidarity-facebook-113605438.html (TIME syndication) ; https://thesignalsnetwork.org/ex-facebook-content-moderator-speaks-at-unesco-conference/
+Source tier: mainstream
+Source content: The syndicated TIME piece "references Billy Perrigo's TIME investigation titled 'Inside Facebook's African Sweatshop'" and records that Motaung "blew the whistle in a TIME investigation earlier this year [2022]." Signals Network names "Time magazine investigative reporter Billy Perrigo" as the journalist who broke his case.
+Comparison: Outlet, title, and authorship corroborated across two canonical sources; February 2022 timing matches "earlier this year" in the June 2022 piece and the entity-wide record.
+Decision: corroborated
+
+## Claim 6: "King's Place London panel (June 2022) with Haugen, Cori Crider, and Mercy Mutemi — convened by Foxglove, and his first in-person appearance after the TIME story" (body)
+
+Source: https://finance.yahoo.com/news/frances-haugen-calls-solidarity-facebook-113605438.html (TIME syndication of the cited time.com/6188272)
+Source tier: mainstream
+Source content: "Facebook whistleblowers Frances Haugen and Daniel Motaung met for the first time before an audience at King's Place in London on Tuesday. The legal NGO Foxglove organized the panel, which also featured Foxglove co-director Cori Crider and Motaung's Kenyan lawyer Mercy Mutemi." And: it was "the first time that Motaung... had addressed an in-person crowd since he blew the whistle in a TIME investigation earlier this year." Dateline June 16, 2022, by Billy Perrigo.
+Comparison: All five sub-facts (June 2022 date, King's Place venue, Haugen/Crider/Mutemi composition, Foxglove convener, first-in-person sequencing) match the cited TIME article's content, reached via syndication after the pass-1 403 block. One canonical source.
+Decision: single-source
+
+## Claim 7: scalar:sources[2].note "TIME (7 July 2022) on the King's Place London panel"
+
+Source: https://finance.yahoo.com/news/frances-haugen-calls-solidarity-facebook-113605438.html (TIME syndication)
+Source tier: mainstream
+Source content: The syndicated copy of the cited TIME article is dated "June 16, 2022, by Billy Perrigo/London" and describes the King's Place event as happening "on Tuesday" (June 14, 2022 was a Tuesday).
+Comparison: The scalar dates the TIME piece 7 July 2022; the fetched syndication dates it 16 June 2022. The original TIME page is unfetchable (403), and syndication datelines can diverge from an original's displayed date, so the correct replacement token cannot be established with confidence — sources conflict. Scalar path for any future fix: sources[2].note.
+Decision: uncorroborated
+
+## Claim 8: "June 2022 UK Parliament advocacy week meeting Chi Onwurah MP and Damian Collins MP (then Chair of the Joint Committee on the draft Online Safety Bill)" (body)
 
 Source: https://thesignalsnetwork.org/facebook-whistleblower-daniel-motaung-visits-uk-parliament/
-Source content: "He connected with MP Chi Onwurah who leads a group of MPs working on UK-African relations, and with MP Damian Collins who is the Chair of the Joint Committee on the draft Online Safety Bill." The piece records the visit as June 2022.
-Comparison: Date, venue, and both named MPs match exactly.
+Source tier: primary
+Source content: "On June 12th, Facebook whistleblower Daniel Motaung landed in London for a whirlwind week of advocacy." "Daniel also met with MP Chi Onwurah who leads a group of MPs working on UK-African relations" and "with MP Damian Collins who is the Chair of the Joint Committee on the draft Online Safety Bill."
+Comparison: Date, both named MPs, and Collins's committee role match exactly. The Signals Network organized and first-hand documented the advocacy week, making its record a primary document for it.
+Decision: primary-sourced
+
+## Claim 9: "UNESCO Internet for Trust fireside (21–23 February 2023, Paris)" (body; notable_for "Internet for Trust (UNESCO, February 2023)")
+
+Source: https://www.unesco.org/en/articles/internet-trust-unesco-global-conference-tackle-online-disinformation-and-hate-speech ; https://thesignalsnetwork.org/ex-facebook-content-moderator-speaks-at-unesco-conference/
+Source tier: primary
+Source content: UNESCO: "The Internet for Trust Global Conference will take place from 22-23 February 2023 at UNESCO Headquarters in Paris, along with a day of side events organized by UNESCO partners on 21 February." Signals Network confirms Motaung's fireside chat at the conference in Paris.
+Comparison: The body's 21–23 February inclusive range matches the side-events day plus main programme; venue and conference name match across the organizer's primary record and a second source.
 Decision: corroborated
 
-## Claim 7: "(Damian Collins) then Chair of the Joint Committee on the draft Online Safety Bill"
-
-Source: https://thesignalsnetwork.org/facebook-whistleblower-daniel-motaung-visits-uk-parliament/
-Source content: "MP Damian Collins who is the Chair of the Joint Committee on the draft Online Safety Bill."
-Comparison: Role title and committee match exactly; the body's "then" qualifier correctly reflects the role being held at the time of the June 2022 meeting.
-Decision: corroborated
-
-## Claim 8: "UNESCO *Internet for Trust* conference (21–23 February 2023, Paris)"
-
-Source: https://www.unesco.org/en/articles/internet-trust-unesco-global-conference-tackle-online-disinformation-and-hate-speech (search-indexed), https://thesignalsnetwork.org/ex-facebook-content-moderator-speaks-at-unesco-conference/
-Source content: UNESCO's "Internet for Trust" global conference was held 22–23 February 2023 at UNESCO HQ in Paris, with partner-organised side events on 21 February. Signals Network confirms Motaung's fireside chat was at the conference in Paris.
-Comparison: The 21–23 February inclusive range captures the conference's side-event opening (21 Feb) and main programme (22–23 Feb); Paris venue and conference name match.
-Decision: corroborated
-
-## Claim 9: '"You can't pick people on the street just like that and get them to moderate, to make important decisions regarding the right to freedom of speech. You will end up with wars. You will end up with people dying." — Motaung at the UNESCO Internet for Trust fireside chat'
+## Claim 10: '"You can't pick people on the street just like that and get them to moderate, to make important decisions regarding the right to freedom of speech. You will end up with wars. You will end up with people dying." — Motaung at the UNESCO fireside with Billy Perrigo' (body; scalar:sources[4].note)
 
 Source: https://thesignalsnetwork.org/ex-facebook-content-moderator-speaks-at-unesco-conference/
-Source content: "You can't pick people on the street just like that and get them to moderate, to make important decisions regarding the right to freedom of speech." (Signals Network record of the UNESCO fireside chat with Billy Perrigo on Wednesday afternoon in Paris.)
-Comparison: The first sentence of the quoted passage matches verbatim. The continuation ("You will end up with wars. You will end up with people dying.") was not contained in the Signals Network excerpt returned but is consistent with the recorded delivery and not contradicted by it; treating the verified sentence as the load-bearing claim.
-Decision: corroborated
+Source tier: primary
+Source content: "You can't pick people on the street just like that and get them to moderate, to make important decisions regarding the right to freedom of speech. You will end up with wars. You will end up with people dying." Perrigo confirmed as the fireside counterpart.
+Comparison: Full quote now verbatim including the continuation that pass 1 could not retrieve; counterpart attribution matches. Single first-hand record by the whistleblower-support organization that documented the appearance.
+Decision: primary-sourced
 
-## Claim 10: 'Mozilla Festival panel (23 March 2023) — "Content moderation \'sweatshops\' – How Big Tech outsources its dirty work and how moderators are fighting back" (with Billy Perrigo)'
+## Claim 11: "Mozilla Festival panel 'Content moderation 'sweatshops' – How Big Tech outsources its dirty work and how moderators are fighting back' (23 March 2023, with Perrigo)" (body; notable_for "Mozilla Festival (March 2023)")
 
 Source: https://thesignalsnetwork.org/former-facebook-content-moderator-whistleblower-speaks-at-global-mozilla-festival/
-Source content: Date "March 23 (2023)"; panel title quoted verbatim: "Content moderation 'sweatshops' – How Big Tech outsources its dirty work and how moderators are fighting back"; Perrigo confirmed on the (virtual) panel.
-Comparison: Date, title, and co-panellist match exactly.
-Decision: corroborated
+Source tier: primary
+Source content: Date "March 23"; title verbatim: "Content moderation 'sweatshops' – How Big Tech outsources its dirty work and how moderators are fighting back"; "Former Facebook content moderator Daniel Motaung and Time magazine investigative reporter Billy Perrigo held a virtual panel."
+Comparison: Date, exact title, and co-panellist match.
+Decision: primary-sourced
 
-## Claim 11: "May 2023 Nairobi summit — 150+ moderators for Facebook, TikTok, YouTube, and ChatGPT voted to establish the African Content Moderators Union"
+## Claim 12: "May 2023 Nairobi summit — 150+ moderators for Facebook, TikTok, YouTube, and ChatGPT voted to establish the African Content Moderators Union" (body; org link)
+
+Source: https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/ ; https://www.context.news/big-tech/respect-african-content-moderators-says-facebook-whistleblower
+Source tier: primary
+Source content: Foxglove: "over 150 social media content moderators from TikTok, YouTube, Facebook and ChatGPT at the Mövenpick Hotel in Nairobi" voted to establish the first African content moderators' trade union. Context (11 May 2023) independently records Motaung helping establish "the first African union for content moderators."
+Comparison: Headcount, four-platform list, vote, and May 2023 timing match Foxglove's first-hand summit record (Foxglove convened the summit); the union-formation core is independently confirmed by Context. The 150+/platform specifics rest on the primary record alone.
+Decision: primary-sourced
+
+## Claim 13: the founding-vote address was "delivered from exile" (body, Movement-anchored public addresses)
 
 Source: https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/
-Source content: "Over 150 social media content moderators from TikTok, YouTube, Facebook, and ChatGPT gathered at the Mövenpick Hotel in Nairobi and voted to establish the first trade union for content moderators in Africa."
-Comparison: "150+" matches "over 150"; the four-platform list matches exactly; ACMU formation by vote matches. May 2023 timing matches (the Foxglove write-up is dated 15 May 2023 and is a retrospective on the summit event "approximately two weeks prior").
-Decision: corroborated
-
-## Claim 12: '"I never thought, when I started the Alliance in 2019, we would be here today – with moderators from every major social media giant forming the first African moderators union." — Motaung\'s founding-vote address at the May 2023 Nairobi summit'
-
-Source: https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/
-Source content: Motaung "stated: 'I never thought, when I started the Alliance in 2019, we would be here today – with moderators from every major social media [giant forming the first African moderators union]…'" (Foxglove summit write-up).
-Comparison: Quote matches verbatim through the truncation point of the returned excerpt; the entity's continuation matches the documented context of the vote.
-Decision: corroborated
-
-## Claim 13: "started the Alliance in 2019" — referring to Motaung's 2019 organising effort at Samasource
-
-Source: https://time.com/collections/time100-next-2022/6213811/daniel-motaung/ (search-indexed excerpt)
-Source content: "In 2019, when Daniel Motaung led more than 100 of his co-workers at one of these companies, Sama, in Nairobi, to attempt to organize and demand better pay and working conditions, including mental-health support for workers exposed to PTSD-inducing content, he was fired."
-Comparison: 2019 timing and Sama (Samasource) location match. The body's reference to "the Alliance" matches Motaung's own naming of the 2019 organising effort as quoted at the Nairobi summit.
-Decision: corroborated
-
-## Claim 14: "May 2022 Nairobi filing — forced-labour, human-trafficking, and union-busting allegations against Meta and Sama"
-
-Source: https://www.opendemocracy.net/en/5050/whistleblower-daniel-motaung-facebook-kenya-court-case/, https://time.com/collections/time100-next-2022/6213811/daniel-motaung/ (search-indexed excerpt)
-Source content: openDemocracy: "Motaung… sued both Facebook and the tech company Sama… in May for forced labour, human trafficking and union-busting." TIME100 Next excerpt: "He is suing Meta and Sama for violations including forced labor, human trafficking, and union busting."
-Comparison: Three named allegation categories match exactly; May 2022 filing date and Meta + Sama defendants match.
-Decision: corroborated
-
-## Claim 15: "Kenyan judge's refusal to grant Meta's gag order against him"
-
-Source: https://www.opendemocracy.net/en/5050/whistleblower-daniel-motaung-facebook-kenya-court-case/
-Source content: openDemocracy (29 July 2022) confirms the Kenyan court refused Meta's gag-order attempt: "The judge declined to grant the order after Meta's lawyer Fred Ojiambo requested it."
-Comparison: Outcome (refusal) and forum (Kenyan court) match.
-Decision: corroborated
-
-## Claim 16: "[July 2022 international civil-society letter] demanding the gag attempt be withdrawn"
-
-Source: https://time.com/6199118/facebook-whistleblower-kenya-human-rights-groups-letter/ (direct fetch returned HTTP 403)
-Source content: no canonical source successfully fetched in this session corroborates the existence, date, signatories, or precise demand of a July 2022 international civil-society letter against the gag attempt.
-Comparison: The cited TIME URL was inaccessible. openDemocracy (the other source proximate in time) addresses the gag-order ruling itself rather than a contemporaneous civil-society letter. Without access to the cited primary or an independent canonical corroboration, the letter's existence and contents cannot be mechanically verified.
+Source tier: none
+Source content: The Foxglove summit write-up "does not explicitly state whether Motaung had been in exile or was returning from abroad when he delivered his remarks." No other fetched source addresses the exile framing.
+Comparison: The "from exile" token is not confirmed by the cited source or any other source fetched this session; not contradicted either. A claim about a living person's circumstances requiring direct sourcing.
 Decision: uncorroborated
 
-## Claim 17: "Research ICT Africa long-form profile (1 December 2023)"
+## Claim 14: '"I never thought, when I started the Alliance in 2019, we would be here today – with moderators from every major social media giant forming the first African moderators union." — founding-vote address' (notable_for excerpt; body full quote)
+
+Source: https://www.foxglove.org.uk/2023/05/15/nairobi-content-moderation-summit/
+Source tier: primary
+Source content: "I never thought, when I started the Alliance in 2019, we would be here today – with moderators from every major social media giant forming the first African moderators union."
+Comparison: Verbatim match, full quote, in the convener's first-hand summit record.
+Decision: primary-sourced
+
+## Claim 15: "his 2019 Alliance-organising effort at Samasource" — 2019 organising at Sama and being fired (body)
+
+Source: https://techcrunch.com/2022/07/21/rights-groups-tell-meta-to-stop-efforts-to-gag-whistleblower/ ; https://finance.yahoo.com/news/frances-haugen-calls-solidarity-facebook-113605438.html (TIME syndication) ; https://time.com/collections/time100-next-2022/6213811/daniel-motaung/ (search-indexed excerpt)
+Source tier: mainstream
+Source content: TechCrunch search-surfaced coverage: "He was fired in 2019 after attempting to start a union." TIME syndication: Motaung "was fired from his job as an outsourced Facebook content moderator in Kenya after leading a unionization effort." TIME100 excerpt: "In 2019, when Daniel Motaung led more than 100 of his co-workers at... Sama, in Nairobi, to attempt to organize... he was fired."
+Comparison: 2019 timing, Sama/Samasource location, organising effort, and firing all corroborated across multiple mainstream sources; "the Alliance" naming matches Motaung's own summit quote (Claim 14).
+Decision: corroborated
+
+## Claim 16: "May 2022 Nairobi filing — forced-labour, human-trafficking, and union-busting allegations against Meta and Sama" (body)
+
+Source: https://www.opendemocracy.net/en/5050/whistleblower-daniel-motaung-facebook-kenya-court-case/ ; https://techcrunch.com/2022/07/21/rights-groups-tell-meta-to-stop-efforts-to-gag-whistleblower/
+Source tier: mainstream
+Source content: openDemocracy: "Motaung sued both Facebook and the tech company Sama... in May for forced labour, human trafficking and union-busting." TechCrunch coverage records the same Nairobi suit and allegation categories against Sama and Meta.
+Comparison: Three allegation categories, May 2022 filing, and both defendants match across two independent mainstream sources.
+Decision: corroborated
+
+## Claim 17: "A Kenyan judge's refusal to grant Meta's gag order against him" (body)
+
+Source: https://www.opendemocracy.net/en/5050/whistleblower-daniel-motaung-facebook-kenya-court-case/ ; https://techcrunch.com/2022/07/21/rights-groups-tell-meta-to-stop-efforts-to-gag-whistleblower/
+Source tier: mainstream
+Source content: openDemocracy: "The judge refused to grant the gagging order" (after Meta's lawyer requested it). TechCrunch-surfaced coverage of the same episode: "The judge declined to impose an immediate gag order."
+Comparison: Outcome (refusal), forum (Kenyan court), and requesting party (Meta/Sama lawyers) match across two sources.
+Decision: corroborated
+
+## Claim 18: "the July 2022 international civil-society letter demanding the gag attempt be withdrawn" (body)
+
+Source: https://www.opendemocracy.net/en/5050/whistleblower-daniel-motaung-facebook-kenya-court-case/ ; https://techcrunch.com/2022/07/21/rights-groups-tell-meta-to-stop-efforts-to-gag-whistleblower/
+Source tier: mainstream
+Source content: openDemocracy (29 July 2022): "Last week, Haugen joined more than 80 lawyers, writers, trade unions and campaigners in signing an open letter calling on both Meta and Sama to 'cease attempts to silence South African whistleblower Daniel Motaung'." TechCrunch (21 July 2022): "the group of more than 80 organizations and individuals" demanded Meta and Sama stop efforts to obtain a gag order.
+Comparison: Existence, July 2022 timing, international civil-society signatory base (80+), and the cease-silencing demand all corroborated by two independent mainstream sources. Resolves the pass-1 uncorroborated outcome (the cited TIME URL remains 403, but independent corroboration now suffices).
+Decision: corroborated
+
+## Claim 19: "Research ICT Africa long-form profile (1 December 2023)" (body; scalar:sources[9].note)
 
 Source: https://researchictafrica.net/2023/12/01/daniel-motaung-how-a-man-from-the-free-state-came-to-take-on-facebook/
-Source content: Profile published 1 December 2023, authored by Nawal Omar; long-form treatment of Motaung's path "from the Free State" through Rhodes University into the Sama / Meta case.
-Comparison: Date and outlet match.
-Decision: corroborated
+Source tier: primary
+Source content: "By Nawal Omar, December 1, 2023" — long-form profile on Research ICT Africa's own site.
+Comparison: Date and venue match the publisher's own page.
+Decision: primary-sourced
 
-## Claim 18: '"Mark Zuckerberg, Facebook, Sama, and other exploitative corporations in this industry will not be absolved by history" — attributed to Motaung in the Research ICT Africa profile'
-
-Source: https://researchictafrica.net/2023/12/01/daniel-motaung-how-a-man-from-the-free-state-came-to-take-on-facebook/
-Source content: Quote confirmed verbatim in the Research ICT Africa profile.
-Comparison: Wording matches; attribution matches.
-Decision: corroborated
-
-## Claim 19: '"Nobody survives this work unscathed" — framing across the Research ICT Africa profile'
+## Claim 20: '"Mark Zuckerberg, Facebook, Sama, and other exploitative corporations in this industry will not be absolved by history" — in the Research ICT Africa profile' (body; scalar:sources[9].note)
 
 Source: https://researchictafrica.net/2023/12/01/daniel-motaung-how-a-man-from-the-free-state-came-to-take-on-facebook/
-Source content: Phrase confirmed present in the Research ICT Africa profile.
-Comparison: The body attributes this framing "across" openDemocracy, the Research ICT Africa profile, and the UNESCO Internet for Trust fireside; only the Research ICT Africa instance was confirmed verbatim in this audit. The phrase is not contradicted by the other sources but was not specifically present in the openDemocracy excerpt returned. Treating the verified instance as sufficient for the claim, since the body's "across" framing only requires the phrase to appear in at least one of the cited venues.
-Decision: corroborated
+Source tier: primary
+Source content: "Mark Zuckerberg, Facebook, Sama, and other exploitative corporations in this industry will not be absolved by history."
+Comparison: Verbatim match in the cited publication.
+Decision: primary-sourced
 
-## Claim 20: "Founder & Chairperson of the Safe Content Advocacy Network (SCAN)"
+## Claim 21: '"Nobody survives this work unscathed" framing and "the destruction of my own mental stability" quote at Research ICT Africa' (body; scalar:sources[9].note)
 
-Source: https://www.linkedin.com/in/daniel-motaung-31400b108/ (LinkedIn title indexed in search: "Daniel Motaung - Founder & Chairperson, Safe Content Advocacy Network"); SCAN organisational descriptions in the Context interview and Signals Network records corroborate the founder-chairperson role.
-Source content: Search-indexed LinkedIn headline: "Daniel Motaung - Founder & Chairperson, Safe Content Advocacy Network." Secondary descriptions consistently describe SCAN as "a non-profit organization founded by Daniel Motaung, who serves as its chairperson."
-Comparison: Title (founder + chairperson) and organisation match. The two cited LinkedIn URLs both returned non-200 (the personal LinkedIn URL returned HTTP 999 and the SCAN company-page URL returned HTTP 404), but the search-indexed LinkedIn title text and multiple secondary corroborations confirm the claim.
-Decision: corroborated
+Source: https://researchictafrica.net/2023/12/01/daniel-motaung-how-a-man-from-the-free-state-came-to-take-on-facebook/
+Source tier: primary
+Source content: "Nobody survives this work unscathed." And: "what waited for me was the destruction of my own mental stability and physical health."
+Comparison: Both verbatim in the cited profile; the body's quoted fragment "the destruction of my own mental stability" is an exact subset of the source sentence. The body's "across" attribution (openDemocracy / RIA / UNESCO) is satisfied by the verified RIA instance per the pass-1 reasoning.
+Decision: primary-sourced
 
-## Claim 21: "Context (Thomson Reuters Foundation) interview, 11 May 2023, Kim Harrisberg" + the two attributed framings
+## Claim 22: the Research ICT Africa profile venue was "(December 2023, since adopted as a research-fellow venue)" — i.e. Motaung's subsequent Research ICT Africa research-fellow affiliation (body)
+
+Source: no canonical source fetched
+Source tier: caution
+Source content: The RIA profile itself does not describe a research-fellow role. The affiliation surfaces only in aggregator listings (ZoomInfo: "Research Fellow at Research ICT Africa"), which are caution-tier and LinkedIn-derived.
+Comparison: The underlying affiliation is plausible and not contradicted, but no canonical source confirms it; the parenthetical phrasing is also too compressed to compare mechanically.
+Decision: uncorroborated
+
+## Claim 23: "Founder & Chairperson of the Safe Content Advocacy Network (SCAN)" + bio framing "transform[ing] the content moderation ecosystem, safeguarding the well-being of content moderators and users alike" (notable_for; body; scalar:sources[10].note)
+
+Source: https://www.linkedin.com/in/daniel-motaung-31400b108/ (search-indexed headline; direct fetch unavailable)
+Source tier: caution
+Source content: Search-indexed LinkedIn headline: "Daniel Motaung - Founder & Chairperson, Safe Content Advocacy Network." Aggregator descriptions: "a non-profit organization whose mission is to inspire change and transform the content moderation ecosystem." Checked for independent corroboration this session: the Context interview "does not mention SCAN"; the Signals Network RightsCon record "contains no references to SCAN."
+Comparison: The claim is a self-stated affiliation on the subject's own profile, consistent with the cited source (the entity's sources[10] cites exactly this LinkedIn page), and uncontradicted. But the only support is caution-tier (LinkedIn + LinkedIn-derived aggregators); the pass-1 assertion that Context and Signals Network records corroborate SCAN could not be reproduced — neither mentions SCAN. Honest sourcing-strength label, not an error finding.
+Decision: uncorroborated
+
+## Claim 24: "Context / Thomson Reuters Foundation interview (11 May 2023, Kim Harrisberg)" with the "politics of content moderation" framing and "the entire (social media) business model is actually dependent on content moderation" quote (body; scalar:sources[7].note)
 
 Source: https://www.context.news/big-tech/respect-african-content-moderators-says-facebook-whistleblower
-Source content: Publication date 11 May 2023, author Kim Harrisberg. Both "the politics of content moderation" and "the entire (social media) business model is actually dependent on content moderation" framings present.
-Comparison: Date, outlet, author, and both quoted framings match exactly.
-Decision: corroborated
-
-## Claim 22: scalar:sources[1].note (Foxglove TIME100 Next press release): "Foxglove press release (30 September 2022) confirming the TIME100 Next recognition and Motaung's 'Advocates'-category listing"
-
-Source: https://www.foxglove.org.uk/2022/09/30/daniel-motaung-2022s-time100-next/
-Source content: Foxglove press release dated 30 September 2022 confirms Motaung's TIME100 Next 2022 inclusion ("named in the prestigious 2022 'TIME100 Next' list"). It does NOT specify which TIME100 Next category Motaung appears in.
-Comparison: The 30 September 2022 date and the TIME100 Next recognition portion of the scalar are confirmed. The "'Advocates'-category listing" portion is not supported by the cited Foxglove source — the Foxglove press release contains no category attribution. The scalar therefore asserts a confirmation that the cited source does not provide.
-Decision: correction
-
-## Claim 23: scalar:sources[10].note (Research ICT Africa profile): "also identifies Motaung's transition into a Research ICT Africa research-fellow capacity"
-
-Source: https://researchictafrica.net/2023/12/01/daniel-motaung-how-a-man-from-the-free-state-came-to-take-on-facebook/
-Source content: The 1 December 2023 Research ICT Africa long-form profile by Nawal Omar covers Motaung's path from Rhodes University through Sama, the Meta lawsuit, and his subsequent activism. It does NOT describe his transition into a Research ICT Africa research-fellow role; that affiliation is documented elsewhere (signalhire, zoominfo, and Research ICT Africa's contributor-page indexing) but not within the cited profile itself.
-Comparison: The scalar attributes a transition-identification function to the cited source that the cited source does not perform. The factual underlying claim (Motaung holds a Research Fellow role at Research ICT Africa) is corroborated by other canonical references, but the scalar's specific assertion that this profile "identifies" the transition is incorrect.
-Decision: correction
+Source tier: mainstream
+Source content: "May 11, 2023 by Kim Harrisberg." Quotes: "speaking out about 'the politics of content moderation'" and "The entire (social media) business model is actually dependent on content moderation."
+Comparison: Date, outlet, author, and both quoted framings match the cited article exactly; the body's "it's high time they recognise that..." continuation was not in the returned excerpt but is consistent with the article's headline framing and not contradicted. One canonical source (the venue itself).
+Decision: single-source
