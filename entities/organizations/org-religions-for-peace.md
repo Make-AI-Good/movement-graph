@@ -18,6 +18,7 @@ board_and_advisors: []
 related_orgs:
   - org-world-council-of-churches
   - org-stop-killer-robots
+  - org-pontifical-academy-for-life
 funders: []
 sources:
   - url: https://www.rfp.org/

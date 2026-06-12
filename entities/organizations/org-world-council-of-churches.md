@@ -19,6 +19,7 @@ related_orgs:
   - org-stop-killer-robots
   - org-pax
   - org-religions-for-peace
+  - org-pontifical-academy-for-life
 funders: []
 sources:
   - url: https://www.oikoumene.org/resources/documents/statement-on-the-unregulated-development-of-artificial-intelligence
