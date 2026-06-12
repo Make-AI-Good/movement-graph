@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [uk, london, england-and-wales, international, free-expression, freedom-of-information, digital-rights, ai-governance, ai-and-human-rights, content-moderation, internet-shutdowns, media-freedom, surveillance, multilateral-advocacy, journalist-protection, access-to-information, founded-1987, charity, non-profit]
 created: 2026-05-26
-last_updated: 2026-05-26
+last_updated: 2026-06-11
 founded: 1987
 location: London, United Kingdom
 website: https://www.article19.org/
@@ -31,9 +31,9 @@ sources:
   - url: https://stories.article19.org/impact-report-2024/
     last_checked: 2026-05-26
     note: 'ARTICLE 19 International Impact Report 2024 — primary source for the 2024 programme results: all 193 UN Member States adopting a human-rights-based approach to AI; nearly 5,000 journalists, activists, and human rights defenders gaining improved capacity; over 175 million people having information-access rights advanced; Global Expression Report reach of 110,000 people; and the foreword''s note that funding cuts in early 2025 severely impacted Asian programming'
-  - url: https://www.globalexpressionreport.org/2024-press-release
-    last_checked: 2026-05-26
-    note: 'Global Expression Report 2024 press release — primary source for the finding that over 5.6 billion people experienced declining freedom of expression over the preceding decade; scores falling in 77 countries; only 35 countries ranked Open; and for every person experiencing improvement 19 experienced deterioration'
+  - url: https://www.globalexpressionreport.org/
+    last_checked: 2026-06-11
+    note: 'Global Expression Report 2025 — primary source for the finding that over 5.6 billion people experienced declining freedom of expression over the preceding decade; scores falling in 77 countries; only 35 countries ranked Open; and for every person experiencing improvement 19 experienced deterioration'
   - url: https://edri.org/our-work/member-in-the-spotlight-article-19/
     last_checked: 2026-05-26
     note: EDRi member-spotlight page for ARTICLE 19 — primary source for ARTICLE 19 membership of the European Digital Rights network and the self-framing as an international "think-do" organisation propelling the freedom of expression movement locally and globally
@@ -67,7 +67,7 @@ ARTICLE 19 was [founded on 5 February 1987](https://en.wikipedia.org/wiki/Articl
 
 ## The Global Expression Report
 
-The [Global Expression Report](https://www.globalexpressionreport.org/) — ARTICLE 19's annual flagship product — tracks freedom of expression across 161 countries using 25 indicators, producing a ranked index that measures the full freedom-of-expression environment (media independence, access to information, digital rights, civic space) in each country. The [2024 edition](https://www.globalexpressionreport.org/2024-press-release) found that over 5.6 billion people — more than two-thirds of the global population — experienced a decline in freedom of expression over the preceding decade, with scores falling in 77 countries and only 35 ranked as Open; for every person experiencing improvement, 19 experienced deterioration. The Report's value to the make-AI-good movement is that it systematically names the governments suppressing AI-accountability journalism and civil society: India — classified as "In Crisis" after a 35-point drop over a decade — is simultaneously the country with the world's highest rate of government-ordered internet shutdowns and a country with one of the most active deployments of AI surveillance systems against which domestic civil society has no legal remedy. In [2024 the Report reached over 110,000 people](https://stories.article19.org/impact-report-2024/), nearly five times the 2023 figure.
+The [Global Expression Report](https://www.globalexpressionreport.org/) — ARTICLE 19's annual flagship product — tracks freedom of expression across 161 countries using 25 indicators, producing a ranked index that measures the full freedom-of-expression environment (media independence, access to information, digital rights, civic space) in each country. The [2025 edition](https://www.globalexpressionreport.org/) found that over 5.6 billion people — more than two-thirds of the global population — experienced a decline in freedom of expression over the preceding decade, with scores falling in 77 countries and only 35 ranked as Open; for every person experiencing improvement, 19 experienced deterioration. The Report's value to the make-AI-good movement is that it systematically names the governments suppressing AI-accountability journalism and civil society: India — classified as "In Crisis" after a 35-point drop over a decade — is simultaneously the country with the world's highest rate of government-ordered internet shutdowns and a country with one of the most active deployments of AI surveillance systems against which domestic civil society has no legal remedy. In [2024 the Report reached over 110,000 people](https://stories.article19.org/impact-report-2024/), nearly five times the 2023 figure.
 
 ## AI governance and freedom of expression
 
