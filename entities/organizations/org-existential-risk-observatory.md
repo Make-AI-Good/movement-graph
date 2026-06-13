@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [netherlands, amsterdam, europe, ai-safety, existential-risk, x-risk, public-debate, frontier-ai, pause-ai-movement, moratorium, policy, advocacy, stichting, ea-adjacent, founded-2021]
 created: 2026-05-26
-last_updated: 2026-05-26
+last_updated: 2026-06-13
 founded: 2021
 location: Amsterdam, Netherlands
 website: https://www.existentialriskobservatory.org/
@@ -16,7 +16,8 @@ board_and_advisors: []
 related_orgs:
   - org-pauseai
   - org-controlai
-funders: []
+funders:
+  - fund-long-term-future-fund
 sources:
   - url: https://www.existentialriskobservatory.org/about-us/
     last_checked: 2026-05-26
