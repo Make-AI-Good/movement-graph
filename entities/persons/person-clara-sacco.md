@@ -20,4 +20,4 @@ sources:
 
 # Clara Sacco
 
-Clara Sacco co-founded [data_labe](../local-groups/lg-datalabe.md) alongside Gilberto Vieira in 2016 within the Observatório de Favelas in Maré, Rio de Janeiro. [Named as a founding manager in data_labe's own 2017 account of its structure and early development](https://medium.com/data-labe/data-labe-um-laborat%C3%B3rio-de-estrutura-flex%C3%ADvel-1454a6391886), she and Vieira both came from popular-territory backgrounds, a founding condition the lab treats as constitutive of its methodology and voice.
+Clara Sacco co-founded [data_labe](../local-groups/lg-datalabe.md) alongside [Gilberto Vieira](../persons/person-gilberto-vieira.md) in 2016 within the Observatório de Favelas in Maré, Rio de Janeiro. [Named as a founding manager in data_labe's own 2017 account of its structure and early development](https://medium.com/data-labe/data-labe-um-laborat%C3%B3rio-de-estrutura-flex%C3%ADvel-1454a6391886), she and Vieira both came from popular-territory backgrounds, a founding condition the lab treats as constitutive of its methodology and voice.

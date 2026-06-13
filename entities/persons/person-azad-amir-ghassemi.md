@@ -26,4 +26,4 @@ sources:
 
 # Azad Amir-Ghassemi
 
-Azad Amir-Ghassemi is a member of the [Anti-Eviction Mapping Project's](../local-groups/lg-anti-eviction-mapping-project.md) Los Angeles chapter, where he has contributed data analysis to the EvictorBook project — an interactive database surfacing corporate landlord networks through consolidated public eviction and property-ownership records. He [co-authored a 2021 Logic Magazine piece on EvictorBook](https://logicmag.io/commons/evictor-structures-erin-mcelroy-and-azad-amir-ghassemi-on-fighting/) alongside AEMP co-founder Erin McElroy.
+Azad Amir-Ghassemi is a member of the [Anti-Eviction Mapping Project's](../local-groups/lg-anti-eviction-mapping-project.md) Los Angeles chapter, where he has contributed data analysis to the EvictorBook project — an interactive database surfacing corporate landlord networks through consolidated public eviction and property-ownership records. He [co-authored a 2021 Logic Magazine piece on EvictorBook](https://logicmag.io/commons/evictor-structures-erin-mcelroy-and-azad-amir-ghassemi-on-fighting/) alongside AEMP co-founder [Erin McElroy](../persons/person-erin-mcelroy.md).

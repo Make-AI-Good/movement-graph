@@ -25,6 +25,8 @@ sources:
     note: 'Wikipedia on Entregadores Antifascistas — secondary corroborating source for the founding story and Paulo Galo biography; tiebreaker only per corpus sourcing rules'
 ---
 
+# Paulo Roberto da Silva Lima
+
 Paulo Roberto da Silva Lima, widely known as **Paulo Galo** (or Galo de Luta), is the founder of [Entregadores Antifascistas](../organizations/org-entregadores-antifascistas.md), the Brazilian app-delivery worker collective that organized the 2020 Breque dos Apps national strikes against algorithmic management by food delivery platforms.
 
 His organizing grew directly from algorithmic deactivation: [on 22 March 2020, his bicycle tyre went flat mid-delivery on Uber Eats; he reported the incident and was assured there were no problems, and the following morning found himself locked out of the platform with no explanation or appeal process](https://en.wikipedia.org/wiki/Entregadores_Antifascistas). He immediately launched a [petition demanding that platforms provide workers with COVID-19 protective equipment during the pandemic, which garnered over 300,000 signatures](https://www.codastory.com/authoritarian-tech/brazil-food-delivery-social-media/), and within weeks founded Entregadores Antifascistas, which grew to [40 core organizers active across 11 Brazilian states](https://en.wikipedia.org/wiki/Entregadores_Antifascistas) by the time of the July 2020 strikes.
