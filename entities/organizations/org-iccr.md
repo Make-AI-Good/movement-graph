@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [united-states, new-york, faith-based, shareholder-advocacy, institutional-investors, AI-accountability, digital-rights, human-rights, corporate-accountability, interfaith, national, nonprofit]
 created: 2026-06-11
-last_updated: 2026-06-11
+last_updated: 2026-06-13
 founded: 1971
 location: 'New York, NY'
 website: https://www.iccr.org/
@@ -14,7 +14,7 @@ strategies: []
 key_people: []
 board_and_advisors: []
 related_orgs: [org-investor-alliance-for-human-rights]
-funders: []
+funders: [fund-ford-foundation, fund-open-society-foundations, fund-omidyar-network, fund-nathan-cummings-foundation]
 sources:
   - url: https://www.iccr.org/about-iccr/
     last_checked: 2026-06-11
@@ -34,6 +34,9 @@ sources:
   - url: https://www.iccr.org/reports/catalyzing-corporate-change-2025/
     last_checked: 2026-06-11
     note: '347 proposals filed in 2025 proxy season; 66 withdrawal agreements; Digital Rights and AI Accountability a continuing active focus area.'
+  - url: https://www.influencewatch.org/non-profit/interfaith-center-on-corporate-responsibility/
+    last_checked: 2026-06-13
+    note: 'IRS 990-PF grant data aggregated by Influence Watch: 55 funders, $12.7M total; documents Ford Foundation, Open Society Foundation, Omidyar Network, and Nathan Cummings Foundation as grant-makers to ICCR.'
 ---
 
 # Interfaith Center on Corporate Responsibility
