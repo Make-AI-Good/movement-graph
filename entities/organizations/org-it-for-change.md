@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [india, south-asia, global-south, data-justice, ai-governance, platform-economy, digital-rights, internet-governance, gender, feminist-tech, education-technology, community-informatics, labor-rights, un-ecosoc]
 created: 2026-06-03
-last_updated: 2026-06-03
+last_updated: 2026-06-13
 founded: 2000
 location: Bengaluru, Karnataka, India
 website: https://itforchange.net/
@@ -14,7 +14,9 @@ strategies: []
 key_people: [person-anita-gurumurthy]
 board_and_advisors: []
 related_orgs: []
-funders: []
+funders:
+  - fund-ford-foundation
+  - fund-internet-society-foundation
 sources:
   - url: https://itforchange.net/
     last_checked: 2026-06-03
@@ -37,6 +39,12 @@ sources:
   - url: https://www.datagovernance.org/research-node/it-for-change
     last_checked: 2026-06-03
     note: Data Governance Network research-node profile — secondary source confirming IT for Change as a node in the international data governance research network; notes Parminder Jeet Singh as Director and internet governance lead
+  - url: https://annual-reports.itforchange.net/reports/2021-22/
+    last_checked: 2026-06-13
+    note: 'IT for Change Annual Report 2021–22 — primary source listing donor agencies, foundations, and philanthropies; Ford Foundation named among eleven funders for that financial year (INR 51,848,396 total funds received)'
+  - url: https://annual-reports.itforchange.net/reports/home-2022-23/
+    last_checked: 2026-06-13
+    note: 'IT for Change Annual Report 2022–23 — primary source listing donor agencies, foundations, and philanthropies; Ford Foundation and Internet Society Foundation both named; INR 64,647,410 total funds received that year'
 ---
 
 # IT for Change
