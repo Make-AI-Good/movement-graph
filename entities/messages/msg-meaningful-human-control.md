@@ -16,6 +16,7 @@ propagated_by_orgs:
   - org-human-rights-watch
 related_messages:
   - msg-stop-killer-robots
+  - msg-ai-moratorium
 sources:
   - url: https://article36.org/wp-content/uploads/2013/04/Policy_Paper1.pdf
     last_checked: 2026-05-13

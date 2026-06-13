@@ -15,6 +15,7 @@ propagated_by_orgs:
   - org-pauseai
 related_messages:
   - msg-ai-companies-less-regulated-than-sandwich-shops
+  - msg-ai-moratorium
 sources:
   - url: https://futureoflife.org/open-letter/pause-giant-ai-experiments/
     last_checked: 2026-05-14
