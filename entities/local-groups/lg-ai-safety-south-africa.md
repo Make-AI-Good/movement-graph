@@ -10,7 +10,7 @@ last_updated: 2026-06-08
 founded: 2023
 location: Cape Town, South Africa (Innovation City co-working space; expanding to Johannesburg and Stellenbosch)
 website_or_contact: https://www.aisafetysa.com/
-key_people: []
+key_people: [person-leo-hyams]
 sources:
   - url: https://www.aisafetysa.com/
     last_checked: 2026-05-26
