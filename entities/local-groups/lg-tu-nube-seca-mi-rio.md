@@ -10,7 +10,7 @@ last_updated: 2026-05-19
 founded: 2024
 location: Spain — national scope, founded around the Meta Talavera de la Reina case in Castilla-La Mancha, currently most active across Aragón data-centre projects
 website_or_contact: https://tunubesecamirio.com/
-key_people: []
+key_people: [person-aurora-gomez]
 sources:
   - url: https://tunubesecamirio.com/
     last_checked: 2026-05-19
