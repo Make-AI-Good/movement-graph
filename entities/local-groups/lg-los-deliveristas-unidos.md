@@ -6,11 +6,11 @@ status: active
 confidence: high
 tags: [new-york-city, nyc, brooklyn, manhattan, queens, usa, us-northeast, gig-workers, delivery-workers, food-delivery, app-based-workers, migrant-workers, latin-american, mexican, guatemalan, ecuadorian, indigenous, mayan, algorithmic-management, deactivation, just-cause, doordash, uber-eats, grubhub, relay, workers-justice-project, wjp, minimum-pay, 32bj-seiu, e-bike, micro-mobility, local-laws-113-117-2021, intro-1332]
 created: 2026-05-21
-last_updated: 2026-05-21
+last_updated: 2026-06-13
 founded: 2020
 location: New York City, New York, USA (Workers Justice Project headquartered in Brooklyn; organising and protest activity concentrated across Manhattan, Brooklyn, and Queens)
 website_or_contact: https://www.workersjustice.org/en/ldu
-key_people: []
+key_people: [person-gustavo-ajche, person-ligia-guallpa, person-jonan-huerta]
 sources:
   - url: https://www.workersjustice.org/en/ldu
     last_checked: 2026-05-21
