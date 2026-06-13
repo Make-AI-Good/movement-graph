@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [uk, cambridge, europe, non-profit, social-enterprise, worker-cooperative, deliberative-democracy, sortition, citizens-assembly, participatory-governance, public-participation, democratic-lottery, infrastructure, digital-governance, climate, open-source]
 created: 2026-06-08
-last_updated: 2026-06-08
+last_updated: 2026-06-13
 founded: 2017
 location: Cambridge, UK
 website: https://www.sortitionfoundation.org/
@@ -16,7 +16,8 @@ key_people: []
 board_and_advisors: []
 related_orgs:
   - org-involve
-funders: []
+funders:
+  - fund-joseph-rowntree-reform-trust
 sources:
   - url: https://www.sortitionfoundation.org/
     last_checked: 2026-06-08
@@ -48,6 +49,9 @@ sources:
   - url: https://www.sortitionfoundation.org/introducing_the_open_democratic_lottery_platform
     last_checked: 2026-06-08
     note: OpenDLP launch announcement (8 July 2025) — primary source for the three-year Open Democratic Lottery Platform project under the Sortition Lab R&D division, designed to open-source and automate the participant selection process
+  - url: https://grantnav.threesixtygiving.org/recipient/GB-COH-10652142
+    last_checked: 2026-06-13
+    note: '360Giving GrantNav record for Sortition Foundation (company 10652142) — source for Joseph Rowntree Reform Trust £7,500 grant awarded 15 March 2021; one grant in database, confirming JRRT as the sole documented in-corpus philanthropic funder'
 ---
 
 # Sortition Foundation
