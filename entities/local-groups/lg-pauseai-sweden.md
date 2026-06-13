@@ -38,7 +38,7 @@ PauseAI Sweden is the Swedish national chapter of [PauseAI](../organizations/org
 
 ## Structure and leadership
 
-Jonathan Salter heads PauseAI Sweden, as named in PauseAI's May 2025 newsletter and confirmed by his SvD Näringsliv media profile. Salter is a political science student and long-standing organizer in the Swedish AI-safety and effective-altruism community: he co-founded AI Safety Collab and has directed Effective Altruism Stockholm since 2019. The chapter follows PauseAI's federated national-chapter model, operating under the [org-pauseai](../organizations/org-pauseai.md) parent structure with a country-specific website and localized Swedish-language outreach. No Person entry for Salter exists in the corpus at draft time; one is warranted given his sourcing profile.
+[Jonathan Salter](../persons/person-jonathan-salter.md) heads PauseAI Sweden, as named in PauseAI's May 2025 newsletter and confirmed by his SvD Näringsliv media profile. Salter is a political science student and long-standing organizer in the Swedish AI-safety and effective-altruism community: he co-founded AI Safety Collab and has directed Effective Altruism Stockholm since 2019. The chapter follows PauseAI's federated national-chapter model, operating under the [org-pauseai](../organizations/org-pauseai.md) parent structure with a country-specific website and localized Swedish-language outreach. No Person entry for Salter exists in the corpus at draft time; one is warranted given his sourcing profile.
 
 ## Protest history
 
