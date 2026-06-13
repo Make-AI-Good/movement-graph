@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [youth-led, chaptered, advocacy, policy, ai-safety, ai-policy, deepfakes, autonomous-weapons, student-organizing, international]
 created: 2026-05-07
-last_updated: 2026-05-07
+last_updated: 2026-06-13
 founded: 2020
 location: international (founded in San José, California)
 website: https://encodeai.org/
@@ -18,7 +18,9 @@ key_people:
   - person-seve-christian
 board_and_advisors: []
 related_orgs: []
-funders: []
+funders:
+  - fund-omidyar-network
+  - fund-survival-and-flourishing-fund
 sources:
   - url: https://encodejustice.org/faq/how-was-encode-founded/
     last_checked: 2026-05-07
@@ -50,6 +52,15 @@ sources:
   - url: https://encodejustice.org/team-members/sneha-revanur/
     last_checked: 2026-05-12
     note: Historical founder profile page (404 as of 2026-05-12, post-rebrand to encodeai.org); retained for body-link attribution
+  - url: https://omidyar.com/update/young-leaders-in-technology-granted-2-million-to-create-safe-and-inclusive-online-spaces/
+    last_checked: 2026-06-13
+    note: Omidyar Network Responsible Technology Youth Power Fund inaugural cohort announcement; Encode Justice listed as grantee
+  - url: https://omidyar.com/update/responsible-tech-youth-power-fund-chooses-next-generation-of-leaders-to-transform-responsible-technology-landscape/
+    last_checked: 2026-06-13
+    note: 'Omidyar Network RTYPF second-year renewal: Encode listed as renewal grantee receiving $50,000–$125,000'
+  - url: https://survivalandflourishing.fund/recommendations
+    last_checked: 2026-06-13
+    note: SFF grants database; SFF-2024 grant of $50,000 to Encode Justice (via March On Foundation as fiscal sponsor); SFF-2025 grant of $516,000 to Encode AI Corporation (rebranded entity)
 ---
 
 # Encode Justice
