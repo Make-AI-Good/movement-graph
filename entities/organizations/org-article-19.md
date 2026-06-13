@@ -11,7 +11,7 @@ founded: 1987
 location: London, United Kingdom
 website: https://www.article19.org/
 strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-civil-society-inside-technical-standards-bodies]
-key_people: []
+key_people: [person-vidushi-marda]
 board_and_advisors: []
 related_orgs:
   - org-edri

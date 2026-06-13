@@ -7,7 +7,7 @@ confidence: high
 tags: [report, uk, london, article-19, privacy-international, machine-learning, freedom-of-expression, privacy, surveillance, content-moderation, facial-recognition, behavioral-profiling, ad-targeting, ai-governance, human-rights, civil-society, international-human-rights-law, foundational-artefact, free-expression-meets-ai-surveillance, vidushi-marda, frederike-kaltheuner, 2018]
 created: 2026-06-10
 last_updated: 2026-06-10
-authors: []
+authors: [person-vidushi-marda, person-frederike-kaltheuner]
 publisher: 'ARTICLE 19 and Privacy International'
 date: 2018-04-25
 url: https://privacyinternational.org/report/1752/privacy-and-freedom-expression-age-artificial-intelligence

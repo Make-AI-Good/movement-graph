@@ -11,7 +11,7 @@ founded: 1990
 location: London, United Kingdom
 website: https://privacyinternational.org/
 strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-map-the-ai-supply-chain-of-state-harm]
-key_people: []
+key_people: [person-frederike-kaltheuner]
 board_and_advisors: []
 related_orgs:
   - org-coding-rights
