@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [austria, vienna, edri-member, privacy, data-retention, net-neutrality, surveillance, digital-rights, data-protection, eu-policy, digital-identity, ai-policy, grassroots, civil-society, legal-advocacy]
 created: 2026-06-10
-last_updated: 2026-06-10
+last_updated: 2026-06-13
 founded: 2010
 location: national, Austria
 website: https://epicenter.works/
@@ -14,7 +14,7 @@ strategies: []
 key_people: [person-thomas-lohninger]
 board_and_advisors: []
 related_orgs: [org-edri]
-funders: []
+funders: [fund-open-society-foundations]
 sources:
   - url: https://epicenter.works/en/history
     last_checked: 2026-06-10
@@ -28,6 +28,12 @@ sources:
   - url: https://edri.org/our-work/member-spotlight-epicenter-works/
     last_checked: 2026-06-10
     note: 'EDRi member spotlight — confirms EDRi membership since 2016, mission statement ("preservation of fundamental rights in the digital age"), 11,000+ plaintiffs in data retention constitutional challenge, reliance on volunteer structure.'
+  - url: https://www.lobbyfacts.eu/datacard/epicenterworks---plattform-grundrechtspolitik?rid=881375334337-75
+    last_checked: 2026-06-13
+    note: 'EU lobbying transparency register — 2023 financial year (Jan–Dec 2023) total budget €735,418; named institutional funders: Open Society Foundations (€158,912, 21.6%), Public Knowledge (€90,553, 12.3%), New Venture Fund (€90,317, 12.3%).'
+  - url: https://epicenter.works/en/content/this-was-2023-transparency-report-published
+    last_checked: 2026-06-13
+    note: '2023 transparency report — notes Open Society Foundations'' withdrawal from Europe in 2023 cost epicenter.works €158,000 in annual support; grants/foundations were 46.90% of that year''s revenue.'
 ---
 
 # epicenter.works
@@ -52,4 +58,4 @@ Since the rebranding, epicenter.works has concentrated on a cluster of interrela
 
 ## Structure and independence
 
-epicenter.works operates with roughly nine paid staff — policy advisors, a communications manager, and an IT security specialist — alongside substantial volunteer contributions. Funding comes primarily from micro-donations by individual supporters, supplemented by foundation grants and sponsorships from technology-sector companies, with declared ethical limits: no single company may account for more than 7.5 percent of the budget, and the entire private sector may not exceed 30 percent. Executive director Thomas Lohninger has led the organization since 2014; managing directors Tanja Mally and Daniel Lohninger jointly oversee operations and also lead epicenter.academy, an associated educational arm.
+epicenter.works operates with roughly nine paid staff — policy advisors, a communications manager, and an IT security specialist — alongside substantial volunteer contributions. Funding comes primarily from micro-donations by individual supporters, supplemented by foundation grants — the [Open Society Foundations](../funders/fund-open-society-foundations.md) [were the largest institutional supporter](https://www.lobbyfacts.eu/datacard/epicenterworks---plattform-grundrechtspolitik?rid=881375334337-75) until their 2023 withdrawal from European grantmaking, during which they contributed roughly €158,000 annually — and sponsorships from technology-sector companies, with declared ethical limits: no single company may account for more than 7.5 percent of the budget, and the entire private sector may not exceed 30 percent. Executive director Thomas Lohninger has led the organization since 2014; managing directors Tanja Mally and Daniel Lohninger jointly oversee operations and also lead epicenter.academy, an associated educational arm.
