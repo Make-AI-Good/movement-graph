@@ -11,7 +11,7 @@ founded: 2025
 location: India (national; no single city base — programme operates online)
 parent_org:
 website_or_contact: https://aisafetyindia.com/
-key_people: []
+key_people: [person-aditya-raj]
 sources:
   - url: https://aisafetyindia.com/
     last_checked: 2026-06-03
