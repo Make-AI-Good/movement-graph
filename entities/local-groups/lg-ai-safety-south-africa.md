@@ -34,7 +34,7 @@ sources:
 
 # AI Safety South Africa (AISSA)
 
-AI Safety South Africa (AISSA) is a Cape Town-based AI-safety capacity-building organization co-founded by Leo Hyams and Benjamin Sturgeon, [operating from a co-working and events space at Innovation City](https://www.aisafetysa.com/) under the parallel brand AI Safety Cape Town. AISSA positions itself as "a hub for AI safety work on the African continent", developing skills, networks, and community in South Africa through reading groups, structured courses, research fellowships, and hackathons. It is the corpus's first sub-Saharan African local-group entry whose central activity is insider AI-safety community-building — adjacent in form to [AI Safety 東京](lg-ai-safety-tokyo.md) in Japan, and the African complement to the PauseAI national chapters the corpus already covers.
+AI Safety South Africa (AISSA) is a Cape Town-based AI-safety capacity-building organization co-founded by [Leo Hyams](../persons/person-leo-hyams.md) and Benjamin Sturgeon, [operating from a co-working and events space at Innovation City](https://www.aisafetysa.com/) under the parallel brand AI Safety Cape Town. AISSA positions itself as "a hub for AI safety work on the African continent", developing skills, networks, and community in South Africa through reading groups, structured courses, research fellowships, and hackathons. It is the corpus's first sub-Saharan African local-group entry whose central activity is insider AI-safety community-building — adjacent in form to [AI Safety 東京](lg-ai-safety-tokyo.md) in Japan, and the African complement to the PauseAI national chapters the corpus already covers.
 
 ## Founding and structure
 
