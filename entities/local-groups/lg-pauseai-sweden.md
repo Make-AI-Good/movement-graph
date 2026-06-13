@@ -6,11 +6,11 @@ status: active
 confidence: medium
 tags: [sweden, nordic, northern-europe, scandinavia, european-union, ai-safety, pauseai-chapter, pause, frontier-ai, volunteer-led, swedish-language, national-chapter]
 created: 2026-06-03
-last_updated: 2026-06-03
+last_updated: 2026-06-13
 location: Sweden (national chapter)
 parent_org: org-pauseai
 website_or_contact: https://pauseai.se/
-key_people: []
+key_people: [person-jonathan-salter]
 sources:
   - url: https://pauseai.se/
     last_checked: 2026-06-03
