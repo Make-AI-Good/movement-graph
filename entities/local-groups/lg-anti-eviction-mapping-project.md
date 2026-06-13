@@ -6,11 +6,11 @@ status: active
 confidence: high
 tags: [san-francisco, bay-area, california, usa, us-west-coast, tenant-rights, housing-justice, eviction-mapping, counter-cartography, data-visualization, oral-history, landlord-tech, proptech, facial-recognition, algorithmic-rent, tenant-screening, black-displacement, community-tech, volunteer-collective]
 created: 2026-06-08
-last_updated: 2026-06-08
+last_updated: 2026-06-13
 founded: 2013
 location: San Francisco Bay Area, California, USA
 website_or_contact: https://antievictionmap.com/
-key_people: []
+key_people: [person-erin-mcelroy, person-manon-vergerio, person-azad-amir-ghassemi]
 sources:
   - url: https://antievictionmap.com/about-the-aemp
     last_checked: 2026-06-08
