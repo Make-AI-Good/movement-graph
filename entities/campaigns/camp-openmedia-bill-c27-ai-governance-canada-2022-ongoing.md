@@ -13,7 +13,8 @@ goals: 'Secure fundamental reforms to Bill C-27 (Digital Charter Implementation 
 lead_orgs:
   - org-openmedia
 participating_orgs: []
-events: []
+events:
+  - event-openmedia-bill-c27-house-industry-committee-testimony-2023-11
 strategies: []
 outcomes: 'Bill C-27 died on the Order Paper when Parliament was prorogued on 6 January 2025 following Prime Minister Trudeau''s resignation; the bill was never put to a parliamentary vote. OpenMedia''s five substantive asks — fundamental-right privacy framing, AIDA separation, removal of ISED as sole AI regulator, data-broker restrictions, and public-sector AI coverage — were not addressed in C-27 as tabled. A coalition of 45 civil-society organisations and academics placed the structural flaws on the parliamentary record. The successor Parliament did not reintroduce AIDA in its original form. The campaign''s documented mobilisation — nearly 40,000 community members submitting input, 10,000+ contacts to government on AI and facial recognition, a 45-organisation coalition open letter — established a civil-society record on federal AI governance that informed subsequent Canadian AI policy debates.'
 sources:
