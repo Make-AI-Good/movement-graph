@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [united-states, criminal-justice, professional-association, algorithmic-accountability, fourth-amendment, facial-recognition, risk-assessment, predictive-policing, ai-criminal-justice, litigation-support, civil-liberties, surveillance]
 created: 2026-06-12
-last_updated: 2026-06-12
+last_updated: 2026-06-13
 founded: 1958
 location: national
 website: https://www.nacdl.org/
@@ -14,8 +14,14 @@ strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, str
 key_people: []
 board_and_advisors: []
 related_orgs: [org-aclu, org-electronic-frontier-foundation, org-algorithmic-justice-league]
-funders: []
+funders: [fund-macarthur-foundation, fund-ford-foundation]
 sources:
+  - url: https://www.macfound.org/grantee/foundation-for-criminal-justice-10086759/
+    last_checked: 2026-06-13
+    note: MacArthur Foundation grantee page — 4 grants to NACDL Foundation for Criminal Justice totaling $2,000,000 (2016 $400K, 2019 $600K, 2022 $500K, 2024 $500K), all for Fourth Amendment Center operations under the Technology in the Public Interest program.
+  - url: https://www.causeiq.com/organizations/foundation-for-criminal-justice,522289169/
+    last_checked: 2026-06-13
+    note: Cause IQ 990-aggregated grant records — Ford Foundation $300,000 (December 2024) for the Fourth Amendment Center's work to challenge outdated legal doctrines undermining privacy rights in the digital age.
   - url: https://www.nacdl.org/Landing/ai
     last_checked: 2026-06-12
     note: NACDL AI Task Force hub — task force founding (2023), focus areas (predictive policing, risk assessment, facial recognition), publications.
