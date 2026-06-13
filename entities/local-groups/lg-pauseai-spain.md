@@ -32,7 +32,7 @@ PauseAI Spain (Spanish: *PauseAI España*, pauseai.es) is the Spanish national c
 
 ## Leadership and structure
 
-The chapter's national director is **Ayoze García González**, [named on PauseAI Global's About page](https://pauseai.info/about) alongside the federation's other 14 national-chapter leads. No founding date is stated on the [website](https://pauseai.es) or the [Substack](https://pauseaispanish.substack.com). The chapter [describes its membership](https://pauseai.es/nosotros) as including "workers and experts in AI, computing, neuroscience, communication, and teaching," framing the volunteer base as multidisciplinary. The website notes content was developed as "local adaptation and translation" of the international PauseAI site.
+The chapter's national director is **[Ayoze García González](../persons/person-ayoze-garcia-gonzalez.md)**, [named on PauseAI Global's About page](https://pauseai.info/about) alongside the federation's other 14 national-chapter leads. No founding date is stated on the [website](https://pauseai.es) or the [Substack](https://pauseaispanish.substack.com). The chapter [describes its membership](https://pauseai.es/nosotros) as including "workers and experts in AI, computing, neuroscience, communication, and teaching," framing the volunteer base as multidisciplinary. The website notes content was developed as "local adaptation and translation" of the international PauseAI site.
 
 ## Platform — pause on advanced AI
 
