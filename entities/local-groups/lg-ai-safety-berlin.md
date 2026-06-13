@@ -6,11 +6,11 @@ status: active
 confidence: high
 tags: [berlin, germany, europe, ai-safety, meetup, reading-group, insider-community, ea-adjacent, bluedot-impact, monthly-meetup, community-building]
 created: 2026-05-26
-last_updated: 2026-05-26
+last_updated: 2026-06-13
 founded: 2022
 location: Berlin, Germany (venues include Thoughtworks in Friedrichshain and Teamwork Space on Müllerstraße)
 website_or_contact: https://aisafety.berlin/
-key_people: []
+key_people: [person-manuel-allgaier, person-alex-mckenzie]
 sources:
   - url: https://aisafety.berlin/
     last_checked: 2026-05-26
