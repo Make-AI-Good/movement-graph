@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [cambridge, massachusetts, united-states, us-northeast, ai-safety, ai-alignment, fiscal-sponsor, nonprofit, bootcamp, research-fellowship, student-pipeline, community-building, insider-community, academic, cbai]
 created: 2026-06-12
-last_updated: 2026-06-12
+last_updated: 2026-06-13
 founded: 2022
 location: Cambridge, Massachusetts
 website: https://www.cbai.ai/
@@ -14,7 +14,7 @@ strategies: []
 key_people: []
 board_and_advisors: []
 related_orgs: []
-funders: []
+funders: [fund-coefficient-giving]
 sources:
   - url: https://www.cbai.ai/
     last_checked: 2026-06-12
@@ -28,6 +28,12 @@ sources:
   - url: https://www.lesswrong.com/posts/LShJtvwDf4AMo992L/update-on-harvard-ai-safety-team-and-mit-ai-alignment
     last_checked: 2026-05-26
     note: 'LessWrong founding post (December 2022) — describes the shared origin of MAIA and AISST; names Trevor Levin as an early retreat organiser and Sam Marks as an early fellowship organiser; documents the January 2023 MLAB-inspired ML bootcamp as an early CBAI-MAIA-AISST joint effort.'
+  - url: https://www.openphilanthropy.org/grants/cambridge-boston-alignment-initiative-harvard-ai-safety-team/
+    last_checked: 2026-06-13
+    note: 'Coefficient Giving (formerly Open Philanthropy) grant page — confirms $1,170,000 grant for operating costs of Harvard AI Safety Student Team (AISST) and MIT AI Alignment (MAIA); URL redirects to coefficientgiving.org following November 2025 rebrand.'
+  - url: https://www.openphilanthropy.org/grants/cambridge-boston-alignment-initiative-ai-safety-field-building/
+    last_checked: 2026-06-13
+    note: 'Coefficient Giving (formerly Open Philanthropy) grant page — confirms $387,741 grant for CBAI AI safety field-building and outreach programs including support for student groups at Harvard and MIT; URL redirects to coefficientgiving.org following November 2025 rebrand.'
 ---
 
 # Cambridge Boston Alignment Initiative
@@ -49,6 +55,8 @@ CBAI emerged from the same founding moment as MAIA and AISST. In fall 2022, a fo
 ## Scale and operations
 
 CBAI's FY2024 Form 990 [shows revenue of $1,968,408](https://projects.propublica.org/nonprofits/organizations/921463153), nearly all from contributions, and total assets of $1,361,474. The FY2023 figure was $1,497,763 — growth of approximately 30% in one year. The organisation employs a professional staff team including a Director of Programs (Emre Yavuz), Director of Operations (Maite Abadia-Manthei), three Research Managers (Alex Semendinger, Claudio Mayrink Verdun, Dmitrii Troitskii), and an Operations Associate. This staffing level — comparable to a small foundation — supports the two student groups and the programmes CBAI runs directly.
+
+[Coefficient Giving](../funders/fund-coefficient-giving.md) (formerly Open Philanthropy) is CBAI's primary documented institutional funder, with multiple confirmed grants spanning 2023 to 2025: [$1,170,000 for AISST and MAIA operating costs](https://www.openphilanthropy.org/grants/cambridge-boston-alignment-initiative-harvard-ai-safety-team/), $550,000 for Harvard AI safety education and outreach, [$387,741 for AI safety field-building](https://www.openphilanthropy.org/grants/cambridge-boston-alignment-initiative-ai-safety-field-building/), and $350,000 for the 2025 Summer Research Fellowship. The scale of this support explains how CBAI built a professional staff team within two years of founding.
 
 ## Place in the movement
 
