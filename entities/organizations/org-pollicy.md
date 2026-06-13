@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [uganda, kampala, east-africa, sub-saharan-africa, africa, pan-african, regional, non-profit, ngo, feminist-collective, feminist-tech, afro-feminism, afro-feminist-ai, civic-tech, civic-technology, data-rights, data-governance, data-literacy, ai-and-human-rights, ai-and-gender, ai-governance, gender-and-tech, digital-rights, online-gender-based-violence, ogbv, government-service-delivery, research, advocacy, capacity-building, speculative-design, africana-futurism, mozilla-fellowship, stanford-pacs, fairwork-uganda, data-labellers-association]
 created: 2026-05-15
-last_updated: 2026-05-15
+last_updated: 2026-06-13
 founded: 2016
 location: Kampala, Uganda (pan-African reach)
 website: https://pollicy.org/
@@ -22,6 +22,7 @@ related_orgs:
   - org-africtivistes
 funders:
   - fund-hivos
+  - fund-numun-fund
 sources:
   - url: https://pollicy.org/
     last_checked: 2026-05-15
@@ -65,6 +66,9 @@ sources:
   - url: https://www.thegoodrobot.co.uk/post/neema-iyer-on-ai-governance-and-policy-in-africa
     last_checked: 2026-05-15
     note: The Good Robot podcast feature on Neema Iyer — independent secondary source for Iyer's Afro-feminist approach to AI governance and policy in Africa, including the framing of African feminist movements as a starting point rather than an afterthought in AI policy work
+  - url: https://www.channelfoundation.org/2024/06/13/numun-fund-launches-new-grantees/
+    last_checked: 2026-06-13
+    note: Channel Foundation June 2024 announcement of Numun Fund first-cohort grantees — primary source confirming Pollicy (Uganda) as one of the 43 nodes of organisers in the inaugural Seed, Grow and Sustain cycle; Sub-Saharan Africa regional cohort
 ---
 
 # Pollicy
