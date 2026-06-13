@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [united-states, national, new-york, civil-liberties, privacy, surveillance, facial-recognition, ai-policing, police-surveillance, model-legislation, litigation, community-organizing, 501c3, data-protection, mass-surveillance, biometric-surveillance, fourth-amendment, first-amendment, digital-rights, racial-justice, communities-of-color, wrongful-arrest]
 created: 2026-06-08
-last_updated: 2026-06-08
+last_updated: 2026-06-13
 founded: 1920
 location: national (New York headquarters, 50-state affiliate network)
 website: https://www.aclu.org/
@@ -14,7 +14,7 @@ strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, str
 key_people: []
 board_and_advisors: []
 related_orgs: [org-electronic-frontier-foundation, org-algorithmic-justice-league, org-nacdl]
-funders: []
+funders: [fund-ford-foundation, fund-macarthur-foundation, fund-wellspring-philanthropic-fund]
 sources:
   - url: https://www.aclu.org/about/aclu-history
     last_checked: 2026-06-08
@@ -37,6 +37,15 @@ sources:
   - url: https://www.aclu.org/bio/kade-crockford
     last_checked: 2026-06-08
     note: Kade Crockford bio — primary source for her role as Director of the Technology for Liberty Project at ACLU of Massachusetts, her MIT Media Lab Director's Fellow status, and her focus on how surveillance systems affect communities of color, Muslim communities, immigrants, and political dissenters
+  - url: https://www.fordfoundation.org/work/our-grants/awarded-grants/grants-database/american-civil-liberties-union-foundation-acluf-138950/
+    last_checked: 2026-06-13
+    note: Ford Foundation grant database — $8,000,000 Social Bond grant approved October 2020 covering Technology and Society, Disability Rights, Civic Engagement and Government, and Gender, Racial, and Ethnic Justice programs (December 2020–November 2025); funder-side confirmation of the Ford–ACLU Foundation relationship
+  - url: https://www.macfound.org/grantees/34/
+    last_checked: 2026-06-13
+    note: MacArthur Foundation grantee page for ACLU Foundation — 19 grants totaling $27,815,000 from 1987–2025; Technology in the Public Interest program grants include $750,000 (2018, 3yr 7mo) and $450,000 (2022, 3yr) for the Speech, Privacy, and Technology Project
+  - url: https://www.influencewatch.org/non-profit/american-civil-liberties-union-foundation/
+    last_checked: 2026-06-13
+    note: InfluenceWatch ACLU Foundation profile drawn from 990 filings — documents Wellspring Philanthropic Fund grants of $2,550,000 in both 2023 and 2024; also confirms Ford Foundation grants of $8,000,000 (2020) and $2,400,000 (2023)
 ---
 
 # American Civil Liberties Union
