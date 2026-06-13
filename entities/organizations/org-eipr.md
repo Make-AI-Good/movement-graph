@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [egypt, cairo, mena, north-africa, national, non-profit, ngo, arabic-language, civil-society, civil-liberties, criminal-justice, economic-justice, social-justice, digital-rights, privacy, surveillance, freedom-of-expression, religious-freedom, lgbtq-rights, workers-rights, political-prisoners, death-penalty, environmental-justice, ai-and-surveillance, facial-recognition, biometric-surveillance, cybercrime-law, strategic-litigation, research, advocacy, legal-aid, inclo, north-african-litigation-initiative, case-173]
 created: 2026-05-29
-last_updated: 2026-05-29
+last_updated: 2026-06-13
 founded: 2002
 location: Cairo, Egypt
 website: https://eipr.org
@@ -20,7 +20,9 @@ related_orgs:
   - org-access-now
   - org-human-rights-watch
   - org-privacy-international
-funders: []
+funders:
+  - fund-open-society-foundations
+  - fund-ford-foundation
 sources:
   - url: https://eipr.org/en/who-we-are
     last_checked: 2026-05-29
@@ -52,6 +54,12 @@ sources:
   - url: https://madamasr.com/en/2024/03/20/news/u/judge-says-ngo-foreign-funding-case-concluded-after-13-years-due-to-lack-of-evidence/
     last_checked: 2026-05-29
     note: 'MadaMasr reporting (March 2024) — primary source for the investigating judge''s decision to drop Case 173 charges against EIPR for lack of evidence, ending 13 years of travel bans and asset freezes against EIPR heads and workers; EIPR named alongside ANHRI, the Arab Penal Reform Organization, the Cairo Institute for Human Rights Studies, and Al-Nadeem Center'
+  - url: https://www.opensocietyfoundations.org/newsroom/osi-grantee-aids-passage-law-protect-mental-health-rights-egypt
+    last_checked: 2026-06-13
+    note: 'OSF newsroom article on Egypt mental-health-rights legislation — primary source for EIPR''s status as an Open Society Institute grantee; the article states "Egypt''s parliament has adopted a law to protect mental health rights, thanks to vigorous advocacy by the Egyptian Initiative for Personal Rights, an Open Society Institute grantee."'
+  - url: https://www.ecoi.net/en/source/12181.html
+    last_checked: 2026-06-13
+    note: 'ecoi.net source description for EIPR — secondary source citing a 2009 New Internationalist interview in which EIPR director Hossam Bahgat stated EIPR is "funded by the likes of the Ford Foundation and Irish Aid"; corroborates the Ford Foundation grantee relationship'
 ---
 
 # Egyptian Initiative for Personal Rights (EIPR)
