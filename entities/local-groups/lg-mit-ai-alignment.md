@@ -9,7 +9,7 @@ created: 2026-05-26
 last_updated: 2026-05-26
 founded: 2022
 location: Cambridge, Massachusetts (MIT campus)
-parent_org:
+parent_org: org-cambridge-boston-alignment-initiative
 website_or_contact: https://aialignment.mit.edu/
 key_people: []
 sources:
