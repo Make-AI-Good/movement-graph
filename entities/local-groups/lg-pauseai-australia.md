@@ -6,12 +6,12 @@ status: active
 confidence: high
 tags: [australia, sydney, melbourne, canberra, camperdown, new-south-wales, victoria, australian-capital-territory, pauseai-chapter, ai-safety, pause, frontier-ai, volunteer-led, incorporated-not-for-profit, asia-pacific, southern-hemisphere, luma, payid, politician-engagement, neurips, ai-safety-forum]
 created: 2026-05-15
-last_updated: 2026-05-15
+last_updated: 2026-06-13
 founded: 2024
 location: Australia (national chapter; documented public actions and recurring meetups in Sydney, New South Wales; Melbourne, Victoria; Canberra, Australian Capital Territory; with the AI Safety Forum 2026 at Camperdown, Sydney as a programmed convening anchor)
 parent_org: org-pauseai
 website_or_contact: https://pauseai.info/australia
-key_people: []
+key_people: [person-michael-huang, person-peter-horniak]
 sources:
   - url: https://pauseai.info/australia
     last_checked: 2026-05-15
