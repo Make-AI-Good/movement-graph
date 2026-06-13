@@ -7,7 +7,7 @@ confidence: high
 tags: [report, india, south-asia, internet-shutdowns, digital-india, biometric-authentication, aadhaar, nrega, public-distribution-system, welfare-administration, algorithmic-public-services, digital-public-infrastructure, jammu-and-kashmir, manipur, civil-society-evidence-base, joint-report, hrw, internet-freedom-foundation, socio-economic-rights, ai-and-human-rights]
 created: 2026-05-15
 last_updated: 2026-05-15
-authors: []
+authors: [person-jayshree-bajoria]
 publisher: org-human-rights-watch
 date: 2023-06-14
 url: https://www.hrw.org/report/2023/06/14/no-internet-means-no-work-no-pay-no-food/internet-shutdowns-deny-access-basic
