@@ -9,7 +9,7 @@ created: 2026-05-18
 last_updated: 2026-05-18
 location: Querétaro state, Mexico (organising base in the Querétaro metropolitan area inside the El Marqués / Colón data-centre corridor)
 website_or_contact: https://www.facebook.com/AmbientalistasQro/
-key_people: []
+key_people: [person-teresa-roldan]
 sources:
   - url: https://www.context.news/ai/long-read/resistance-blooms-in-mexicos-data-centre-valley
     last_checked: 2026-05-18
