@@ -1,16 +1,20 @@
 ---
-id: lg-entregadores-antifascistas
-type: local-group
+id: org-entregadores-antifascistas
+type: organization
 name: Entregadores Antifascistas
 status: active
 confidence: high
 tags: [brazil, sao-paulo, south-america, latin-america, gig-workers, delivery-workers, app-based-workers, algorithmic-management, deactivation, platform-work, breque-dos-apps, anti-fascist, mutual-aid, ifood, rappi, uber-eats, loggi, covid-19, workers-rights, cooperative]
 created: 2026-06-03
-last_updated: 2026-06-03
+last_updated: 2026-06-13
 founded: 2020
 location: 'São Paulo, Brazil (decentralized; active in at least 11 states during 2020–2021 mobilizations)'
-website_or_contact: https://www.fundobrasil.org.br/projeto/entregadores-antifascistas/
-key_people: []
+website: https://www.fundobrasil.org.br/projeto/entregadores-antifascistas/
+strategies: []
+key_people: [person-paulo-roberto-da-silva-lima]
+board_and_advisors: []
+related_orgs: []
+funders: []
 sources:
   - url: https://en.wikipedia.org/wiki/Entregadores_Antifascistas
     last_checked: 2026-06-03
@@ -37,7 +41,7 @@ sources:
 
 # Entregadores Antifascistas
 
-[Entregadores Antifascistas](https://www.fundobrasil.org.br/projeto/entregadores-antifascistas/) (Anti-fascist Delivery Workers) is a Brazilian grassroots collective of app-based delivery workers, founded in March 2020 by Paulo Roberto da Silva Lima — known by his nickname Paulo Galo (or Galo de Luta) — in São Paulo. The movement emerged from a specific incident of algorithmic deactivation: [on March 22, 2020, Galo's bike tire went flat during a delivery and he called Uber to explain; he was assured there were no problems — and the next day found himself blocked from the app that supplied his sole income](https://en.wikipedia.org/wiki/Entregadores_Antifascistas). That deactivation became the movement's founding origin story, through which it articulated the regime of opaque [algorithmic management](../messages/msg-algorithmic-management.md) through which the major delivery platforms — iFood, Rappi, Uber Eats, 99, Loggi — controlled workers' access, compensation, and livelihoods without any formal employment relationship or right of appeal.
+[Entregadores Antifascistas](https://www.fundobrasil.org.br/projeto/entregadores-antifascistas/) (Anti-fascist Delivery Workers) is a Brazilian grassroots collective of app-based delivery workers, founded in March 2020 by [Paulo Roberto da Silva Lima](../persons/person-paulo-roberto-da-silva-lima.md) — known by his nickname Paulo Galo (or Galo de Luta) — in São Paulo. The movement emerged from a specific incident of algorithmic deactivation: [on March 22, 2020, Galo's bike tire went flat during a delivery and he called Uber to explain; he was assured there were no problems — and the next day found himself blocked from the app that supplied his sole income](https://en.wikipedia.org/wiki/Entregadores_Antifascistas). That deactivation became the movement's founding origin story, through which it articulated the regime of opaque [algorithmic management](../messages/msg-algorithmic-management.md) through which the major delivery platforms — iFood, Rappi, Uber Eats, 99, Loggi — controlled workers' access, compensation, and livelihoods without any formal employment relationship or right of appeal.
 
 Galo's immediate response was a [petition demanding that delivery platforms provide workers with COVID-19 protective equipment — meals, hand sanitizer, and PPE — during the pandemic, which garnered over 300,000 signatures](https://www.codastory.com/authoritarian-tech/brazil-food-delivery-social-media/). The movement he built, Entregadores Antifascistas, grew within months to a decentralized network of [40 core organizers active across 11 Brazilian states](https://en.wikipedia.org/wiki/Entregadores_Antifascistas) — the first significant grassroots collective in Brazil built explicitly on platform delivery workers' shared conditions rather than on sector-based union membership.
 
@@ -90,6 +94,6 @@ The movement's demands have found a contested echo in Brazil's federal legislati
 
 ## Place in the movement
 
-Within the corpus, Entregadores Antifascistas is the first Latin American and South American entry in the gig-worker organising thread anchored on [algorithmic management](../messages/msg-algorithmic-management.md) critique. It is the Southern Hemisphere counterpart to the New York-based [Los Deliveristas Unidos](lg-los-deliveristas-unidos.md) — the corpus's other foundational delivery-worker collective, which pursued a municipal-legislative strategy producing binding US law. The two collectives share a common analytical frame — algorithmic deactivation as the central antagonist — and a common organising substrate of migrant workers outside the formal labour union structure, while diverging in strategy: LDU's municipally anchored legislative campaign versus Entregadores Antifascistas' mass-strike mobilisation, mutual-aid infrastructure building, and counter-platform-narrative work against iFood's astroturfing.
+Within the corpus, Entregadores Antifascistas is the first Latin American and South American entry in the gig-worker organising thread anchored on [algorithmic management](../messages/msg-algorithmic-management.md) critique. It is the Southern Hemisphere counterpart to the New York-based [Los Deliveristas Unidos](../local-groups/lg-los-deliveristas-unidos.md) — the corpus's other foundational delivery-worker collective, which pursued a municipal-legislative strategy producing binding US law. The two collectives share a common analytical frame — algorithmic deactivation as the central antagonist — and a common organising substrate of migrant workers outside the formal labour union structure, while diverging in strategy: LDU's municipally anchored legislative campaign versus Entregadores Antifascistas' mass-strike mobilisation, mutual-aid infrastructure building, and counter-platform-narrative work against iFood's astroturfing.
 
 The movement's encounter with iFood's counter-campaign is also the corpus's clearest documented instance of a platform company deploying covert social-media infrastructure specifically to suppress grassroots worker organising — a case where the same digital platform logic that governs algorithmic worker management was turned, with marketing-agency infrastructure, against the workers' own political collective action. The federal investigation and public exposure of that campaign — the direct result of the movement's sustained organising visibility — are Entregadores Antifascistas' most distinctive contribution to the broader global evidence base on how platform companies respond to organised worker resistance.
