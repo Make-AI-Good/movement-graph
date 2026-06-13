@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [multi-faith, multi-religious, international, interreligious, ai-ethics, autonomous-weapons, faith-based, un-ecosoc-consultative, peace-coalition, new-york-based, hiroshima-appeal, rome-call-adopter, stop-killer-robots-adjacent]
 created: 2026-06-12
-last_updated: 2026-06-12
+last_updated: 2026-06-13
 founded: 1970
 location: New York, USA (international)
 website: https://www.rfp.org/
@@ -42,6 +42,9 @@ sources:
   - url: https://en.wikipedia.org/wiki/Religions_for_Peace
     last_checked: 2026-06-12
     note: Wikipedia entry on Religions for Peace — founding year (1970, Kyoto), UN consultative status with ECOSOC, UNESCO and UNICEF; tiebreaker only
+  - url: https://fetzer.org/news/religions-peace-and-fetzer-institute-partner-sacred-shared-flourishing/
+    last_checked: 2026-06-13
+    note: 'Religions for Peace and Fetzer Institute Partner on Sacred Shared Flourishing — March 27, 2025 announcement; Fetzer Institute confirmed as principal funder of the Sacred Shared Flourishing initiative, providing $2,350,000 in programmatic support and $200,000 in general operating support (per CauseIQ 990-aggregated data, FY2025); the initiative aligns with the Shared Sacred Flourishing framework adopted at the Istanbul World Council (July 2025)'
 ---
 
 # Religions for Peace
@@ -73,6 +76,10 @@ In late July 2025, the Religions for Peace World Council convened in Istanbul, R
 ### Policy agenda (2026)
 
 In June 2026, Religions for Peace convened its International Council Meeting in Mauritius, with AI ethics among the explicit agenda items — a further institutionalization of AI governance inside the organization's main deliberative cycle. The June 2026 rfp.org article "Marrying Wisdom to Action: Religious Leaders Must Act to Shape the Future of AI" articulated the organization's four-track AI advocacy posture: articulating unified multifaith ethical foundations on AI-enabled weapons; influencing AI governance policy processes at global, regional, and national levels; launching awareness campaigns linking AI ethics to security concerns; and leveraging religious institutions' logistical architecture to deliver ethical awareness at mass scale to congregants and communities no secular advocacy network reaches.
+
+## Funding and institutional support
+
+Religions for Peace's financial base reflects its origins in Japanese religious philanthropy and its deep UN-adjacent positioning in New York. The Fetzer Institute — a Kalamazoo, Michigan foundation devoted to love and forgiveness as transformative forces — is the organization's principal current funder; a March 2025 partnership announcement confirmed a multi-year Sacred Shared Flourishing initiative underpinned by $2.35 million in programmatic support and $200,000 in general operating grants, directly financing the shared-sacred-worldview agenda institutionalized at the Istanbul World Council. Rissho Kosei-Kai, the world's largest Buddhist lay organization and a founding partner of RfP since the 1970 Kyoto inaugural assembly, provides multi-year institutional support and co-organized the Hiroshima AI Ethics for Peace gathering through the RfP Japan chapter. The GHR Foundation contributes to the Multi-Religious Humanitarian Fund, which seeds interfaith humanitarian projects across twenty-plus countries. Germany's Federal Foreign Office has funded the 10th World Assembly and the Assembly on Women, Faith, and Diplomacy, recognizing RfP's convening role on faith-and-peace policy.
 
 ## Relation to Stop Killer Robots and autonomous weapons
 
