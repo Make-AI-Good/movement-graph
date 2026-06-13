@@ -6,12 +6,12 @@ status: active
 confidence: high
 tags: [canada, montreal, toronto, ottawa, victoria, quebec, ontario, british-columbia, pauseai-chapter, ai-safety, pause, frontier-ai, volunteer-led, bilingual, francophone, anglophone, warning-shot-protocol, mp-outreach, luma, riseup, github]
 created: 2026-05-14
-last_updated: 2026-05-14
+last_updated: 2026-06-13
 founded: 2024
 location: Canada (national chapter; documented local-community anchors in Montréal, Québec and Toronto, Ontario, with single-action public-protest contributions from Ottawa, Ontario in May 2024 and Victoria, British Columbia in February 2025)
 parent_org: org-pauseai
 website_or_contact: https://pauseai.ca/
-key_people: []
+key_people: [person-jeremy-eliosoff, person-nicolas-lacombe]
 sources:
   - url: https://pauseai.ca/en/
     last_checked: 2026-05-14
