@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [senegal, dakar, west-africa, francophone-africa, sub-saharan-africa, pan-african, continental, ngo, civil-society, digital-rights, democracy, good-governance, transparency, accountability, participatory-democracy, cyberactivism, civic-tech, civic-technology, cybersecurity, anti-corruption, capacity-building, citizenlab, africtivistes-academy, election-monitoring, electoral-integrity, ai-and-human-rights, ai-and-elections, generative-ai, electoral-disinformation, fimi, foreign-information-manipulation, chatbot-reliability, online-gender-based-violence, cyberbullying, ligue-africaine-des-blogueurs-et-web-activistes, sunu2012, vote229, lwili, ghanavote, taxawtemm, farafina, khadija-chatbot]
 created: 2026-05-18
-last_updated: 2026-05-18
+last_updated: 2026-06-13
 founded: 2015
 location: Dakar, Senegal
 website: https://africtivistes.com/
@@ -17,11 +17,12 @@ board_and_advisors: []
 related_orgs:
   - org-paradigm-initiative
   - org-pollicy
-funders: []
+funders:
+  - fund-open-society-foundations
 sources:
   - url: https://africtivistes.com/en/home/
-    last_checked: 2026-05-18
-    note: 'AfricTivistes''s own English homepage — primary source for the present-day organisational self-presentation as a "pan-African network at the intersection of technology and democracy" working to "connect Africa for an enhanced citizenship", the headquarters address (Liberté 6 extension villa N°263, Dakar, Senegal), the published 2025–2029 Strategic Plan structured around the four pillars of Citizen Engagement and Pan-African Network, Electoral Processes and Digital Democracy, Knowledge and Research, and Citizen Innovation and Technology, and the eight-year impact metrics (550+ summit participants, 400+ members across 45 countries, 1,350+ in-person training beneficiaries, 10 presidential elections technically supported, and 20 fostered change-agent communities)'
+    last_checked: 2026-06-13
+    note: 'AfricTivistes''s own English homepage — primary source for the present-day organisational self-presentation as a "pan-African network at the intersection of technology and democracy" working to "connect Africa for an enhanced citizenship", the headquarters address (Liberté 6 extension villa N°263, Dakar, Senegal), the published 2025–2029 Strategic Plan structured around the four pillars of Citizen Engagement and Pan-African Network, Electoral Processes and Digital Democracy, Knowledge and Research, and Citizen Innovation and Technology, and the eight-year impact metrics (550+ summit participants, 400+ members across 45 countries, 1,350+ in-person training beneficiaries, 10 presidential elections technically supported, and 20 fostered change-agent communities), and the Open Society Initiative for West Africa (OSIWA) — the Open Society Foundations'' West Africa regional programme — listed among the homepage''s documented funding partners'
   - url: https://africtivistes.net/en/africtivistes-en/
     last_checked: 2026-05-18
     note: 'AfricTivistes''s own English "About" page — primary source for the 2015 establishment date and Dakar (Liberté 6 extension villa N°263) headquarters, the origin framing as "the union of bloggers and web-activists from across the continent to promote and defend democracy", the mission to promote and defend "democratic values, human rights and good governance through civic tech" and to "empower African citizens to become active players in building their societies and holding their governments accountable", the leadership of President Cheikh Fall and Vice-President Cyriac G. Gbogou, and the multi-country focal-point structure spanning Benin, Guinea, Côte d''Ivoire, Burkina Faso, and other African nations'
