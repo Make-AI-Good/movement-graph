@@ -10,7 +10,7 @@ last_updated: 2026-06-09
 location: Spain (operating pan-Hispanic — Spain and Hispanic America)
 parent_org: org-pauseai
 website_or_contact: https://pauseai.es
-key_people: []
+key_people: [person-ayoze-garcia-gonzalez]
 sources:
   - url: https://pauseai.info/communities
     last_checked: 2026-06-09
