@@ -6,8 +6,8 @@ status: active
 confidence: high
 tags: [report, education, education-unions, sectoral-advocacy, AI-in-education, global, labor-rights, worker-organizing, teacher-autonomy, pedagogical-ethics, AI-literacy, commercialization-of-education, human-centered-ai, social-justice, ethics-by-design, union-federation]
 created: 2026-05-30
-last_updated: 2026-05-30
-authors: []
+last_updated: 2026-06-12
+authors: [person-wayne-holmes]
 publisher: Education International
 date: 2023-10-18
 url: https://www.ei-ie.org/en/item/28115:the-unintended-consequences-of-artificial-intelligence-and-education
