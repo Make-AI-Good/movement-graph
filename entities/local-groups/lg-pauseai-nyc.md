@@ -6,12 +6,13 @@ status: active
 confidence: high
 tags: [new-york-city, manhattan, nyc, new-york, usa, pauseai-chapter, ai-safety, pause, frontier-ai, united-nations, un-summit-of-the-future, ai-treaty, diplomatic-protest, first-friday-flyering]
 created: 2026-05-13
-last_updated: 2026-05-13
+last_updated: 2026-06-13
 founded: 2023
 location: New York City, New York, USA (named public actions concentrated outside United Nations Headquarters in Turtle Bay, Manhattan; chapter community gatherings and First Friday Flyering rotate across Manhattan and Brooklyn)
 parent_org: org-pauseai
 website_or_contact: nyc@pauseai.info
-key_people: []
+key_people:
+  - person-matthew-moy
 sources:
   - url: https://pauseai.info/nyc-action
     last_checked: 2026-05-13
@@ -57,7 +58,7 @@ PauseAI NYC is the New York City chapter of [PauseAI](../organizations/org-pause
 
 ## Place in PauseAI US
 
-PauseAI US describes NYC as one of its six core US chapters. The [January 2025 newsletter](https://pauseaius.substack.com/p/pauseai-us-newsletter-1-january-2025) records that the national organisation started 2024 with one local group — San Francisco — and ended the year with six "well-established, active groups across the country": SF, NYC, Chicago, Portland (Oregon), Phoenix, and Washington DC. By the [Q2 2026 donor update](https://www.pauseai-us.org/2026q2donorupdate/), the national figure had reached 47 chapters across 29 states. Inside that growing network, the NYC chapter is the one PauseAI US's UN-related organising runs through, the chapter through which the federation's "global AI treaty" framing meets diplomats in their working geography, and the chapter to which prospective east-coast volunteers are routed via the [PauseAI US local-groups directory](https://www.pauseai-us.org/local-groups/) and the chapter's own [action page](https://pauseai.info/nyc-action). Staff support comes from PauseAI US's Berkeley-based founder and Executive Director [Holly Elmore](../persons/person-holly-elmore.md), DC-based Organizing Director Felix DeSimone, and the rest of the PauseAI US central team rather than from a paid chapter director.
+PauseAI US describes NYC as one of its six core US chapters. The [January 2025 newsletter](https://pauseaius.substack.com/p/pauseai-us-newsletter-1-january-2025) records that the national organisation started 2024 with one local group — San Francisco — and ended the year with six "well-established, active groups across the country": SF, NYC, Chicago, Portland (Oregon), Phoenix, and Washington DC. By the [Q2 2026 donor update](https://www.pauseai-us.org/2026q2donorupdate/), the national figure had reached 47 chapters across 29 states. Inside that growing network, the NYC chapter is the one PauseAI US's UN-related organising runs through, the chapter through which the federation's "global AI treaty" framing meets diplomats in their working geography, and the chapter to which prospective east-coast volunteers are routed via the [PauseAI US local-groups directory](https://www.pauseai-us.org/local-groups/) and the chapter's own [action page](https://pauseai.info/nyc-action). Staff support comes from PauseAI US's Berkeley-based founder and Executive Director [Holly Elmore](../persons/person-holly-elmore.md), DC-based Organizing Director Felix DeSimone, and the rest of the PauseAI US central team rather than from a paid chapter director. [Matthew Moy](../persons/person-matthew-moy.md) is listed as organizer on the [chapter's Meetup page](https://www.meetup.com/pauseainyc/).
 
 ## Activities
 
