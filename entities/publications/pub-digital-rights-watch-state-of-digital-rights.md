@@ -8,7 +8,7 @@ tags: [annual-report, report, Australia, Oceania, digital-rights, privacy, surve
 created: 2026-05-30
 last_updated: 2026-05-30
 authors: []
-publisher: Digital Rights Watch
+publisher: org-digital-rights-watch
 date: 2018-05-13
 url: https://digitalrightswatch.org.au/2018/05/14/the-state-of-digital-rights/
 publication_type: report
