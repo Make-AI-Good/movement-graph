@@ -6,11 +6,11 @@ status: active
 confidence: high
 tags: [maré, rio-de-janeiro, brazil, latin-america, data-journalism, data-justice, civic-tech, favela, racial-justice, gender-justice, citizen-generated-data, community-media, digital-rights, environmental-justice, sanitation, police-violence, funk, black-led]
 created: 2026-06-03
-last_updated: 2026-06-03
+last_updated: 2026-06-13
 founded: 2016
 location: Maré, Rio de Janeiro, Brazil
 website_or_contact: https://datalabe.org/
-key_people: []
+key_people: [person-gilberto-vieira, person-clara-sacco]
 sources:
   - url: https://globalinnovationgathering.org/2023/04/06/data_labe-a-hub-for-data-and-narratives-from-the-favela/
     last_checked: 2026-06-03
