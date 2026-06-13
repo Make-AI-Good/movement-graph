@@ -14,7 +14,7 @@ strategies: [strat-local-rapid-response-against-single-deployment, strat-counter
 key_people: [person-evan-greer]
 board_and_advisors: []
 related_orgs: [org-electronic-frontier-foundation]
-funders: []
+funders: [fund-shuttleworth-foundation]
 sources:
   - url: https://www.fightforthefuture.org/about
     last_checked: 2026-06-03
