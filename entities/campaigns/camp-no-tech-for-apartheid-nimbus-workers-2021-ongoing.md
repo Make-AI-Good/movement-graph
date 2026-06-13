@@ -1,0 +1,92 @@
+---
+id: camp-no-tech-for-apartheid-nimbus-workers-2021-ongoing
+type: campaign
+name: 'No Tech for Apartheid — Project Nimbus worker campaign (2021–ongoing)'
+status: active
+confidence: high
+tags: [united-states, international, new-york, sunnyvale, seattle, san-francisco, tech-worker-organizing, tech-worker-refusal, workplace-dissent, military-ai, ai-and-warfare, project-nimbus, cloud-computing, google, amazon, alphabet, palestine, israeli-occupation, apartheid, divestment, bds-lineage, no-tech-for-ice-lineage, coalition-campaign, open-letter, sit-in, student-organizing, worker-retaliation, ai-accountability, tech-ethics]
+created: 2026-06-12
+last_updated: 2026-06-12
+start_date: 2021-10
+end_date: ongoing
+goals: |
+  Force Google and Amazon to cancel Project Nimbus — the $1.2 billion April 2021 contract under which Google Cloud and Amazon Web Services provide cloud-computing, artificial-intelligence, and machine-learning infrastructure to the Israeli government and military — and refuse future contracts the campaign holds enable Israel's military operations against Palestinians. Secondary goals: protect workers from employer retaliation for political dissent; recruit a broader civil-society and student constituency to the worker-side demand; establish a precedent for tech-worker collective power over AI militarization decisions at major AI labs.
+lead_orgs:
+  - org-alphabet-workers-union
+  - org-tech-workers-coalition
+participating_orgs:
+  - org-mediajustice
+  - org-mijente
+events: []
+strategies:
+  - strat-tech-worker-refusal-inside-ai-labs
+  - strat-open-letter-collective-signatory-action
+  - strat-organize-ai-supply-chain-workers
+  - strat-counter-narrative-framing
+outcomes: |
+  As of mid-2026 the campaign has not achieved its primary demand: Project Nimbus remains in force and Google and Amazon have not renounced the contract. The campaign's most significant outcome to date is demonstrating the outer limit of tech-worker conscience organizing inside large-capitalization AI companies under a tightened labour market: the April 2024 sit-ins were met with rapid, large-scale terminations (over 50 workers fired), shifting Google's response posture from the "ethics is complicated" register of the 2018 Maven episode to open retaliation. The campaign has achieved secondary mobilization: the June 2024 student pledge (1,100+ STEM students at 120+ universities committing to refuse Google and Amazon employment until Nimbus ends) and the sustained AWS-Summit and shareholder-meeting co-actions with the Amazon Labor Union extended the campaign's pressure surface beyond Google's workforce. By 2024 the Lavender and "Where's Daddy" automated-targeting disclosures — confirming Israeli military targeting systems ran on the Nimbus cloud — supplied empirical predicate the campaign had previously held only on structural grounds.
+sources:
+  - url: https://laborforpalestine.net/2021/10/12/we-are-google-and-amazon-workers-we-condemn-project-nimbus-the-guardian/
+    last_checked: 2026-06-12
+    note: 'Republication of the 12 October 2021 *Guardian* anonymous open letter "We are Google and Amazon workers. We condemn Project Nimbus" — primary source for the campaign''s founding worker-side action: more than 500 signatories (90+ Google, 300+ Amazon), the substantive claim that the Nimbus contract would "make the systematic discrimination and displacement carried out by the Israeli military and government even crueler and deadlier for Palestinians", and the demand that Google and Amazon refuse the contract and all contracts that harm users'
+  - url: https://www.fightforthefuture.org/news/2021-10-13-40-organizations-join-500-tech-workers-in-demanding-amazon-and-google-end-all-ties-with-israeli-apartheid/
+    last_checked: 2026-06-12
+    note: 'Fight for the Future''s 13 October 2021 press release — primary source for the No Tech for Apartheid coalition launch one day after the *Guardian* letter, the 40+ founding-signatory civil-society coalition (including Jewish Voice for Peace, MPower Change, Adalah Justice Project, Fight for the Future, BDS Movement, Center for Constitutional Rights, Data for Black Lives, and MediaJustice), and the operationalisation of the worker call into the "No Tech for Apartheid" campaign name'
+  - url: https://www.notechforapartheid.com/
+    last_checked: 2026-06-12
+    note: 'No Tech for Apartheid campaign home page — primary source for the campaign''s working self-description ("a worker-led campaign of Google and Amazon workers organising against the companies'' Project Nimbus cloud-computing contract with the Israeli government and military"), its continuing operational status, and its public-facing handles'
+  - url: https://www.democracynow.org/2024/4/17/no_tech_for_apartheid_google_israel
+    last_checked: 2026-06-12
+    note: 'Democracy Now! 17 April 2024 interview with campaign organisers Mohammad Khatami and Gabriel Schubiner — primary source for the 16 April 2024 sit-in locations (New York and Sunnyvale headquarters, protests in Seattle and San Francisco), the ten-hour occupation of Google Cloud CEO Thomas Kurian''s office, nine workers arrested, Khatami''s "Google execs basically chose to arrest workers for speaking out against the use of our technology to power the first AI-powered genocide" framing, and Schubiner''s "technology workers actually have a lot of power to shift this paradigm" strategic framing'
+  - url: https://www.alphabetworkersunion.org/press/updated-awu-cwa-statement-following-termination-of-workers-after-project-nimbus-protest-at-google-cloud-office
+    last_checked: 2026-06-12
+    note: 'Alphabet Workers Union (AWU-CWA) statement following April 2024 terminations — primary source for AWU''s condemnation of the nine arrests and termination of approximately two dozen workers immediately following the April 16 sit-ins, AWU''s characterisation of the firings as retaliation against workers exercising free speech rights, and AWU''s call for reinstatement'
+  - url: https://medium.com/@notechforapartheid/statement-from-google-workers-organizing-with-the-no-tech-for-apartheid-campaign-on-googles-17ee10b088f0
+    last_checked: 2026-06-12
+    note: 'No Tech for Apartheid 23 April 2024 statement on firings — primary source for the campaign''s count of "over 50 workers that Google has indiscriminately retaliated against" (28 initially, then over twenty more by 22 April), the inclusion of non-participating bystanders among those terminated, the "aggressive and desperate act of retaliation" framing, and the demand to "drop Project Nimbus and stop powering Israel''s genocide of Palestinians in Gaza now"'
+  - url: https://en.wikipedia.org/wiki/No_Tech_for_Apartheid
+    last_checked: 2026-06-12
+    note: 'Wikipedia overview — secondary source for the campaign''s October 2021 founding date, the structural ancestry from Mijente''s No Tech for ICE template that the framing''s name signals, the eventual scale of student mobilisation (1,100+ STEM students at 120+ universities committing to refuse Google or Amazon employment by June 2024), and the post-October-2023 escalation arc that produced the April 2024 sit-ins and mass firings'
+  - url: https://www.aljazeera.com/news/2024/4/23/what-is-project-nimbus-and-why-are-google-workers-protesting-israel-deal
+    last_checked: 2026-06-12
+    note: 'Al Jazeera 23 April 2024 explainer — primary source for the March 2024 firing of Google Cloud engineer Eddie Hatfield after he interrupted Google Israel managing director Barak Regev at the Mind the Tech conference in New York with the line "I refuse to build technology that powers genocide"'
+  - url: https://en.wikipedia.org/wiki/Project_Nimbus
+    last_checked: 2026-06-12
+    note: 'Wikipedia overview of Project Nimbus — primary corpus-side anchor for the $1.2 billion April 2021 contract awarded to Google Cloud and Amazon Web Services, the contractual provision reportedly forbidding the two companies from halting services to any Israeli government entity including the military, the 2024 revelations that the Israeli military''s Lavender and "Where''s Daddy" automated-targeting systems were operating on the Nimbus cloud, and the firings of Eddie Hatfield and the April 2024 sit-in participants'
+---
+
+# No Tech for Apartheid — Project Nimbus worker campaign (2021–ongoing)
+
+The No Tech for Apartheid campaign is a worker-and-coalition-led campaign demanding that Google and Amazon cancel [Project Nimbus](https://en.wikipedia.org/wiki/Project_Nimbus) — the [$1.2 billion April 2021 contract](https://en.wikipedia.org/wiki/Project_Nimbus) under which Google Cloud and Amazon Web Services provide cloud-computing, artificial-intelligence, and machine-learning infrastructure to the Israeli government and military — and refuse all future contracts the campaign holds enable Israel's military operations against Palestinians. Launched in October 2021 through a founding open letter in *The Guardian* and a simultaneously-announced forty-plus-organisation civil-society coalition, the campaign operates as the primary vehicle through which tech workers at Google and Amazon have organised collective dissent against their employers' military contracting decisions, drawing on the structural template established by [Mijente's No Tech for ICE campaign](../campaigns/camp-mijente-no-tech-for-ice-2018-ongoing.md) and propagating the [No Tech for Apartheid framing](../messages/msg-no-tech-for-apartheid.md) that gives the campaign its public identity.
+
+The [Alphabet Workers Union](../organizations/org-alphabet-workers-union.md) and the [Tech Workers Coalition](../organizations/org-tech-workers-coalition.md) are the campaign's principal institutional anchors within the tech-worker organising infrastructure; the civil-society coalition that launched alongside the founding letter — over forty organisations including [MediaJustice](../organizations/org-mediajustice.md) as founding signatory and [Mijente](../organizations/org-mijente.md) as the lineage originator — supplies the public-facing support and cross-sector legitimacy for the worker-side demands.
+
+## Founding: the *Guardian* letter and coalition launch (October 2021)
+
+The campaign's founding action was a [12 October 2021 anonymous open letter](https://laborforpalestine.net/2021/10/12/we-are-google-and-amazon-workers-we-condemn-project-nimbus-the-guardian/) published in *The Guardian* under the title *We are Google and Amazon workers. We condemn Project Nimbus*, signed internally by more than 90 Google and 300 Amazon workers. The letter condemned the Nimbus contract on the grounds that it would "make the systematic discrimination and displacement carried out by the Israeli military and government even crueler and deadlier for Palestinians", called on Google and Amazon to refuse the contract and "all contracts that will harm our users," and placed the Nimbus campaign in the lineage of prior Google tech-worker actions against the Department of Defense (Project Maven), ICE, and state and local police departments. Anonymity, explicitly acknowledged in the letter, was a structural necessity in the absence of organising infrastructure that could protect signatories from retaliation.
+
+One day later, on 13 October 2021, a coalition of [more than forty civil-society organisations](https://www.fightforthefuture.org/news/2021-10-13-40-organizations-join-500-tech-workers-in-demanding-amazon-and-google-end-all-ties-with-israeli-apartheid/) — including Jewish Voice for Peace, MPower Change, the Adalah Justice Project, Fight for the Future, the BDS Movement, the Center for Constitutional Rights, Data for Black Lives, and [MediaJustice](../organizations/org-mediajustice.md) — launched the No Tech for Apartheid campaign publicly, naming both the demand and the framing through which the worker-side call would be amplified. The campaign's name directly echoed [Mijente](../organizations/org-mijente.md)'s 2018 [No Tech for ICE campaign](../campaigns/camp-mijente-no-tech-for-ice-2018-ongoing.md), signalling the same logic of corporate-supply objection applied to a different state-violence system — and the same cross-employer, worker-plus-coalition organizing model as its structural approach.
+
+## Escalation arc (2022–2024)
+
+The October 2023 escalation of the Gaza conflict substantially intensified the campaign's internal organising pressure. By early 2024 the campaign had developed from an open-letter vehicle into a direct-action campaign with workplace organising infrastructure capable of coordinating coast-to-coast simultaneous actions.
+
+In March 2024, Google Cloud engineer Eddie Hatfield was [fired after interrupting](https://www.aljazeera.com/news/2024/4/23/what-is-project-nimbus-and-why-are-google-workers-protesting-israel-deal) Google Israel managing director Barak Regev at the Mind the Tech conference in New York with the line "I refuse to build technology that powers genocide" — the first individual public-protest firing to draw substantial press coverage. The incident confirmed that Google's threshold for termination had descended from the "ethics is complicated" register of the 2018 Maven response to individual speech acts at external conferences.
+
+On [16 April 2024](https://www.democracynow.org/2024/4/17/no_tech_for_apartheid_google_israel), workers organising with the campaign staged simultaneous sit-ins at Google's New York and Sunnyvale headquarters — including a ten-hour occupation of Google Cloud CEO Thomas Kurian's office — alongside outdoor protests at the Seattle and San Francisco offices. Nine workers were arrested for trespass and removed from company premises. Campaign organiser Mohammad Khatami, a Google software engineer who had joined in August 2022, framed the action to Democracy Now! as a direct response to Google executives who had "chosen to arrest workers for speaking out against the use of our technology to power the first AI-powered genocide."
+
+In the days following, Google [fired more than fifty workers](https://medium.com/@notechforapartheid/statement-from-google-workers-organizing-with-the-no-tech-for-apartheid-campaign-on-googles-17ee10b088f0) — 28 initially, then over twenty more by 22 April, including, per the campaign, non-participating bystanders who were present in the offices during the sit-ins. The [Alphabet Workers Union condemned the firings](https://www.alphabetworkersunion.org/press/updated-awu-cwa-statement-following-termination-of-workers-after-project-nimbus-protest-at-google-cloud-office), stating it was "disappointed that Google has not seriously engaged with the concerns of thousands of their employees" and called the terminations retaliation against free speech. The campaign characterised the firings in its [23 April 2024 statement](https://medium.com/@notechforapartheid/statement-from-google-workers-organizing-with-the-no-tech-for-apartheid-campaign-on-googles-17ee10b088f0) as "an aggressive and desperate act of retaliation."
+
+## Student organizing and supply-chain extension
+
+Alongside the worker-facing internal campaign, No Tech for Apartheid developed a student and Amazon-facing flank. By June 2024, [more than 1,100 STEM students at 120+ universities](https://en.wikipedia.org/wiki/No_Tech_for_Apartheid) had signed a pledge committing to refuse employment with Google or Amazon until Project Nimbus ends — a form of prospective workforce pressure that the internal organising model cannot supply, creating a labour-market dimension the campaign had not previously occupied.
+
+On the Amazon side, the campaign coordinated public actions at AWS Summit and shareholder-meeting events alongside the Amazon Labor Union, extending the protest surface from internal Google workplace organising into the publicly visible shareholder and developer-community spaces where Amazon's government contracting decisions face external scrutiny.
+
+## Significance
+
+The No Tech for Apartheid campaign occupies a structurally distinctive position in the corpus's map of tech-worker conscience organising. The 2018 [Project Maven petition](../events/event-google-project-maven-petition-2018-04.md) — in which over 3,100 Google workers successfully pressured the company not to renew a DoD AI-drone-imagery contract — is the documentary precedent for tech-worker refusal as an effective strategy at a frontier AI lab. The 2024 Nimbus episode tests that precedent under qualitatively different conditions: a tightened post-2022 labour market, a more explicit management retaliation posture, and a conflict whose political polarisation inside and outside Google made employer tolerance for dissent structurally different from the Maven episode's context.
+
+The April 2024 firings — over fifty workers, including bystanders — represent the most significant documented act of employer retaliation against organised tech-worker AI-ethics dissent in the US corpus, and the campaign's failure to achieve its primary demand through a worker-refusal strategy documents the outer limit of that approach against a well-resourced adversary willing to absorb reputational cost. That failure is itself a data point for the movement: Gabriel Schubiner's framing that "technology workers actually have a lot of power to shift this paradigm" is held alongside Khatami's account of being "called a supporter of terrorism" in internal channels, and the campaign's ongoing student-pledge and shareholder-action track tests whether the demand can be sustained through channels outside the employment relationship.
+
+The campaign's structural template — founding anonymous letter, simultaneous civil-society coalition launch, named public campaign, direct workplace action, student supply-chain extension — is the most fully realised execution of the [tech-worker refusal strategy](../strategies/strat-tech-worker-refusal-inside-ai-labs.md) in this corpus, and the [No Tech for Apartheid framing](../messages/msg-no-tech-for-apartheid.md) it propagates is the framing's primary organising vehicle. The campaign's lineage relationship to [No Tech for ICE](../campaigns/camp-mijente-no-tech-for-ice-2018-ongoing.md) places it in a direct descent from the 2018 Latinx grassroots organizing model that established the "no tech for [state-violence system]" form — and the two campaigns together document the form's portability across different corporate counterparties, different state-violence targets, and different coalition compositions.
