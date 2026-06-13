@@ -6,14 +6,14 @@ status: active
 confidence: high
 tags: [india, delhi, south-asia, digital-rights, civil-liberties, privacy, free-speech, net-neutrality, surveillance, biometric-surveillance, facial-recognition, algorithmic-accountability, ai-and-human-rights, internet-shutdowns, aadhaar, digital-public-infrastructure, strategic-litigation, parliamentary-engagement, community-funded, membership-organisation, non-profit, trust]
 created: 2026-05-13
-last_updated: 2026-05-18
+last_updated: 2026-06-13
 founded: 2016
 location: New Delhi, India
 website: https://internetfreedom.in/
-strategies: []
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-empirical-audit-and-expose, strat-map-the-ai-supply-chain-of-state-harm]
 key_people: [person-apar-gupta]
 board_and_advisors: [person-apar-gupta]
-related_orgs: [org-apc, org-human-rights-watch]
+related_orgs: [org-apc, org-human-rights-watch, org-amnesty-international, org-article-19]
 funders: []
 sources:
   - url: https://en.wikipedia.org/wiki/Internet_Freedom_Foundation
