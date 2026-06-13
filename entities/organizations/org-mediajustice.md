@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [us, national, oakland, california, 501c3, non-profit, black-led, racial-justice, tech-justice, media-justice, big-tech-accountability, biometric-surveillance, facial-recognition, electronic-monitoring, carceral-tech, ai-infrastructure, data-centres, grassroots-organizing, coalition-building, narrative-strategy, political-education]
 created: 2026-05-13
-last_updated: 2026-05-13
+last_updated: 2026-06-12
 founded: 2009
 location: Oakland, California (national)
 website: https://mediajustice.org/
@@ -22,6 +22,7 @@ funders:
   - fund-ford-foundation
   - fund-macarthur-foundation
   - fund-democracy-fund
+  - fund-knight-foundation
 sources:
   - url: https://mediajustice.org/
     last_checked: 2026-05-13
@@ -53,6 +54,9 @@ sources:
   - url: https://mediajustice.org/resource/the-cost-of-data-centers/
     last_checked: 2026-05-13
     note: 'MediaJustice''s own landing page for the 18 August 2025 organiser guide "The Cost of Data Centers to Our Communities — And How to Fight Back" — primary source for the publication date, the joint authorship and publication with Kairos Fellowship, and the framing as an organiser guide for communities resisting hyperscale data-centre proposals'
+  - url: https://knightfoundation.org/press/releases/nine-universities-and-nonprofits-awarded-more-than-1-2-million-from-knight-foundation-to-combat-disinformation-on-communities-of-color/
+    last_checked: 2026-06-12
+    note: Knight Foundation 7 April 2022 press release — primary source for MediaJustice grant (one of nine recipients in a $1.2 million package); funds development and implementation of a train-the-trainer programme to disrupt the spread of disinformation in communities of colour, led by Rumsha Sajid, Myaisha Hayes, and Steven Renderos
 ---
 
 # MediaJustice
