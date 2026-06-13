@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [international, federation, chaptered, protest, direct-action, ai-safety, frontier-ai, existential-risk, moratorium, treaty, governance, volunteer-led]
 created: 2026-05-08
-last_updated: 2026-06-11
+last_updated: 2026-06-13
 founded: 2023
 location: international (founded in Utrecht, Netherlands)
 website: https://pauseai.info/
@@ -22,7 +22,7 @@ related_orgs:
   - org-controlai
   - org-existential-risk-observatory
   - org-stop-ai
-funders: []
+funders: [fund-survival-and-flourishing-fund, fund-lightspeed-grants]
 sources:
   - url: https://en.wikipedia.org/wiki/PauseAI
     last_checked: 2026-05-08
@@ -72,6 +72,9 @@ sources:
   - url: https://www.cnn.com/2026/04/17/tech/anti-ai-attack-sam-altman
     last_checked: 2026-05-08
     note: CNN reporting on the Sam Altman attack and its relationship to PauseAI / Stop AI; CEO Maxime Fournes statement
+  - url: https://pauseai.info/funding
+    last_checked: 2026-06-13
+    note: PauseAI funding transparency page — source for institutional funders; documents €18,410 from Lightspeed Grants and €9,463 from the Survival and Flourishing Fund (speculation grants) among €715k total donations since 2023 launch
 ---
 
 # PauseAI
