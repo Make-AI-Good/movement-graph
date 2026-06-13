@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [uk, england, london, environmental-charity, non-profit, climate, water, energy, clean-air, behaviour-change, education, big-tech-accountability, ai-infrastructure, data-centres, coalition-building, surveillance-advertising, strategic-litigation]
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-06-13
 founded: 1993
 location: London, United Kingdom
 website: https://www.globalactionplan.org.uk/
@@ -17,7 +17,8 @@ board_and_advisors: []
 related_orgs:
   - org-foxglove
   - org-kairos
-funders: []
+funders:
+  - fund-trust-for-london
 sources:
   - url: https://www.globalactionplan.org.uk/
     last_checked: 2026-05-12
@@ -61,6 +62,9 @@ sources:
   - url: https://www.foxglove.org.uk/2026/01/22/uk-government-admits-serious-error-data-centre/
     last_checked: 2026-05-12
     note: Foxglove's 22 January 2026 post on the Government Legal Department's concession in the Woodlands Park judicial review — the case GAP co-claimed
+  - url: https://grantnav.threesixtygiving.org/org/GB-CHC-1026148
+    last_checked: 2026-06-13
+    note: '360Giving GrantNav org page for Global Action Plan (GB-CHC-1026148) — confirms Trust for London grant of £100,000 (awarded 1 Feb 2023) for Clean Air programme work engaging new voices around air pollution ahead of the 2024 London elections'
 ---
 
 # Global Action Plan
