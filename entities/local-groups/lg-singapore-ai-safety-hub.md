@@ -11,7 +11,7 @@ founded: 2025
 location: Singapore (WeWork, 22 Cross Street, Chinatown)
 parent_org:
 website_or_contact: https://www.aisafety.sg/
-key_people: []
+key_people: [person-miro-plueckebaum]
 sources:
   - url: https://www.aisafety.sg/
     last_checked: 2026-05-26
