@@ -10,7 +10,7 @@ last_updated: 2026-05-15
 founded: 2019
 location: Cerrillos commune, Santiago, Chile (organising base in the metropolitan-Santiago water-stressed corridor adjacent to Google's proposed second Chilean data centre)
 website_or_contact: contact via Rest of World 2026 feature (https://restofworld.org/2026/ai-pushback-chile-mexico-kenya-philippines/) — no standing public website confirmed at draft time
-key_people: []
+key_people: [person-tania-rodriguez]
 sources:
   - url: https://restofworld.org/2026/ai-pushback-chile-mexico-kenya-philippines/
     last_checked: 2026-05-15
