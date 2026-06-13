@@ -6,10 +6,10 @@ status: active
 confidence: high
 tags: [rio-de-janeiro, brazil, latin-america, ai-safety, field-building, community-building, insider-community, ea-adjacent, alignment, governance, bluedot-impact, fellowship, global-south, lanais, ugap, condor-initiative]
 created: 2026-06-08
-last_updated: 2026-06-08
+last_updated: 2026-06-12
 founded: 2023
 location: Rio de Janeiro, Brazil (Fundação Getulio Vargas)
-parent_org:
+parent_org: org-bluedot-impact
 website_or_contact: https://www.linkedin.com/company/impact-rio/
 key_people: []
 sources:

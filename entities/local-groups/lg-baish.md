@@ -6,10 +6,10 @@ status: active
 confidence: high
 tags: [argentina, buenos-aires, south-america, latin-america, ai-safety, field-building, community-building, insider-community, ea-adjacent, alignment, interpretability, bluedot-impact, reading-group, hackathon, global-south, lanais]
 created: 2026-06-03
-last_updated: 2026-06-03
+last_updated: 2026-06-12
 founded: 2024
 location: Buenos Aires, Argentina (Facultad de Exactas y Naturales, UBA)
-parent_org:
+parent_org: org-bluedot-impact
 website_or_contact: https://www.baish.com.ar/en
 key_people: []
 sources:
