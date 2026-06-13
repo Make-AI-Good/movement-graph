@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [united-states, new-york, institutional-investors, shareholder-advocacy, AI-accountability, digital-rights, human-rights, corporate-accountability, capital-leverage, international, national, nonprofit]
 created: 2026-06-11
-last_updated: 2026-06-11
+last_updated: 2026-06-13
 founded: 2018
 location: 'New York, NY'
 website: https://investorsforhumanrights.org/
@@ -14,7 +14,7 @@ strategies: []
 key_people: []
 board_and_advisors: []
 related_orgs: [org-iccr]
-funders: []
+funders: [fund-open-society-foundations]
 sources:
   - url: https://investorsforhumanrights.org/about
     last_checked: 2026-06-11
@@ -37,6 +37,12 @@ sources:
   - url: https://investorsforhumanrights.org/news/leadership-transition-investor-alliance-human-rights
     last_checked: 2026-06-11
     note: '2020 leadership transition; founding directors Paloma Muñoz Quick and Sara Blackwell departed June 30 2020; David Schilling assumed interim responsibility; Anita Dorett became Director in January 2021.'
+  - url: https://www.iccr.org/iccr-launches-new-alliance-amplify-global-investor-influence-human-rights/
+    last_checked: 2026-06-13
+    note: 'ICCR launch announcement: "This initiative is supported by funding from Open Society Foundations and Humanity United."'
+  - url: https://www.opensocietyfoundations.org/voices/q-and-a-why-some-investors-want-more-regulation
+    last_checked: 2026-06-13
+    note: 'OSF Q&A with Anita Dorett (IAHR Director); byline footer states "The Investor Alliance for Human Rights is a grantee of the Open Society Foundations."'
 ---
 
 # Investor Alliance for Human Rights
