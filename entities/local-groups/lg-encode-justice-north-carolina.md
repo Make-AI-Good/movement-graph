@@ -10,7 +10,7 @@ last_updated: 2026-05-23
 location: North Carolina (primarily Research Triangle Park area)
 parent_org: org-encode-justice
 website_or_contact: https://www.instagram.com/encodejusticenc/
-key_people: []
+key_people: [person-siri-m]
 sources:
   - url: https://www.eff.org/deeplinks/2024/06/encode-justice-nc-movement-safe-equitable-ai
     last_checked: 2026-05-12
