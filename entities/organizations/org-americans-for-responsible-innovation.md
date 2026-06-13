@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [united-states, washington-dc, bipartisan, ai-governance, consumer-protection, child-safety, deepfakes, anti-preemption, voter-mobilization, federal-advocacy, coalition-building, nonprofit, 501c4, national-security, ai-liability]
 created: 2026-06-11
-last_updated: 2026-06-11
+last_updated: 2026-06-13
 founded: 2024
 location: 'Washington, DC'
 website: https://ari.us
@@ -14,7 +14,7 @@ strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-surv
 key_people: []
 board_and_advisors: []
 related_orgs: []
-funders: [fund-omidyar-network]
+funders: [fund-omidyar-network, fund-coefficient-giving]
 sources:
   - url: https://ari.us/announcing-americans-for-responsible-innovation/
     last_checked: 2026-06-11
