@@ -6,12 +6,12 @@ status: active
 confidence: high
 tags: [cambridge, massachusetts, united-states, us-northeast, ai-safety, ai-alignment, student-group, reading-group, research-fellowship, insider-community, ea-adjacent, mit, academic, university-group, cbai, retreat, community-building]
 created: 2026-05-26
-last_updated: 2026-05-26
+last_updated: 2026-06-13
 founded: 2022
 location: Cambridge, Massachusetts (MIT campus)
 parent_org: org-cambridge-boston-alignment-initiative
 website_or_contact: https://aialignment.mit.edu/
-key_people: []
+key_people: [person-anna-krolik, person-nixon-hanna, person-max-tegmark]
 sources:
   - url: https://aialignment.mit.edu/
     last_checked: 2026-05-26
