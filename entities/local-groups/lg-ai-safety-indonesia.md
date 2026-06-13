@@ -11,7 +11,7 @@ founded: 2025
 location: Jakarta, Indonesia
 parent_org:
 website_or_contact: https://aisafety.id/
-key_people: []
+key_people: [person-yan-pratama-akhra]
 sources:
   - url: https://aisafety.id/
     last_checked: 2026-06-08
