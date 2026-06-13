@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [switzerland, german-speaking-europe, digital-rights, surveillance, data-protection, net-neutrality, ai-governance, legal-advocacy, civil-liberties, edri-member, data-retention, cable-surveillance]
 created: 2026-06-03
-last_updated: 2026-06-03
+last_updated: 2026-06-13
 founded: 2011
 location: national, Switzerland
 website: https://www.digitale-gesellschaft.ch/
@@ -14,7 +14,7 @@ strategies: []
 key_people: []
 board_and_advisors: []
 related_orgs: [org-edri]
-funders: []
+funders: [fund-stiftung-mercator]
 sources:
   - url: https://www.digitale-gesellschaft.ch/
     last_checked: 2026-06-03
@@ -37,6 +37,9 @@ sources:
   - url: https://digitalezivilgesellschaft.ch/en/141-digitale-gesellschaft/
     last_checked: 2026-06-03
     note: Digital Civil Society Switzerland profile — secondary source confirming mission as non-profit advocating for fundamental rights in digital space; consumer protection and citizen rights mandate
+  - url: https://www.digitale-gesellschaft.ch/jahresbericht/2024/de/
+    last_checked: 2026-06-13
+    note: 'Digitale Gesellschaft 2024 annual report — primary source for Stiftung Mercator Schweiz (Swiss sister of the in-corpus Stiftung Mercator) as the principal strategic funder: CHF 250,000 grant for organizational development 2023–2025; multi-year contract renewed for 2026–2030 at CHF 180,000 per year. Civitates confirmed not a funder after checking all grantee listings (Civic Power, Tech & Democracy, grantees archive): Switzerland outside Civitates geographic scope.'
 ---
 
 # Digitale Gesellschaft
