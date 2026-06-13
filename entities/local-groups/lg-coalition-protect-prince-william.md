@@ -10,7 +10,7 @@ last_updated: 2026-05-15
 founded: 2022
 location: Prince William County, Virginia, USA (mailing address PO Box 474, Haymarket, VA 20168; organising base in the Northern Virginia / Loudoun–Prince William data-centre corridor adjacent to the Manassas National Battlefield Park)
 website_or_contact: https://protectpwc.org/
-key_people: []
+key_people: [person-elena-schlossberg]
 sources:
   - url: https://protectpwc.org/
     last_checked: 2026-05-15
