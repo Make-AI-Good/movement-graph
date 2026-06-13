@@ -10,7 +10,7 @@ last_updated: 2026-05-17
 location: Prague and Brno, Czechia (national chapter; recurring meetups and ideathons documented in both cities, with Prague as the chapter's primary protest and events anchor)
 parent_org: org-pauseai
 website_or_contact: https://www.pauseai.cz/
-key_people: []
+key_people: [person-matej-jaros]
 sources:
   - url: https://www.pauseai.cz/
     last_checked: 2026-05-17
