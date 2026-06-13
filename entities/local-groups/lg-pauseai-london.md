@@ -6,11 +6,14 @@ status: active
 confidence: high
 tags: [london, uk, pauseai-chapter, ai-safety, pause, frontier-ai, deepmind, direct-action, protest, meetup, kings-cross]
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-06-13
 location: London, UK (regular meetups in central London; protest activity concentrated around the King's Cross AI cluster)
 parent_org: org-pauseai
 website_or_contact: https://pauseai.uk/london/
-key_people: []
+key_people:
+  - person-joseph-miller
+  - person-matilda-da-rui
+  - person-alistair-stewart
 sources:
   - url: https://pauseai.uk/london/
     last_checked: 2026-05-12
