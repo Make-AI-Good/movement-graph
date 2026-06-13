@@ -11,7 +11,7 @@ founded: 2024
 location: Halle (Saale), Germany (operating address Bodestraße 6, 06122 Halle (Saale) per the German federal Lobbyregister; chapter operates nationally with Berlin as the principal public-protest anchor and student-team reach into Freiburg, Bonn, and Dresden)
 parent_org: org-pauseai
 website_or_contact: https://pause-ai.de/
-key_people: []
+key_people: [person-benjamin-schmidt, person-simon-skade]
 sources:
   - url: https://pause-ai.de/
     last_checked: 2026-05-15
