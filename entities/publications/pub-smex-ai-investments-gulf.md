@@ -7,7 +7,7 @@ confidence: high
 tags: [report, mena, wana, west-asia-and-north-africa, gulf, gcc, saudi-arabia, uae, qatar, oman, ai-investment, ai-and-surveillance, biometric-surveillance, facial-recognition, smart-cities, pegasus-spyware, sovereign-ai, sovereign-wealth-fund, g42, mgx, sdaia, neom, stargate, vision-2030, uae-national-ai-strategy-2031, civil-society-evidence-base, smex, arabic-language, ai-and-human-rights, political-economy-of-ai]
 created: 2026-05-15
 last_updated: 2026-05-15
-authors: []
+authors: [person-metehan-durmaz]
 publisher: org-smex
 date: 2025-05-19
 url: https://smex.org/ai-investments-in-the-gulf-opportunities-and-surveillance-risks/
