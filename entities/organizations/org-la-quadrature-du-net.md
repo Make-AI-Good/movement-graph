@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [france, paris, continental-europe, european-union, edri-member, association, non-profit, digital-rights, civil-liberties, privacy, data-protection, mass-surveillance, biometric-surveillance, facial-recognition, algorithmic-accountability, ai-and-human-rights, automated-decision-making, public-administration, welfare-algorithms, net-neutrality, technopolice, eu-ai-act, gdpr, strategic-litigation, grassroots-organising, advocacy, public-policy]
 created: 2026-05-15
-last_updated: 2026-05-18
+last_updated: 2026-06-12
 founded: 2008
 location: Paris, France
 website: https://www.laquadrature.net/en/
@@ -14,7 +14,7 @@ strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, str
 key_people: [person-bastien-le-querrec]
 board_and_advisors: []
 related_orgs: [org-edri, org-access-now, org-algorithmwatch, org-panoptykon-foundation]
-funders: [fund-digital-freedom-fund, fund-limelight-foundation]
+funders: [fund-digital-freedom-fund, fund-limelight-foundation, fund-renewable-freedom-foundation]
 sources:
   - url: https://www.laquadrature.net/en/
     last_checked: 2026-05-15
