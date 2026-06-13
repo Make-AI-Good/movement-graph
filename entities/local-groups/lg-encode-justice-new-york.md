@@ -6,11 +6,11 @@ status: active
 confidence: high
 tags: [new-york, new-york-city, usa, youth-led, student-organizing, ai-policy, facial-recognition, algorithmic-accountability, surveillance, encode-justice-chapter]
 created: 2026-06-10
-last_updated: 2026-06-10
+last_updated: 2026-06-13
 location: New York City, New York, USA
 parent_org: org-encode-justice
 website_or_contact: https://encodejusticeny.carrd.co/
-key_people: []
+key_people: [person-jia-michel, person-mira-schubert]
 sources:
   - url: https://encodejusticeny.carrd.co/
     last_checked: 2026-06-10
@@ -32,6 +32,10 @@ sources:
 # Encode Justice New York
 
 Encode Justice New York (EJ-NY) is the New York City chapter of [Encode Justice](../organizations/org-encode-justice.md), the youth-led international AI-policy advocacy organization operating as a network of student chapters across more than 40 U.S. states and roughly 30 countries. Based in New York City, EJ-NY has built its identity around two interlocking civil-liberties issues: facial recognition technology in schools, through a national ban campaign it runs from its New York base, and surveillance transparency at the New York Police Department, pursued in partnership with the NYCLU and the Surveillance Technology Oversight Project (S.T.O.P.). Its chapter website is at [encodejusticeny.carrd.co](https://encodejusticeny.carrd.co/).
+
+## Chapter leadership
+
+[Jia Michel](../persons/person-jia-michel.md) served as the chapter's director of political advocacy and [later as Chapter Director](https://aiyouthcscw2023.wordpress.com/), building the chapter's partnerships with the NYCLU and the Justice Education Project and [organizing public events on AI implicit bias](https://northbrooklynnews.com/2022/06/29/event-warns-of-ai-implicit-bias/). [Mira Schubert](../persons/person-mira-schubert.md) served as Director of Advocacy, [leading the chapter's NYPD transparency work with the NYCLU and S.T.O.P.](https://aiyouthcscw2023.wordpress.com/) Both are recorded in the corpus as Person entries.
 
 ## Focus areas
 
