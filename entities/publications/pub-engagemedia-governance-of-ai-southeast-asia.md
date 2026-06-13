@@ -7,7 +7,7 @@ confidence: high
 tags: [report, southeast-asia, asia-pacific, regional, multi-country-mapping, indonesia, malaysia, philippines, thailand, vietnam, myanmar, cambodia, engagemedia, jun-e-tan, ai-governance, ai-policy, ai-and-human-rights, civil-society-evidence-base, structural-critique, ethics-washing-critique, global-south, digital-authoritarianism, ai-ethics, public-participation]
 created: 2026-05-18
 last_updated: 2026-05-18
-authors: []
+authors: [person-jun-e-tan]
 publisher: org-engagemedia
 date: 2021-12-15
 url: https://engagemedia.org/wp-content/uploads/2021/12/Engage_Report-Governance-of-Artificial-Intelligence-AI-in-Southeast-Asia_12202021.pdf
