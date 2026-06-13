@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [united-states, national, chicago, library-profession, professional-community, sectoral-pivot, generative-ai, training-data, copyright, fair-use, privacy, equity, information-access, intellectual-freedom, advocacy, professional-development, ai-in-libraries, workforce, policy]
 created: 2026-06-08
-last_updated: 2026-06-11
+last_updated: 2026-06-13
 founded: 1876
 location: national (Chicago headquarters)
 website: https://www.ala.org/
@@ -16,7 +16,10 @@ key_people: []
 board_and_advisors: []
 related_orgs:
   - org-electronic-frontier-foundation
-funders: []
+funders:
+  - fund-ford-foundation
+  - fund-macarthur-foundation
+  - fund-carnegie-corporation
 sources:
   - url: https://en.wikipedia.org/wiki/American_Library_Association
     last_checked: 2026-06-08
@@ -42,6 +45,15 @@ sources:
   - url: https://www.ala.org/news/2025/12/pla-launches-transformative-technology-task-force-focus-artificial-intelligence
     last_checked: 2026-06-08
     note: 'ALA news release on the PLA Transformative Technology Task Force (December 2025) — primary source for the PLA Board''s June 2025 vote, the task force''s two-year AI focus, and the nine-member roster under PLA President Dr. Brandy McNeil'
+  - url: https://www.fordfoundation.org/work/our-grants/awarded-grants/grants-database/american-library-association-151498/
+    last_checked: 2026-06-13
+    note: Ford Foundation grant 151498 — $200,000, September 2024, core support for the Libraries Transforming Communities program to strengthen libraries as core community leaders and change agents (program period August 2024–July 2026)
+  - url: https://www.macfound.org/grantee/american-library-association-13867/
+    last_checked: 2026-06-13
+    note: 'MacArthur Foundation grantee page — 13 grants totaling $2,859,000 from 1985 to 2021; most recent: $89,000 in 2021 for equity and social justice efforts during COVID-19 pandemic'
+  - url: https://www.carnegie.org/grants/grants-database/grantee/american-library-association/
+    last_checked: 2026-06-13
+    note: Carnegie Corporation grants database — $300,000 in 2024 for the annual I Love My Librarian Award program honoring exemplary public, academic, and school librarians
 ---
 
 # American Library Association
