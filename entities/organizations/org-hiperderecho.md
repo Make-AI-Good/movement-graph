@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [peru, lima, south-america, latin-america, digital-rights, privacy, freedom-of-expression, surveillance, internet-governance, ai-governance, strategic-litigation, transparency, civic-tech, isp-accountability, founded-2013]
 created: 2026-06-03
-last_updated: 2026-06-03
+last_updated: 2026-06-13
 founded: 2013
 location: Lima, Peru
 website: https://hiperderecho.org
@@ -17,7 +17,7 @@ related_orgs:
   - org-access-now
   - org-electronic-frontier-foundation
   - org-derechos-digitales
-funders: []
+funders: [fund-open-society-foundations, fund-hivos, fund-indela]
 sources:
   - url: https://hiperderecho.org/
     last_checked: 2026-06-03
@@ -52,6 +52,9 @@ sources:
   - url: https://www.accessnow.org/reglamento-de-ia-en-peru/
     last_checked: 2026-06-03
     note: 'Access Now article on Peru''s AI regulation — primary source for the joint Access Now–Hiperderecho submission of human-rights-based recommendations on the first draft of the regulation in 2024 and the assessment that important measures were adopted in the final September 2025 version while many other recommendations were not'
+  - url: https://hiperderecho.org/transparencia/
+    last_checked: 2026-06-13
+    note: 'Hiperderecho transparency page — primary source for the 2017–2019 funder roster; confirms Open Society Foundations (2017, 2018, 2019) and Hivos (2017) as direct financial supporters; Indela confirmed separately via indela.fund/en/portfolio/hiperderecho/'
 ---
 
 # Hiperderecho
