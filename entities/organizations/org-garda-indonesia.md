@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [indonesia, southeast-asia, gig-workers, ride-hailing, ojol, motorcycle-taxi, algorithmic-management, platform-workers, labor-organizing, worker-organizing, collective-action, national, jakarta, commission-caps, fare-algorithm, gojek, grab]
 created: 2026-06-10
-last_updated: 2026-06-10
+last_updated: 2026-06-12
 location: national (Indonesia)
 website: https://gardaindonesia.or.id/
 strategies: []
@@ -26,7 +26,7 @@ sources:
     note: 'Business & Human Rights Resource Centre "Indonesia: Gig workers organising and fighting against decreasing pay and constant precarity" — corroborates GARDA''s national-scale mobilisation against Gojek and Grab commission structures and the Perpres 27/2026 commission-cap achievement reducing platform fees from up to 20% to 8%'
   - url: https://www.bloomberg.com/news/articles/2025-09-15/more-protests-planned-as-anger-sweeps-indonesia-s-gig-drivers
     last_checked: 2026-06-10
-    note: 'Bloomberg "More Protests Planned as Anger Sweeps Indonesia''s Gig Drivers" (15 September 2025) — independent editorial reporting on GARDA-led September 2025 DPR demonstration; documents the death of driver Affan Kurniawan at the August 29 2024 protest and GARDA''s subsequent demand for independent investigation; frames Indonesian gig-driver mobilisation in the global platform-labour context'
+    note: 'Bloomberg "More Protests Planned as Anger Sweeps Indonesia''s Gig Drivers" (15 September 2025) — independent editorial reporting on GARDA-led September 2025 DPR demonstration; documents the death of driver Affan Kurniawan at the August 28 2025 DPR protest and GARDA''s subsequent demand for independent investigation; frames Indonesian gig-driver mobilisation in the global platform-labour context'
   - url: https://indonesiabusinesspost.com/4801/society-environment-and-culture/thousands-of-ojol-drivers-rally-at-presidential-palace-seek-lower-commission-fees
     last_checked: 2026-06-10
     note: 'Indonesia Business Post on the July 21 2025 "Aksi 217" rally — documents 50,000+ drivers at the Presidential Palace; quotes Raden Igun Wicaksono on the dual impact of fare changes on drivers and customers; records GARDA''s demand for a comprehensive government audit of Gojek, Grab, Maxim, and inDrive'
@@ -50,9 +50,9 @@ GARDA's organising grievance is rooted in the opacity of algorithmic control. Pl
 
 ## Major campaigns
 
-Three landmark mobilisations have defined GARDA's public profile. On **29 August 2024**, GARDA led a national strike action — subsequently known as "Aksi 179" — in which thousands of drivers wearing green jackets [converged on the Presidential Palace and Gojek and Grab headquarters](https://www.ituc-csi.org/long-silenced-gig-workers-in) to demand social security, health insurance, accident insurance, and worker-status recognition. Driver Affan Kurniawan [died at the protest](https://www.bloomberg.com/news/articles/2025-09-15/more-protests-planned-as-anger-sweeps-indonesia-s-gig-drivers) in an incident involving a Brimob tactical vehicle; his death became the centrepiece of GARDA's subsequent accountability demands, with the organisation pressing for an independent investigation into police conduct at the demonstration.
+Three landmark mobilisations have defined GARDA's public profile. On **29 August 2024**, GARDA led a national strike action — subsequently known as "Aksi 179" — in which thousands of drivers wearing green jackets [converged on the Presidential Palace and Gojek and Grab headquarters](https://www.ituc-csi.org/long-silenced-gig-workers-in) to demand social security, health insurance, accident insurance, and worker-status recognition.
 
-In **May 2025**, GARDA organised "Aksi 205" — coordinated demonstrations across Jakarta, Surabaya, and other cities demanding a 10% cap on platform commission fees. The July 2025 "Aksi 217" [brought more than 50,000 drivers to the Presidential Palace](https://indonesiabusinesspost.com/4801/society-environment-and-culture/thousands-of-ojol-drivers-rally-at-presidential-palace-seek-lower-commission-fees) — GARDA's largest mobilisation on record — with demands extending to a comprehensive government audit of all four major platforms. In **September 2025**, [an estimated 5,000 drivers demonstrated at the DPR (People's Representative Council)](https://www.bloomberg.com/news/articles/2025-09-15/more-protests-planned-as-anger-sweeps-indonesia-s-gig-drivers), renewing the call for accountability in the Affan Kurniawan case and for formalised regulation of the gig economy.
+In **May 2025**, GARDA organised "Aksi 205" — coordinated demonstrations across Jakarta, Surabaya, and other cities demanding a 10% cap on platform commission fees. The July 2025 "Aksi 217" [brought more than 50,000 drivers to the Presidential Palace](https://indonesiabusinesspost.com/4801/society-environment-and-culture/thousands-of-ojol-drivers-rally-at-presidential-palace-seek-lower-commission-fees) — GARDA's largest mobilisation on record — with demands extending to a comprehensive government audit of all four major platforms. On **28 August 2025**, driver Affan Kurniawan [died at a DPR demonstration](https://www.bloomberg.com/news/articles/2025-09-15/more-protests-planned-as-anger-sweeps-indonesia-s-gig-drivers) in an incident involving a Brimob tactical vehicle; his death became the centrepiece of GARDA's accountability demands, with the organisation pressing for an independent investigation into police conduct. In **September 2025**, [an estimated 5,000 drivers demonstrated at the DPR (People's Representative Council)](https://www.bloomberg.com/news/articles/2025-09-15/more-protests-planned-as-anger-sweeps-indonesia-s-gig-drivers), renewing the call for accountability in the Affan Kurniawan case and for formalised regulation of the gig economy.
 
 ## Achievement: Perpres 27/2026
 
