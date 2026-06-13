@@ -11,7 +11,7 @@ founded: 2025
 location: Nigeria (national chapter; no publicly-documented city anchor at draft time — chapter's federation-listed channel is a WhatsApp group rather than a website)
 parent_org: org-pauseai
 website_or_contact: https://chat.whatsapp.com/L4o2IiOX1HI2GWQi0J9ZJv
-key_people: []
+key_people: [person-khadija-sabiu]
 sources:
   - url: https://pauseai.info/communities
     last_checked: 2026-05-17
