@@ -7,7 +7,7 @@ confidence: high
 tags: [report, annual-report, africa, east-africa, west-africa, north-africa, southern-africa, multi-country-mapping, cipesa, fifafrica, ai-governance, digital-democracy, surveillance, internet-freedom, algorithmic-accountability, civil-society-evidence-base, pan-african, ai-and-human-rights, ai-and-elections, qualitative-research]
 created: 2026-06-11
 last_updated: 2026-06-11
-authors: []
+authors: [person-juliet-nanfuka]
 publisher: CIPESA
 date: 2025-09-29
 url: https://cipesa.org/2025/09/state-of-internet-freedom-in-africa-report/
