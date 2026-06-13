@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [united-states, national, worker-organizing, gig-workers, platform-workers, algorithmic-management, workplace-surveillance, bossware, labor, digital-campaigns, worker-power, gig-economy, founded-2013]
 created: 2026-06-03
-last_updated: 2026-06-03
+last_updated: 2026-06-13
 founded: 2013
 location: national
 website: https://home.coworker.org
@@ -14,11 +14,14 @@ strategies: [strat-organize-ai-supply-chain-workers]
 key_people: []
 board_and_advisors: []
 related_orgs: []
-funders: []
+funders: [fund-ford-foundation]
 sources:
   - url: https://home.coworker.org/about-us/
     last_checked: 2026-06-03
     note: 'Coworker.org official about page — primary source for mission statement ("laboratory for workers to experiment with power-building strategies and win meaningful changes in the 21st century economy"), gig economy project focus, nonprofit status, and New Venture Fund fiscal sponsorship'
+  - url: https://www.fordfoundation.org/work/our-grants/awarded-grants/grants-database/new-venture-fund-134071/
+    last_checked: 2026-06-13
+    note: 'Ford Foundation grant to New Venture Fund (Coworker.org fiscal sponsor) — $2,870,417 total ($2,720,417 approved September 2020; $150,000 increase August 2022; end date July 2024) for "core support for Coworker.org to facilitate worker engagement on workplace advocacy issues, including employee concerns about the political, economic and cultural power of digital technologies, and core support for institutional strengthening"'
   - url: https://home.coworker.org/worktech/
     last_checked: 2026-06-03
     note: 'Coworker.org Bossware and Employment Tech Database — primary source for November 17, 2021 launch, catalog of 550+ labor-focused technology products covering AI, location tracking, and biometrics across the employment lifecycle, and companion report "Little Tech Is Coming for Workers" by Wilneida Negrón'
