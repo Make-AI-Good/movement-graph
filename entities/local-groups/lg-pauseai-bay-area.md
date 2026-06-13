@@ -6,12 +6,13 @@ status: active
 confidence: high
 tags: [san-francisco, bay-area, california, usa, pauseai-chapter, ai-safety, pause, frontier-ai, openai, anthropic, meta, protest, direct-action, flyering, first-friday-flyering]
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-06-13
 founded: 2023
 location: San Francisco Bay Area, California, USA (protest activity concentrated on the cluster of frontier AI lab offices in San Francisco's Mission, SoMa, and Financial District neighbourhoods)
 parent_org: org-pauseai
 website_or_contact: https://www.pauseai-us.org/local-groups/
-key_people: []
+key_people:
+  - person-holly-elmore
 sources:
   - url: https://www.pauseai-us.org/local-groups/
     last_checked: 2026-05-12
