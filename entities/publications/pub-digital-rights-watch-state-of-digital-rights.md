@@ -15,10 +15,10 @@ publication_type: report
 sources:
   - url: https://digitalrightswatch.org.au/2018/05/14/the-state-of-digital-rights/
     last_checked: 2026-05-30
-    note: 'Digital Rights Watch canonical publication page for the inaugural May 2018 State of Digital Rights — primary source for the 13 May 2018 publication date, the 24+ policy recommendations including repeal of mandatory metadata retention, and the seven endorsing civil society organisations'
+    note: 'Digital Rights Watch canonical publication page for the inaugural May 2018 State of Digital Rights — primary source for the 13 May 2018 publication date, the 24+ policy recommendations including repeal of mandatory metadata retention, and the seven endorsing civil society organisations; authorship: posted by Digital Rights Watch — organizational publication with no individually credited authors (verified 2026-06-12)'
   - url: https://digitalrightswatch.org.au/wp-content/uploads/2018/05/State-of-Digital-Rights-Web.pdf
     last_checked: 2026-05-30
-    note: 'Full PDF of the 2018 inaugural report — direct download link from Digital Rights Watch'
+    note: 'Full PDF of the 2018 inaugural report — direct download link from Digital Rights Watch; no individual author credits on cover page (binary PDF; authorship verified via page source and Tim Singleton Norton farewell post)'
   - url: https://en.wikipedia.org/wiki/Digital_Rights_Watch
     last_checked: 2026-05-30
     note: 'Wikipedia — source for Digital Rights Watch founding year 2016 in Melbourne, founding context of mandatory telecommunications data retention scheme, Lucie Krahulcova as Director, Lizzie O''Shea as Chair, and key campaigns including the 2016 census privacy campaign and 2017 Get a VPN Day'
