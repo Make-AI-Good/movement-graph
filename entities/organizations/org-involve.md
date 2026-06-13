@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [uk, london, bethnal-green, europe, charity, non-profit, deliberative-democracy, citizens-assembly, public-participation, democratic-innovation, participatory-governance, infrastructure, digital-governance, ai-governance, capacity-building]
 created: 2026-06-08
-last_updated: 2026-06-08
+last_updated: 2026-06-13
 founded: 2003
 location: London, UK
 website: https://www.involve.org.uk/
@@ -16,7 +16,9 @@ key_people: []
 board_and_advisors: []
 related_orgs:
   - org-sortition-foundation
-funders: []
+funders:
+  - fund-joseph-rowntree-reform-trust
+  - fund-calouste-gulbenkian-foundation
 sources:
   - url: https://www.involve.org.uk/about/about-involve
     last_checked: 2026-06-08
@@ -42,6 +44,9 @@ sources:
   - url: https://www.involve.org.uk/news-opinion/news/sarah-castell-step-down-ceo-involve
     last_checked: 2026-06-08
     note: Involve news — source for Sarah Castell stepping down as CEO in June 2025 and Steph Draper and Carly Walker Dawson becoming joint interim chief executives
+  - url: https://grantnav.threesixtygiving.org/recipient/GB-CHC-1130568
+    last_checked: 2026-06-13
+    note: '360Giving GrantNav record for The Involve Foundation (charity 1130568) — source for Joseph Rowntree Reform Trust grants (£452,315 total: £350,000 Apr 2021 Democracy Network, £75,000 Apr 2024 Make Politics Work For Us campaign, £27,315 Jun 2025 extension) and Calouste Gulbenkian Foundation UK Branch grants (£660,000 total: £20,000 Apr 2020, £250,000 Jul 2021, £250,000 Jun 2022, £70,000 Jan 2024, £70,000 Oct 2024); 9 funders across 23 grants documented'
 ---
 
 # Involve
