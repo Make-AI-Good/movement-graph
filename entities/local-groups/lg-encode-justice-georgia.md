@@ -6,11 +6,11 @@ status: active
 confidence: high
 tags: [georgia, usa, southeast-us, atlanta-metro, suwanee, youth-led, student-organizing, ai-policy, algorithmic-accountability, surveillance, police-surveillance, data-privacy, encode-justice-chapter, electronic-frontier-alliance]
 created: 2026-05-13
-last_updated: 2026-05-26
+last_updated: 2026-06-13
 location: Georgia, USA (statewide; Atlanta metro / Forsyth County anchor at Lambert High School in Suwanee)
 parent_org: org-encode-justice
 website_or_contact: https://www.instagram.com/encode.ga/
-key_people: []
+key_people: [person-martha-mwangi]
 sources:
   - url: https://www.eff.org/deeplinks/2024/12/electronic-frontier-alliance-fought-and-taught-locally-2024-year-review
     last_checked: 2026-05-13
@@ -45,7 +45,7 @@ EFF's [December 2024 Electronic Frontier Alliance year-in-review](https://www.ef
 
 ## Chapter leadership and Lambert High School anchor
 
-The chapter's named anchor in the public record runs through Lambert High School in Suwanee, Forsyth County, Georgia — a northeast Atlanta-metro public high school. [The Lambert Post](https://thelambertpost.com/news/encode-justice-scholarship/), the school's student newspaper, names **Martha Mwangi**, then a Lambert junior, as the chapter leader of Encode Justice at the school, with **Emily Nicholas** as the co-founder of the chapter's scholarship programme and **Manishidha Spriyan** and **Anna Pham** assisting with planning and funding. None of the four are independently in the corpus and are recorded here as the chapter's named student leadership rather than as Person entries, in keeping with this corpus's sourcing rule that Person entries below the public-sourcing threshold are not created.
+The chapter's named anchor in the public record runs through Lambert High School in Suwanee, Forsyth County, Georgia — a northeast Atlanta-metro public high school. [The Lambert Post](https://thelambertpost.com/news/encode-justice-scholarship/), the school's student newspaper, names [Martha Mwangi](../persons/person-martha-mwangi.md), then a Lambert junior, as the chapter leader of Encode Justice at the school, with **Emily Nicholas** as the co-founder of the chapter's scholarship programme and **Manishidha Spriyan** and **Anna Pham** assisting with planning and funding. Mwangi is recorded in the corpus as a Person entry; Emily Nicholas, Manishidha Spriyan, and Anna Pham are named here but remain below the sourcing threshold for Person entries.
 
 ## EJ-GA Essay Contest and the Georgia Computer Data Privacy Act
 
