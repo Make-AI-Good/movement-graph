@@ -6,12 +6,12 @@ status: active
 confidence: medium
 tags: [kenya, nairobi, east-africa, sub-saharan-africa, africa, pauseai-chapter, ai-safety, pause, frontier-ai, volunteer-led, swahili, kiswahili, manifund-funded, x-twitter, university-workshops, policymaker-engagement]
 created: 2026-05-15
-last_updated: 2026-05-15
+last_updated: 2026-06-13
 founded: 2025
 location: Nairobi, Kenya (national chapter; documented office anchor at a 122-square-metre volunteer-donated workspace in Nairobi)
 parent_org: org-pauseai
 website_or_contact: https://x.com/Pauseaikenya
-key_people: []
+key_people: [person-seth-momanyi-ouko]
 sources:
   - url: https://pauseai.info/communities
     last_checked: 2026-05-15
