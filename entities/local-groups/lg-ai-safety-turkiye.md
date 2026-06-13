@@ -11,7 +11,7 @@ founded: 2023
 location: Istanbul, Türkiye (also Ankara)
 parent_org:
 website_or_contact: https://aisafetyturkiye.org/en/
-key_people: []
+key_people: [person-bengusu-ozcan]
 sources:
   - url: https://aisafetyturkiye.org/en/
     last_checked: 2026-06-09
