@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [uk, london, san-francisco, international, non-profit, ai-safety, ai-governance, field-building, education, talent-pipeline, community-building, facilitator-network, biosecurity, ea-adjacent, company-limited-by-guarantee]
 created: 2026-06-12
-last_updated: 2026-06-12
+last_updated: 2026-06-13
 founded: 2022
 location: London, UK (with San Francisco office)
 website: https://bluedot.org/
@@ -14,7 +14,7 @@ strategies: []
 key_people: []
 board_and_advisors: []
 related_orgs: []
-funders: []
+funders: [fund-coefficient-giving]
 sources:
   - url: https://bluedot.org/
     last_checked: 2026-06-12
@@ -43,6 +43,12 @@ sources:
   - url: https://forum.effectivealtruism.org/posts/AyYnGXim8X4c5p9FE/1-year-update-on-impactrio-the-first-ai-safety-group-in
     last_checked: 2026-06-12
     note: 'impactRIO one-year update (June 2024) — confirms all three impactRIO fellowship tracks (Alignment 2023, Advanced Alignment 2024, Governance 2024) are based on BlueDot Impact curricula; 26 fellowship completions'
+  - url: https://www.openphilanthropy.org/grants/bluedot-impact-general-support-2024/
+    last_checked: 2026-06-13
+    note: 'Coefficient Giving (formerly Open Philanthropy) general support grant 2024 — £3,867,018 over two years for AI safety field-building; URL now redirects to Coefficient Giving''s Global Catastrophic Risks Opportunities fund page'
+  - url: https://www.goodventures.org/our-portfolio/grants/bluedot-impact-general-support-2025/
+    last_checked: 2026-06-13
+    note: 'Good Ventures grant page confirming Coefficient Giving general support 2025 — $25,649,888 over three years to BlueDot Impact for AI safety field-building'
 ---
 
 # BlueDot Impact
@@ -77,7 +83,7 @@ In this corpus, [BAISH (Buenos Aires AI Safety Hub)](../local-groups/lg-baish.md
 
 ## Scale and outcomes
 
-By mid-2026, BlueDot reports 8,000+ alumni trained since 2022, drawn from backgrounds spanning ML research, software engineering, policy, government, and humanitarian organisations. Approximately [1,000 graduates now work in high-impact roles](https://blog.bluedot.org/p/2023-impact-report) at organisations including Anthropic, Google DeepMind, the UK AI Security Institute, the United Nations, NATO, Stanford HAI, and the Harvard Kennedy School. The organisation raised $35 million in total — $5 million in 2024 and $25 million in 2025 — enabling expansion to monthly course runs and a San Francisco office.
+By mid-2026, BlueDot reports 8,000+ alumni trained since 2022, drawn from backgrounds spanning ML research, software engineering, policy, government, and humanitarian organisations. Approximately [1,000 graduates now work in high-impact roles](https://blog.bluedot.org/p/2023-impact-report) at organisations including Anthropic, Google DeepMind, the UK AI Security Institute, the United Nations, NATO, Stanford HAI, and the Harvard Kennedy School. The organisation raised $35 million in total — $5 million in 2024 and $25 million in 2025 — enabling expansion to monthly course runs and a San Francisco office. Both tranches came from [Coefficient Giving](../funders/fund-coefficient-giving.md) (formerly Open Philanthropy) as general support grants.
 
 The 2024 growth trajectory reflects the field-building dynamic: from 400 participants in its inaugural 2022 cohort to 3,500 trained in 2024 alone. The shift to monthly courses in 2025 further compressed the cycle between cohort launches.
 
