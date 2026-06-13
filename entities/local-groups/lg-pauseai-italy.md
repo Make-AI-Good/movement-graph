@@ -10,7 +10,7 @@ last_updated: 2026-06-03
 location: Italy (national chapter)
 parent_org: org-pauseai
 website_or_contact: https://www.pauseai.it/
-key_people: []
+key_people: [person-giulia-consonni]
 sources:
   - url: https://www.pauseai.it/
     last_checked: 2026-06-03
