@@ -42,7 +42,7 @@ antoan.ai (also written AnToàn.AI — *an toàn* meaning "safety" in Vietnamese
 
 ## Team
 
-antoan.ai is a nonprofit with a small team. Identified members include Parker Vu, Tung Nguyen Lam, and Khiem Hoang (a computer science student at Waseda University); a broader collaboration network named in the Summer Research Fellowship includes Jord Nguyen, Khanh Linh Nguyen, and N Tran. The founding date is not publicly documented; the Summer Research Fellowship run in partnership with the Hanoi AI Safety Network was underway by at least the early 2020s.
+antoan.ai is a nonprofit with a small team. Identified members include [Parker Vu](../persons/person-parker-vu.md), Tung Nguyen Lam, and Khiem Hoang (a computer science student at Waseda University); a broader collaboration network named in the Summer Research Fellowship includes Jord Nguyen, Khanh Linh Nguyen, and N Tran. The founding date is not publicly documented; the Summer Research Fellowship run in partnership with the Hanoi AI Safety Network was underway by at least the early 2020s.
 
 ## Programme
 

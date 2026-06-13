@@ -32,7 +32,7 @@ sources:
 
 # AI Safety UAE
 
-AI Safety UAE (aisafety.ae) is the UAE's first civil-society AI-safety community, co-founded by Wes Ezzeddine and Naiyarah Hussain as a hybrid enterprise-services and public-community initiative. Its aisafety.com description captures the mandate: to "catalyze collaboration, literacy, and governance frameworks that contribute to advanced AI systems being aligned with human and national interests." It is the corpus's first entry for any Middle East or North Africa (MENA) AI-safety local group, and the sole MENA entry in the AISafety.com global communities directory's 222-community span.
+AI Safety UAE (aisafety.ae) is the UAE's first civil-society AI-safety community, co-founded by [Wes Ezzeddine](../persons/person-wes-ezzeddine.md) and Naiyarah Hussain as a hybrid enterprise-services and public-community initiative. Its aisafety.com description captures the mandate: to "catalyze collaboration, literacy, and governance frameworks that contribute to advanced AI systems being aligned with human and national interests." It is the corpus's first entry for any Middle East or North Africa (MENA) AI-safety local group, and the sole MENA entry in the AISafety.com global communities directory's 222-community span.
 
 ## Founding and leadership
 

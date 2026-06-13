@@ -45,7 +45,7 @@ The organization's public activities in early 2025 reflect a deliberately multi-
 - **AI Safety Principles in 4D** — a 3-day in-person intensive in Jakarta applying safety engineering across the four stages of the AI lifecycle: design, development, deployment, and decommissioning. Covers risk assessment, adversarial defense, and implementation strategies.
 - **AI Safety Professional** — a 6-day intensive at the Stanford campus, including site visits to leading technology companies. The capstone credential of the sequence.
 
-Batch 02 opened applications April 7–25, 2025 with the program starting May 5–9, 2025 — indicating Batch 01 had already run. The program is explicitly aimed at professionals and organizations working with AI systems, rather than students entering the field: the target is practitioners who need AI-safety literacy anchored in Indonesian deployment contexts. Yan Pratama Akhra serves as Program Manager.
+Batch 02 opened applications April 7–25, 2025 with the program starting May 5–9, 2025 — indicating Batch 01 had already run. The program is explicitly aimed at professionals and organizations working with AI systems, rather than students entering the field: the target is practitioners who need AI-safety literacy anchored in Indonesian deployment contexts. [Yan Pratama Akhra](../persons/person-yan-pratama-akhra.md) serves as Program Manager.
 
 **Outreach Program.** A student-oriented complement targeting high school and undergraduate students through workshops, competitions, and mentorship — building foundational AI-safety awareness upstream of the professional pipeline. Annual AI safety competitions and a symposium are planned.
 
