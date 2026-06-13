@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [nigeria, lagos, abuja, west-africa, sub-saharan-africa, pan-african, regional, non-profit, social-enterprise, digital-rights, digital-inclusion, internet-freedom, internet-shutdowns, surveillance, biometric-surveillance, privacy, data-protection, ai-and-human-rights, ai-governance, strategic-litigation, advocacy, public-policy, convening, research, capacity-building, youth-empowerment, londa, drif, ayeta, ripoti]
 created: 2026-05-14
-last_updated: 2026-05-14
+last_updated: 2026-06-13
 founded: 2007
 location: international (Lagos and Abuja headquarters in Nigeria with sub-regional offices in Cameroon, Kenya, Senegal, Zambia, and Zimbabwe)
 website: https://paradigmhq.org/
@@ -16,7 +16,7 @@ board_and_advisors: []
 related_orgs:
   - org-pollicy
   - org-africtivistes
-funders: []
+funders: [fund-ford-foundation, fund-charles-stewart-mott-foundation, fund-open-society-foundations, fund-omidyar-network, fund-luminate]
 sources:
   - url: https://paradigmhq.org/
     last_checked: 2026-05-14
@@ -54,6 +54,21 @@ sources:
   - url: https://www.apc.org/en/news/interview-gbenga-sesan-what-important-digital-rights-campaign-nigeria-and-beyond-ensuring
     last_checked: 2026-05-14
     note: Association for Progressive Communications interview with 'Gbenga Sesan — secondary source corroborating his framing of the digital-rights campaign in Nigeria and beyond, and the connection between digital rights and people's day-to-day experiences as the organising principle of Paradigm Initiative's advocacy
+  - url: https://paradigmhq.org/funders/
+    last_checked: 2026-06-13
+    note: 'Paradigm Initiative''s own funders page — primary source listing Ford Foundation, Omidyar Network, and OSIWA (Open Society Initiative for Western Africa, the regional grantmaking programme of the Open Society Foundations) among documented funders; page reflects both historical Omidyar Network grants (pre-Luminate 2018 spinoff) and ongoing Ford Foundation support'
+  - url: https://www.fordfoundation.org/work/our-grants/awarded-grants/grants-database/paradigm-initiative-for-information-technology-development-134152/
+    last_checked: 2026-06-13
+    note: 'Ford Foundation grants database entry for Paradigm Initiative for Information Technology Development — primary source confirming the $700,000 BUILD grant approved July 2020 for general and core institutional support in the Technology and Society focus area, with funding through June 2024; one of at least eight Ford Foundation grants to the organisation since 2006'
+  - url: https://www.mott.org/grants/2023-11717/
+    last_checked: 2026-06-13
+    note: 'Charles Stewart Mott Foundation grants database entry 2023-11717 — primary source confirming a $200,000 grant to Paradigm Initiative for the period July 2023–June 2025 to raise awareness about digital rights and the digital civic space in Africa and to coordinate regional policy advocacy through research and annual activist convenings'
+  - url: https://www.mott.org/grants/2023-11719/
+    last_checked: 2026-06-13
+    note: 'Charles Stewart Mott Foundation grants database entry 2023-11719 — primary source confirming a $250,000 grant to Paradigm Initiative for the period July 2025–June 2027 for continued digital rights research and annual convening of digital rights activists to strengthen relationships and influence policy development across Africa'
+  - url: https://www.luminategroup.com/investee/paradigm-initiative
+    last_checked: 2026-06-13
+    note: 'Luminate investee page for Paradigm Initiative — primary source for Luminate''s grantmaking relationship with Paradigm Initiative; corroborated by a 2023 grant of $410,000 over two years for core operations and digital rights and digital inclusion programmes under Luminate''s Participation & Dissent and Information Ecosystems focus areas'
 ---
 
 # Paradigm Initiative
