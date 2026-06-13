@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [kenya, nairobi, africa, non-profit, constitutionalism, public-interest-litigation, strategic-litigation, legal-advocacy, digital-rights, data-protection, content-moderation, algorithmic-accountability, big-tech-accountability, human-rights]
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-06-13
 founded: 2011
 location: Nairobi, Kenya
 website: https://katibainstitute.org
@@ -19,7 +19,13 @@ related_orgs:
   - org-africa-tech-workers-movement
   - org-african-content-moderators-union
   - org-oversight-lab-africa
-funders: []
+funders:
+  - fund-ford-foundation
+  - fund-luminate
+  - fund-hewlett-foundation
+  - fund-open-society-foundations
+  - fund-sigrid-rausing-trust
+  - fund-hivos
 sources:
   - url: https://katibainstitute.org/
     last_checked: 2026-05-12
@@ -60,6 +66,15 @@ sources:
   - url: https://allafrica.com/stories/202602050036.html
     last_checked: 2026-05-12
     note: AllAfrica (5 February 2026) on Katiba Institute's letter demanding a funding freeze for unlawful presidential-advisor roles — recent example of the institute's standing public-interest constitutional advocacy beyond the technology docket
+  - url: https://katibainstitute.org/donors/
+    last_checked: 2026-06-13
+    note: 'Katiba Institute''s own donors page — primary source confirming current institutional funders: Luminate (Omidyar Network), Hewlett Foundation, Ford Foundation, Open Society Initiative for East Africa (OSIEA), and past funder HIVOS'
+  - url: https://www.fordfoundation.org/work/our-grants/awarded-grants/grants-database/katiba-institute-152446/
+    last_checked: 2026-06-13
+    note: Ford Foundation grants database entry 152446 — confirms a $390,000 BUILD general-support and institutional-strengthening grant to Katiba Institute, approved January 2025 for February 2025–January 2026 (the most recent of multiple Ford Foundation grants, the earliest traceable to 2013)
+  - url: https://www.sigrid-rausing-trust.org/grantee/katiba/
+    last_checked: 2026-06-13
+    note: 'Sigrid Rausing Trust grantee page for Katiba Institute — confirms £150,000 current grant (November 2025 start) and £600,000 in cumulative funding since 2023, framed around Katiba''s constitutional and human-rights public-interest litigation mandate'
 ---
 
 # Katiba Institute
