@@ -11,7 +11,7 @@ founded: 2023
 location: Rio de Janeiro, Brazil (Fundação Getulio Vargas)
 parent_org: org-bluedot-impact
 website_or_contact: https://www.linkedin.com/company/impact-rio/
-key_people: []
+key_people: [person-joao-lucas-duim]
 sources:
   - url: https://forum.effectivealtruism.org/posts/AyYnGXim8X4c5p9FE/1-year-update-on-impactrio-the-first-ai-safety-group-in
     last_checked: 2026-06-08
