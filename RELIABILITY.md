@@ -1,11 +1,11 @@
 ---
 type: reliability-statement
-generated_at: 2026-06-13T17:27:36Z
-generated_at_commit: cc347006015074fec35dca415fc4d28facdb9f53
+generated_at: 2026-06-13T17:49:39Z
+generated_at_commit: 94fd36e7971c0d4ecfc3f0f227c0f78b2158e758
 generator: movement-graph/dashboard/generate-reliability.sh
 audited_entities: 495
-total_entities: 798
-audit_coverage_pct: 62
+total_entities: 799
+audit_coverage_pct: 61
 total_claims: 11035
 claims_corroborated: 7983
 claims_primary_sourced: 652
@@ -19,7 +19,7 @@ status_corrections_pending: 222
 
 # Corpus reliability
 
-Auto-generated at commit `cc34700` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
+Auto-generated at commit `94fd36e` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
 
 This graph is independently audited at the claim level. Of 11,035 claims across 495 audited entities: **78.3%** corroborated or primary-sourced, **2.3%** single-source, **15.8%** not independently corroborated, **3.7%** precision-corrected (which we apply). **No fabrication observed.**
 
@@ -49,7 +49,7 @@ Entity-level `status` is a **distribution**, never the worst single claim:
 
 | Metric | Value |
 |---|---|
-| Audit coverage | 495 / 798 entities (62%) |
+| Audit coverage | 495 / 799 entities (61%) |
 | Total claims audited | 11,035 |
 | Claims corroborated (≥2 sources) | 7,983 |
 | Claims primary-sourced (1 primary-tier source) | 652 |

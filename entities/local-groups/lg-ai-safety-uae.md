@@ -11,7 +11,7 @@ founded:
 location: United Arab Emirates (Dubai-anchored; operates nationally)
 parent_org:
 website_or_contact: https://aisafety.ae/
-key_people: []
+key_people: [person-wes-ezzeddine]
 sources:
   - url: https://aisafety.ae/
     last_checked: 2026-06-03
