@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [serbia, belgrade, balkans, southeast-europe, eastern-europe, digital-rights, privacy, surveillance, biometric-surveillance, facial-recognition, freedom-of-expression, data-protection, digital-security, internet-freedom, spyware, civil-society, algorithmic-accountability, regional-network, founded-2012]
 created: 2026-06-03
-last_updated: 2026-06-03
+last_updated: 2026-06-13
 founded: 2012
 location: Belgrade, Serbia
 website: https://sharefoundation.info
@@ -16,7 +16,7 @@ board_and_advisors: []
 related_orgs:
   - org-access-now
   - org-edri
-funders: []
+funders: [fund-open-society-foundations]
 sources:
   - url: https://sharefoundation.info/en/about-us/
     last_checked: 2026-06-03
@@ -45,6 +45,9 @@ sources:
   - url: https://sharefoundation.info/en/revealing-novispy-technical-analysis-of-a-serbian-android-spyware/
     last_checked: 2026-06-03
     note: 'SHARE Foundation technical analysis of NoviSpy Android spyware (May 2025) — primary source for forensic findings confirming Serbian state surveillance infrastructure (command-and-control servers in Serbia) and systematic deployment of custom spyware against journalists and activists'
+  - url: https://osfwb.org/project/western-balkans-digital-rights-cooperation/
+    last_checked: 2026-06-13
+    note: 'OSF Western Balkans project page — primary source confirming Open Society Foundations funding of SHARE Foundation; states "the Share Foundation conducted extensive research and advocacy against mass biometric surveillance" under OSF support, culminating in the book "Beyond the Face: Biometrics and Society" (November 2023); names SHARE Foundation Serbia as a co-implementing partner alongside regional peers in North Macedonia, Kosovo, Bosnia and Herzegovina, Albania, and Montenegro'
 ---
 
 # SHARE Foundation
