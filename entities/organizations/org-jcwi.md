@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [uk, london, charity, sectoral-charity, immigration, refugee-rights, legal-aid, casework, strategic-litigation, judicial-review, hostile-environment, automated-decision-making, algorithmic-accountability, public-bodies, public-law, civil-society, long-running]
 created: 2026-05-08
-last_updated: 2026-05-08
+last_updated: 2026-06-13
 founded: 1967
 location: London, United Kingdom
 website: https://jcwi.org.uk/
@@ -18,7 +18,8 @@ board_and_advisors: []
 related_orgs:
   - org-foxglove
   - org-big-brother-watch
-funders: []
+funders:
+  - fund-trust-for-london
 sources:
   - url: https://jcwi.org.uk/about-us/
     last_checked: 2026-05-08
@@ -29,6 +30,9 @@ sources:
   - url: https://jcwi.org.uk/about-us/our-funders/
     last_checked: 2026-05-08
     note: JCWI's open list of trusts, foundations, and other supporters
+  - url: https://grantnav.threesixtygiving.org/org/GB-CHC-1117513
+    last_checked: 2026-06-13
+    note: '360Giving GrantNav — JCWI grant-recipient record (charity number 1117513); confirms Trust for London as a grantmaker (4 grants, £368,879 total)'
   - url: https://jcwi.org.uk/wp-content/uploads/2024/12/JCWI-Annual-Report-and-Financial-Statement-2024.pdf
     last_checked: 2026-05-08
     note: JCWI Annual Report and Financial Statement 2024 — primary disclosure of income, expenditure, and trustees
