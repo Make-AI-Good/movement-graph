@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [india, bengaluru, data-governance, data-cooperative, ai-labor, digital-public-infrastructure, platform-labor, global-south, research, national]
 created: 2026-06-11
-last_updated: 2026-06-11
+last_updated: 2026-06-13
 founded: 2019
 location: national
 website: https://aapti.in
@@ -14,7 +14,7 @@ strategies: [strat-parallel-community-research-institution, strat-organize-ai-su
 key_people: []
 board_and_advisors: []
 related_orgs: []
-funders: []
+funders: [fund-omidyar-network]
 sources:
   - url: https://aapti.in/
     last_checked: 2026-06-11
@@ -37,6 +37,9 @@ sources:
   - url: https://ainowinstitute.org/publications/reframing-impact-ai-summit-2026-launch-essay
     last_checked: 2026-06-11
     note: '"Reframing Impact: AI Summit 2026" (2026) — partnership series by AI Now Institute, Aapti Institute, and The Maybe to surface people-centred AI governance alternatives in the run-up to the India AI Impact Summit 2026.'
+  - url: https://www.omidyarnetwork.in/investees/aapti-institute
+    last_checked: 2026-06-13
+    note: 'Omidyar Network India investee page — three documented grants to Aapti Institute: #ReclaimYourPrivacy social media privacy initiative; Last Mile Access to Urban Governance study (with eGovernments Foundation); Landscaping Infrastructures for Data research.'
 ---
 
 # Aapti Institute
