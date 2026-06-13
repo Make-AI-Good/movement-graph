@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [international, london, uk, global, human-rights, civil-society, amnesty-tech, surveillance, facial-recognition, biometric-surveillance, ban-the-scan, ai-and-human-rights, algorithmic-accountability, autonomous-weapons, lethal-autonomous-weapons, big-tech-accountability, privacy, surveillance-capitalism, data-rights, generative-ai, stop-killer-robots, coalition-member, grassroots-mobilisation]
 created: 2026-06-10
-last_updated: 2026-06-10
+last_updated: 2026-06-13
 founded: 1961
 location: London, UK (international)
 website: https://www.amnesty.org
@@ -24,7 +24,7 @@ related_orgs:
   - org-internet-freedom-foundation
   - org-privacy-international
   - org-human-rights-watch
-funders: []
+funders: [fund-open-society-foundations, fund-ford-foundation, fund-macarthur-foundation, fund-sigrid-rausing-trust]
 sources:
   - url: https://www.amnesty.org/en/tech/
     last_checked: 2026-06-10
@@ -56,6 +56,18 @@ sources:
   - url: https://www.amnesty.org/en/latest/research/2025/12/algorithmic-accountability-toolkit/
     last_checked: 2026-06-10
     note: 'Amnesty International Algorithmic Accountability Toolkit full document (December 2025) — primary source for the toolkit''s scope (investigating AI harms in welfare, policing, healthcare, education), its audience (CSOs, journalists, impacted people, community organisations), and its positioning as a capacity-transfer instrument for civil society'
+  - url: https://www.opensocietyfoundations.org/grants/past?filter_keyword=Amnesty+International
+    last_checked: 2026-06-13
+    note: 'Open Society Foundations grants database — 59 total grants to Amnesty International entities; includes 2023 $900,000 for digital rights work (3 years, global, Open Society Action Fund) and 2024 $13,000,000 general support (5 years, Foundation to Promote Open Society). Funder-side confirmation of the OSF–Amnesty International relationship and the digital-rights programme grant directly supporting Amnesty Tech.'
+  - url: https://www.fordfoundation.org/work/our-grants/awarded-grants/grants-database/amnesty-international-limited-149835/
+    last_checked: 2026-06-13
+    note: 'Ford Foundation grant 149835 to Amnesty International Limited (the international secretariat) — $1,650,000 general support, approved April 2024 (March 2024–February 2026), Civic Engagement and Government programme under Challenging Inequality. One of multiple documented Ford grants to Amnesty International Limited across 2016–2024 totalling several million dollars.'
+  - url: https://www.macfound.org/grantee/amnesty-international-usa-7574/
+    last_checked: 2026-06-13
+    note: 'MacArthur Foundation grantee page for Amnesty International USA — 8 grants totalling $1,465,000 from 1978–2023; most recent is 2023 $25,000 Technology in the Public Interest grant for a workshop to explore the implications of generative AI on human rights. Funder-side confirmation of the MacArthur–Amnesty International relationship with AI-programme alignment.'
+  - url: https://www.sigrid-rausing-trust.org/grantee/amnesty-international-secretariat/
+    last_checked: 2026-06-13
+    note: 'Sigrid Rausing Trust grantee page for Amnesty International Secretariat — £750,000 in grants from 2006 to 2009 under the Trust''s human rights programme. Historical funder-side confirmation of the SRT–Amnesty International relationship.'
 ---
 
 # Amnesty International
