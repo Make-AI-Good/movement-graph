@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [report, amnesty-international, surveillance-capitalism, privacy, freedom-of-expression, freedom-of-thought, non-discrimination, google, facebook, big-tech, data-exploitation, surveillance-advertising, algorithmic-accountability, human-rights, ai-and-human-rights, business-model-critique, market-dominance, targeted-advertising, kumi-naidoo, 2019, international]
 created: 2026-06-10
-last_updated: 2026-06-10
+last_updated: 2026-06-12
 authors: []
 publisher: org-amnesty-international
 date: 2019-11-21
@@ -15,7 +15,7 @@ publication_type: report
 sources:
   - url: https://www.amnesty.org/en/documents/pol30/1404/2019/en/
     last_checked: 2026-06-10
-    note: 'Amnesty International report landing page (index POL 30/1404/2019) — primary source for the publication date (21 November 2019), the full title "Surveillance Giants: How the Business Model of Google and Facebook Threatens Human Rights", and the characterisation of the surveillance-based business model as "inherently incompatible with the right to privacy"'
+    note: 'Amnesty International report landing page (index POL 30/1404/2019) — primary source for the publication date (21 November 2019), the full title "Surveillance Giants: How the Business Model of Google and Facebook Threatens Human Rights", and the characterisation of the surveillance-based business model as "inherently incompatible with the right to privacy"; authorship verified 2026-06-12 — no individual authors credited on the landing page, campaign page, or in secondary sources; report is an Amnesty International institutional publication; authors[] correct as-is. Kumi Naidoo appeared in the press release as Secretary General spokesperson, not as report author.'
   - url: https://www.amnesty.org/en/latest/press-release/2019/11/google-facebook-surveillance-privacy/
     last_checked: 2026-06-10
     note: 'Amnesty International press release (21 November 2019) — primary source for Secretary General Kumi Naidoo''s framing ("Their insidious control of our digital lives undermines the very essence of privacy and is one of the defining human rights challenges of our era"), the identification of Google and Facebook''s model as posing a "systemic threat" to privacy, freedom of expression, freedom of thought, and equality and non-discrimination, and the call for a "radical transformation" of the core business model'
