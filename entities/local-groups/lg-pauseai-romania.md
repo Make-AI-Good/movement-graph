@@ -10,7 +10,7 @@ last_updated: 2026-06-03
 location: Romania (national chapter)
 parent_org: org-pauseai
 website_or_contact: https://www.facebook.com/people/Pause-AI-Romania/61581783381263/
-key_people: []
+key_people: [person-raluca-spataru]
 sources:
   - url: https://pauseai.info/communities
     last_checked: 2026-06-03
