@@ -11,7 +11,7 @@ founded:
 location: Vietnam (Hanoi and Ho Chi Minh City dual hubs)
 parent_org:
 website_or_contact: https://www.antoan.ai/
-key_people: []
+key_people: [person-parker-vu]
 sources:
   - url: https://www.antoan.ai/
     last_checked: 2026-06-03
