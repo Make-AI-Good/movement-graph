@@ -5,6 +5,76 @@ All notable changes to the Movement Graph are documented here. The format is bas
 release semantics described in the [README](README.md#versioning-and-releases):
 **MAJOR** = breaking schema change, **MINOR** = content added, **PATCH** = corrections.
 
+## [2.0.0] — 2026-06-13
+
+The first **directed-coverage** release. Where `v1.0.0` built broadly — a little
+of everything — `v2.0.0` aims: the team pointed its work at the most valuable
+gaps in the graph, driven by two engines (requests from people who use the graph,
+filed as public GitHub issues, and the team's own read of what the mission says
+is missing). This is the pattern every future release follows, not a one-off.
+
+The headline is **connections**. A graph's value is what you can navigate, and
+the edge count **doubled** (826 → 1,652 unique-pair edges) while the corpus grew
+70% — so density rose, not just size. Whole-corpus orphan share **halved**
+(11.6% → 5.7%).
+
+### Added
+
+- **Theory of Coverage (draft `v0.1`)** in the [README](README.md) — the
+  measuring stick. It states what the graph claims to represent, the dimensions
+  we judge ourselves on (geography, entity types, cultural artifacts,
+  insider/outsider engagement), how representative we believe we are, and where
+  we fall short and why. Provisional and sharpened each release; honest-and-useful
+  over exhaustive-and-false.
+- **Strategy entities — a whole entity type, populated for the first time.**
+  25 named strategies (the approaches the movement uses, or could use, to pursue
+  making AI good), cross-linked to their adopters: `organization.strategies`
+  0% → 61%, `campaign.strategies` 0% → 55%. Strategy *depth* (evaluation of what
+  works, effects taxonomy) is a later release; this is breadth.
+
+### Changed — directed coverage fills
+
+- **Connections backfilled across the aimed areas.** Publication authorship
+  `authors[]` 38% → 55%; organization funder edges 54% → 59% (funder orphans
+  45.7% → 32.4%); local-group connection floor `key_people` 8% → 77%,
+  `parent_org` 39% → 45% (local-group orphans 55.6% → 21.4%).
+- **Regional breadth.** New anchors in under-covered regions — Indigenous data
+  sovereignty (Aotearoa, Australia, US), Southeast Asia (Indonesia), MENA (Egypt,
+  Palestine). MENA 21 → 38, Oceania 16 → 25. Coverage is still uneven and the ToC
+  says so plainly.
+- **Cultural artifacts kept pace.** Messages — the mission's named under-tended
+  type — grew with the corpus (37 → 62) rather than being diluted.
+
+### Disclosed — verification state
+
+The published fact-check trail is unchanged in rigor, but its **coverage fell**
+this release: **61.6%** of entities carry an audit trail, down from 69% at
+`v1.1.0`. The corpus grew while routine auditing was **deliberately paused** to
+focus effort on the directed-coverage build; the audit habit resumes after this
+release and climbs back toward 100% over time. Per-claim reliability across the
+495 audited entities holds: of 11,035 claims, **78.3% corroborated or
+primary-sourced, 15.8% uncorroborated, 3.7% with a precision-correction pending**
+(corrections-pending state is published openly, not hidden — see
+[`RELIABILITY.md`](RELIABILITY.md)). No fabrication observed.
+
+### Why this isn't a MAJOR bump
+
+The entity schema in [`schema/spec.md`](schema/spec.md) is **unchanged**. Strategy
+was already a defined entity type; populating it adds content, it does not change
+the data's shape. MINOR is the correct bump (content added).
+
+### Corpus state at this release
+
+- **803 entities** across all ten types — Strategy populated for the first time
+  (organizations 131, persons 168, campaigns 84, events 74, voices 69, funders 68,
+  publications 66, messages 62, local-groups 56, strategies 25).
+- **1,652 unique-pair edges; average degree 4.11** (v1.0.0: 826 / 3.49). Orphan
+  share 5.7% (v1.0.0: 11.6%).
+- **Audit coverage 61.6%** (495/803); per-claim breakdown above.
+- **Provenance floor held:** no `confidence: low` Person entries.
+
+[2.0.0]: https://github.com/Make-AI-Good/movement-graph/releases/tag/v2.0.0
+
 ## [1.1.0] — 2026-06-10
 
 The audit reporting layer is re-keyed for consumer reading. The audit work itself
