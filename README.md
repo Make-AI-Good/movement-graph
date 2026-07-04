@@ -167,7 +167,7 @@ A deterministic rollup, refreshed each release by `process/coverage-script.sh`. 
 
 **Intelligence — Strategy catalog.** **25 named strategies** after a directed breadth pass, each carrying an average of **5.2 sourced effects** (130 total across the catalog), with per-effect `attribution_confidence` labelled per the effects taxonomy in [`schema/spec.md`](schema/spec.md). Adopter linkage from corpus entities: **80 of 131 organizations (61%)** link to at least one strategy; **46 of 84 campaigns (55%)** link the same way — via `strategies[]`, canonical direction adopter-side.
 
-**Intelligence — movement-gaps standing list.** **5 total entries** across the lifecycle at `intelligence/movement-gaps.md` — **2 `confirmed`**, **1 `candidate`** at closure threshold pending adopter draft, **2 `retired`-with-adopter** (adopters drafted in the corpus). Confirmed rests on Synthesizer null-verdict search; retirement is triggered by a real-world adopter surfacing.
+**Intelligence — movement-gaps standing list.** **5 total entries** across the lifecycle at `intelligence/movement-gaps.md` — **2 `confirmed`**, **3 `retired`-with-adopter** (real-world adopters surfaced; corpus-side drafts follow for two of them, the third linking externally pending a corpus draft). Confirmed rests on Synthesizer null-verdict search; retirement is triggered by a real-world adopter surfacing.
 
 ### 4 · Where we fall short, and why
 
