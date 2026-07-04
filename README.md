@@ -190,6 +190,8 @@ File issues on this repository's [Issues tab](../../issues) for:
 - Schema questions or suggestions.
 - Use-case feedback — what would make this more useful for your project?
 
+**What we act on vs. decline.** The test applied at triage: *would another consumer, in a different stack with different rendering choices, also hit this and need the same fix?* **Data-shape issues** — unresolvable cross-references, schema-violating frontmatter, malformed fields, factual errors, missing canonical content, ambiguity in `schema/spec.md` — pass that test and are acted on. **Render-shape issues** — layout overflow in your renderer, styling collisions, a wish that a field were shorter or shaped differently for your display — are the consumer's side of the line: the content is valid, and adapting to the graph's shape is consumer work. These are declined at triage. If your use case needs a derived or reshaped artifact, file that as use-case feedback rather than a data fix.
+
 Issues are read and absorbed into the team's research and editing queue. Individual responses aren't guaranteed.
 
 ## Versioning and releases
