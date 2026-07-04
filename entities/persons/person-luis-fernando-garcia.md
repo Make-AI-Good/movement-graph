@@ -40,6 +40,8 @@ sources:
     last_checked: 2026-05-17
     note: International Institute of Communications member-directory profile — corroborates García's named directorship of R3D and his membership in the IIC, an international communications-policy member network
 ---
+# Luis Fernando García Muñoz
+
 
 Mexican human-rights lawyer based in Mexico City; [co-founder](https://www.bioeticayderecho.ub.edu/es/luis-fernando-garcia-activista-de-derechos-digitales-ninguna-democracia-se-puede-permitir-tener) of [R3D — Red en Defensa de los Derechos Digitales](../organizations/org-r3d.md), the Mexican digital-rights non-profit he established in 2014 as the country's first civil-society organisation dedicated specifically to digital-rights research, litigation, and public advocacy, and [led as Executive Director for eleven years](https://r3d.mx/tag/luis-fernando-garcia/) until [closing his executive cycle on 1 May 2025](https://r3d.mx/2025/04/15/r3d-anuncia-cambios-en-su-direccion-ejecutiva/) in a planned Board-led leadership transition. He continues with R3D in [a new role on the Board of Directors](https://r3d.mx/2025/04/15/r3d-anuncia-cambios-en-su-direccion-ejecutiva/).
 

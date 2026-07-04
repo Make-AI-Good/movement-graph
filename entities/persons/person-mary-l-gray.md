@@ -24,6 +24,8 @@ sources:
     last_checked: 2026-06-08
     note: 'Mary L. Gray''s Microsoft Research profile — primary source for her Senior Principal Researcher title and her academic position at Indiana University and Berkman Klein affiliation'
 ---
+# Mary L. Gray
+
 
 Anthropologist and media scholar; Senior Principal Researcher at [Microsoft Research](https://www.microsoft.com/en-us/research/people/mlg/) (since 2012), Faculty in the Luddy School of Informatics, Computing, and Engineering at Indiana University (with affiliations in Anthropology and Gender Studies), and Faculty Associate at Harvard's Berkman Klein Center for Internet and Society. PhD in Communication, University of California, San Diego (2004). Named [2020 MacArthur Fellow](https://www.macfound.org/fellows/class-of-2020/mary-l-gray) for her investigation of "how labor, identity, and human rights are transformed by the digital economy."
 

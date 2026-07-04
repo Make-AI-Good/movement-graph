@@ -31,5 +31,7 @@ sources:
     last_checked: 2026-05-08
     note: Wikipedia overview of the Stop Killer Robots campaign and Wareham's founding-coordinator role
 ---
+# Mary Wareham
+
 
 Advocacy director of [Human Rights Watch's](../organizations/org-human-rights-watch.md) Arms Division and founding global coordinator of [Stop Killer Robots](../organizations/org-stop-killer-robots.md), serving as the coalition's coordinator from its 2013 launch until March 2021 while continuing in her HRW advocacy-director role.

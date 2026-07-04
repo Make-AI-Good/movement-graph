@@ -48,6 +48,8 @@ sources:
     last_checked: 2026-05-19
     note: 'TEDIC''s own Who-we-are page — primary source confirming Maricarmen Sequera''s status as current Executive Director and recording the Tech Diplomacy Global 50 recognition; the page''s own framing of the recognition year differs from the TDGI 2026 list and the APC January 2026 announcement and is flagged for human verification'
 ---
+# Maricarmen Sequera Buzarquis
+
 
 Maricarmen Sequera Buzarquis is the [co-founder and Executive Director of TEDIC](https://www.tedic.org/en/team/), the Paraguayan civil-society organisation working on digital rights and free culture, and the principal Paraguayan voice tracked by this corpus on biometric mass-surveillance, electoral biometrics, facial-recognition deployments by the Paraguayan state, and the long campaign for a comprehensive Paraguayan personal-data-protection law. She is in the make-AI-good corpus as the Paraguayan / Southern Cone anchor opposite the [TEDIC](../organizations/org-tedic.md) organisational entry and as one of the few Southern Cone digital-rights leaders carrying both the long-standing Latin American privacy-and-free-culture register and the newer AI-and-human-rights register from a smaller-country vantage outside the Brazilian and Mexican anchors.
 

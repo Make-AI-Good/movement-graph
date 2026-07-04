@@ -26,6 +26,8 @@ sources:
     last_checked: 2026-05-13
     note: German-language Wikipedia biography — primary source for Spielkamp's 1970 Paderborn birth, Master's in Journalism from the University of Colorado Boulder, philosophy / economics / political science studies in Frankfurt, Hannover and Freie Universität Berlin, his co-founding of iRights.info (2004; Grimme Online Award 2006) and mobilsicher.de (2015), and his prior reporting work for Spiegel TV Magazin, Die Zeit, brand eins and Berliner Zeitung
 ---
+# Matthias Spielkamp
+
 
 German journalist and digital-rights researcher; [co-founder, equal-partner shareholder, and Executive Director](https://algorithmwatch.org/de/wer-steht-hinter-algorithmwatch/) of [AlgorithmWatch](../organizations/org-algorithmwatch.md), the Berlin-headquartered non-profit research-advocacy organisation working on the social, legal, and ethical implications of automated decision-making systems. Spielkamp [convened the gGmbH](https://algorithmwatch.org/de/wer-steht-hinter-algorithmwatch/) in 2016–2017 with data journalist Lorenz Matzat (his equal-partner co-shareholder), computer scientist Katharina Anna Zweig, and ethicist Lorena Jaume-Palasí, and is also [Founder and President of AlgorithmWatch CH](https://algorithmwatch.org/en/team/matthias-spielkamp/), the legally independent Swiss sister organisation launched in Zurich in November 2020.
 

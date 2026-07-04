@@ -23,5 +23,7 @@ sources:
     last_checked: 2026-05-08
     note: Companies House (via Endole) record for Foxglove Legal Community Interest Company, founded 2019
 ---
+# Martha Dark
+
 
 Co-founder and co-executive director of [Foxglove](../organizations/org-foxglove.md), the London-based strategic-litigation non-profit she founded in 2019; previously head of operations at Reprieve and chief operating officer of the Open Rights Group.

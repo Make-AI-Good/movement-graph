@@ -29,5 +29,7 @@ sources:
     last_checked: 2026-06-10
     note: 'Berkman Klein Center / Internet Monitor interview with Yusof — primary source for Sinar Project''s internet censorship monitoring work beginning in 2013, and for his advocacy of strategic litigation to challenge internet blocking as potentially unconstitutional; Twitter handle @kaerumy confirmed'
 ---
+# Khairil Yusof
+
 
 Co-founder and coordinator of [Sinar Project](../organizations/org-sinar-project.md), the Kuala Lumpur-based civic-technology organization whose work spans parliamentary transparency, internet-freedom monitoring, and AI governance. [Emerging from the Malaysian open-data activist scene galvanized by the Bersih 2.0 rally in July 2011](https://splicemedia.com/stories/malaysias-sinar-project-government-data), Yusof leads Sinar Project's programme design and technical implementation — a background in open-source software development (FreeBSD, Linux, Python) underpinning tools from parliamentary written-reply archives and anti-corruption contract databases to OONI-based censorship dashboards — and [advocates for strategic litigation as a mechanism to challenge internet blocking as potentially unconstitutional](https://medium.com/berkman-klein-center/open-without-freedom-8faf1df6e45b).

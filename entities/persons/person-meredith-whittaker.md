@@ -27,5 +27,7 @@ sources:
     last_checked: 2026-06-10
     note: Gizmodo reporting (4 April 2018) — confirms 3,100+ signatories on the Project Maven petition and documents her role as a core organiser of the employee action
 ---
+# Meredith Whittaker
+
 
 President of the [Signal Foundation](https://signalfoundation.org/) (September 2022–; board member since 2020) and co-founder and former Faculty Director of the [AI Now Institute](https://ainowinstitute.org/) at NYU, launched alongside [Kate Crawford](../persons/person-kate-crawford.md) in November 2017 as the first university research institute dedicated to the social implications of AI. During thirteen years at Google (2006–July 2019) she founded Google's Open Research Group and co-founded [M-Lab](https://measurementlab.net/), the globally distributed open internet-measurement platform; in April 2018 she was a core organiser of the [employee petition against Project Maven](../events/event-google-project-maven-petition-2018-04.md) — signed by more than 3,100 Google workers — that successfully ended the company's Pentagon drone-AI contract, and later that year co-organised the November 2018 Google Walkout For Real Change. She served as senior advisor on artificial intelligence to the FTC chair from November 2021 to September 2022.

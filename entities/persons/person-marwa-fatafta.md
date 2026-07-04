@@ -57,6 +57,8 @@ sources:
     last_checked: 2026-05-18
     note: Middle East Policy Platform profile of Fatafta (December 2020) — secondary corroboration of her then-recent Access Now MENA Policy Manager appointment, the Palestinian / Berlin biographical frame, the Transparency International prior role, and the Al-Shabaka Policy Analyst track she carried into Access Now
 ---
+# Marwa Fatafta
+
 
 Palestinian writer, researcher, and policy analyst; [MENA Policy and Advocacy Director](https://www.accessnow.org/profile/marwa-fatafta/) at [Access Now](../organizations/org-access-now.md), leading the organisation's digital-rights work across the Middle East and North Africa since 2020 from her base in Berlin. The principal Palestinian-diaspora policy voice in the corpus's Access Now senior staff and the named Arabic-language anchor on platform-accountability, surveillance, and tech-in-armed-conflict in the make-AI-good movement's MENA register — paired in Access Now's leadership of the corpus's digital-rights coalition with [Felicia Anthonio](../persons/person-felicia-anthonio.md)'s internet-shutdowns register.
 

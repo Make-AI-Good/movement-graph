@@ -19,5 +19,7 @@ sources:
     last_checked: 2026-05-08
     note: JCWI's December 2025 announcement that Pallapi would take up the Executive Director role from February 2026
 ---
+# Lavanya Pallapi
+
 
 Executive Director of the [Joint Council for the Welfare of Immigrants](../organizations/org-jcwi.md) from February 2026, taking up the role under JCWI's published 2024–27 strategy of redistributing leadership toward people directly affected by immigration policy.

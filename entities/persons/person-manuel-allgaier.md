@@ -36,5 +36,7 @@ sources:
     last_checked: 2026-06-13
     note: X (Twitter) profile @manuelallgaier — bio references aisafety.berlin; confirms identity
 ---
+# Manuel Allgaier
+
 
 German AI-safety community organiser; co-founder and organiser of [Berlin AI Safety](../local-groups/lg-ai-safety-berlin.md) (aisafety.berlin), which he helped launch around 2022. Former Director of Effective Altruism Germany and EA Berlin — a role spanning approximately 2018–2022 — and lead organiser of EAGxBerlin 2022, a 900-person EA conference described at the time as the largest EA event in mainland Europe.

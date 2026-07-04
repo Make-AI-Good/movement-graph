@@ -23,5 +23,7 @@ sources:
     last_checked: 2026-05-08
     note: CNN reporting carrying Fournes's CEO statement after the April 2026 Sam Altman incident
 ---
+# Maxime Fournes
+
 
 CEO of [PauseAI](../organizations/org-pauseai.md), having taken over global leadership from founder [Joep Meindertsma](../persons/person-joep-meindertsma.md) in late 2025; previously founded and led PauseIA France, the organisation's French chapter.

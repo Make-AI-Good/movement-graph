@@ -37,6 +37,8 @@ sources:
     last_checked: 2026-05-18
     note: '2017 FMA monograph titled "Gender Violence: The Philippine Experience On the Internet" attributed to Liza S. Garcia — primary source for her authorship of FMA''s anchor long-form text on technology-facilitated gender-based violence in the Philippines, indicating she led FMA''s TFGBV programme line in the period preceding her elevation to the Executive Directorship'
 ---
+# Liza Garcia
+
 
 Filipina feminist and digital-rights advocate; [Executive Director](https://fma.ph/the-team/) of the [Foundation for Media Alternatives (FMA)](../organizations/org-foundation-for-media-alternatives.md), the Quezon City-headquartered Philippine civil-society digital-rights organisation that anchors national advocacy on internet rights, privacy, gender and ICT, and — since 2023 — artificial-intelligence governance and AI-related technology-facilitated gender-based violence. [Holding the executive directorship by at least June 2020](https://www.apc.org/en/news/fma-human-rights-groups-condemn-philippine-anti-terrorism-act-2020-call-mass-resistance), she succeeded the long-running leadership cycle through which FMA grew from its 1997 ICT-democratisation pivot into a senior Asia-Pacific civil-society node.
 
