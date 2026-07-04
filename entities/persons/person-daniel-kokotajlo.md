@@ -35,6 +35,8 @@ sources:
     note: Wikipedia article — corroborates education (BA Notre Dame 2014, MA UNC Chapel Hill 2017), governance-division role at OpenAI, non-disparagement refusal (~$2M equity at stake, retained), and AI Futures Project founding
 ---
 
+# Daniel Kokotajlo
+
 US-based AI researcher and whistleblower; [Executive Director](https://www.aifutures.org/about) of the AI Futures Project, a Berkeley, California 501(c)(3) nonprofit he founded in 2025 following his departure from OpenAI. He holds a BA in Philosophy from the University of Notre Dame (2014) and an MA in Philosophy from the University of North Carolina at Chapel Hill (2017), with prior roles at [AI Impacts](https://www.lesswrong.com/users/daniel-kokotajlo) and the Centre on Long-Term Risk before joining OpenAI in 2022.
 
 A researcher in OpenAI's governance division from 2022 until April 2024, he [publicly announced his resignation](https://x.com/DKokotajlo/status/1797994238468407380), citing loss of confidence that the company would behave responsibly in its approach to artificial general intelligence. He declined to sign the non-disparagement clause accompanying his separation, placing approximately $2 million in vested equity at risk; he retained that equity after OpenAI was subsequently forced by public reporting to rescind such clauses company-wide.

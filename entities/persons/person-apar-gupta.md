@@ -33,6 +33,8 @@ sources:
     note: IFF transparency-and-finances page — primary source for Apar Gupta's seat on IFF's current Board of Trustees alongside Rachita Taneja, Aravind Ravi-Sulekha, and Karthik Balakrishnan, under the by-laws adopted 17 August 2022
 ---
 
+# Apar Gupta
+
 Indian lawyer, [Ashoka Fellow](https://www.ashoka.org/en-us/fellow/apar-gupta) (2019), and one of the eight co-founders of the [Internet Freedom Foundation](../organizations/org-internet-freedom-foundation.md) (IFF) when it [launched on 15 August 2016](https://www.bwlegalworld.com/article/in-conversation-with-apar-gupta-co-founder-and-executive-director-internet-freedom-foundation-340688) as a follow-on to the SaveTheInternet.in net-neutrality campaign. Gupta served as IFF's Executive Director from April 2018, when the organisation [became a staffed body](https://en.wikipedia.org/wiki/Apar_Gupta), through 2023, sits on the [Board of Trustees](https://internetfreedom.in/transparency-and-finances/) constituted under IFF's August 2022 by-laws, and [returned to lead the organisation](https://en.wikipedia.org/wiki/Apar_Gupta) as Founder Director from November 2024.
 
 [Born and raised in New Delhi](https://en.wikipedia.org/wiki/Apar_Gupta), Gupta holds a B.A. LLB (Hons) from Amity Law School and a postgraduate law degree from Columbia Law School. Before IFF he practised as a commercial litigator at Karanjawala & Co. and then ran Accendo Law Partners (merged with Advani & Co. in 2010) until he resigned from private practice in 2015 to set up an independent chamber; he was named to the [Forbes India 30 Under 30](https://en.wikipedia.org/wiki/Apar_Gupta) list in 2014 and has published the LexisNexis *Commentary on the Information Technology Act*.

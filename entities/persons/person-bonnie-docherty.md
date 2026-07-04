@@ -35,4 +35,6 @@ sources:
     note: HRW press release for A Hazard to Human Rights (28 April 2025) — primary-source disclosure of Docherty's lead authorship of the follow-up report
 ---
 
+# Bonnie Docherty
+
 Senior arms advisor in [Human Rights Watch's](../organizations/org-human-rights-watch.md) Crisis, Conflict and Arms Division and Lecturer on Law at Harvard Law School, where she also directs the Armed Conflict and Civilian Protection Initiative within the [International Human Rights Clinic](https://humanrightsclinic.law.harvard.edu/team/bonnie-docherty/); lead author of the HRW + IHRC reports [*Losing Humanity: The Case Against Killer Robots*](../publications/pub-losing-humanity.md) (November 2012) and [*A Hazard to Human Rights: Autonomous Weapons Systems and Digital Decision-Making*](../publications/pub-a-hazard-to-human-rights.md) (April 2025).

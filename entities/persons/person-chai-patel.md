@@ -26,4 +26,6 @@ sources:
     note: Bureau of Investigative Journalism investigation with extensive Patel commentary on the Home Office's sham-marriage triage algorithm
 ---
 
+# Chai Patel
+
 Legal Policy Director at the [Joint Council for the Welfare of Immigrants](../organizations/org-jcwi.md) and the Charity's most public-facing voice on immigration-system algorithmic-decision-making cases, including the 2017–2020 Home Office visa-streaming challenge.

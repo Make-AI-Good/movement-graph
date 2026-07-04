@@ -32,4 +32,6 @@ sources:
     note: Dunn's personal site — self-described role as founder of The Maybe and current advisory affiliations
 ---
 
+# Alix Dunn
+
 Non-Executive Director of [Foxglove](../organizations/org-foxglove.md) since [September 2024](https://www.foxglove.org.uk/2024/09/09/alix-non-executive-director/), having previously sat on Foxglove's Advisory Council from the organisation's inception. Founder of [The Maybe](https://www.alixdunn.com/about) (formerly Computer Says Maybe), a consultancy and media studio on technology and society, and host of the *Computer Says Maybe* podcast; co-founder of The Engine Room, a global non-profit supporting activist organisations to incorporate technology into their work. Currently a trustee of the [Ada Lovelace Institute](../organizations/org-ada-lovelace-institute.md) and a senior advisor to AI Now and the AI Collaborative.

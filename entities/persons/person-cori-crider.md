@@ -24,4 +24,6 @@ sources:
     note: Foxglove's own staff page
 ---
 
+# Cori Crider
+
 US-qualified lawyer, co-founder of [Foxglove](../organizations/org-foxglove.md), and a director of the organisation from its 2019 founding until September 2024; subsequently took up a senior fellowship at the Open Markets Institute's Center for Journalism & Liberty.

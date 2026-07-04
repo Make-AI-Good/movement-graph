@@ -23,4 +23,6 @@ sources:
     note: Stop Killer Robots secretariat staff page
 ---
 
+# Catherine Connolly
+
 Manager of [Automated Decision Research](https://automatedresearch.org/), the in-house monitoring and research team of [Stop Killer Robots](../organizations/org-stop-killer-robots.md), which tracks state positions and produces country-by-country briefing material used by negotiators and journalists.

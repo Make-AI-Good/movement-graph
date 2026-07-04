@@ -35,4 +35,6 @@ sources:
     note: LinkedIn profile — Berlin-based; 500+ connections; confirms AI alignment research focus at AE Studio
 ---
 
+# Alex McKenzie
+
 Berlin-based AI alignment researcher and co-creator of [Berlin AI Safety](../local-groups/lg-ai-safety-berlin.md) (aisafety.berlin). Holds an MMathPhil from the University of Oxford (2012–2016) and an MS in Computer Science from Georgia Institute of Technology (2020–2024). Worked as an AI safety researcher at LASR Labs (2025) before joining AE Studio (ae.studio), where he leads AI alignment research.

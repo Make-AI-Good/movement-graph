@@ -42,6 +42,8 @@ sources:
     note: 'Reset.Tech Australia''s own home page — primary source for the organisation''s current operational status, its self-description as an Australian research and policy organisation working to advance fair rules and standards for Big Tech, and its registered-charity status under reset.tech Australia Limited (ABN 87 636 477 177) within which Alice Dawkins serves as Executive Director'
 ---
 
+# Alice Dawkins
+
 Alice Dawkins is the [Executive Director of Reset.Tech Australia](https://law.anu.edu.au/news-and-events/news/tackling-digital-threats-democracy-alice-dawkins-and-big-tech-dominance), the Sydney-based research-and-policy pole of the global [Reset.Tech](../organizations/org-reset-australia.md) network on platform regulation, digital-democracy oversight, and AI policy in the Australian public-policy environment. She is in the make-AI-good corpus as the principal Australian voice carrying the structural-policy argument for binding statutory rules and independent platform-data access on big-tech, automated-decision-making, and generative-AI systems in Australia, and as the Australia / Oceania anchor opposite the Reset.Tech Australia organisational entry from a smaller-country vantage outside the United States, United Kingdom, and European Union platform-regulation cohorts.
 
 ## Background and entry into technology policy

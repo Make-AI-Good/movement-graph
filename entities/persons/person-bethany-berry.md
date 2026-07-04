@@ -20,4 +20,6 @@ sources:
     note: GMCDP's own staff team page naming Berry as CEO
 ---
 
+# Bethany Berry
+
 Chief Executive Officer of the [Greater Manchester Coalition of Disabled People](../organizations/org-greater-manchester-coalition-of-disabled-people.md), the disabled-people-led membership organisation founded in Manchester in 1985.

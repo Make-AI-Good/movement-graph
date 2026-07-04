@@ -23,4 +23,6 @@ sources:
     note: Stanford Daily coverage of California SB 1047 in which Encode senior staff including Billen feature in the policy advocacy record
 ---
 
+# Adam Billen
+
 Co-executive director for public policy at [Encode Justice](../organizations/org-encode-justice.md) (operating publicly as Encode / Encode AI), where he leads federal policy advocacy.

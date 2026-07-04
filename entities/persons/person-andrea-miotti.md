@@ -38,6 +38,8 @@ sources:
     note: ControlAI Substack — Miotti's own framing of ControlAI's founding rationale ("a deeply political problem that will be solved with policy solutions") in conversation with Connor Leahy
 ---
 
+# Andrea Miotti
+
 Italian-born AI-safety advocate based in London; [Founder and CEO](https://controlai.com/about) of [ControlAI](../organizations/org-controlai.md), the international AI-safety advocacy non-profit he stood up in 2023 from his prior role as [Head of Strategy and Governance at Conjecture](https://theorg.com/org/conjecture/org-chart/andrea-miotti), the London-based AI alignment startup he had joined in June 2022. He [holds](https://theorg.com/org/conjecture/org-chart/andrea-miotti) a double master's degree in Public Policy from the London School of Economics and Peking University (2019–2021) and a BA in Politics and International Relations from the University of Nottingham (2015).
 
 Miotti is the lead author and public face of ControlAI's flagship policy plan [*A Narrow Path*](https://www.narrowpath.co/), published 19 March 2026 with co-authors Tolga Bilge, Dave Kasten, and James Newport, and the named author (with Steven Adler) of [ControlAI's written evidence](https://committees.parliament.uk/writtenevidence/148236/pdf/) submission RAI0031 to a UK Parliament AI-regulation inquiry. His commentary and op-eds on superintelligence risk and frontier-AI governance have [appeared](https://controlai.com/about) in TIME, The Guardian, Nature, BBC, and Sky News.

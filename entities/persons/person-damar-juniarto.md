@@ -46,6 +46,8 @@ sources:
     note: 'Global Network Initiative welcome statement on SAFEnet''s 27 January 2025 GNI accession — secondary source corroborating Nenden Sekar Arum''s status as SAFEnet''s post-Juniarto Executive Director and the continuity of SAFEnet''s digital-rights remit into the post-founder period'
 ---
 
+# Damar Juniarto
+
 Indonesian digital-rights organiser and the founder and longtime Executive Director of [SAFEnet (Southeast Asia Freedom of Expression Network)](../organizations/org-safenet.md) — the principal Indonesian civil-society anchor on internet access, freedom of expression, digital security, and online gender-based violence. Born [5 June 1976](https://damarjuniarto.wordpress.com/about/), Juniarto founded SAFEnet on [27 June 2013](https://safenet.or.id/about-us/) while still working in international advertising and led the organisation through its first decade, stepping down at the end of 2023 and being [succeeded by Nenden Sekar Arum](https://globalnetworkinitiative.org/gni-welcomes-new-members-safenet-and-internetbolivia-org-foundation/). He is in the make-AI-good corpus as the principal Indonesian organiser publicly identified with the digital-rights monitoring and advocacy register and, since his 2024 founding of [PIKAT Demokrasi](https://damarjuniarto.wordpress.com/2026/02/11/pikat-demokrasi-dari-indonesia-untuk-dunia/), with the Indonesian AI-and-democracy register.
 
 ## Background and entry into digital rights

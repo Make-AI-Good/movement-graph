@@ -25,4 +25,6 @@ sources:
     note: October 2025 Foxglove press release quoting Campbell as Advocacy Director on the environmental cost of UK data centres
 ---
 
+# Donald Campbell
+
 Director of Advocacy at [Foxglove](../organizations/org-foxglove.md), the London-based strategic-litigation non-profit, where he leads public-facing campaigning and serves as the organisation's named spokesperson on its data-centre, big-tech accountability, and UK-US tech-deal work.
