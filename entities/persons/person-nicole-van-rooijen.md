@@ -20,4 +20,6 @@ sources:
     note: Stop Killer Robots' own announcement of van Rooijen joining as Executive Director in January 2025
 ---
 
+# Nicole van Rooijen
+
 Executive Director of [Stop Killer Robots](../organizations/org-stop-killer-robots.md), having joined the coalition in January 2025 from a decade-plus career at the International Committee of the Red Cross, where she most recently served as ICRC's Head of Protection for Asia Pacific.

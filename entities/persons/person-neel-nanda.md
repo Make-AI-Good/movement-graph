@@ -31,6 +31,8 @@ sources:
     note: '80,000 Hours podcast (part 2) — secondary source for career trajectory and role leading Google DeepMind''s MI team at 26'
 ---
 
+# Neel Nanda
+
 British AI safety researcher; [Staff Research Scientist](https://www.neelnanda.io/about) at Google DeepMind, where he leads the mechanistic interpretability team. He studied mathematics at the University of Cambridge (BA, 2020), after which he spent a gap year exploring AI safety through internships at the Future of Humanity Institute, DeepMind, and the Centre for Human-Compatible AI at UC Berkeley, before taking quantitative finance internship roles at Jane Street and Jump Trading.
 
 He joined Anthropic as a language-model interpretability researcher under Chris Olah, then [moved to Google DeepMind in 2022](https://www.neelnanda.io/about) to build and lead their mechanistic interpretability group. He created TransformerLens, a widely-used open-source library for studying the internal computations of language models, and runs a technical blog and YouTube channel on mechanistic interpretability research. In 2023 MIT Technology Review [named him to its Innovators Under 35 list](https://www.innovatorsunder35.com/the-list/neel-nanda/).

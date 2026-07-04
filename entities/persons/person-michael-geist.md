@@ -32,6 +32,8 @@ sources:
     note: 'CIPPIC Wikipedia article — confirms Geist founded CIPPIC in fall 2003 at the University of Ottawa, initially funded by an Amazon cy-pres settlement and the Ontario Research Network for Electronic Commerce'
 ---
 
+# Michael Geist
+
 Canadian law professor and digital rights commentator, holding the Canada Research Chair in Internet and E-Commerce Law at the University of Ottawa (faculty since 1998; Chair since 2003). Geist [founded the Canadian Internet Policy and Public Interest Clinic](https://en.wikipedia.org/wiki/Canadian_Internet_Policy_and_Public_Interest_Clinic) (CIPPIC) at Ottawa in fall 2003 — a legal clinic advancing balanced technology policymaking in Canada. Through michaelgeist.ca, the Law Bytes podcast, and columns in the Globe and Mail and Toronto Star, he shapes Canadian parliamentary and regulatory debate on copyright, privacy, net neutrality, surveillance, and AI policy.
 
 Geist sits on the [Electronic Frontier Foundation](../organizations/org-electronic-frontier-foundation.md) Advisory Board and has previously served on the Privacy Commissioner of Canada's Expert Advisory Board and the board of Internet Archive Canada. Awards include the EFF Pioneer Award (2008), the Canadian Journalists for Freedom of Expression Vox Libera Award (2018), appointment to the Order of Ontario (2018), and the Privacy and Access Council of Canada Fellowship Award (2023).

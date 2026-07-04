@@ -23,4 +23,6 @@ sources:
     note: Stanford Daily coverage of California SB 1047, on which Calvin led Encode's state-affairs work
 ---
 
+# Nathan Calvin
+
 General counsel and vice president of state affairs at [Encode Justice](../organizations/org-encode-justice.md) (operating publicly as Encode / Encode AI), with a public-facing role on California state AI policy including SB 1047.

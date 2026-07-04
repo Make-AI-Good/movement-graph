@@ -20,4 +20,6 @@ sources:
     note: Concept Art Association's own about page naming Hendrix as a co-founder
 ---
 
+# Nicole Hendrix
+
 Producer and co-founder of the [Concept Art Association](../organizations/org-concept-art-association.md), and co-founder of the BRIC Foundation.

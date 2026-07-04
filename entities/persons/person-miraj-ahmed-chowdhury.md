@@ -33,4 +33,6 @@ sources:
     note: 'Bangladesh University of Professionals faculty page — confirms Chowdhury holds position of Associate Professor in the Department of Mass Communication and Journalism, Faculty of Security and Strategic Studies.'
 ---
 
+# Miraj Ahmed Chowdhury
+
 Founder and managing director of [Digitally Right](../organizations/org-digitally-right.md), the Dhaka-based civil society organisation working across digital rights, digital safety, and information integrity, which he established in 2021. With nearly 18 years of journalism and media development experience, Chowdhury built Digitally Right [from a 2020 GNI-Internews Digital Rights Fellowship](https://globalnetworkinitiative.org/gni-welcomes-new-member-digitally-right-limited/) into a Global Network Initiative member organisation and OONI research partner — among the most internationally networked digital rights actors in Bangladesh. Beyond Digitally Right, he serves as Associate Professor of Mass Communication and Journalism at [Bangladesh University of Professionals](https://bup.edu.bd/faculty-member/details/548), holds the Bangla Editor role at the Global Investigative Journalism Network, and sits on the boards of the Media Resources Development Initiative, the Sustainable Journalism Partnership, and What To Fix.
