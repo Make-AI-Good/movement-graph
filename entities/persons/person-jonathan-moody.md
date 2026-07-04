@@ -19,5 +19,5 @@ sources:
     last_checked: 2026-05-08
     note: PauseAI's own organisation page listing Moody as Communications Director
 ---
-
+# Jonathan Moody
 Communications Director at [PauseAI](../organizations/org-pauseai.md).

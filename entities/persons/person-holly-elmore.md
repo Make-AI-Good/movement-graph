@@ -25,5 +25,5 @@ sources:
     last_checked: 2026-05-08
     note: PauseAI US site, the US national chapter Elmore founded and leads
 ---
-
+# Holly Elmore
 Founder and executive director of [PauseAI US](https://www.pauseai-us.org/), the U.S. national chapter of [PauseAI](../organizations/org-pauseai.md), which she runs as an independent U.S. nonprofit with its own staff and donor base.

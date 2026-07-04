@@ -31,5 +31,5 @@ sources:
     last_checked: 2026-05-08
     note: Transcript of the FTC Creative Economy and Generative AI roundtable, October 4 2023, with Ortiz on the CAA panel
 ---
-
+# Karla Ortiz
 Concept artist, board member of the [Concept Art Association](../organizations/org-concept-art-association.md), and a lead-named plaintiff in *Andersen v. Stability AI*; CAA's most public-facing voice on its generative-AI advocacy work.

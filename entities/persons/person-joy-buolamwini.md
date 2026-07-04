@@ -28,5 +28,5 @@ sources:
     last_checked: 2026-05-08
     note: NPR feature on Buolamwini's career and her book Unmasking AI
 ---
-
+# Joy Buolamwini
 Founder and president of the [Algorithmic Justice League](../organizations/org-algorithmic-justice-league.md), which she founded in 2016 while a graduate student at the MIT Media Lab; author of [*Unmasking AI*](../publications/pub-unmasking-ai.md) (Random House, 2023).

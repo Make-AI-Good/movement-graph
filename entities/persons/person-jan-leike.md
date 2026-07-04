@@ -32,7 +32,7 @@ sources:
     last_checked: 2026-06-12
     note: Personal website — primary source for current role leading the Alignment Science team at Anthropic and research focus areas
 ---
-
+# Jan Leike
 German AI alignment researcher; currently leads the [Alignment Science team](https://jan.leike.name/) at Anthropic, working on scalable oversight, weak-to-strong generalization, and automated alignment research. He holds a PhD in machine learning from the Australian National University (supervised by Marcus Hutter) and completed a postdoctoral fellowship at the Future of Humanity Institute.
 
 From 2016 to 2021 he worked in DeepMind's AI safety group, where he co-authored the [2017 paper "Deep Reinforcement Learning from Human Preferences"](https://jan.leike.name/) — early empirical groundwork for reinforcement learning from human feedback (RLHF). He joined OpenAI in 2021, leading the alignment team and contributing to InstructGPT (2022), the instruction-following model that brought RLHF into large-scale language models.

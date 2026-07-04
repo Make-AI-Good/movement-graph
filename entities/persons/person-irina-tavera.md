@@ -19,5 +19,5 @@ sources:
     last_checked: 2026-05-08
     note: PauseAI's own organisation page listing Tavera as Organizing Director
 ---
-
+# Irina Tavera
 Organizing Director at [PauseAI](../organizations/org-pauseai.md), responsible for chapter support and volunteer growth across the federation.

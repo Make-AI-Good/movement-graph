@@ -28,5 +28,5 @@ sources:
     last_checked: 2026-05-08
     note: PauseAI announcement of leadership transition referring to Meindertsma as founder
 ---
-
+# Joep Meindertsma
 Founder of [PauseAI](../organizations/org-pauseai.md), which he convened in Utrecht, Netherlands in May 2023 from his prior role as a software-company CEO; he stepped back from CEO into a continuing founder role in late 2025.
