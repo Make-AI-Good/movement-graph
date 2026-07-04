@@ -1,6 +1,6 @@
 ---
 type: spec
-last_updated: 2026-05-28
+last_updated: 2026-07-03
 ---
 
 # Schema Spec
@@ -104,7 +104,7 @@ related_events: [<event IDs>]
 
 The Analyst's layer: a named **strategy** the movement uses (or could use) to pursue its aims, plus — where the Analyst has done the work — a judgment of how well it works. A strategy is **true by its form, not by evidence**: naming one requires no sourcing. What requires evidence is the *evaluation* of a strategy as good or bad. Authored only by the Analyst.
 
-A strategy is **born lightweight** — an org-agnostic name carrying most of the meaning, plus a few sentences (what the approach is, why an actor would choose it, what it trades off). It accretes the fields below only as depth work earns them; a strategy with none of them is a complete, valid entity.
+A strategy is **born as a sharp claim, not an essay** — an org-agnostic name carrying most of the meaning, plus a few sentences (what the approach is, why an actor would choose it, what it trades off). It accretes the fields below only as depth work earns them; a strategy with none of them is a complete, valid entity.
 
 ```yaml
 parent_strategy: <strategy ID, optional>     # this strategy is a move inside a larger one
@@ -117,7 +117,13 @@ effects:                                       # OPTIONAL depth layer — real-w
 counter_read: <prose, optional — the strongest opposing reading of the strategy's effectiveness>
 ```
 
-The common `confidence` field, when present, carries the Analyst's confidence in its *evaluation* of the strategy (not in its existence). **Connections carry the observed/unobserved signal:** a strategy linked to adopters via `org.strategies[]` / `campaign.strategies[]` (canonical side — see Cross-references) is one seen employed in the movement; a strategy with no connections is one not yet seen adopted — a valid entity and a signal for gap-analysis, not a defect. The Analyst may connect a strategy to an adopter on the strength of its own pattern-recognition, even where no source draws the line. **Body register:** keep what is *observed fact* distinct from what is the Analyst's *reading* — a reader is never invited to mistake a judgment for a fact, but the reading itself needs no source. `related_strategies` is Analyst-maintained and exempt from the Editor's reciprocal / canonical-direction cleanup.
+The common `confidence` field, when present, carries the Analyst's confidence in its *evaluation* of the strategy (not in its existence).
+
+**Rigor lives at the edges, not in body prose.** Strategy is a connective type: its substance is edge-anchored — its adopters (reverse-inferred from `org.strategies[]` / `campaign.strategies[]`), its `effects[]` (sourced facts with per-attribution confidence), its ecology (`parent_strategy`, `related_strategies`, `counter_read`). Sourcing and factual claims belong on these edges; the common `sources[]` field is typically empty on Strategy entities because whole-body sourcing has no anchor. A long body essaying the strategy is a register defect, not a depth signal — depth accretes at the edges.
+
+**Connections carry the observed/unobserved signal:** a strategy linked to adopters via `org.strategies[]` / `campaign.strategies[]` (canonical side — see Cross-references) is one seen employed in the movement; a strategy with no connections is one not yet seen adopted — a valid entity and a signal for gap-analysis, not a defect. The Analyst may connect a strategy to an adopter on the strength of its own pattern-recognition, even where no source draws the line.
+
+**Body register:** the body names the approach and its trade-offs crisply; it does not catalogue adopters (they live in the connections) or narrate effects (they live in `effects[]`). Where evaluative depth work does write body prose (a verdict, an ecology discussion), it keeps what is *observed fact* distinct from what is the Analyst's *reading* — a reader is never invited to mistake a judgment for a fact, but the reading itself needs no source. `related_strategies` is Analyst-maintained and exempt from the Editor's reciprocal / canonical-direction cleanup.
 
 ### Message
 ```yaml

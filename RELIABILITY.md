@@ -1,8 +1,8 @@
 ---
 type: reliability-statement
-generated_at: 2026-06-20T05:31:37Z
-generated_at_commit: f9cdc2a54122da184df88c5f9afbe49be4673a6b
-generator: movement-graph/dashboard/generate-reliability.sh
+generated_at: 2026-07-04T04:32:01Z
+generated_at_commit: 218d00c0266c882cc3a98c5663273ddfff54fbd1
+generator: project/teams/movement-graph/dashboard/generate-reliability.sh
 audited_entities: 495
 total_entities: 803
 audit_coverage_pct: 61
@@ -19,7 +19,7 @@ status_corrections_pending: 222
 
 # Corpus reliability
 
-Auto-generated at commit `f9cdc2a` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
+Auto-generated at commit `218d00c` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
 
 This graph is independently audited at the claim level. Of 11,035 claims across 495 audited entities: **78.3%** corroborated or primary-sourced, **2.3%** single-source, **15.8%** not independently corroborated, **3.7%** precision-corrected (which we apply). **No fabrication observed.**
 
@@ -62,6 +62,6 @@ Entity-level `status` is a **distribution**, never the worst single claim:
 
 ## How this is generated
 
-[`movement-graph/dashboard/generate-reliability.sh`](https://github.com/Make-AI-Good/movement-graph) walks [`audits/`](audits/) frontmatter, sums the per-decision counts, and writes this file. The org-root pre-commit hook fires the generator on every commit, so the snapshot above tracks `main` continuously. Tagged releases pin a specific snapshot.
+[`project/teams/movement-graph/dashboard/generate-reliability.sh`](https://github.com/Make-AI-Good/movement-graph) walks [`audits/`](audits/) frontmatter, sums the per-decision counts, and writes this file. The org-root pre-commit hook fires the generator on every commit, so the snapshot above tracks `main` continuously. Tagged releases pin a specific snapshot.
 
 The audit format itself is specified in the team's [Auditor profile](https://github.com/Make-AI-Good/movement-graph). The per-entity trails live under [`audits/`](audits/).
