@@ -221,6 +221,10 @@ Promotion to Voice is a deliberate decision — typically when public output is 
 
 **Body-link target convention.** When a body in any entity names an individual who has both a Person and a Voice entry, body links target the Person entry (e.g., `[Joy Buolamwini](../persons/person-joy-buolamwini.md)`). The Voice entry remains reachable via the Person entry's `voice_entry` pointer (build-inferred reverse link). Rationale: Person entries are the canonical connector type, guaranteed to exist whenever a Voice exists; targeting Person gives the Editor's body-link acts an unambiguous mechanical rule and matches majority corpus practice (counted 2026-05-19: ~99 person-side vs ~43 voice-side body links across the 12 individuals with both entries). This convention applies to all three Editor body-link acts (insertion, repair, target replacement); the prior skip-on-Person/Voice-ambiguity case is now an act-not-skip case. **Target rule is keyed on the referenced individual, not the display-text shape.** Whether the display text is the person's name (`[Apar Gupta](...)`), the entity ID (`[voice-apar-gupta](...)`), or a role/title, the *target* is determined by who the link references — if both Person and Voice exist for that individual, the target is the Person entry. The display text is the Researcher's prose choice and is not changed by this rule.
 
+## Body shape
+
+Every entity body begins with an H1 of the entity's display name — `# <name>`, matching the frontmatter `name:` field — as the first non-empty line after the frontmatter. (Ratified at the V3 Define meeting 2026-07-03, codifying the convention the corpus had settled on organically; the historical backlog is drained by the Editor's body-H1-insertion act.)
+
 ## Sourcing
 
 **Person entries:** every affiliation needs a publicly verifiable source. `confidence: low` Person entries are not created — if it can't be sourced, it doesn't go in. Affiliations from secondhand reporting need a `note` on the source explaining context.

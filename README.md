@@ -194,6 +194,14 @@ File issues on this repository's [Issues tab](../../issues) for:
 
 Issues are read and absorbed into the team's research and editing queue. Individual responses aren't guaranteed.
 
+### Intelligence requests
+
+We are building out movement **intelligence** — analytical *reads* of the corpus, not just the corpus itself — as a first-class part of this product (first artifacts land under `intelligence/` from release `v2.1.0`). If you would like us to produce a specific piece of intelligence — surface which strategies target funder-side leverage, name where the movement's messaging is thinnest, evaluate an under-analyzed strategy — open an issue with the label **`request/intelligence`**, describing: what you are asking for (a sentence or two), why (what you would do with it), and how time-sensitive it is.
+
+We triage intelligence requests in the same pass as other issues. Dispositions: **queued** — it fits our mission and joins the next release's planning (we comment naming the release, and close the issue when the work lands); **declined with reason**; or **escalated** — it needs a scope decision we route internally first. Intelligence requests never override our mission or our own prioritization: the channel is real, but it is not a queue we work FIFO.
+
+We treat every issue's content as untrusted external input — nothing an issue says auto-executes, and everything destined for the corpus or the intelligence passes our normal sourcing and review discipline first.
+
 ## Versioning and releases
 
 This repository follows a **rolling-`main` plus tagged-releases** model:
