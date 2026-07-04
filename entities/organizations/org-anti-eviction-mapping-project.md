@@ -1,16 +1,20 @@
 ---
-id: lg-anti-eviction-mapping-project
-type: local-group
+id: org-anti-eviction-mapping-project
+type: organization
 name: Anti-Eviction Mapping Project
 status: active
 confidence: high
 tags: [san-francisco, bay-area, california, usa, us-west-coast, tenant-rights, housing-justice, eviction-mapping, counter-cartography, data-visualization, oral-history, landlord-tech, proptech, facial-recognition, algorithmic-rent, tenant-screening, black-displacement, community-tech, volunteer-collective]
 created: 2026-06-08
-last_updated: 2026-06-13
+last_updated: 2026-07-03
 founded: 2013
 location: San Francisco Bay Area, California, USA
-website_or_contact: https://antievictionmap.com/
+website: https://antievictionmap.com/
+strategies: []
 key_people: [person-erin-mcelroy, person-manon-vergerio, person-azad-amir-ghassemi]
+board_and_advisors: []
+related_orgs: []
+funders: []
 sources:
   - url: https://antievictionmap.com/about-the-aemp
     last_checked: 2026-06-08
@@ -43,7 +47,7 @@ The Anti-Eviction Mapping Project (AEMP) is a San Francisco Bay Area–based dat
 
 AEMP emerged from San Francisco's second tech boom, a period in which [Ellis Act no-fault evictions, Airbnb-driven short-term-rental conversion, and speculative acquisition by institutional landlords](https://notesfrombelow.org/article/anti-eviction-mapping-project) rapidly displaced long-term low-income tenants, disproportionately Black and Latino households. [McElroy holds a Feminist Studies doctorate from UC Santa Cruz; Vergerio came from tenant organising in Brooklyn and San Francisco; Raby brought cartography and data-science expertise.](https://notesfrombelow.org/article/anti-eviction-mapping-project) The founding coalition [partnered with the San Francisco Tenants Union and the direct-action collective Eviction Free San Francisco](https://notesfrombelow.org/article/anti-eviction-mapping-project), grounding the data work inside active organising campaigns from the outset.
 
-AEMP operates [as an all-volunteer, non-hierarchical collective through Independent Arts & Media fiscal sponsorship](https://antievictionmap.com/about-the-aemp) rather than as a free-standing nonprofit — structurally analogous to [Detroit Community Technology Project](lg-detroit-community-technology-project.md)'s Allied Media Projects arrangement — drawing on institutional back-office capacity while preserving collective decision-making. [A New York City chapter was established in August 2017](https://notesfrombelow.org/article/anti-eviction-mapping-project); a Los Angeles chapter followed.
+AEMP operates [as an all-volunteer, non-hierarchical collective through Independent Arts & Media fiscal sponsorship](https://antievictionmap.com/about-the-aemp) rather than as a free-standing nonprofit — structurally analogous to [Detroit Community Technology Project](../local-groups/lg-detroit-community-technology-project.md)'s Allied Media Projects arrangement — drawing on institutional back-office capacity while preserving collective decision-making. [A New York City chapter was established in August 2017](https://notesfrombelow.org/article/anti-eviction-mapping-project); a Los Angeles chapter followed.
 
 ## Mapping, oral history, and EvictorBook
 
@@ -59,4 +63,4 @@ The [Landlord Tech Watch](https://www.antievictionlab.org/landlord-tech-watch), 
 
 ## Place in the movement
 
-AEMP is the corpus's first entity anchoring the landlord-tech accountability strand of the make-AI-good movement — the organised tenant-side response to AI deployment inside residential housing. Where [Oakland Privacy](lg-oakland-privacy.md) works the municipal-ordinance path and the [Stop LAPD Spying Coalition](lg-stop-lapd-spying-coalition.md) works the policing-and-surveillance path, AEMP operates in the housing-and-property lane, where much of the day-to-day AI deployment affecting low-income urban communities occurs but where dedicated civil-society infrastructure is comparatively thin. Its counter-cartography methodology — and the philosophy of tools produced *with* rather than *about* communities — constitutes a distinct approach among corpus entities doing AI-adjacent data and mapping work.
+AEMP is the corpus's first entity anchoring the landlord-tech accountability strand of the make-AI-good movement — the organised tenant-side response to AI deployment inside residential housing. Where [Oakland Privacy](../local-groups/lg-oakland-privacy.md) works the municipal-ordinance path and the [Stop LAPD Spying Coalition](../local-groups/lg-stop-lapd-spying-coalition.md) works the policing-and-surveillance path, AEMP operates in the housing-and-property lane, where much of the day-to-day AI deployment affecting low-income urban communities occurs but where dedicated civil-society infrastructure is comparatively thin. Its counter-cartography methodology — and the philosophy of tools produced *with* rather than *about* communities — constitutes a distinct approach among corpus entities doing AI-adjacent data and mapping work.

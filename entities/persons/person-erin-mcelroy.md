@@ -8,7 +8,7 @@ tags: [co-founder, housing-justice, counter-cartography, landlord-tech, algorith
 created: 2026-06-13
 last_updated: 2026-06-13
 affiliations:
-  - org: lg-anti-eviction-mapping-project
+  - org: org-anti-eviction-mapping-project
     role: co-founder
     period: 2013-
 public_profiles:
@@ -30,4 +30,4 @@ sources:
 
 # Erin McElroy
 
-Erin McElroy is Associate Professor of Geography at the University of Washington, where she [directs the Anti-Eviction Lab](https://www.antievictionlab.org/) and leads the [Landlord Tech Watch](https://www.antievictionlab.org/landlord-tech-watch) — a sustained research programme documenting AI and algorithmic systems deployed in the landlord-tenant relationship. She is [co-founder of the Anti-Eviction Mapping Project](../local-groups/lg-anti-eviction-mapping-project.md), which she helped establish in 2013 in the San Francisco Bay Area. McElroy holds a doctorate in Feminist Studies from UC Santa Cruz and is author of *Silicon Valley Imperialism: Techno Fantasies and Frictions in Postsocialist Times* (Duke University Press, 2024).
+Erin McElroy is Associate Professor of Geography at the University of Washington, where she [directs the Anti-Eviction Lab](https://www.antievictionlab.org/) and leads the [Landlord Tech Watch](https://www.antievictionlab.org/landlord-tech-watch) — a sustained research programme documenting AI and algorithmic systems deployed in the landlord-tenant relationship. She is [co-founder of the Anti-Eviction Mapping Project](../organizations/org-anti-eviction-mapping-project.md), which she helped establish in 2013 in the San Francisco Bay Area. McElroy holds a doctorate in Feminist Studies from UC Santa Cruz and is author of *Silicon Valley Imperialism: Techno Fantasies and Frictions in Postsocialist Times* (Duke University Press, 2024).

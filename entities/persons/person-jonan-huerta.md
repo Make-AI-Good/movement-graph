@@ -8,7 +8,7 @@ tags: [new-york-city, usa, mexican, zapotec, indigenous, gig-workers, delivery-w
 created: 2026-06-13
 last_updated: 2026-06-13
 affiliations:
-  - org: lg-los-deliveristas-unidos
+  - org: org-los-deliveristas-unidos
     role: co-founder
     period: 2020-
 public_profiles: []
@@ -21,4 +21,4 @@ sources:
 
 # Jonán Huerta
 
-Jonán Huerta is a Zapotec organizer from Mexico City who [co-founded Los Deliveristas Unidos](../local-groups/lg-los-deliveristas-unidos.md) in 2020 alongside [Gustavo Ajche](person-gustavo-ajche.md). LDU's founding cohort drew from the indigenous Mexican and Central American kinship and language networks that anchor the NYC app-based delivery workforce.
+Jonán Huerta is a Zapotec organizer from Mexico City who [co-founded Los Deliveristas Unidos](../organizations/org-los-deliveristas-unidos.md) in 2020 alongside [Gustavo Ajche](person-gustavo-ajche.md). LDU's founding cohort drew from the indigenous Mexican and Central American kinship and language networks that anchor the NYC app-based delivery workforce.

@@ -8,7 +8,7 @@ tags: [aemp-la, los-angeles, california, housing-justice, evictorbook, data-anal
 created: 2026-06-13
 last_updated: 2026-06-13
 affiliations:
-  - org: lg-anti-eviction-mapping-project
+  - org: org-anti-eviction-mapping-project
     role: LA chapter member
 public_profiles:
   - platform: github
@@ -26,4 +26,4 @@ sources:
 
 # Azad Amir-Ghassemi
 
-Azad Amir-Ghassemi is a member of the [Anti-Eviction Mapping Project's](../local-groups/lg-anti-eviction-mapping-project.md) Los Angeles chapter, where he has contributed data analysis to the EvictorBook project — an interactive database surfacing corporate landlord networks through consolidated public eviction and property-ownership records. He [co-authored a 2021 Logic Magazine piece on EvictorBook](https://logicmag.io/commons/evictor-structures-erin-mcelroy-and-azad-amir-ghassemi-on-fighting/) alongside AEMP co-founder [Erin McElroy](../persons/person-erin-mcelroy.md).
+Azad Amir-Ghassemi is a member of the [Anti-Eviction Mapping Project's](../organizations/org-anti-eviction-mapping-project.md) Los Angeles chapter, where he has contributed data analysis to the EvictorBook project — an interactive database surfacing corporate landlord networks through consolidated public eviction and property-ownership records. He [co-authored a 2021 Logic Magazine piece on EvictorBook](https://logicmag.io/commons/evictor-structures-erin-mcelroy-and-azad-amir-ghassemi-on-fighting/) alongside AEMP co-founder [Erin McElroy](../persons/person-erin-mcelroy.md).

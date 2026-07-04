@@ -8,7 +8,7 @@ tags: [new-york-city, usa, ecuadorian, latin-american, gig-workers, delivery-wor
 created: 2026-06-13
 last_updated: 2026-06-13
 affiliations:
-  - org: lg-los-deliveristas-unidos
+  - org: org-los-deliveristas-unidos
     role: Workers Justice Project executive director and co-founder; LDU policy and litigation lead
     period: 2020-
 public_profiles: []
@@ -27,4 +27,4 @@ sources:
 
 # Ligia M. Guallpa
 
-Ligia M. Guallpa is the executive director and co-founder of the Workers Justice Project (WJP) in Brooklyn, and the primary policy and litigation lead for [Los Deliveristas Unidos](../local-groups/lg-los-deliveristas-unidos.md). [Born in Ecuador and immigrated to the United States at age ten](https://newlaborforum.cuny.edu/2023/05/10/los-deliveristas-unidos-and-the-ideals-of-worker-justice/), she has been the principal public voice for LDU at the NYC City Council and the Department of Consumer and Worker Protection. She has been prominently quoted across coverage of LDU's deactivation appeals campaign and its challenge to platform algorithmic management practices.
+Ligia M. Guallpa is the executive director and co-founder of the Workers Justice Project (WJP) in Brooklyn, and the primary policy and litigation lead for [Los Deliveristas Unidos](../organizations/org-los-deliveristas-unidos.md). [Born in Ecuador and immigrated to the United States at age ten](https://newlaborforum.cuny.edu/2023/05/10/los-deliveristas-unidos-and-the-ideals-of-worker-justice/), she has been the principal public voice for LDU at the NYC City Council and the Department of Consumer and Worker Protection. She has been prominently quoted across coverage of LDU's deactivation appeals campaign and its challenge to platform algorithmic management practices.

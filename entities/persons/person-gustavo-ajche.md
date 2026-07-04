@@ -8,7 +8,7 @@ tags: [new-york-city, usa, gig-workers, delivery-workers, guatemalan, indigenous
 created: 2026-06-13
 last_updated: 2026-06-13
 affiliations:
-  - org: lg-los-deliveristas-unidos
+  - org: org-los-deliveristas-unidos
     role: co-founder and member-leader
     period: 2020-
 public_profiles: []
@@ -24,4 +24,4 @@ sources:
 
 # Gustavo Ajche
 
-Gustavo Ajche is a K'iche' Mayan organizer from Guatemala who [co-founded Los Deliveristas Unidos](../local-groups/lg-los-deliveristas-unidos.md) in 2020 and serves as a member-leader of the Workers Justice Project in Brooklyn. [He arrived in New York City from Guatemala as a teenager in 2004 and found his first job as a pizza delivery worker](https://www.equityinmotionnyc.info/speaker/gustavo-ajche). The NYC Department of Transportation recognized LDU as [one of the largest app-based worker collectives in the country](https://www.equityinmotionnyc.info/speaker/gustavo-ajche) and invited Ajche to speak at its Equity in Motion Summit.
+Gustavo Ajche is a K'iche' Mayan organizer from Guatemala who [co-founded Los Deliveristas Unidos](../organizations/org-los-deliveristas-unidos.md) in 2020 and serves as a member-leader of the Workers Justice Project in Brooklyn. [He arrived in New York City from Guatemala as a teenager in 2004 and found his first job as a pizza delivery worker](https://www.equityinmotionnyc.info/speaker/gustavo-ajche). The NYC Department of Transportation recognized LDU as [one of the largest app-based worker collectives in the country](https://www.equityinmotionnyc.info/speaker/gustavo-ajche) and invited Ajche to speak at its Equity in Motion Summit.
