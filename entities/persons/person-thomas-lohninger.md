@@ -38,4 +38,6 @@ sources:
     note: 'EIC 2024 profile — vice president of EDRi from 2020; Mozilla Foundation Senior Fellow on EU net neutrality.'
 ---
 
+# Thomas Lohninger
+
 Executive director of [epicenter.works](../organizations/org-epicenter-works.md) since 2014, having been active in the organization from its 2010 founding. With a background in IT and cultural and social anthropology, he [served as Policy Advisor for European Digital Rights (EDRi)](https://cyberlaw.stanford.edu/about/people/thomas-lohninger/) on EU net neutrality regulation and was a key organizer of the savetheinternet.eu campaign, which [secured net neutrality protections in EU law](https://epicenter.works/en/history). He has been a board member of [EDRi](../organizations/org-edri.md) since 2019 and its Vice President since 2020. Additional positions include a non-residential fellowship at Stanford Law School's Center for Internet and Society and a Senior Fellowship at the Mozilla Foundation focused on net neutrality in the EU.
