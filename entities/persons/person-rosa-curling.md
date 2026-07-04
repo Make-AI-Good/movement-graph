@@ -23,4 +23,6 @@ sources:
     note: Companies House (via Endole) record for Foxglove Legal Community Interest Company
 ---
 
+# Rosa Curling
+
 UK-qualified public-law and human-rights lawyer; co-founder and co-executive director of [Foxglove](../organizations/org-foxglove.md), formerly with Leigh Day.

@@ -24,4 +24,6 @@ sources:
     note: AJL's CRASH project page — the program Costanza-Chock has led
 ---
 
+# Sasha Costanza-Chock
+
 Sociologist and design scholar who has led research and design work at the [Algorithmic Justice League](../organizations/org-algorithmic-justice-league.md), including the Community Reporting of Algorithmic System Harms (CRASH) project.

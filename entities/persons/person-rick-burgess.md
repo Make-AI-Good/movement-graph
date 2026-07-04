@@ -23,4 +23,6 @@ sources:
     note: Greater Manchester Law Centre's March 2022 interview with Burgess on GMCDP's framing of "algorithmic injustice" in the DWP fraud-algorithm case
 ---
 
+# Rick Burgess
+
 Campaign Lead at the [Greater Manchester Coalition of Disabled People](../organizations/org-greater-manchester-coalition-of-disabled-people.md) and Outreach & Development Lead for the Greater Manchester Disabled People's Panel; the Coalition's most cited public-facing voice on the DWP fraud-algorithm campaign.

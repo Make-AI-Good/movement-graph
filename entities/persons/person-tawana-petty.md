@@ -27,4 +27,6 @@ sources:
     note: AJL's own about page where Petty's program leadership has been publicly listed
 ---
 
+# Tawana Petty
+
 Data-justice organizer who has served as Director of Policy and Advocacy at the [Algorithmic Justice League](../organizations/org-algorithmic-justice-league.md), representing AJL in U.S. and international AI-governance processes.

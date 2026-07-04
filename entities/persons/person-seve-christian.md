@@ -20,4 +20,6 @@ sources:
     note: Encode AI's current operating site, where Christian is publicly listed as California policy director
 ---
 
+# Seve Christian
+
 California policy director at [Encode Justice](../organizations/org-encode-justice.md) (operating publicly as Encode / Encode AI).

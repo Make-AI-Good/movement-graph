@@ -26,6 +26,8 @@ sources:
     note: 'MacArthur Foundation 2024 Fellow page — primary source for the citation "Illuminating how technology reflects and reproduces inequality and championing the role of imagination in social transformation", her named Princeton title (Alexander Stewart 1886 Professor of African American Studies), and her founding-director role at the Ida B. Wells Just Data Lab'
 ---
 
+# Ruha Benjamin
+
 Sociologist of science and technology; [Alexander Stewart 1886 Professor of African American Studies at Princeton University](https://www.ruhabenjamin.com/about) and [founding director of the Ida B. Wells Just Data Lab](https://www.macfound.org/fellows/class-of-2024/ruha-benjamin) — the Lab's stated mission is to "bring together students, educators, activists, and artists to develop a critical and creative approach to data conception, production, and circulation" and to "rethink and retool data for justice." [Named a 2024 MacArthur Fellow](https://www.macfound.org/fellows/class-of-2024/ruha-benjamin) with the citation "Illuminating how technology reflects and reproduces inequality and championing the role of imagination in social transformation."
 
 Author of [*Race After Technology: Abolitionist Tools for the New Jim Code*](../publications/pub-race-after-technology.md) (Polity, 2019), the named publication most often credited with bringing *the New Jim Code* — her framework for examining how seemingly neutral algorithms replicate racial bias — into general circulation in the algorithmic-accountability literature. Her subsequent books include *Viral Justice: How We Grow the World We Want* (Princeton University Press, 2022) and *Imagination: A Manifesto* (Norton, 2024).

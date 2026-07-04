@@ -32,6 +32,8 @@ sources:
     note: 'Code for Science & Society announcement of 2 December 2021 — primary source for Noble''s naming as a founding advisor at DAIR alongside Ciira wa Maina'
 ---
 
+# Safiya Umoja Noble
+
 Internet-studies scholar and critical information-science researcher; [David O. Sears Presidential Endowed Chair of Social Sciences and Professor of Gender Studies, African American Studies, and Information Studies at UCLA](https://safiyaunoble.com/bio-cv/), [Director of the Center on Resilience and Digital Justice](https://safiyaunoble.com/bio-cv/), co-director of the Minderoo Initiative on Tech & Power at the UCLA Center for Critical Internet Inquiry, and [advisory committee member](https://dair-institute.org/team/safiya-noble/) at the [Distributed AI Research Institute](../organizations/org-dair-institute.md). Author of [*Algorithms of Oppression: How Search Engines Reinforce Racism*](../publications/pub-algorithms-of-oppression.md) (NYU Press, 2018), the named publication most often cited for placing the term *algorithmic oppression* into general public and policy circulation.
 
 [Named a 2021 MacArthur Fellow](https://www.macfound.org/fellows/class-of-2021/safiya-noble) with the citation "Highlighting the ways digital technologies and internet architectures magnify racism, sexism, and harmful stereotypes," Noble earned her PhD in library and information science from the University of Illinois Urbana-Champaign in 2012 — the doctoral project that developed into *Algorithms of Oppression* across the half-decade to publication. Before academia she worked for more than a decade in multicultural marketing, advertising, and public relations.

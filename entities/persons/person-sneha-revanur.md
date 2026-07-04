@@ -32,4 +32,6 @@ sources:
     note: Encode Justice's own account of its founding by Revanur
 ---
 
+# Sneha Revanur
+
 Founder and president of [Encode Justice](../organizations/org-encode-justice.md), which she founded in July 2020 as a 15-year-old high school student in San José, California, initially as a campaign against California Proposition 25.

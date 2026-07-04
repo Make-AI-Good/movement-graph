@@ -20,4 +20,6 @@ sources:
     note: Human Rights Watch's November 2025 announcement of Bolopion taking up the Executive Director role on 1 December 2025
 ---
 
+# Philippe Bolopion
+
 Executive Director of [Human Rights Watch](../organizations/org-human-rights-watch.md) from 1 December 2025, succeeding interim Executive Director Federico Borello after a thirteen-year career at the organisation; formerly a journalist before joining HRW.

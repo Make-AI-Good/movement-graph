@@ -19,6 +19,8 @@ sources:
     note: 'Siddharth Suri''s Microsoft Research profile — primary source for his Principal Researcher title, his PhD in Computer and Information Science from the University of Pennsylvania (2007, under Michael Kearns), and his research at the intersection of computer science, behavioral economics, and crowdsourcing'
 ---
 
+# Siddharth Suri
+
 Computational social scientist; Principal Researcher at [Microsoft Research](https://www.microsoft.com/en-us/research/people/suri/). PhD in Computer and Information Science, University of Pennsylvania (2007, under Michael Kearns). Research at the intersection of computer science, behavioral economics, and crowdsourcing — specifically the crowd workers who power many modern apps, websites, and AI systems.
 
 Co-author with [Mary L. Gray](../persons/person-mary-l-gray.md) of [*Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass*](../publications/pub-ghost-work-gray-suri-2019.md) (Houghton Mifflin Harcourt, 2019) — the foundational text of the platform-labor and AI supply chain register, winner of the 2019 McGannon Center Book Prize at Fordham University and named a Financial Times 2019 Critic's Pick.

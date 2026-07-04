@@ -20,4 +20,6 @@ sources:
     note: Concept Art Association's own about page naming Meinerding as a co-founder
 ---
 
+# Rachel Meinerding
+
 Talent manager and co-founder of the [Concept Art Association](../organizations/org-concept-art-association.md).
