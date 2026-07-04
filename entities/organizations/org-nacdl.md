@@ -6,11 +6,11 @@ status: active
 confidence: high
 tags: [united-states, criminal-justice, professional-association, algorithmic-accountability, fourth-amendment, facial-recognition, risk-assessment, predictive-policing, ai-criminal-justice, litigation-support, civil-liberties, surveillance]
 created: 2026-06-12
-last_updated: 2026-06-13
+last_updated: 2026-07-04
 founded: 1958
 location: national
 website: https://www.nacdl.org/
-strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-empirical-audit-and-expose]
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-empirical-audit-and-expose, strat-cross-professional-refusal-of-ai-integration]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-aclu, org-electronic-frontier-foundation, org-algorithmic-justice-league]

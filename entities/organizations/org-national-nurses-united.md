@@ -6,11 +6,11 @@ status: active
 confidence: high
 tags: [united-states, healthcare, nursing, labor-union, afl-cio, patient-safety, ai-healthcare, worker-organizing, sectoral-ai-advocacy, contract-bargaining]
 created: 2026-06-12
-last_updated: 2026-06-12
+last_updated: 2026-07-04
 founded: 2009
 location: national
 website: https://www.nationalnursesunited.org/
-strategies: [strat-empirical-audit-and-expose, strat-counter-narrative-framing]
+strategies: [strat-empirical-audit-and-expose, strat-counter-narrative-framing, strat-cross-professional-refusal-of-ai-integration]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-royal-college-of-nursing]

@@ -1,0 +1,38 @@
+---
+id: strat-cross-professional-refusal-of-ai-integration
+type: strategy
+name: Cross-professional refusal of AI integration into practice
+status: active
+confidence: medium
+tags: [profession-side, professional-judgment, collective-bargaining, professional-association, refusal, sectoral, cross-sector, workers, expertise-defense]
+created: 2026-07-04
+last_updated: 2026-07-04
+related_strategies:
+  - strat-institutional-procurement-refusal-of-ai-vendors
+  - strat-counter-narrative-framing
+  - strat-empirical-audit-and-expose
+  - strat-organize-ai-supply-chain-workers
+sources: []
+---
+
+# Cross-professional refusal of AI integration into practice
+
+An organised profession uses its own collective apparatus — the union local, the bargaining team, the professional-association position statement, the ethics code, the credentialling board, the standing litigation-support infrastructure — to refuse or gate the integration of AI into its own domain of practice. The refusing constituency is the profession itself, and the refusing ground is the judgment the profession is accountable for exercising: nursing assessment at the bedside, the criminal-defense lawyer's cross-examination of evidence, the writer's authorship, the engineer's stewardship of what they build. The refusal is enforceable through the instruments the profession already owns — contract clauses, licensure, evidentiary rules, credentialled position statements — rather than through legislation or consumer pressure.
+
+An actor chooses this because a profession's collective infrastructure is a working refusal instrument at a speed civic and legislative arms cannot match, and because expertise-based authority is the one form of legitimacy the AI-deployer's counter-narrative ("the technology is inevitable, defer to it") cannot dissolve. The strategy names the profession's practice as the site the AI is proposing to substitute for, and the profession as the legitimate authority on whether that substitution is safe. Its counter-arguments — hallucination, opaque risk-scoring, dropped clinical nuance, uncredited authorship — land as *the profession's own expert reading* rather than as an external critique the industry can dismiss.
+
+It trades off reach for that authority. The strategy has traction only in professions with pre-existing collective infrastructure — a union, a guild, a credentialling body, a standing litigation vehicle — able to carry the refusal at scale and discipline it into enforceable terms. Professions without that substrate (most freelancers, most non-credentialled knowledge work, most gig-economy occupations) have no analog form of the strategy available; the AI-integration harm can be identical in shape and structurally unaddressable through this instrument. The strategy also depends on the profession's own AI position being *refusal*-shaped rather than adoption-shaped; the same professional-association apparatus that can carry a refusal can as easily carry a "responsible integration" posture, and which side wins inside the association's institutional voice is a live contest across most of the corpus's adopters.
+
+## Ecology
+
+Sibling to [institutional procurement refusal of AI vendors](strat-institutional-procurement-refusal-of-ai-vendors.md): both operate through professional-association substrate, but the refusing actor differs — the *buyer institution* on the procurement side, the *profession itself* on this side. The same sectoral association (NEA, AMA, ALA) can carry both, and the two are often bundled inside one institutional voice; the analytical distinction matters because the failure modes differ (procurement refusal is bypassed by bundled AI sub-components; cross-professional refusal is bypassed by hiring around the profession's credential).
+
+Parent to [creator-class collective bargaining and litigation on generative AI](strat-creator-class-collective-bargaining-on-generative-ai.md) and to [tech-worker collective refusal inside AI labs and platforms](strat-tech-worker-refusal-inside-ai-labs.md). Both are the profession-side refusal shape specialised to a particular occupation with its own collective substrate — writers and actors under WGA / SAG-AFTRA / Authors Guild; engineers and researchers inside frontier labs, historically via Tech Workers Coalition and campaign-form organising. The generalisation is that the same form runs across many professions where the substrate exists; the corpus's newer profession-side adopters (nursing via NNU, criminal defense via NACDL) are visible instances rather than exceptions.
+
+Fed by [empirical audit and expose](strat-empirical-audit-and-expose.md): the profession's refusal is anchored on operational-harm evidence its members produce — NNU's 2024 survey of 2,300 nurses documenting 69 per cent acuity-mismatch and 48 per cent missed-handoff rates; NACDL's Fourth Amendment Center litigation-support work on facial-recognition error rates and predictive-policing "dirty data" scholarship. The audit converts a professional-judgment complaint into a discovery request or a bargaining demand the counter-party has to answer on the facts.
+
+Fed by [counter-narrative framing](strat-counter-narrative-framing.md): "trust nurses, not AI"; "AI must not replace the physician / educator / defense counsel"; "AI-generated content is not a writer". Each is a compressed statement that the profession's judgment is the load-bearing legitimacy the AI system is proposing to displace, and each is the public-affairs anchor without which the refusal reads as protectionism.
+
+Adjacent to [organise AI supply-chain workers](strat-organize-ai-supply-chain-workers.md) at the labour end: both are worker-side refusals of unbargained AI integration, but the supply-chain-worker strategy addresses non-credentialled, precarious labour organising against a specific AI supply-chain harm (content moderation, data annotation, gig dispatch), where this strategy addresses credentialled professions with existing institutional apparatus. The two strategies together cover a wider slice of the AI-labour-refusal universe than either alone, and the corpus's clearest unbuilt alliance is the coordination between them.
+
+The strongest *competing* strategy on the AI-integration side is the industry's **professional-partnership co-optation** — vendor-authored "professional guidelines" for AI use in nursing, medicine, law, and teaching, offered as the responsible-adoption path that pre-empts refusal by writing the profession's own AI-use standard on the vendor's terms. The counter-move is anchored on the profession retaining authorship of its AI-integration standard through its own credentialling body, and the site of contest is which of the two competing standards binds the practitioner's employment or licensure.

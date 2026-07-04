@@ -6,7 +6,8 @@ status: active
 confidence: medium
 tags: [tech-worker-organizing, workplace-organizing, refusal, conscientious-objection, internal-campaign, project-maven, walkout, leverage]
 created: 2026-06-08
-last_updated: 2026-06-11
+last_updated: 2026-07-04
+parent_strategy: strat-cross-professional-refusal-of-ai-integration
 related_strategies:
   - strat-open-letter-collective-signatory-action
   - strat-insider-whistleblowing-from-frontier-labs
