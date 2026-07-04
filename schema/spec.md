@@ -236,3 +236,42 @@ Every entity body begins with an H1 of the entity's display name — `# <name>`,
 `tags` is freeform — the vocabulary is emergent. Vocabulary files start empty in `product/schema/vocabularies/` and grow from observed usage. When a tag stabilizes (typically used in 5+ entities), it's promoted into a vocabulary file with a definition.
 
 The `role` field on Person affiliations is also a candidate for an emergent vocabulary.
+
+## Intelligence
+
+Alongside the corpus (entity files under `entities/`), the movement-graph publishes analytical *reads* of the corpus — the **intelligence** layer — under `intelligence/`. Intelligence is manufactured inside the graph team by the Analyst role. Where corpus entities are structured facts about the movement, intelligence artifacts are the Analyst's judgments about it: what patterns hold, what gaps stand open, what strategies compose or conflict.
+
+Intelligence artifacts are self-describing markdown files with YAML frontmatter and a markdown body, one file per artifact. They are versioned with the corpus (same release tags, same immutability guarantee) and their freshness is `last_updated`-tagged in-file, with git history as the version trace between releases.
+
+### Common frontmatter
+
+Every intelligence artifact carries:
+
+```yaml
+type: intelligence-artifact
+artifact: <slug>              # short name identifying the artifact type (e.g. movement-gaps)
+name: <display name>
+authored_by: analyst
+created: <ISO date>
+last_updated: <ISO date>
+```
+
+Where the artifact has its own structured schema (e.g. per-entry status vocabulary), the artifact-specific section below documents it.
+
+### Artifacts
+
+#### `movement-gaps.md` — strategies expected but not adopted in AI
+
+The Analyst's standing list of strategies the movement could plausibly be running but isn't — strategies attested in adjacent movements (climate, tobacco liability, consumer protection, civil rights), expected on precedent, but with no AI-movement adopter yet identified. Distinct from the Strategy catalog under `entities/strategies/`: the catalog names strategies the movement *uses* (or could use); the gaps list flags strategies the movement is *missing*.
+
+**Body shape.** One H2 entry per gap. The heading is a short strategy name. The body carries a `Status:` line, an entry date, and ~150–400 words framing the gap: what the strategy is, why it's expected on precedent, what the Synthesizer searched and what returned, and — when confirmed — what would close the gap if the world produced an adopter. Adopter references, when named, link internally to corpus entities (e.g. `[org-slug](../entities/organizations/org-slug.md)`) or externally to the real-world source.
+
+**Lifecycle — three stages.** Every entry declares one:
+
+- **`candidate`** — the Analyst has surfaced the gap with a working hypothesis that it is movement-side. Synthesizer search not yet run, or running and not yet returned null. The gap is not yet grounded — treat it as the Analyst's uncorroborated read.
+- **`confirmed`** — the Synthesizer web-searched for a real-world adopter and returned null; the Analyst evaluated and promoted. A *grounded* gap: a strategy attested in adjacent movements, expected on the Analyst's read, but with no AI-movement adopter found. The `confirmed` line cites the Synth search date.
+- **`retired`** — the world produced a real adopter; the gap has closed. The retirement line names the adopter (a corpus entity link when drafted, or an external reference when not) and the retirement date. Original framing is preserved in git history — the file shows the current state; earlier states are recoverable via `git log`.
+
+**Confidence posture.** A `candidate` entry rests on the Analyst's pattern-recognition alone. A `confirmed` entry rests on a Synthesizer null-search verdict, cited in-line. A `retired` entry rests on an identified adopter, named in-line.
+
+**Freshness posture.** The Analyst edits the file directly in-session. `last_updated` in the frontmatter marks the latest edit; between-release updates land continuously on rolling `main` and each release tag pins the file to that tree, per the standard release semantics in [`README.md § Versioning and releases`](../README.md).
