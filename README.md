@@ -107,17 +107,21 @@ It does **not** guarantee completeness, depth, uniform verification, or geograph
 
 ## Theory of Coverage
 
-**Status: `v0.1`. Provisional. Re-examined every release.** This section answers one question: *of the movement this graph claims to map, how representative is the corpus?* The frame is what the team stands behind today, in the open — specific enough to measure (§3), honest enough about what it cannot yet see (§5). Numbers below are anchored to current `main`, refreshed each release; the [`v1.0.0` guarantees](#what-v100-guarantees) above are anchored to that release tag.
+**Status: `v0.2`. Provisional. Re-examined every release.** This section answers one question, on two dimensions: *of the movement this graph claims to map, how representative are the corpus and the intelligence we publish alongside it?* A corpus can be representative while its intelligence is thin, and vice versa; the theory renders a verdict on both. The frame is what the team stands behind today, in the open — specific enough to measure (§3), honest enough about what it cannot yet see (§5). Numbers below are anchored to current `main`, refreshed each release; the [`v1.0.0` guarantees](#what-v100-guarantees) above are anchored to that release tag.
 
-The movement is early and, on strong evidence, will be orders of magnitude larger within a few years. So the Theory of Coverage carries two jobs at once: **backward / measurable** — of the movement *as it exists today*, how much have we captured? — and **forward / aim** — what are we setting ourselves to capture *as it emerges*?
+The movement is early and, on strong evidence, will be orders of magnitude larger within a few years. So the Theory of Coverage carries two jobs at once: **backward / measurable** — of the movement *as it exists today*, how much have we captured, in corpus and in intelligence? — and **forward / aim** — what are we setting ourselves to capture *as it emerges*?
 
 ### 1 · What we claim to represent
 
-The **grassroots and small-d democratic layer** of the make-AI-good movement — people outside AI engaged in shaping how AI is built, deployed, and held accountable. Local groups, advocacy organizations doing grassroots work, coalitions, campaigns, cultural artifacts, the voices propagating them. What counts as "in" today is provisional and re-examinable; an actor ruled out today may enter tomorrow.
+**Corpus.** The **grassroots and small-d democratic layer** of the make-AI-good movement — people outside AI engaged in shaping how AI is built, deployed, and held accountable. Local groups, advocacy organizations doing grassroots work, coalitions, campaigns, cultural artifacts, the voices propagating them. What counts as "in" today is provisional and re-examinable; an actor ruled out today may enter tomorrow.
+
+**Intelligence.** Alongside the corpus, we claim to publish **movement intelligence** — analytical *reads* of the corpus, distinct from the corpus itself. This is the graph's fruition from *a corpus* to *a corpus plus the published read on it*. The intelligence surface today carries: the **Strategy catalog** in `entities/strategies/`, naming the approaches the movement uses (or could use) to pursue making AI good, with adopters cross-linked via corpus entities' `strategies[]` fields; and — new in `v2.1.0` — a standing **movement-gaps** list under `intelligence/`, holding strategies expected on precedent from adjacent movements but not yet adopted in AI, promoted from candidate to confirmed on a Synthesizer null-verdict search and retired when a real-world adopter emerges. Intelligence is manufactured inside the graph team by the Analyst role.
 
 ### 2 · Dimensions we measure on
 
-A dimension belongs in this list only if it traces to a commitment the mission already makes. Four dimensions clear that test today:
+A dimension belongs in this list only if it traces to a commitment the mission already makes.
+
+**Corpus dimensions** — four clear the test today:
 
 - **Geography** — the mission claims a global movement.
 - **Entity types** — the schema's defined types; representativeness means spanning them, not over-indexing organizations.
@@ -125,6 +129,13 @@ A dimension belongs in this list only if it traces to a commitment the mission a
 - **Insider/outsider engagement** — the mission's working principle, and the axis the hard scope calls turn on.
 
 **Language** and **time / currency** — proxies for reach and freshness — are held for ratification; they do not yet trace cleanly to a mission commitment.
+
+**Intelligence dimensions** — two clear the same test today:
+
+- **Strategy catalog breadth** — the mission's Analyst is charged with naming the approaches the movement uses or could use. Representativeness means naming most of the plausible set; naming a strategy takes no evidence (the test is whether the form holds), so breadth is testable ahead of the deeper evaluative layer.
+- **Movement-gap discipline** — the Analyst is also charged with seeing what the movement *isn't* doing that adjacent movements demonstrate. Representativeness on this axis means the standing gaps list actually reflects the gaps the Analyst has surfaced and verified via Synthesizer search — not just what has had time to be written up.
+
+**Strategy ecology** — how strategies compose, compete, or sequence — is a named future intelligence dimension but not measured yet.
 
 ### 3 · How representative we believe we are — the numbers
 
@@ -154,32 +165,56 @@ A deterministic rollup, refreshed each release by `process/coverage-script.sh`. 
 
 **Insider/outsider engagement.** A coarse tag-based proxy for the mission's working principle (*are people outside AI being engaged in work to make AI better?*): **196 of 803 entities (24.4%) carry an outsider-audience tag.** The substring list driving the count is judgment; the count given the list is deterministic. See `process/coverage-script.sh`.
 
+**Intelligence — Strategy catalog.** **25 named strategies** after a directed breadth pass, each carrying an average of **5.2 sourced effects** (130 total across the catalog), with per-effect `attribution_confidence` labelled per the effects taxonomy in [`schema/spec.md`](schema/spec.md). Adopter linkage from corpus entities: **80 of 131 organizations (61%)** link to at least one strategy; **46 of 84 campaigns (55%)** link the same way — via `strategies[]`, canonical direction adopter-side.
+
+**Intelligence — movement-gaps standing list.** **5 total entries** across the lifecycle at `intelligence/movement-gaps.md` — **2 `confirmed`**, **1 `candidate`** at closure threshold pending adopter draft, **2 `retired`-with-adopter** (adopters drafted in the corpus). Confirmed rests on Synthesizer null-verdict search; retirement is triggered by a real-world adopter surfacing.
+
 ### 4 · Where we fall short, and why
 
 The judgment layer. Each verdict is tagged **correctable** (build-order or sourcing), **under-tended** (genuinely hard), or **deliberate** (out of scope or awaiting a decision).
 
+**Corpus:**
+
 **Geographic skew — deliberate-plus-build-order.** Europe and Americas-North together hold **49% of the corpus (394 / 803)**. Latin America sits at 8%; MENA at 4.7%; Oceania at 3.1%. Sub-Saharan African coverage concentrates heavily on Kenya; South and Southeast Asia are thin; North America outside coastal tech hubs is thin. The skew is partly **build-order** — breadth-first work from English-language sources reaches Europe and North America first — and partly **deliberate**, because the team has not yet stood up the language and regional-sourcing tooling that would correct it at scale. Surfacing thin regions is a Synthesizer heuristic; concrete correction work flows through the Researcher inbox.
 
-**Strategy coverage — correctable / build-order.** The Strategy layer was seeded late (first entries 2026-06-06) and is **thin but actively being filled** — 25 named strategies in the corpus today, after a directed breadth pass; depth (evaluation of what works against what aims, ecology among strategies, adopter cross-linking) follows. Named here as a gap we are *closing on purpose*, not a deliberate omission. Naming a strategy takes no evidence — the test is whether the form holds — so breadth can move ahead of the slower evaluative layer.
+**Strategy corpus coverage — correctable / build-order.** The Strategy layer was seeded late (first entries 2026-06-06) and the catalog is **thin but actively being filled** — 25 named strategies today, after a directed breadth pass. Named here as a gap we are *closing on purpose*, not a deliberate omission. Naming a strategy takes no evidence — the test is whether the form holds — so breadth can move ahead of the deeper intelligence layer (§ Intelligence below).
 
 **Messages thinness — under-tended.** Messages — the mission's explicitly central, historically under-tended type — sit at **7.7% of the corpus (62 / 803)**, below where their mission weight would warrant. The shortfall is *under-tended*, not deliberate: cultural artifacts (slogans, framings, memes) are the hardest entity type to surface from public material, and the corpus has not yet stood up a steady channel for them. Named here as the gap nearest to the mission's center.
 
 **Audit coverage — correctable / build-order, currently regressing.** Audit coverage — the share of entities carrying a current, claim-by-claim audit at `audits/<id>.md` — sits at **61.6%**. It *fell* during the V2 build: auditing was paused while the directed entity work ran, so the percentage compressed mechanically as the denominator grew without new audits landing. Resumes post-V2. Per-claim discrepancy state continues to publish honestly in the audits that do exist (see [Audits](#audits)); the gap here is verification-state evenness across the corpus, not honesty about it.
 
+**Intelligence:**
+
+**Strategy ecology — under-tended.** Each of the 25 strategies stands alone in the catalog today. How strategies compose (a coalition running two together), compete (procurement-refusal vs. mass-protest for the same aim), or sequence (litigation building precedent for legislation) is not yet mapped. Composition is the intelligence surface's next depth axis; ecology-among-strategies is named as future Analyst work in the mission.
+
+**Strategy adopter linkage — build-order.** 39% of organizations and 45% of campaigns in the corpus carry no `strategies[]` reference. Some genuinely have no in-catalog strategy that fits — the catalog is 25 strategies against a corpus of 803 entities — but others reflect the Strategy layer being seeded late: earlier-drafted entities predate the catalog and have not been retroactively backfilled at scale. Backfill is future Editor act territory.
+
+**Movement-gap breadth — under-tended.** The standing list carries 5 entries after ~six months of Analyst gap-loop activity — small relative to the plausible set. The Analyst's gap-loop discipline is deliberately slow: name the strategy, hunt for adopters via Synthesizer null-search, promote on a returned null. Throughput is bounded by that discipline. Named here as the gap we are actively growing, not a deliberate omission.
+
+**Single-lens intelligence — under-tended.** The intelligence surface is authored by one Analyst role. Corpus content passes through Researcher → Editor → Auditor lenses; intelligence today passes through one. A second lens — cross-analyst review, external commentary, adversarial critique — is a natural future addition. This release is honest about single-lens posture rather than presenting single-lens output as multi-corroborated.
+
 ### 5 · Blind-spot register — what our frame may not let us see
 
 The §2 dimensions measure *inside* an envelope we drew. The register below names hypotheses about movement-growth *outside* that envelope, paired with the signal we would watch for. This is the part we most expect to grow.
+
+**Corpus-side blind spots:**
 
 - **Channels we don't monitor** — offline organizing, TikTok, closed platforms. *Signal:* in-corpus entities referencing actions or spaces we hold no entity for.
 - **Framings that don't use AI vocabulary** — human-centered work that is functionally about AI but won't pattern-match our filter. *Signal:* the hardest to design — candidly flagged as one we cannot reliably catch yet.
 - **AI-safety-world currents crossing into popular-movement territory.** *Signal:* in-corpus AI-safety entities spawning mass-participation actions or coalitions.
 - **Temporally-excluded actors entering.** Scope is temporal — an actor ruled out today (a funder strong on one axis only, an org whose AI program does not yet engage outsiders) may later develop the missing axis. *Signal:* periodic re-examination of dated scope-outs.
 
+**Intelligence-side blind spots:**
+
+- **Our lens starts inside the corpus.** The Analyst's gap-loop begins from what the corpus already holds; strategies with no corpus footprint at all can be invisible until the corpus reaches them. *Signal:* retired-with-adopter lifecycle running fast (adopters appearing quickly once a gap is flagged) while the confirmed-open list stays thin — a sign the loop is corpus-lagged, not movement-lagged.
+- **Ecology the Analyst can see; the reader can't yet.** Where the Analyst has read composition, competition, or sequencing among strategies, published intelligence today carries it thinly. *Signal:* corpus adopters observably running two strategies together without the catalog naming the composition.
+- **Effects the taxonomy doesn't fit cleanly.** The taxonomy in [`schema/spec.md`](schema/spec.md) names concrete, sourceable classes (earned media, legislation, corporate behavior change, coalition adoption, etc.). Diffuse or long-horizon effects — cultural framing shifts, generational movement-building, delayed policy uptake — do not fit those slots. *Signal:* strategies whose adopters we can name but whose downstream effect the taxonomy attributes at `low` confidence or drops.
+
 ### 6 · Revision plan
 
-Re-examined every release — **the frame and the register, not only the numbers.** A mechanism and owner for keeping the register honest over time is open and named: v0.1 does not pretend one into existence.
+Re-examined every release — **the frame and the register, not only the numbers.** The intelligence dimensions (§2, §3, §4, §5) are new at `v2.1.0` and provisional: as intelligence output accretes across releases, the numbers get denser and the shortfalls change shape. A mechanism and owner for keeping the register honest over time is open and named: v0.2 does not pretend one into existence.
 
-If you're building something on top of this graph, sharing what you're working on is the most useful feedback we can receive — it points the corpus toward the use cases that matter.
+If you're building something on top of this graph — corpus or intelligence — sharing what you're working on is the most useful feedback we can receive. For a specific analytical read you would like us to produce, use the **`request/intelligence`** channel (see [Intelligence requests](#intelligence-requests) below); for structural or content feedback, use the standard [Issues and feedback](#issues-and-feedback) channel.
 
 ## Issues and feedback
 
