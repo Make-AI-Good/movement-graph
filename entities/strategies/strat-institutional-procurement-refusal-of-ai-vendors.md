@@ -6,8 +6,9 @@ status: active
 confidence: medium
 tags: [procurement, institutional-buyer, divestment, vendor-pressure, no-tech-for, public-spending, market-side-leverage, school-districts, universities, hospitals, professional-association, sectoral-pivot, model-contract-language, music-festivals, position-statement]
 created: 2026-06-08
-last_updated: 2026-06-11
+last_updated: 2026-07-05
 related_strategies:
+  - strat-cross-professional-refusal-of-ai-integration
   - strat-municipal-affirmative-ban-on-a-class-of-ai-use
   - strat-tech-worker-refusal-inside-ai-labs
   - strat-creator-class-collective-bargaining-on-generative-ai

@@ -6,8 +6,8 @@ status: active
 confidence: high
 tags: [labour-organising, content-moderation, data-labelling, gig-work, tech-worker-power, ai-supply-chain, transnational, union]
 created: 2026-06-06
-last_updated: 2026-06-10
-related_strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-empirical-audit-and-expose, strat-coalition-lobbying-of-binding-regional-regulation, strat-survivor-led-testimony-as-evidence, strat-creator-class-collective-bargaining-on-generative-ai]
+last_updated: 2026-07-05
+related_strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-empirical-audit-and-expose, strat-coalition-lobbying-of-binding-regional-regulation, strat-survivor-led-testimony-as-evidence, strat-creator-class-collective-bargaining-on-generative-ai, strat-cross-professional-refusal-of-ai-integration]
 effects:
   - description: 'On 20 September 2024 the Court of Appeal of Kenya, sitting at Nairobi as a three-judge bench of Justices Musinga, Asike-Makhandia, and Mativo, dismissed Meta Platforms Inc. and Meta Platforms Ireland Ltd''s consolidated jurisdictional appeals in Civil Appeals E232 and E445 of 2023 as "devoid of merit", holding that the parent platform can be sued in Kenya by former Sama-contracted content moderators over the working conditions and termination of the Facebook-moderation pipeline. The ruling preserves the 185-moderators petition (Constitutional Petition E052 of 2023) and the Motaung petition (E071 of 2022) for trial on the merits, and is the first appellate-level finding by an African court that a US platform parent can be held to answer in the jurisdiction where the outsourced AI-supply-chain work was performed.'
     type: judicial-outcome
