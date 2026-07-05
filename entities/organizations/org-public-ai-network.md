@@ -10,7 +10,7 @@ last_updated: 2026-06-12
 founded: 2023
 location: international
 website: https://publicai.network/
-strategies: []
+strategies: [strat-public-option-ai-infrastructure]
 key_people: []
 board_and_advisors: []
 related_orgs: []
