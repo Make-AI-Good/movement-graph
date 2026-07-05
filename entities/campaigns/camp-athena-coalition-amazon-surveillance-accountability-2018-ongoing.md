@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [us, national, coalition, worker-organizing, corporate-accountability, amazon, surveillance, facial-recognition, ring-police-partnerships, worker-surveillance, algorithmic-management, aws-ice, racial-justice, antitrust, shareholder-engagement, make-amazon-pay, tech-accountability]
 created: 2026-05-26
-last_updated: 2026-05-26
+last_updated: 2026-07-05
 start_date: 2019-11-26
 end_date: ongoing
 goals: |
@@ -16,7 +16,7 @@ participating_orgs:
   - org-mediajustice
   - org-mijente
 events: []
-strategies: []
+strategies: [strat-shareholder-resolutions-on-ai-vendors]
 outcomes: |
   Amazon announced a one-year moratorium on Rekognition sales to law enforcement in June 2020; in May 2021, following sustained coalition pressure and the Eyes on Amazon Week of Action, Amazon extended the moratorium indefinitely — the coalition treats this as a partial win and continues demanding a permanent statutory ban. The May 2022 "Monitored" report documented Amazon's worker-surveillance systems as part of a coordinated shareholder action at Vanguard headquarters in Malvern, Pennsylvania. The FTC filed an antitrust lawsuit against Amazon in September 2023; Athena issued a statement welcoming the filing and calling for structural remedies. In December 2024, Teamsters coordinated with Athena coalition members in what was described as the largest US labour action against Amazon to that point, involving multi-city facility-level work stoppages.
 sources:

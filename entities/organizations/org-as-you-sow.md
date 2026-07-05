@@ -6,11 +6,11 @@ status: active
 confidence: high
 tags: [us, california, el-cerrito, shareholder-advocacy, climate-accountability, ai-climate, esg-investing, racial-justice, workplace-equity, national]
 created: 2026-06-11
-last_updated: 2026-06-11
+last_updated: 2026-07-05
 founded: 1992
 location: national
 website: https://www.asyousow.org
-strategies: []
+strategies: [strat-shareholder-resolutions-on-ai-vendors]
 key_people: []
 board_and_advisors: []
 related_orgs: []

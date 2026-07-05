@@ -6,11 +6,11 @@ status: active
 confidence: high
 tags: [united-states, new-york, faith-based, shareholder-advocacy, institutional-investors, AI-accountability, digital-rights, human-rights, corporate-accountability, interfaith, national, nonprofit]
 created: 2026-06-11
-last_updated: 2026-06-13
+last_updated: 2026-07-05
 founded: 1971
 location: 'New York, NY'
 website: https://www.iccr.org/
-strategies: []
+strategies: [strat-shareholder-resolutions-on-ai-vendors]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-investor-alliance-for-human-rights]

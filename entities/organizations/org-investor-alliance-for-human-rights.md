@@ -6,11 +6,11 @@ status: active
 confidence: high
 tags: [united-states, new-york, institutional-investors, shareholder-advocacy, AI-accountability, digital-rights, human-rights, corporate-accountability, capital-leverage, international, national, nonprofit]
 created: 2026-06-11
-last_updated: 2026-06-13
+last_updated: 2026-07-05
 founded: 2018
 location: 'New York, NY'
 website: https://investorsforhumanrights.org/
-strategies: []
+strategies: [strat-shareholder-resolutions-on-ai-vendors]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-iccr]

@@ -13,6 +13,7 @@ related_strategies:
   - strat-counter-narrative-framing
   - strat-open-letter-collective-signatory-action
   - strat-mass-protest-for-ai-moratorium
+  - strat-shareholder-resolutions-on-ai-vendors
 effects:
   - description: 'On Friday 28 February 2020 the Pontifical Academy for Life, Microsoft, IBM, the UN Food and Agriculture Organization, and the Italian Ministry for Innovation co-signed the "Rome Call for AI Ethics" at the Vatican, with Pope Francis providing the doctrinal blessing. The Call set out six principles — transparency, inclusion, responsibility, impartiality, reliability, and security and privacy — and committed signatories to an "algor-ethics" framework binding signatories at a doctrinal register secular industry-codes cannot reach. The signing produced the field-defining instance of a religious institution converting a corporate AI-ethics conversation onto a moral-authority surface, and seeded the multi-year signatory-expansion campaign the Pontifical Academy has run ever since.'
     type: coalition-adoption

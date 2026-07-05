@@ -7,7 +7,7 @@ confidence: high
 tags: [supply-chain-mapping, corporate-accountability, federal-contracting, data-brokers, surveillance, no-tech-for, naming-the-vendors]
 created: 2026-06-06
 last_updated: 2026-06-10
-related_strategies: [strat-empirical-audit-and-expose, strat-counter-narrative-framing, strat-tech-worker-refusal-inside-ai-labs, strat-organize-ai-supply-chain-workers, strat-strategic-litigation-against-algorithmic-state-decisions, strat-coalition-lobbying-of-binding-regional-regulation, strat-local-rapid-response-against-single-deployment]
+related_strategies: [strat-empirical-audit-and-expose, strat-counter-narrative-framing, strat-tech-worker-refusal-inside-ai-labs, strat-organize-ai-supply-chain-workers, strat-strategic-litigation-against-algorithmic-state-decisions, strat-coalition-lobbying-of-binding-regional-regulation, strat-local-rapid-response-against-single-deployment, strat-shareholder-resolutions-on-ai-vendors]
 effects:
   - description: 'Italy''s Garante per la Protezione dei Dati Personali on 10 February 2022 fined Clearview AI €20 million, banned further web-scraping of Italian residents'' data, ordered deletion of the database''s Italian biometric records, and required EU-representative designation — the first European DPA to reach a final ruling on the company; reached under the May 2021 GDPR complaint coordinated by Privacy International, Hermes Center, noyb, and Homo Digitalis whose substantive basis was the supply-chain map of Clearview''s 10-billion-image scrape into a database sold to law enforcement.'
     type: regulatory-action
