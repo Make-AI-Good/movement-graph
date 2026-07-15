@@ -14,7 +14,7 @@ goals: |
 lead_orgs: []
 participating_orgs: []
 events: []
-strategies: [strat-local-rapid-response-against-single-deployment]
+strategies: [strat-local-rapid-response-against-single-deployment, strat-freedom-of-information-as-evidence-gathering]
 outcomes: |
   Operation LASER was dismantled in April 2019 after the LAPD inspector general, responding to the coalition's demand for a forensic audit, issued a March 2019 report concluding the program could not be properly audited due to its complexity — validating the coalition's core transparency critique. PredPol was ended on April 21, 2020, when LAPD announced it would cease all predictive policing programs; an internal memo dated April 15, 2020 cited COVID-19 financial constraints as the official reason, but coalition coordinator Hamid Khan attributed the decision to years of sustained community organizing ("This was clearly the community rising up"). The coalition also won a California Public Records Act lawsuit filed on February 13, 2018: in December 2019, LAPD was forced to disclose the names of 679 people on its secret chronic-offender list, maps of micro-hot-spot "threat areas," and hundreds of documents detailing the programs' operational architecture — the first major public exposure of how LASER and PredPol functioned in practice.
 sources:

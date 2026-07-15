@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 founded: 2013
 location: Haifa (with Ramallah office)
 website: https://7amleh.org/
-strategies: []
+strategies: [strat-international-human-rights-body-engagement]
 key_people:
   - person-nadim-nashif
 board_and_advisors: []

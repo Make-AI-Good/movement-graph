@@ -10,7 +10,7 @@ last_updated: 2026-06-12
 founded: 2008
 location: Paris, France
 website: https://www.laquadrature.net/en/
-strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-coalition-lobbying-of-binding-regional-regulation]
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-coalition-lobbying-of-binding-regional-regulation, strat-data-protection-authority-complaint-machinery]
 key_people: [person-bastien-le-querrec]
 board_and_advisors: []
 related_orgs: [org-edri, org-access-now, org-algorithmwatch, org-panoptykon-foundation]

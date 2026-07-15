@@ -10,7 +10,7 @@ last_updated: 2026-06-13
 founded: 1920
 location: national (New York headquarters, 50-state affiliate network)
 website: https://www.aclu.org/
-strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-empirical-audit-and-expose, strat-municipal-affirmative-ban-on-a-class-of-ai-use]
+strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-empirical-audit-and-expose, strat-municipal-affirmative-ban-on-a-class-of-ai-use, strat-freedom-of-information-as-evidence-gathering]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-electronic-frontier-foundation, org-algorithmic-justice-league, org-nacdl]

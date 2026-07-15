@@ -10,7 +10,7 @@ last_updated: 2026-05-15
 founded: 2009
 location: Warsaw, Poland
 website: https://en.panoptykon.org/
-strategies: [strat-coalition-lobbying-of-binding-regional-regulation]
+strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-data-protection-authority-complaint-machinery]
 key_people: [person-katarzyna-szymielewicz]
 board_and_advisors: []
 related_orgs: [org-edri, org-algorithmwatch, org-access-now, org-la-quadrature-du-net, org-iure]

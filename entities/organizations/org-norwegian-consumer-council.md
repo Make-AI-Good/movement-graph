@@ -10,7 +10,7 @@ last_updated: 2026-06-08
 founded: 1953
 location: Oslo, Norway
 website: https://www.forbrukerradet.no/
-strategies: [strat-empirical-audit-and-expose, strat-coalition-lobbying-of-binding-regional-regulation, strat-open-letter-collective-signatory-action]
+strategies: [strat-empirical-audit-and-expose, strat-coalition-lobbying-of-binding-regional-regulation, strat-open-letter-collective-signatory-action, strat-data-protection-authority-complaint-machinery]
 key_people: [person-finn-myrstad]
 board_and_advisors: []
 related_orgs: [org-edri]

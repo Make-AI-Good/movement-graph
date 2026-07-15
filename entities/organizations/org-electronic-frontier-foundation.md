@@ -10,7 +10,7 @@ last_updated: 2026-06-03
 founded: 1990
 location: national (headquartered in San Francisco, California)
 website: https://www.eff.org/
-strategies: [strat-municipal-affirmative-ban-on-a-class-of-ai-use]
+strategies: [strat-municipal-affirmative-ban-on-a-class-of-ai-use, strat-freedom-of-information-as-evidence-gathering]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-access-now, org-fight-for-the-future, org-aclu, org-nacdl, org-american-library-association]

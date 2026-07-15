@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 founded: 2009
 location: London, United Kingdom
 website: https://bigbrotherwatch.org.uk/
-strategies: [strat-empirical-audit-and-expose, strat-local-rapid-response-against-single-deployment]
+strategies: [strat-empirical-audit-and-expose, strat-local-rapid-response-against-single-deployment, strat-freedom-of-information-as-evidence-gathering]
 key_people: [person-silkie-carlo]
 board_and_advisors: []
 related_orgs: [org-foxglove, org-jcwi, org-worker-info-exchange]

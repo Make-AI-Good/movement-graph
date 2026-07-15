@@ -16,6 +16,7 @@ strategies:
   - strat-humanitarian-disarmament-treaty
   - strat-municipal-affirmative-ban-on-a-class-of-ai-use
   - strat-counter-narrative-framing
+  - strat-international-human-rights-body-engagement
 key_people: []
 board_and_advisors: []
 related_orgs:
