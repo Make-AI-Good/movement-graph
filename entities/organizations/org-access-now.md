@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 founded: 2009
 location: international (headquartered in New York with regional offices in Brussels, San José, Berlin, Tunis, Delhi, Nairobi, and Manila)
 website: https://www.accessnow.org/
-strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-international-human-rights-body-engagement]
+strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-international-human-rights-body-engagement, strat-mass-participation-in-agency-rulemaking-comments, strat-statutory-researcher-access-and-shield]
 key_people: [person-felicia-anthonio, person-marwa-fatafta]
 board_and_advisors: []
 related_orgs: [org-edri, org-algorithmwatch, org-panoptykon-foundation, org-la-quadrature-du-net, org-article-19, org-citizen-lab, org-masaar, org-sinar-project, org-electronic-frontier-foundation, org-share-foundation]

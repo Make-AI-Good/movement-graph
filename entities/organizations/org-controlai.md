@@ -10,7 +10,7 @@ last_updated: 2026-05-13
 founded: 2023
 location: international (UK-headquartered)
 website: https://controlai.com/
-strategies: [strat-coalition-lobbying-of-binding-regional-regulation]
+strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-advocate-for-a-new-ai-regulatory-body]
 key_people:
   - person-andrea-miotti
 board_and_advisors: []

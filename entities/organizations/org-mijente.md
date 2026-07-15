@@ -10,7 +10,7 @@ last_updated: 2026-05-19
 founded: 2015
 location: Phoenix, Arizona, United States
 website: https://mijente.net/
-strategies: [strat-map-the-ai-supply-chain-of-state-harm, strat-counter-narrative-framing, strat-freedom-of-information-as-evidence-gathering]
+strategies: [strat-map-the-ai-supply-chain-of-state-harm, strat-counter-narrative-framing, strat-freedom-of-information-as-evidence-gathering, strat-cross-movement-coalition-bridging, strat-endowment-and-pension-divestment-from-ai]
 key_people:
   - person-jacinta-gonzalez
 board_and_advisors: []

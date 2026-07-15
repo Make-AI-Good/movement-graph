@@ -10,7 +10,7 @@ last_updated: 2026-05-15
 founded: 2021
 location: Oakland, California (US headquarters; globally distributed team across Africa, Europe, Australia, and North America)
 website: https://www.dair-institute.org/
-strategies: [strat-empirical-audit-and-expose, strat-counter-narrative-framing, strat-parallel-community-research-institution]
+strategies: [strat-empirical-audit-and-expose, strat-counter-narrative-framing, strat-parallel-community-research-institution, strat-community-defined-benchmarks-and-standards]
 key_people: [person-timnit-gebru]
 board_and_advisors: []
 related_orgs: [org-data-labellers-association]

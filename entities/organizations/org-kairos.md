@@ -10,7 +10,7 @@ last_updated: 2026-05-12
 founded: 2016
 location: New York, United States (national)
 website: https://www.kairosfellows.org/
-strategies: [strat-local-fight-against-ai-data-centers]
+strategies: [strat-local-fight-against-ai-data-centers, strat-cross-movement-coalition-bridging]
 key_people: []
 board_and_advisors: []
 related_orgs:
