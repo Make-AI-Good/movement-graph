@@ -1,14 +1,14 @@
 ---
 type: reliability-statement
-generated_at: 2026-07-15T08:05:14Z
-generated_at_commit: 76798d0821821e30bfc3c7217348a9ce45717596
+generated_at: 2026-07-15T10:10:00Z
+generated_at_commit: 110f38e09fb11c70de8bb4a543d995d0604fc6a3
 generator: project/teams/movement-graph/dashboard/generate-reliability.sh
 audited_entities: 525
 total_entities: 810
 audit_coverage_pct: 64
-total_claims: 11990
-claims_corroborated: 8345
-claims_primary_sourced: 957
+total_claims: 11992
+claims_corroborated: 8327
+claims_primary_sourced: 977
 claims_single_source: 306
 claims_uncorroborated: 1890
 open_corrections: 492
@@ -19,9 +19,9 @@ status_corrections_pending: 252
 
 # Corpus reliability
 
-Auto-generated at commit `76798d0` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
+Auto-generated at commit `110f38e` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
 
-This graph is independently audited at the claim level. Of 11,990 claims across 525 audited entities: **77.6%** corroborated or primary-sourced, **2.6%** single-source, **15.8%** not independently corroborated, **4.1%** precision-corrected (which we apply). **No fabrication observed.**
+This graph is independently audited at the claim level. Of 11,992 claims across 525 audited entities: **77.6%** corroborated or primary-sourced, **2.6%** single-source, **15.8%** not independently corroborated, **4.1%** precision-corrected (which we apply). **No fabrication observed.**
 
 "Single-source" / "not independently corroborated" describe how much sourcing backs a claim — not findings that it is wrong.
 
@@ -50,9 +50,9 @@ Entity-level `status` is a **distribution**, never the worst single claim:
 | Metric | Value |
 |---|---|
 | Audit coverage | 525 / 810 entities (64%) |
-| Total claims audited | 11,990 |
-| Claims corroborated (≥2 sources) | 8,345 |
-| Claims primary-sourced (1 primary-tier source) | 957 |
+| Total claims audited | 11,992 |
+| Claims corroborated (≥2 sources) | 8,327 |
+| Claims primary-sourced (1 primary-tier source) | 977 |
 | Claims single-source (1 non-primary canonical source) | 306 |
 | Claims uncorroborated | 1,890 |
 | Open corrections | 492 |
