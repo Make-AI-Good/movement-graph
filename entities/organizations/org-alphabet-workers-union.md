@@ -10,7 +10,7 @@ last_updated: 2026-06-11
 founded: 2021
 location: national
 website: https://www.alphabetworkersunion.org/
-strategies: [strat-tech-worker-refusal-inside-ai-labs, strat-organize-ai-supply-chain-workers]
+strategies: [strat-tech-worker-refusal-inside-ai-labs, strat-organize-ai-supply-chain-workers, strat-formal-unionization-of-ai-industry-workers]
 key_people: []
 board_and_advisors: []
 related_orgs: []

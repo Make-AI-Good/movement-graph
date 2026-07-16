@@ -12,6 +12,7 @@ location: national (Chicago headquarters)
 website: https://www.ala.org/
 strategies:
   - strat-institutional-procurement-refusal-of-ai-vendors
+  - strat-ai-literacy-curriculum-organizing-in-schools-and-libraries
 key_people: []
 board_and_advisors: []
 related_orgs:

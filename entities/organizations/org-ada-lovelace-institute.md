@@ -10,7 +10,7 @@ last_updated: 2026-06-03
 founded: 2018
 location: London, United Kingdom
 website: https://www.adalovelaceinstitute.org/
-strategies: [strat-participatory-deliberation-as-policy-input, strat-parallel-community-research-institution]
+strategies: [strat-participatory-deliberation-as-policy-input, strat-parallel-community-research-institution, strat-mandatory-algorithmic-impact-assessment-requirement]
 key_people:
   - person-gaia-marcus
 board_and_advisors:

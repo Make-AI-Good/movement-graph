@@ -10,7 +10,7 @@ last_updated: 2026-05-13
 founded: 2025
 location: Nairobi, Kenya (with continental remit)
 website: https://data-workers.org/DLA/
-strategies: [strat-organize-ai-supply-chain-workers]
+strategies: [strat-organize-ai-supply-chain-workers, strat-formal-unionization-of-ai-industry-workers]
 key_people:
   - person-joan-kinyua
 board_and_advisors: []

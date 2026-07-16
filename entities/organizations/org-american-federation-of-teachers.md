@@ -13,6 +13,7 @@ website: https://www.aft.org/
 strategies:
   - strat-creator-class-collective-bargaining-on-generative-ai
   - strat-counter-narrative-framing
+  - strat-ai-literacy-curriculum-organizing-in-schools-and-libraries
 key_people: []
 board_and_advisors: []
 related_orgs:
