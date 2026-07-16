@@ -1,17 +1,17 @@
 ---
 type: reliability-statement
-generated_at: 2026-07-16T06:51:57Z
-generated_at_commit: 4cab935b9a30e154aacd3d846ceb276173eb2a52
+generated_at: 2026-07-16T09:33:06Z
+generated_at_commit: 45fd3448bde4c9a3eb732a5a494cd6c65cf33737
 generator: project/teams/movement-graph/dashboard/generate-reliability.sh
 audited_entities: 532
 total_entities: 822
 audit_coverage_pct: 64
 total_claims: 12209
-claims_corroborated: 8411
-claims_primary_sourced: 1029
-claims_single_source: 337
+claims_corroborated: 8387
+claims_primary_sourced: 1047
+claims_single_source: 344
 claims_uncorroborated: 1922
-open_corrections: 510
+open_corrections: 509
 status_corroborated: 40
 status_supported: 235
 status_corrections_pending: 257
@@ -19,7 +19,7 @@ status_corrections_pending: 257
 
 # Corpus reliability
 
-Auto-generated at commit `4cab935` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
+Auto-generated at commit `45fd344` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
 
 This graph is independently audited at the claim level. Of 12,209 claims across 532 audited entities: **77.3%** corroborated or primary-sourced, **2.8%** single-source, **15.7%** not independently corroborated, **4.2%** precision-corrected (which we apply). **No fabrication observed.**
 
@@ -51,11 +51,11 @@ Entity-level `status` is a **distribution**, never the worst single claim:
 |---|---|
 | Audit coverage | 532 / 822 entities (64%) |
 | Total claims audited | 12,209 |
-| Claims corroborated (≥2 sources) | 8,411 |
-| Claims primary-sourced (1 primary-tier source) | 1,029 |
-| Claims single-source (1 non-primary canonical source) | 337 |
+| Claims corroborated (≥2 sources) | 8,387 |
+| Claims primary-sourced (1 primary-tier source) | 1,047 |
+| Claims single-source (1 non-primary canonical source) | 344 |
 | Claims uncorroborated | 1,922 |
-| Open corrections | 510 |
+| Open corrections | 509 |
 | Entities — status `corroborated` | 40 |
 | Entities — status `supported` | 235 |
 | Entities — status `corrections-pending` | 257 |
