@@ -11,6 +11,7 @@ founded: 1916
 location: national
 website: https://www.rcn.org.uk/
 strategies:
+  - strat-cross-professional-refusal-of-ai-integration
   - strat-open-letter-collective-signatory-action
   - strat-counter-narrative-framing
 key_people: []

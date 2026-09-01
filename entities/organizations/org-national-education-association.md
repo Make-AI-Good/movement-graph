@@ -11,6 +11,7 @@ founded: 1857
 location: national (Washington D.C. headquarters)
 website: https://www.nea.org/
 strategies:
+  - strat-cross-professional-refusal-of-ai-integration
   - strat-institutional-procurement-refusal-of-ai-vendors
   - strat-ai-literacy-curriculum-organizing-in-schools-and-libraries
 key_people: []
