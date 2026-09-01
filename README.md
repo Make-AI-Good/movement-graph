@@ -139,17 +139,17 @@ A dimension belongs in this list only if it traces to a commitment the mission a
 
 ### 3 · How representative we believe we are — the numbers
 
-A deterministic rollup, refreshed each release by `process/coverage-script.sh`. **These are measurements, not judgments** — the judgment layer is §4. Counts from the current corpus run:
+A deterministic rollup, refreshed each release by the team's rollup script (`coverage-script.sh`, workshop-side). **These are measurements, not judgments** — the judgment layer is §4. Counts from the current corpus run:
 
-**Entity types — 803 entities across ten types:**
+**Entity types — 842 entities across ten types:**
 
 | type | count | | type | count |
 |---|---:|---|---|---:|
 | persons | 168 | | funders | 68 |
-| organizations | 131 | | publications | 66 |
-| campaigns | 84 | | messages | 62 |
-| events | 74 | | local-groups | 56 |
-| voices | 69 | | strategies | 25 |
+| organizations | 133 | | publications | 66 |
+| campaigns | 84 | | strategies | 64 |
+| events | 74 | | messages | 62 |
+| voices | 69 | | local-groups | 54 |
 
 **Geography — each entity assigned to one macro-region by tag set; entities with no geographic tag fall to `no-signal` (often persons whose geography lives via affiliation):**
 
@@ -157,15 +157,15 @@ A deterministic rollup, refreshed each release by `process/coverage-script.sh`. 
 |---|---:|---|---|---:|
 | Americas-North | 208 | | Americas-Latin | 64 |
 | Europe | 186 | | MENA | 38 |
-| Africa | 89 | | Oceania | 25 |
-| Asia | 88 | | Global-aggregate | 23 |
-| no-signal | 82 | | | |
+| no-signal | 121 | | Oceania | 25 |
+| Africa | 89 | | Global-aggregate | 23 |
+| Asia | 88 | | | |
 
-**Cultural artifacts.** Messages, the mission's named under-tended type, are **62 entities — 7.7% of the corpus**.
+**Cultural artifacts.** Messages, the mission's named under-tended type, are **62 entities — 7.4% of the corpus**.
 
-**Insider/outsider engagement.** A coarse tag-based proxy for the mission's working principle (*are people outside AI being engaged in work to make AI better?*): **196 of 803 entities (24.4%) carry an outsider-audience tag.** The substring list driving the count is judgment; the count given the list is deterministic. See `process/coverage-script.sh`.
+**Insider/outsider engagement.** A coarse tag-based proxy for the mission's working principle (*are people outside AI being engaged in work to make AI better?*): **198 of 842 entities (23.5%) carry an outsider-audience tag.** The substring list driving the count is judgment; the count given the list is deterministic. The list lives in the workshop rollup script (`coverage-script.sh`).
 
-**Intelligence — Strategy catalog.** **25 named strategies** after a directed breadth pass, each carrying an average of **5.2 sourced effects** (130 total across the catalog), with per-effect `attribution_confidence` labelled per the effects taxonomy in [`schema/spec.md`](schema/spec.md). Adopter linkage from corpus entities: **80 of 131 organizations (61%)** link to at least one strategy; **46 of 84 campaigns (55%)** link the same way — via `strategies[]`, canonical direction adopter-side.
+**Intelligence — Strategy catalog.** **64 named strategies** after sustained breadth passes (25 at `v2.0.0`), carrying an average of **2.2 sourced effects** (138 total across the catalog), with per-effect `attribution_confidence` labelled per the effects taxonomy in [`schema/spec.md`](schema/spec.md). The mean fell as the catalog grew — by design: strategies are born lightweight (naming takes no evidence) and accrete sourced effects only where evaluation earns them, so a fast-growing catalog dilutes the mean until depth passes catch up. Adopter linkage from corpus entities: **85 of 133 organizations (64%)** link to at least one strategy; **47 of 84 campaigns (56%)** link the same way — via `strategies[]`, canonical direction adopter-side.
 
 **Intelligence — movement-gaps standing list.** **5 total entries** across the lifecycle at `intelligence/movement-gaps.md` — **2 `confirmed`**, **3 `retired`-with-adopter** (real-world adopters surfaced; corpus-side drafts follow for two of them, the third linking externally pending a corpus draft). Confirmed rests on Synthesizer null-verdict search; retirement is triggered by a real-world adopter surfacing.
 
@@ -175,21 +175,21 @@ The judgment layer. Each verdict is tagged **correctable** (build-order or sourc
 
 **Corpus:**
 
-**Geographic skew — deliberate-plus-build-order.** Europe and Americas-North together hold **49% of the corpus (394 / 803)**. Latin America sits at 8%; MENA at 4.7%; Oceania at 3.1%. Sub-Saharan African coverage concentrates heavily on Kenya; South and Southeast Asia are thin; North America outside coastal tech hubs is thin. The skew is partly **build-order** — breadth-first work from English-language sources reaches Europe and North America first — and partly **deliberate**, because the team has not yet stood up the language and regional-sourcing tooling that would correct it at scale. Surfacing thin regions is a Synthesizer heuristic; concrete correction work flows through the Researcher inbox.
+**Geographic skew — deliberate-plus-build-order.** Europe and Americas-North together hold **47% of the corpus (394 / 842)**. Latin America sits at 7.6%; MENA at 4.5%; Oceania at 3.0%. Sub-Saharan African coverage concentrates heavily on Kenya; South and Southeast Asia are thin; North America outside coastal tech hubs is thin. The skew is partly **build-order** — breadth-first work from English-language sources reaches Europe and North America first — and partly **deliberate**, because the team has not yet stood up the language and regional-sourcing tooling that would correct it at scale. Surfacing thin regions is a Synthesizer heuristic; concrete correction work flows through the Researcher inbox.
 
-**Strategy corpus coverage — correctable / build-order.** The Strategy layer was seeded late (first entries 2026-06-06) and the catalog is **thin but actively being filled** — 25 named strategies today, after a directed breadth pass. Named here as a gap we are *closing on purpose*, not a deliberate omission. Naming a strategy takes no evidence — the test is whether the form holds — so breadth can move ahead of the deeper intelligence layer (§ Intelligence below).
+**Strategy corpus coverage — correctable / build-order.** The Strategy layer was seeded late (first entries 2026-06-06) and is **actively being filled** — 64 named strategies today, up from 25 at `v2.0.0`, via sustained breadth passes. Named here as a gap we are *closing on purpose*, not a deliberate omission. Naming a strategy takes no evidence — the test is whether the form holds — so breadth can move ahead of the deeper intelligence layer (§ Intelligence below).
 
-**Messages thinness — under-tended.** Messages — the mission's explicitly central, historically under-tended type — sit at **7.7% of the corpus (62 / 803)**, below where their mission weight would warrant. The shortfall is *under-tended*, not deliberate: cultural artifacts (slogans, framings, memes) are the hardest entity type to surface from public material, and the corpus has not yet stood up a steady channel for them. Named here as the gap nearest to the mission's center.
+**Messages thinness — under-tended.** Messages — the mission's explicitly central, historically under-tended type — sit at **7.4% of the corpus (62 / 842)**, below where their mission weight would warrant. The shortfall is *under-tended*, not deliberate: cultural artifacts (slogans, framings, memes) are the hardest entity type to surface from public material, and the corpus has not yet stood up a steady channel for them. Named here as the gap nearest to the mission's center.
 
-**Audit coverage — correctable / build-order, currently regressing.** Audit coverage — the share of entities carrying a current, claim-by-claim audit at `audits/<id>.md` — sits at **61.6%**. It *fell* during the V2 build: auditing was paused while the directed entity work ran, so the percentage compressed mechanically as the denominator grew without new audits landing. Resumes post-V2. Per-claim discrepancy state continues to publish honestly in the audits that do exist (see [Audits](#audits)); the gap here is verification-state evenness across the corpus, not honesty about it.
+**Audit coverage — correctable / build-order, climbing again.** Audit coverage — the share of entities carrying a current, claim-by-claim audit at `audits/<id>.md` — sits at **65% (550 / 842)**. It fell during the V2 build (auditing paused while directed entity work ran, compressing the percentage as the denominator grew), resumed after V2, and has climbed steadily since. Per-claim discrepancy state continues to publish honestly in the audits that do exist (see [Audits](#audits)); the gap here is verification-state evenness across the corpus, not honesty about it.
 
 **Intelligence:**
 
-**Strategy ecology — under-tended.** Each of the 25 strategies stands alone in the catalog today. How strategies compose (a coalition running two together), compete (procurement-refusal vs. mass-protest for the same aim), or sequence (litigation building precedent for legislation) is not yet mapped. Composition is the intelligence surface's next depth axis; ecology-among-strategies is named as future Analyst work in the mission.
+**Strategy ecology — under-tended.** Each of the 64 strategies stands alone in the catalog today. How strategies compose (a coalition running two together), compete (procurement-refusal vs. mass-protest for the same aim), or sequence (litigation building precedent for legislation) is not yet mapped. Composition is the intelligence surface's next depth axis; ecology-among-strategies is named as future Analyst work in the mission.
 
-**Strategy adopter linkage — build-order.** 39% of organizations and 45% of campaigns in the corpus carry no `strategies[]` reference. Some genuinely have no in-catalog strategy that fits — the catalog is 25 strategies against a corpus of 803 entities — but others reflect the Strategy layer being seeded late: earlier-drafted entities predate the catalog and have not been retroactively backfilled at scale. Backfill is future Editor act territory.
+**Strategy adopter linkage — build-order.** 36% of organizations and 44% of campaigns in the corpus carry no `strategies[]` reference. Some genuinely have no in-catalog strategy that fits — the catalog is 64 strategies against a corpus of 842 entities — but others reflect the Strategy layer being seeded late: earlier-drafted entities predate the catalog and have not been retroactively backfilled at scale. Backfill is future Editor act territory.
 
-**Movement-gap breadth — under-tended.** The standing list carries 5 entries after ~six months of Analyst gap-loop activity — small relative to the plausible set. The Analyst's gap-loop discipline is deliberately slow: name the strategy, hunt for adopters via Synthesizer null-search, promote on a returned null. Throughput is bounded by that discipline. Named here as the gap we are actively growing, not a deliberate omission.
+**Movement-gap breadth — under-tended.** The standing list carries 5 entries after ~three months of Analyst gap-loop activity — small relative to the plausible set. The Analyst's gap-loop discipline is deliberately slow: name the strategy, hunt for adopters via Synthesizer null-search, promote on a returned null. Throughput is bounded by that discipline. Named here as the gap we are actively growing, not a deliberate omission.
 
 **Single-lens intelligence — under-tended.** The intelligence surface is authored by one Analyst role. Corpus content passes through Researcher → Editor → Auditor lenses; intelligence today passes through one. A second lens — cross-analyst review, external commentary, adversarial critique — is a natural future addition. This release is honest about single-lens posture rather than presenting single-lens output as multi-corroborated.
 

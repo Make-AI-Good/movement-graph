@@ -5,6 +5,53 @@ All notable changes to the Movement Graph are documented here. The format is bas
 release semantics described in the [README](README.md#versioning-and-releases):
 **MAJOR** = breaking schema change, **MINOR** = content added, **PATCH** = corrections.
 
+## [2.1.0] — 2026-09-01
+
+The first **intelligence** release. Up to `v2.0.0` this repo published the corpus —
+the data, the audit trail, the Theory of Coverage. `v2.1.0` makes movement
+**intelligence** a first-class part of what we publish: the analytical *read* of
+the corpus, alongside the corpus itself. Additive throughout — the v2 schema is
+unchanged, which is why this is a MINOR release.
+
+### Added
+
+- **`intelligence/` — a published intelligence surface**, opening with
+  [`intelligence/movement-gaps.md`](intelligence/movement-gaps.md): a standing
+  list of strategies the movement would be expected to run but hasn't —
+  candidate → confirmed on a null-verdict search, retired when a real-world
+  adopter emerges. Ships with 5 substantive entries (2 confirmed, 3
+  retired-with-adopter, each retirement naming its adopter).
+- **`schema/spec.md § Intelligence`** — the intelligence-artifact class is
+  schema-covered: frontmatter, body shape, lifecycle, freshness and confidence
+  posture, so a consumer can parse and render without asking us.
+- **Intelligence requests** — a consumer-facing request channel
+  (README § Issues and feedback): file a GitHub issue with the
+  `request/intelligence` label to ask for a specific piece of intelligence;
+  triaged into the next release's planning.
+- **Theory of Coverage `v0.2`** — the theory now judges representativeness on
+  **two dimensions, corpus and intelligence**, with intelligence measurements
+  (§3), intelligence shortfalls named honestly (§4, including our single-lens
+  posture), and intelligence-side blind spots (§5).
+
+### Changed
+
+- **Strategy catalog: 25 → 64 named strategies** via sustained breadth passes.
+  Mean sourced effects per strategy fell (5.2 → 2.2) as the catalog grew —
+  by design: strategies are born lightweight and accrete sourced effects only
+  where evaluation earns them.
+- **Audit coverage: 550 of 842 entities (65%)**, climbing again after the
+  V2-build pause; per-claim reliability stats publish as always in
+  `RELIABILITY.md`.
+- **Uniform body shape** — every entity body now opens with an H1 of its
+  `name` (a mechanical backfill across all files; no content changes).
+- Theory of Coverage §3 numbers refreshed to the current corpus (842 entities).
+
+### Fixed
+
+- Claim-level corrections continue to flow through the audit → editor repair
+  pipe (each traceable to a claim ID in `audits/`); correction state — applied
+  and still-pending — publishes honestly in `RELIABILITY.md`.
+
 ## [2.0.0] — 2026-06-13
 
 The first **directed-coverage** release. Where `v1.0.0` built broadly — a little
