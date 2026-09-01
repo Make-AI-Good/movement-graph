@@ -10,7 +10,7 @@ last_updated: 2026-07-05
 founded: 1992
 location: national
 website: https://www.asyousow.org
-strategies: [strat-shareholder-resolutions-on-ai-vendors]
+strategies: [strat-shareholder-resolutions-on-ai-vendors, strat-impact-investing-and-vc-screening-criteria-on-ai]
 key_people: []
 board_and_advisors: []
 related_orgs: []

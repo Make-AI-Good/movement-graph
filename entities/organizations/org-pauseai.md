@@ -10,7 +10,7 @@ last_updated: 2026-06-13
 founded: 2023
 location: international (founded in Utrecht, Netherlands)
 website: https://pauseai.info/
-strategies: [strat-mass-protest-for-ai-moratorium, strat-counter-narrative-framing]
+strategies: [strat-mass-protest-for-ai-moratorium, strat-counter-narrative-framing, strat-personalized-executive-accountability-campaign]
 key_people:
   - person-joep-meindertsma
   - person-maxime-fournes

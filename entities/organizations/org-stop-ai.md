@@ -10,7 +10,7 @@ last_updated: 2026-06-11
 founded: 2024
 location: 'Oakland, CA'
 website: https://www.stopai.info/
-strategies: [strat-mass-protest-for-ai-moratorium]
+strategies: [strat-mass-protest-for-ai-moratorium, strat-personalized-executive-accountability-campaign]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-pauseai]

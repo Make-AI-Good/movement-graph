@@ -10,7 +10,7 @@ last_updated: 2026-06-11
 founded: 1987
 location: London, United Kingdom
 website: https://www.article19.org/
-strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-civil-society-inside-technical-standards-bodies, strat-international-human-rights-body-engagement]
+strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-civil-society-inside-technical-standards-bodies, strat-international-human-rights-body-engagement, strat-multilateral-treaty-process-engagement-on-ai, strat-strategic-amicus-curiae-infrastructure]
 key_people: [person-vidushi-marda]
 board_and_advisors: []
 related_orgs:
