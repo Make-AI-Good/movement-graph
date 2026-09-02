@@ -21,6 +21,7 @@ participating_people:
   - person-maxime-fournes
 related_events:
   - event-pauseai-paris-ai-action-summit-protests-2025-02
+  - event-stop-the-ai-race-sf-march-2026-07-11
 sources:
   - url: https://pauseai.info/protest-london-feb-2026
     last_checked: 2026-09-02
