@@ -25,6 +25,7 @@ related_orgs:
   - org-internet-freedom-foundation
   - org-privacy-international
   - org-human-rights-watch
+  - org-surveillance-technology-oversight-project
 funders: [fund-open-society-foundations, fund-ford-foundation, fund-macarthur-foundation, fund-sigrid-rausing-trust]
 sources:
   - url: https://www.amnesty.org/en/tech/
