@@ -26,6 +26,7 @@ related_orgs:
   - org-nzili-sumbi-advocates
   - org-oversight-lab-africa
   - org-katiba-institute
+  - org-rest-of-world
 funders: []
 sources:
   - url: https://time.com/6275995/chatgpt-facebook-african-workers-union/
