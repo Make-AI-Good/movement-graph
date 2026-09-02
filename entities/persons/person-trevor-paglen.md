@@ -8,6 +8,7 @@ tags: [us, geographer, artist, author, surveillance, ai-training-data, imagenet-
 created: 2026-09-02
 last_updated: 2026-09-02
 affiliations: []
+voice_entry: voice-trevor-paglen
 public_profiles:
   - platform: personal-site
     url: https://paglen.studio/bio/
