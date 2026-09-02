@@ -22,6 +22,7 @@ related_orgs:
   - org-controlai
   - org-existential-risk-observatory
   - org-stop-ai
+  - org-pull-the-plug
 funders: [fund-survival-and-flourishing-fund, fund-lightspeed-grants]
 sources:
   - url: https://en.wikipedia.org/wiki/PauseAI

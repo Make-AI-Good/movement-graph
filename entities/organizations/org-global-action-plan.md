@@ -17,6 +17,7 @@ board_and_advisors: []
 related_orgs:
   - org-foxglove
   - org-kairos
+  - org-pull-the-plug
 funders:
   - fund-trust-for-london
 sources:
