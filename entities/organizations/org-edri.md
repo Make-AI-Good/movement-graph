@@ -6,14 +6,14 @@ status: active
 confidence: high
 tags: [belgium, brussels, european-union, continental-europe, network, coalition, aisbl, digital-rights, civil-liberties, privacy, data-protection, mass-surveillance, biometric-surveillance, facial-recognition, algorithmic-accountability, ai-and-human-rights, eu-ai-act, gdpr, dsa, copyright, net-neutrality, european-citizens-initiative, decolonising-digital-rights, advocacy, public-policy]
 created: 2026-05-13
-last_updated: 2026-05-20
+last_updated: 2026-09-02
 founded: 2002
 location: Brussels, Belgium
 website: https://edri.org/
 strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-counter-narrative-framing, strat-civil-society-inside-technical-standards-bodies, strat-mass-participation-in-agency-rulemaking-comments, strat-statutory-researcher-access-and-shield, strat-ballot-initiative-and-referendum-on-ai, strat-mandatory-algorithmic-impact-assessment-requirement, strat-consumer-facing-ai-use-disclosure-mandate, strat-multilateral-treaty-process-engagement-on-ai]
 key_people: [person-ella-jakubowska, person-thomas-lohninger]
 board_and_advisors: []
-related_orgs: [org-algorithmwatch, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net, org-hermes-center, org-tasz, org-article-19, org-digitale-gesellschaft, org-iure, org-norwegian-consumer-council, org-homo-digitalis, org-share-foundation]
+related_orgs: [org-algorithmwatch, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net, org-hermes-center, org-tasz, org-article-19, org-digitale-gesellschaft, org-iure, org-norwegian-consumer-council, org-homo-digitalis, org-share-foundation, org-epic]
 funders: [fund-open-society-foundations, fund-ford-foundation, fund-macarthur-foundation, fund-mozilla-foundation, fund-european-ai-society-fund, fund-luminate, fund-stiftung-mercator, fund-adessium-foundation, fund-limelight-foundation, fund-democracy-and-media-foundation]
 sources:
   - url: https://edri.org/about-us/

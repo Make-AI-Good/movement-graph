@@ -6,14 +6,14 @@ status: active
 confidence: high
 tags: [united-states, national, new-york, civil-liberties, privacy, surveillance, facial-recognition, ai-policing, police-surveillance, model-legislation, litigation, community-organizing, 501c3, data-protection, mass-surveillance, biometric-surveillance, fourth-amendment, first-amendment, digital-rights, racial-justice, communities-of-color, wrongful-arrest]
 created: 2026-06-08
-last_updated: 2026-06-13
+last_updated: 2026-09-02
 founded: 1920
 location: national (New York headquarters, 50-state affiliate network)
 website: https://www.aclu.org/
 strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-empirical-audit-and-expose, strat-municipal-affirmative-ban-on-a-class-of-ai-use, strat-freedom-of-information-as-evidence-gathering, strat-mass-participation-in-agency-rulemaking-comments, strat-strategic-amicus-curiae-infrastructure]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-electronic-frontier-foundation, org-algorithmic-justice-league, org-nacdl]
+related_orgs: [org-electronic-frontier-foundation, org-algorithmic-justice-league, org-nacdl, org-epic]
 funders: [fund-ford-foundation, fund-macarthur-foundation, fund-wellspring-philanthropic-fund]
 sources:
   - url: https://www.aclu.org/about/aclu-history

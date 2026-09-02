@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [uk, london, england-and-wales, international, global-south, civil-liberties, privacy, surveillance, mass-surveillance, biometric-surveillance, facial-recognition, surveillance-industry, algorithmic-accountability, ai-and-human-rights, ai-governance, data-protection, data-exploitation, public-private-partnerships, strategic-litigation, parliamentary-engagement, un-engagement, charity, non-profit, founded-1990, big-brother-awards]
 created: 2026-05-18
-last_updated: 2026-06-12
+last_updated: 2026-09-02
 founded: 1990
 location: London, United Kingdom
 website: https://privacyinternational.org/
@@ -23,6 +23,7 @@ related_orgs:
   - org-tedic
   - org-worker-info-exchange
   - org-homo-digitalis
+  - org-epic
 funders:
   - fund-ford-foundation
   - fund-luminate
