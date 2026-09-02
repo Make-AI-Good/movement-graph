@@ -13,7 +13,7 @@ website: https://investorsforhumanrights.org/
 strategies: [strat-shareholder-resolutions-on-ai-vendors, strat-impact-investing-and-vc-screening-criteria-on-ai]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-iccr]
+related_orgs: [org-iccr, org-ranking-digital-rights]
 funders: [fund-open-society-foundations]
 sources:
   - url: https://investorsforhumanrights.org/about

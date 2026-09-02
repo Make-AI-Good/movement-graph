@@ -19,6 +19,7 @@ related_orgs:
   - org-access-now
   - org-masaar
   - org-sinar-project
+  - org-ranking-digital-rights
 funders:
   - fund-ford-foundation
   - fund-open-society-foundations
