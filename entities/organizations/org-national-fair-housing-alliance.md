@@ -13,7 +13,7 @@ website: https://nationalfairhousing.org
 strategies: [strat-empirical-audit-and-expose, strat-mandatory-algorithmic-impact-assessment-requirement, strat-civil-society-inside-technical-standards-bodies]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-aclu, org-upturn, org-propublica, org-the-markup]
+related_orgs: [org-aclu, org-upturn, org-propublica, org-the-markup, org-national-consumer-law-center]
 funders: []
 sources:
   - url: https://nationalfairhousing.org/
