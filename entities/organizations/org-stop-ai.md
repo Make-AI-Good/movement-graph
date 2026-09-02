@@ -6,14 +6,14 @@ status: active
 confidence: high
 tags: [united-states, california, bay-area, civil-disobedience, direct-action, NVDA, frontier-ai, AGI-ban, existential-risk, grassroots, protest, arrest-discipline, moratorium]
 created: 2026-06-11
-last_updated: 2026-06-11
+last_updated: 2026-09-02
 founded: 2024
 location: 'Oakland, CA'
 website: https://www.stopai.info/
 strategies: [strat-mass-protest-for-ai-moratorium, strat-personalized-executive-accountability-campaign]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-pauseai]
+related_orgs: [org-pauseai, org-stop-the-ai-race]
 funders: []
 sources:
   - url: https://www.stopai.info/about

@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [international, federation, chaptered, protest, direct-action, ai-safety, frontier-ai, existential-risk, moratorium, treaty, governance, volunteer-led]
 created: 2026-05-08
-last_updated: 2026-06-13
+last_updated: 2026-09-02
 founded: 2023
 location: international (founded in Utrecht, Netherlands)
 website: https://pauseai.info/
@@ -23,6 +23,7 @@ related_orgs:
   - org-existential-risk-observatory
   - org-stop-ai
   - org-pull-the-plug
+  - org-stop-the-ai-race
 funders: [fund-survival-and-flourishing-fund, fund-lightspeed-grants]
 sources:
   - url: https://en.wikipedia.org/wiki/PauseAI
