@@ -13,7 +13,7 @@ website: https://algorithmwatch.org/
 strategies: [strat-empirical-audit-and-expose, strat-coalition-lobbying-of-binding-regional-regulation, strat-data-protection-authority-complaint-machinery, strat-mandatory-algorithmic-impact-assessment-requirement, strat-standing-ai-accountability-index]
 key_people: [person-matthias-spielkamp]
 board_and_advisors: []
-related_orgs: [org-edri, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net, org-tasz]
+related_orgs: [org-edri, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net, org-tasz, org-ai-forensics]
 funders: [fund-european-ai-society-fund, fund-stiftung-mercator, fund-robert-bosch-stiftung, fund-civitates]
 sources:
   - url: https://algorithmwatch.org/
