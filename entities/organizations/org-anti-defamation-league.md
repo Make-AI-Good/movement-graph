@@ -10,7 +10,8 @@ last_updated: 2026-09-03
 founded: 1913
 location: national
 website: https://www.adl.org
-strategies: []
+strategies:
+  - strat-advertiser-boycott-of-ai-deploying-platforms
 key_people: []
 board_and_advisors: []
 related_orgs:
