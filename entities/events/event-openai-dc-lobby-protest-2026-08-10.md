@@ -13,7 +13,8 @@ event_type: office occupation / direct action
 campaign: camp-dump-big-tech-2026
 participating_orgs: []
 participating_people: []
-related_events: []
+related_events:
+  - event-g20-ministerial-chapel-hill-protest-2026-09-02
 sources:
   - url: https://www.commondreams.org/news/ai-protest
     last_checked: 2026-09-03
