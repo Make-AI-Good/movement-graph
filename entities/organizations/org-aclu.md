@@ -13,7 +13,7 @@ website: https://www.aclu.org/
 strategies: [strat-strategic-litigation-against-algorithmic-state-decisions, strat-empirical-audit-and-expose, strat-municipal-affirmative-ban-on-a-class-of-ai-use, strat-freedom-of-information-as-evidence-gathering, strat-mass-participation-in-agency-rulemaking-comments, strat-strategic-amicus-curiae-infrastructure]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-electronic-frontier-foundation, org-algorithmic-justice-league, org-nacdl, org-epic, org-surveillance-technology-oversight-project, org-free-press]
+related_orgs: [org-electronic-frontier-foundation, org-algorithmic-justice-league, org-nacdl, org-epic, org-surveillance-technology-oversight-project, org-free-press, org-color-of-change]
 funders: [fund-ford-foundation, fund-macarthur-foundation, fund-wellspring-philanthropic-fund]
 sources:
   - url: https://www.aclu.org/about/aclu-history

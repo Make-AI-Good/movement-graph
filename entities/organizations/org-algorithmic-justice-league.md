@@ -16,7 +16,7 @@ key_people:
   - person-sasha-costanza-chock
   - person-tawana-petty
 board_and_advisors: []
-related_orgs: [org-aclu, org-nacdl]
+related_orgs: [org-aclu, org-nacdl, org-ai-now-institute]
 funders:
   - fund-ford-foundation
   - fund-macarthur-foundation

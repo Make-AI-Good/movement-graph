@@ -13,7 +13,7 @@ website: https://www.dair-institute.org/
 strategies: [strat-empirical-audit-and-expose, strat-counter-narrative-framing, strat-parallel-community-research-institution, strat-community-defined-benchmarks-and-standards]
 key_people: [person-timnit-gebru]
 board_and_advisors: []
-related_orgs: [org-data-labellers-association]
+related_orgs: [org-data-labellers-association, org-we-and-ai]
 funders: [fund-ford-foundation, fund-macarthur-foundation, fund-open-society-foundations, fund-kapor-foundation]
 sources:
   - url: https://www.dair-institute.org/

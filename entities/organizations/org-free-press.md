@@ -19,6 +19,7 @@ board_and_advisors: []
 related_orgs:
   - org-color-of-change
   - org-aclu
+  - org-anti-defamation-league
 funders:
   - fund-macarthur-foundation
 sources:
@@ -63,7 +64,7 @@ In October 2018, Free Press co-founded [Change the Terms](https://www.freepress.
 
 ## Stop Hate for Profit
 
-In June 2020, Free Press co-organized [Stop Hate for Profit](https://www.cnbc.com/2020/07/01/facebook-frustrates-advertisers-as-boycott-over-hate-speech-kicks-off.html) alongside the Anti-Defamation League, the NAACP, [Color of Change](org-color-of-change.md), Common Sense Media, LULAC, Mozilla, the National Hispanic Media Coalition, and Sleeping Giants. The campaign demanded advertisers withdraw spend from Facebook in response to the platform's algorithmic amplification of hate speech, voter suppression content, and white nationalist organizing. More than 1,200 advertisers paused their Facebook spend in July 2020 — directly targeting the revenue stream constituting approximately 98.5% of the platform's income — and Facebook announced two structural concessions: a senior civil rights oversight role inside the company, and a dedicated team to study algorithmic racial bias. Both had been standing demands of the civil rights coalition that Facebook had previously declined to act on. Stop Hate for Profit is the movement's reference model for the advertiser-boycott strategy: converting a movement-side complaint about algorithmic amplification into a concrete brand-safety procurement decision by engaging the advertiser stack rather than the user side.
+In June 2020, Free Press co-organized [Stop Hate for Profit](https://www.cnbc.com/2020/07/01/facebook-frustrates-advertisers-as-boycott-over-hate-speech-kicks-off.html) alongside [the Anti-Defamation League](org-anti-defamation-league.md), the NAACP, [Color of Change](org-color-of-change.md), Common Sense Media, LULAC, Mozilla, the National Hispanic Media Coalition, and Sleeping Giants. The campaign demanded advertisers withdraw spend from Facebook in response to the platform's algorithmic amplification of hate speech, voter suppression content, and white nationalist organizing. More than 1,200 advertisers paused their Facebook spend in July 2020 — directly targeting the revenue stream constituting approximately 98.5% of the platform's income — and Facebook announced two structural concessions: a senior civil rights oversight role inside the company, and a dedicated team to study algorithmic racial bias. Both had been standing demands of the civil rights coalition that Facebook had previously declined to act on. Stop Hate for Profit is the movement's reference model for the advertiser-boycott strategy: converting a movement-side complaint about algorithmic amplification into a concrete brand-safety procurement decision by engaging the advertiser stack rather than the user side.
 
 ## Stop Toxic Twitter
 

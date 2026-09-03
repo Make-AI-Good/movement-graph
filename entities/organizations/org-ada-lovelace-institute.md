@@ -15,7 +15,7 @@ key_people:
   - person-gaia-marcus
 board_and_advisors:
   - person-alix-dunn
-related_orgs: []
+related_orgs: [org-ai-now-institute]
 funders:
   - fund-nuffield-foundation
   - fund-european-ai-society-fund

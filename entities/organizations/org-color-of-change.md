@@ -20,6 +20,7 @@ related_orgs:
   - org-aclu
   - org-algorithmic-justice-league
   - org-free-press
+  - org-anti-defamation-league
 funders:
   - fund-ford-foundation
   - fund-open-society-foundations
@@ -66,7 +67,7 @@ Rashad Robinson served as president from 2011 through 2024, during which the org
 
 ## Stop Hate for Profit and the advertiser accountability campaign
 
-[Stop Hate for Profit](https://www.cnbc.com/2020/07/01/facebook-frustrates-advertisers-as-boycott-over-hate-speech-kicks-off.html), launched in June 2020, was co-organized by Color of Change, the Anti-Defamation League, the NAACP, Free Press, Common Sense Media, and Sleeping Giants following the death of George Floyd and a documented wave of algorithmic amplification of hate speech, voter suppression content, and militia organizing on Facebook's platform. The campaign asked advertisers to withdraw paid advertising from Facebook and its owned platforms for one month. More than 1,200 advertisers — including Unilever, Adidas, Ford, and Volkswagen — paused their spend, directly pressuring the platform's primary revenue source: advertising constituted approximately 98.5% of Facebook's 2019 revenue.
+[Stop Hate for Profit](https://www.cnbc.com/2020/07/01/facebook-frustrates-advertisers-as-boycott-over-hate-speech-kicks-off.html), launched in June 2020, was co-organized by Color of Change, [the Anti-Defamation League](org-anti-defamation-league.md), the NAACP, [Free Press](org-free-press.md), Common Sense Media, and Sleeping Giants following the death of George Floyd and a documented wave of algorithmic amplification of hate speech, voter suppression content, and militia organizing on Facebook's platform. The campaign asked advertisers to withdraw paid advertising from Facebook and its owned platforms for one month. More than 1,200 advertisers — including Unilever, Adidas, Ford, and Volkswagen — paused their spend, directly pressuring the platform's primary revenue source: advertising constituted approximately 98.5% of Facebook's 2019 revenue.
 
 The campaign's demands were structured around concrete, brand-safety-shaped defects that advertisers could operationalize as withdrawal justifications: algorithmic amplification of specified harm categories, content adjacency failures (ads served against hate speech or militia content), and the absence of a civil rights accountability structure inside the platform. Stop Hate for Profit is the reference case named in the movement-strategy corpus for the advertiser-boycott approach: civil-society organisations mobilizing the advertiser stack — brands, agencies, media-buying desks — into coordinated spend withdrawal from platforms whose AI deployment or content-moderation decisions the coalition names as unacceptable. The Stop Hate for Profit action met the model's key requirement: it converted a movement-side complaint about algorithmic amplification into a procurement decision the platform's ad-sales team could not ignore.
 
