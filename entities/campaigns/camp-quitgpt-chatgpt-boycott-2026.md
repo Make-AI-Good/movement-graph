@@ -13,8 +13,7 @@ goals: |
   Pressure OpenAI to withdraw from its February 2026 Pentagon contract granting the Department of Defense unrestricted access to its AI models — including for domestic mass surveillance and autonomous weapons systems — and to sever the financial and political ties its leadership has built with the Trump administration. The campaign's consumer lever is subscription cancellation: supporters are urged to cancel $20/month ChatGPT Plus subscriptions, delete the app, and share the pledge publicly. Proximate demands include ending ChatGPT's use by ICE for résumé screening and detention targeting. The broader aim is to demonstrate that consumer and civil-society pressure can hold AI companies accountable for military and authoritarian uses of their technology.
 lead_orgs: []
 participating_orgs: []
-events:
-  - event-openai-dc-lobby-protest-2026-08-10
+events: []
 strategies:
   - strat-organized-consumer-boycott-of-ai-products
 outcomes: |

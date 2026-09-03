@@ -10,7 +10,7 @@ last_updated: 2026-09-03
 date: 2026-08-10
 location: Washington DC
 event_type: office occupation / direct action
-campaign: camp-quitgpt-chatgpt-boycott-2026
+campaign: camp-dump-big-tech-2026
 participating_orgs: []
 participating_people: []
 related_events: []
