@@ -13,7 +13,7 @@ website: https://www.fightforthefuture.org/
 strategies: [strat-local-rapid-response-against-single-deployment, strat-counter-narrative-framing, strat-municipal-affirmative-ban-on-a-class-of-ai-use, strat-mass-participation-in-agency-rulemaking-comments, strat-cross-movement-coalition-bridging, strat-consumer-facing-ai-use-disclosure-mandate]
 key_people: [person-evan-greer]
 board_and_advisors: []
-related_orgs: [org-electronic-frontier-foundation, org-surveillance-technology-oversight-project]
+related_orgs: [org-electronic-frontier-foundation, org-surveillance-technology-oversight-project, org-freedom-of-the-press-foundation]
 funders: [fund-shuttleworth-foundation]
 sources:
   - url: https://www.fightforthefuture.org/about
