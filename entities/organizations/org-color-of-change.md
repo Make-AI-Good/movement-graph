@@ -19,6 +19,7 @@ board_and_advisors: []
 related_orgs:
   - org-aclu
   - org-algorithmic-justice-league
+  - org-free-press
 funders:
   - fund-ford-foundation
   - fund-open-society-foundations
