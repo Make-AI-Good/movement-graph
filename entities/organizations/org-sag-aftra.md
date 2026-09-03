@@ -20,6 +20,7 @@ related_orgs:
   - org-concept-art-association
   - org-newsguild-cwa
   - org-nuj
+  - org-fairly-trained
 funders: []
 sources:
   - url: https://en.wikipedia.org/wiki/SAG-AFTRA
