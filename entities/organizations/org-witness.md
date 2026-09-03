@@ -15,7 +15,7 @@ strategies:
   - strat-civil-society-inside-technical-standards-bodies
 key_people: []
 board_and_advisors: []
-related_orgs: []
+related_orgs: [org-guardian-project]
 funders: [fund-macarthur-foundation]
 sources:
   - url: https://witness.org/about/
