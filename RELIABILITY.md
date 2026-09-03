@@ -1,6 +1,6 @@
 ---
 type: reliability-statement
-generated_at: 2026-09-03T17:47:29Z
+generated_at: 2026-09-03T17:48:00Z
 generated_at_commit: 2898f6e054dcf00e3d0db259583d130a72ebedfa
 generator: project/teams/movement-graph/dashboard/generate-reliability.sh
 audited_entities: 569
