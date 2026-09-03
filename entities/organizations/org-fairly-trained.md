@@ -19,6 +19,7 @@ board_and_advisors: []
 related_orgs:
   - org-authors-guild
   - org-sag-aftra
+  - org-human-made-mark
 funders: []
 sources:
   - url: https://www.fairlytrained.org/
