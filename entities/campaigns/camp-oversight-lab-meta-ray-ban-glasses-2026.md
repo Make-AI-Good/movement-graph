@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [kenya, nairobi, africa, data-protection, privacy, surveillance, smart-glasses, wearables, ambient-recording, ai-training-data, content-moderation, data-labellers, big-tech-accountability, strategic-litigation, regulatory-petition, consent, cross-border-data-transfer, meta, ray-ban, sama]
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-09-03
 start_date: 2026-03-06
 end_date: ongoing
 goals: |
@@ -19,7 +19,7 @@ participating_orgs:
 events: []
 strategies: []
 outcomes: |
-  On 31 March 2026 — twenty-five days after The Oversight Lab filed its petition — the ODPC announced it had opened a formal own-motion investigation into the Ray-Ban Meta product line, taking up the privacy and AI-training concerns The Oversight Lab had raised. As of May 2026 the investigation is in progress; no enforcement decision has been recorded. The petition is the first known case in which a Kenyan regulator has been moved to scrutinise a Big Tech wearable on the basis of its downstream AI-training pipeline rather than its consumer-facing functionality, and the first piece of Oversight Lab Africa's public docket to convert directly into formal regulatory action.
+  On 31 March 2026 — twenty-five days after The Oversight Lab filed its petition — the ODPC announced it had opened a formal own-motion investigation into the Ray-Ban Meta product line, taking up the privacy and AI-training concerns The Oversight Lab had raised. As of September 2026 the investigation remains open; no enforcement decision, public findings, or remedial order has been issued — the 90-day timeline The Oversight Lab had requested elapsed by late June 2026 without published conclusions. Meta released mandatory firmware Version 26 on 7 July 2026 disabling the camera when the privacy LED is tampered with, and in late July 2026 introduced an Instagram policy removing accounts posting harassment videos filmed with smart glasses. The Business Laws (Amendment) Bill — carrying a provision making BPO agents solely liable for labour violations, widely read as a response to the September 2024 Court of Appeal ruling that Meta could be sued domestically — passed the Senate; a constitutional challenge by The Oversight Lab and the Africa Tech Workers Movement was dismissed as premature by Kenya's High Court on 10 June 2026. The petition is the first known case in which a Kenyan regulator has been moved to scrutinise a Big Tech wearable on the basis of its downstream AI-training pipeline rather than its consumer-facing functionality, and the first piece of Oversight Lab Africa's public docket to convert directly into formal regulatory action.
 sources:
   - url: https://techcabal.com/2026/03/06/kenyan-watchdog-asks-regulator-to-probe-meta-ai-glasses/
     last_checked: 2026-05-12
@@ -51,6 +51,21 @@ sources:
   - url: https://www.business-humanrights.org/en/latest-news/kenya-tech-workers-challenge-bill-that-prioritizes-foreign-investment-over-worker-rights/
     last_checked: 2026-05-12
     note: Business and Human Rights Resource Centre (September 2025) — context source linking The Oversight Lab's regulatory work to the Africa Tech Workers Movement; cited because the same coalition that signed the Ray-Ban Meta petition has been visible as a partner of the worker-side litigation
+  - url: https://dymesty.com/blogs/articles/meta-smart-glasses-privacy-update-backlash-2026
+    last_checked: 2026-09-03
+    note: Analysis of Meta's product-level corporate response to the smart glasses privacy scandal (published August 2026) — primary source for mandatory firmware Version 26 released 7 July 2026 disabling camera on LED tamper detection, and for the late-July 2026 Instagram enforcement policy against harassment videos filmed with smart glasses
+  - url: https://www.theregister.com/2026/03/05/ico_meta_glasses/
+    last_checked: 2026-09-03
+    note: The Register (5 March 2026) — primary source for the UK Information Commissioner's Office writing to Meta demanding answers about compliance with UK data protection law, calling the Swedish reporting concerning; a step short of opening a formal investigation
+  - url: https://www.businessdailyafrica.com/bd/corporate/companies/workers-sue-over-bill-granting-immunity-to-global-tech-firms-5180998
+    last_checked: 2026-09-03
+    note: Business Daily Africa (September 2025) — primary source for the constitutional petition by 36 tech workers to quash the Business Laws (Amendment) Bill, which passed the Senate with a provision making BPO agents solely liable for labour violations; context for The Oversight Lab and Africa Tech Workers Movement backing the challenge
+  - url: https://www.breakingkenyanews.com/2026/06/10/court-declines-to-halt-controversial-business-laws-bill-says-petition-pre-mature-speculative/
+    last_checked: 2026-09-03
+    note: Breaking Kenya News (10 June 2026) — primary source for Kenya's High Court (Justice Bahati Mwamuye) dismissing the constitutional petition against the Business Laws Amendment Bill as premature and speculative; bill remained pending before the National Assembly as of September 2026
+  - url: https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action-claims-meta-ai-glasses-recordings-used-to-train-ai-without-users-knowledge/
+    last_checked: 2026-09-03
+    note: Top Class Actions — primary source for the California class-action filed March 2026 in the Northern District Court against Meta and EssilorLuxottica (Ray-Ban's parent company) seeking damages for consumer protection violations relating to undisclosed AI training use of footage captured by the glasses
 ---
 
 # The Oversight Lab's ODPC petition over Meta's Ray-Ban smart glasses, Kenya (2026–ongoing)
@@ -67,7 +82,13 @@ The petition's distinctive move was to frame two harms — non-consensual record
 
 ## Status
 
-The ODPC's 31 March 2026 announcement opened the investigation formally and on its own motion, citing the privacy concerns and AI-training questions The Oversight Lab had raised. The investigation is ongoing as of May 2026; no enforcement decision, public findings, or remedial order has yet been recorded. The Kenyan press, the Africa Tech Workers Movement, and The Oversight Lab itself have continued to treat the petition as the opening move of a longer regulatory line of work — particularly after Meta's [abrupt 16 April 2026 termination of its Sama data-annotation contract](https://weetracker.com/2026/04/30/kenyan-workers-meta-smart-glasses-sex-layoffs/) covering 1,108 workers, which The Oversight Lab described in the same coverage as ["devastating"](https://weetracker.com/2026/04/30/kenyan-workers-meta-smart-glasses-sex-layoffs/) and which has pulled the worker-side organising into the same regulatory frame as the Ray-Ban Meta petition.
+The ODPC's 31 March 2026 announcement opened the investigation formally and on its own motion, citing the privacy concerns and AI-training questions The Oversight Lab had raised. As of September 2026 the investigation remains open; no enforcement decision, public findings, or remedial order has been issued — the 90-day timeline The Oversight Lab had requested elapsed by late June 2026 without published conclusions. The Kenyan press, the Africa Tech Workers Movement, and The Oversight Lab have continued to treat the petition as the opening move of a longer regulatory line of work, particularly after Meta's [abrupt 16 April 2026 termination of its Sama data-annotation contract](https://weetracker.com/2026/04/30/kenyan-workers-meta-smart-glasses-sex-layoffs/) covering 1,108 workers, which The Oversight Lab described as ["devastating"](https://weetracker.com/2026/04/30/kenyan-workers-meta-smart-glasses-sex-layoffs/).
+
+**Meta's corporate response** since the investigation opened has run on two tracks. On the product side, Meta released [mandatory firmware Version 26 on 7 July 2026](https://dymesty.com/blogs/articles/meta-smart-glasses-privacy-update-backlash-2026), disabling the Ray-Ban Meta camera when the privacy LED is physically tampered with — a tamper-detection camera-kill the company described as without precedent in consumer wearables. In late July 2026, Instagram head Adam Mosseri [announced a policy removing accounts that post harassment videos filmed with smart glasses](https://dymesty.com/blogs/articles/meta-smart-glasses-privacy-update-backlash-2026), under which the platform deactivated multiple accounts with more than one million followers each. A [California class-action against Meta and EssilorLuxottica](https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action-claims-meta-ai-glasses-recordings-used-to-train-ai-without-users-knowledge/) (Ray-Ban's parent company) was filed in the Northern District Court in March 2026, seeking damages for consumer protection violations relating to undisclosed AI training use of footage.
+
+**A legislative front** has opened alongside the data-protection investigation. After the September 2024 Court of Appeal ruling that Meta could be sued domestically, the Kenyan President announced on 9 December 2024 plans to amend employment law to protect outsourcing companies from lawsuits. A Business Laws (Amendment) Bill [passed the Senate](https://www.businessdailyafrica.com/bd/corporate/companies/workers-sue-over-bill-granting-immunity-to-global-tech-firms-5180998) with a provision making BPO agents — not the principal tech companies — solely liable for labour violations. The Oversight Lab and the Africa Tech Workers Movement, alongside 36 tech workers, filed a constitutional petition to quash the bill in September 2025. On 10 June 2026, Kenya's High Court [dismissed the petition as premature](https://www.breakingkenyanews.com/2026/06/10/court-declines-to-halt-controversial-business-laws-bill-says-petition-pre-mature-speculative/) (Justice Bahati Mwamuye), noting that constitutional challenges could be renewed upon enactment; the bill remained pending before the National Assembly as of September 2026.
+
+**Internationally**, the UK Information Commissioner's Office [wrote to Meta in March 2026](https://www.theregister.com/2026/03/05/ico_meta_glasses/) calling the Swedish reporting "concerning" and seeking Meta's account of its data-protection compliance — a step short of opening a formal investigation.
 
 ## Significance for the broader AI-good movement
 
