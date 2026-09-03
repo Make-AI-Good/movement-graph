@@ -13,7 +13,7 @@ website: https://aiwi.org
 strategies: [strat-ai-whistleblower-protection-infrastructure]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-freedom-of-the-press-foundation]
+related_orgs: [org-freedom-of-the-press-foundation, org-government-accountability-project]
 funders: []
 sources:
   - url: https://www.cognitiverevolution.ai/the-ai-whistleblower-initiative-supporting-agi-insiders-when-it-matters-most-w-founder-karl-koch/
