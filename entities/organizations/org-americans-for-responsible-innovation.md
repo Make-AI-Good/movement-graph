@@ -13,7 +13,8 @@ website: https://ari.us
 strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-survivor-led-testimony-as-evidence, strat-advocate-for-a-new-ai-regulatory-body]
 key_people: []
 board_and_advisors: []
-related_orgs: []
+related_orgs:
+  - org-public-citizen
 funders: [fund-omidyar-network, fund-coefficient-giving]
 sources:
   - url: https://ari.us/announcing-americans-for-responsible-innovation/
