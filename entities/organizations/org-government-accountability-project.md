@@ -13,7 +13,7 @@ website: https://whistleblower.org
 strategies: [strat-ai-whistleblower-protection-infrastructure]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-ai-whistleblower-initiative]
+related_orgs: [org-ai-whistleblower-initiative, org-whistleblower-aid]
 funders: [fund-open-society-foundations, fund-democracy-fund]
 sources:
   - url: https://whistleblower.org/our-story/
