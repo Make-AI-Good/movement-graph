@@ -13,7 +13,7 @@ website: https://whistlebloweraid.org
 strategies: [strat-ai-whistleblower-protection-infrastructure]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-ai-whistleblower-initiative, org-government-accountability-project]
+related_orgs: [org-ai-whistleblower-initiative, org-government-accountability-project, org-national-whistleblower-center]
 funders: []
 sources:
   - url: https://en.wikipedia.org/wiki/Whistleblower_Aid
