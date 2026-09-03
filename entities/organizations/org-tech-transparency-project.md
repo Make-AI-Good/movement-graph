@@ -50,7 +50,7 @@ The Tech Transparency Project is a Washington, DC-based investigative research i
 
 [Campaign for Accountability was co-founded in May 2015](https://campaignforaccountability.org/campaign-for-accountability-launches-google-transparency-project/) by Anne Weismann, former chief counsel at Citizens for Responsibility and Ethics in Washington (CREW), and Louis Mayberg, former CREW chairman. The watchdog model they built — original research, litigation, and strategic communications to expose misconduct — carried directly into TTP's operation. The initiative began with a database of 258 revolving-door personnel moves between Google and the Obama-era federal government, establishing the FOIA-driven public-records methodology that now anchors TTP's AI investigations. A FOIA archive holding [43,000+ pages of government-industry correspondence](https://www.techtransparencyproject.org/impact) underpins the work.
 
-TTP receives no corporate donations. [Listed funders](https://www.techtransparencyproject.org/about-us) include the Bohemian Foundation, Kapor Center, Craig Newmark Philanthropies, Reset Tech, Open Society Foundations, Skoll Foundation, and individual donor David Magerman.
+TTP receives no corporate donations. [Listed funders](https://www.techtransparencyproject.org/about-us) include the Bohemian Foundation, Kapor Center, [Craig Newmark Philanthropies](../funders/fund-craig-newmark-philanthropies.md), Reset Tech, [Open Society Foundations](../funders/fund-open-society-foundations.md), [Skoll Foundation](../funders/fund-skoll-foundation.md), and individual donor David Magerman.
 
 ## AI conflicts-of-interest investigations
 

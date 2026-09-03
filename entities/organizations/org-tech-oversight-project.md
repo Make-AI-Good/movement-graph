@@ -15,7 +15,8 @@ strategies:
   - strat-electoral-endorsement-and-candidate-questionnaire-on-ai
 key_people: []
 board_and_advisors: []
-related_orgs: []
+related_orgs:
+  - org-tech-transparency-project
 funders:
   - fund-omidyar-network
 sources:
