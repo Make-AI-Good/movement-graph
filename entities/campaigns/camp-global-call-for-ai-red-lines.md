@@ -11,7 +11,8 @@ start_date: 2025-09-22
 end_date: ongoing
 goals: |
   Call on governments to reach an international agreement with operational, enforceable mechanisms on what AI must never be allowed to do by the end of 2026, following disarmament-treaty precedents (Nuclear Non-Proliferation Treaty, Chemical Weapons Convention). The declaration distinguishes two prohibition categories: AI uses states should not authorize — lethal autonomous weapons without meaningful human control, delegation of nuclear command authority to AI, mass surveillance and social scoring systems, AI impersonation without disclosure, AI-generated CSAM, and superhuman population-targeting persuasion — and AI behaviors systems must not perform — facilitating weapons-of-mass-destruction design, running uncontrolled cyberoffensive autonomous agents, self-replicating without authorization, and foreclosing human shutdown capability. The proposed 2026 pathway: states endorse an initial set of red lines at the India AI Impact Summit (February 2026) → broader consultation at the UN Global Dialogue on AI Governance in Geneva (July 2026) → a UNGA resolution or joint ministerial statement (September 2026) launching binding treaty negotiations.
-lead_orgs: []
+lead_orgs:
+  - org-cesia
 participating_orgs: []
 events: []
 strategies:
