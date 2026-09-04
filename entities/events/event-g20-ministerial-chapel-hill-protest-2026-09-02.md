@@ -10,7 +10,7 @@ last_updated: 2026-09-03
 date: 2026-09-02
 location: Chapel Hill, NC
 event_type: protest march
-participating_orgs: []
+participating_orgs: [org-sunrise-movement]
 participating_people: []
 related_events:
   - event-openai-dc-lobby-protest-2026-08-10

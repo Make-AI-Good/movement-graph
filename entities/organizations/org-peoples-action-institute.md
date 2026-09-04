@@ -13,7 +13,7 @@ website: https://peoplesactioninstitute.org/
 strategies: []
 key_people: []
 board_and_advisors: []
-related_orgs: [org-food-and-water-watch]
+related_orgs: [org-food-and-water-watch, org-sunrise-movement]
 funders: [fund-ford-foundation]
 sources:
   - url: https://peoplesactioninstitute.org/about-us/our-history/

@@ -11,7 +11,7 @@ date: 2026-08-10
 location: Washington DC
 event_type: office occupation / direct action
 campaign: camp-dump-big-tech-2026
-participating_orgs: []
+participating_orgs: [org-sunrise-movement]
 participating_people: []
 related_events:
   - event-g20-ministerial-chapel-hill-protest-2026-09-02
