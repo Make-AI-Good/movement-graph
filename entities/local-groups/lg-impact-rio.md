@@ -21,7 +21,7 @@ sources:
     note: 'AISafety.com global community directory — lists impactRIO as Active; describes it as "an AI safety hub at Fundação Getulio Vargas, the top think tank in Latin America, located in Rio de Janeiro, Brazil; runs fellowships based on BlueDot Impact courses"; LinkedIn listed as contact'
   - url: https://www.linkedin.com/company/impact-rio/
     last_checked: 2026-06-08
-    note: 'impactRIO LinkedIn company page — describes itself as "the study and research hub in AI Safety in Rio de Janeiro"; 216 followers; nonprofit research organisation; notes launching LANAIS (Latin American Network for AI Safety) in June 2024 and participating in ML4Good Brasil 2025; specialties include AI alignment, AI governance, and effective altruism'
+    note: 'impactRIO LinkedIn company page — describes itself as "the study and research hub in AI Safety in Rio de Janeiro"; 216 followers; nonprofit research organisation; notes launching LANAIS (Latin American Network for AI Safety) in June 2025 and participating in ML4Good Brasil 2025; specialties include AI alignment, AI governance, and effective altruism'
   - url: https://forum.effectivealtruism.org/posts/DnqFsjiKW4ooC3DK4/lanais-latin-american-network-for-ai-safety-kick-off
     last_checked: 2026-06-08
     note: 'EA Forum post announcing LANAIS kick-off (launch event 28 June 2025); João Lucas Duim listed as one of 11 co-founders; mission to connect Latin American researchers, students, and organizers working on AI safety'

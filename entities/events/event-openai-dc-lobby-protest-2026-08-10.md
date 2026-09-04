@@ -29,7 +29,7 @@ sources:
 
 # OpenAI DC lobbying office occupation (10 August 2026)
 
-On 10 August 2026, more than 30 student activists co-organized by QuitGPT, the Sunrise Movement, and the Young Democratic Socialists of America (YDSA) [occupied OpenAI's Washington DC lobbying office — "The Workshop," a few blocks from the White House](https://www.commondreams.org/news/ai-protest) — for two hours starting at 12:30 PM ET. Activists unfurled a banner reading "Stop Stealing Our Future" and held signs reading "OpenAI Bought My Senator." Police arrested 13 people at 2:30 PM ET for unlawful entry; all were released within two days.
+On 10 August 2026, more than 30 student activists co-organized by [QuitGPT](../campaigns/camp-quitgpt-chatgpt-boycott-2026.md), the [Sunrise Movement](../organizations/org-sunrise-movement.md), and the Young Democratic Socialists of America (YDSA) [occupied OpenAI's Washington DC lobbying office — "The Workshop," a few blocks from the White House](https://www.commondreams.org/news/ai-protest) — for two hours starting at 12:30 PM ET. Activists unfurled a banner reading "Stop Stealing Our Future" and held signs reading "OpenAI Bought My Senator." Police arrested 13 people at 2:30 PM ET for unlawful entry; all were released within two days.
 
 ## Action and demands
 

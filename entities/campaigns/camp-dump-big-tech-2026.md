@@ -32,7 +32,7 @@ sources:
 
 # Dump Big Tech (August 2026)
 
-"Dump Big Tech" was a [coordinated multi-city week-of-action](https://www.techbrew.com/stories/dump-big-tech-protest-palantir-google) executed across more than 20 states during Congressional August recess in 2026. Organizers — led by the Sunrise Movement and the Young Democratic Socialists of America (YDSA), with QuitGPT co-organizing key actions — timed the campaign to reach elected officials in their home districts when Congress was out of session and Big Tech lobbying in Washington had paused. Actions targeted OpenAI, Palantir, and Google offices; constituent visits to members of Congress in New York, New Jersey, California, Nevada, and Pennsylvania; and data center construction sites in Oregon and West Virginia.
+"Dump Big Tech" was a [coordinated multi-city week-of-action](https://www.techbrew.com/stories/dump-big-tech-protest-palantir-google) executed across more than 20 states during Congressional August recess in 2026. Organizers — led by the [Sunrise Movement](../organizations/org-sunrise-movement.md) and the Young Democratic Socialists of America (YDSA), with [QuitGPT](../campaigns/camp-quitgpt-chatgpt-boycott-2026.md) co-organizing key actions — timed the campaign to reach elected officials in their home districts when Congress was out of session and Big Tech lobbying in Washington had paused. Actions targeted OpenAI, Palantir, and Google offices; constituent visits to members of Congress in New York, New Jersey, California, Nevada, and Pennsylvania; and data center construction sites in Oregon and West Virginia.
 
 ## Demands
 
