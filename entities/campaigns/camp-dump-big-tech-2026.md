@@ -12,7 +12,7 @@ end_date: 2026-08
 goals: |
   Demand stricter AI regulation, an end to federal Big Tech partnerships (specifically targeting OpenAI's Pentagon surveillance contract, Palantir's federal data contracts, and Google's government AI programs), and enforceable energy and water usage caps on data centers. The campaign used coordinated in-person direct actions across 20+ states during Congressional August recess — designed to reach elected officials in their home districts when federal lobbying was not in session — combining office occupations, constituent visits, and protest actions at data center construction sites.
 lead_orgs: []
-participating_orgs: []
+participating_orgs: [org-peoples-action-institute, org-food-and-water-watch]
 events:
   - event-openai-dc-lobby-protest-2026-08-10
 strategies: []
