@@ -13,7 +13,7 @@ website: https://www.sunrisemovement.org/
 strategies: []
 key_people: []
 board_and_advisors: []
-related_orgs: [org-peoples-action-institute, org-food-and-water-watch]
+related_orgs: [org-peoples-action-institute, org-food-and-water-watch, org-indivisible]
 funders: []
 sources:
   - url: https://en.wikipedia.org/wiki/Sunrise_Movement
