@@ -25,7 +25,7 @@ Youth IGF Morocco is a youth-led, multi-stakeholder platform within the United N
 
 ## Programs and activities
 
-Youth IGF Morocco's annual **Youth Internet Governance Forum** in Rabat is the flagship convening: participants [co-create policy briefs on AI governance, data ethics, and open-internet principles](https://www.youthigfmorocco.org/) alongside domain experts, with outputs translated into Arabic, French, and English. The organisation has [published more than 35 policy briefs](https://www.youthigfmorocco.org/) — a substantial volume for a national youth-chapter initiative in the Arab and African regions.
+Youth IGF Morocco's annual **Youth Internet Governance Forum** in Rabat is the flagship convening: participants [co-create policy briefs on AI governance, data ethics, and open-internet principles](https://www.youthigfmorocco.org/) alongside domain experts, with outputs translated into Arabic, French, and English. The organisation has [published 35 policy briefs](https://www.youthigfmorocco.org/) — a substantial volume for a national youth-chapter initiative in the Arab and African regions.
 
 Beyond the annual forum, the organisation sustains engagement through **city meetups** across twelve Moroccan cities, **capacity-building workshops** on digital rights and policy advocacy, and **policy labs and listening sessions** designed to channel youth insight directly into national digital strategy processes. A **mentorship and micro-grants programme** supports youth-led projects on online safety, AI ethics, inclusion, and social good.
 

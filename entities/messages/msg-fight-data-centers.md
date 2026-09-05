@@ -4,7 +4,7 @@ type: message
 name: "Fight Data Centers"
 status: active
 confidence: high
-tags: [us, national, regional, south, texas, tennessee, louisiana, mississippi, georgia, alabama, west-texas, framing, slogan, campaign-name, brand, programme-name, hashtag-capable, big-tech-accountability, ai-infrastructure, data-centres, hyperscale, climate, water, energy, environmental-racism, environmental-justice, racial-justice, black-led, community-organizing, grassroots-organizing, coalition-building, kairos, mediajustice, fight-data-centers, stop-data-centers, narrative-strategy, tech-justice, extraction, stop-data-centers, stop-data-centers-coalition, moratorium]
+tags: [us, national, regional, south, texas, tennessee, louisiana, mississippi, georgia, alabama, west-texas, framing, slogan, campaign-name, brand, programme-name, hashtag-capable, big-tech-accountability, ai-infrastructure, data-centres, hyperscale, climate, water, energy, environmental-racism, environmental-justice, racial-justice, black-led, community-organizing, grassroots-organizing, coalition-building, kairos, mediajustice, fight-data-centers, stop-data-centers, narrative-strategy, tech-justice, extraction, stop-data-centers-coalition, moratorium]
 created: 2026-05-15
 last_updated: 2026-09-05
 origin: |
@@ -17,7 +17,10 @@ propagated_by_orgs:
   - org-food-and-water-watch
   - org-fight-for-the-future
   - org-peoples-action-institute
-related_messages: []
+related_messages:
+  - msg-dump-big-tech
+  - msg-no-tech-for-ice
+  - msg-no-tech-for-apartheid
 sources:
   - url: https://www.kairosfellows.org/fightdatacenters
     last_checked: 2026-05-15
