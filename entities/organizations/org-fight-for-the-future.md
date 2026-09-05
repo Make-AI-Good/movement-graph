@@ -4,9 +4,9 @@ type: organization
 name: Fight for the Future
 status: active
 confidence: high
-tags: [united-states, national, worcester, massachusetts, 501c4, 501c3, digital-rights, privacy, surveillance, facial-recognition, net-neutrality, grassroots-mobilization, online-protest, campaign-org, encryption, ai-governance, healthcare-ai]
+tags: [united-states, national, worcester, massachusetts, 501c4, 501c3, digital-rights, privacy, surveillance, facial-recognition, net-neutrality, grassroots-mobilization, online-protest, campaign-org, encryption, ai-governance, healthcare-ai, alpr]
 created: 2026-06-03
-last_updated: 2026-06-03
+last_updated: 2026-09-05
 founded: 2011
 location: national (headquartered in Worcester, Massachusetts; all-remote staff)
 website: https://www.fightforthefuture.org/
@@ -37,6 +37,21 @@ sources:
   - url: https://www.washingtontimes.com/news/2026/apr/14/rights-groups-demand-meta-cancel-ray-ban-facial-recognition/
     last_checked: 2026-06-03
     note: Washington Times, April 2026 — secondary source for the coalition open letter to Meta CEO Mark Zuckerberg demanding the company halt planned facial recognition features for Ray-Ban and Oakley smart glasses (reportedly known internally as "Name Tag"); Fight for the Future named as a lead signatory
+  - url: https://www.fightforthefuture.org/actions/flockout/
+    last_checked: 2026-09-05
+    note: 'Fight for the Future Flock Out campaign page — primary source for the campaign scope targeting Flock Safety''s automatic license plate readers (ALPRs), the organization''s city-by-city organizing toolkit, and the statement that Amazon Ring cancelled its Flock partnership following campaign pressure'
+  - url: https://www.fightforthefuture.org/actions/stop-cbp-and-flock-surveillance
+    last_checked: 2026-09-05
+    note: 'Fight for the Future Stop CBP and Flock Surveillance campaign page — primary source confirming cities including Austin TX, Denver CO, Evanston IL, and Scarsdale NY cancelled Flock contracts, and CBP''s previously undisclosed direct access to Flock''s camera network'
+  - url: https://www.404media.co/cbp-had-access-to-more-than-80-000-flock-ai-cameras-nationwide/
+    last_checked: 2026-09-05
+    note: '404 Media, August 25, 2025 — investigative report revealing CBP had direct access to more than 80,000 Flock ALPR cameras through an undisclosed pilot program; one participating police department said it was unaware it was sharing data with CBP'
+  - url: https://www.404media.co/ice-secret-service-navy-all-had-access-to-flocks-nationwide-network-of-cameras/
+    last_checked: 2026-09-05
+    note: '404 Media, October 16, 2025 — follow-up investigation revealing ICE (HSI), Secret Service, and Navy criminal investigators also accessed Flock''s nationwide camera network; Senator Wyden''s letter described the scope as far broader than Flock had disclosed'
+  - url: https://futurism.com/future-society/flock-dozens-contracts-alprs-controversy-cancellation
+    last_checked: 2026-09-05
+    note: 'Futurism, 2026 — secondary source reporting dozens of cities across the US had cancelled or declined to renew Flock contracts by mid-2026 following sustained Fight for the Future campaign pressure and the 404 Media investigations'
 ---
 
 # Fight for the Future
@@ -60,6 +75,8 @@ Fight for the Future launched [banfacialrecognition.com](https://www.banfacialre
 The organization's Amazon Ring campaigns traced a sustained arc against the surveillance infrastructure of residential doorbell cameras. The #CancelRing campaign beginning in 2020 exposed Ring's partnerships with more than 1,700 law enforcement agencies, allowing police to request video footage from residents without warrants — pressure that drove the New York Times Wirecutter product recommendation team to retract its Ring endorsement. By 2024, sustained organizing had contributed to Amazon eliminating Ring's "Request for Assistance" tool, the primary warrantless data-access pipeline the campaigns had targeted. The 2022 Dump ID.me campaign targeted government use of ID.me's facial recognition system for IRS and state benefit agency identity verification, arguing the system imposed biometric surveillance on benefit claimants without adequate consent or accuracy standards; the IRS subsequently discontinued its use of ID.me.
 
 In April 2026, Fight for the Future was a lead signatory of an open letter to Meta CEO Mark Zuckerberg [demanding the company halt](https://www.washingtontimes.com/news/2026/apr/14/rights-groups-demand-meta-cancel-ray-ban-facial-recognition/) planned facial recognition features for Ray-Ban and Oakley smart glasses, reportedly known internally as "Name Tag." Simultaneously, the organization launched an AI in healthcare campaign, working with nurses, doctors, and patient advocates to oppose what it characterises as top-down AI mandates in medical settings that impose algorithmic decision-making on clinical workflows without adequate safeguards or worker input.
+
+In mid-2026, Fight for the Future escalated its surveillance campaigning to target the mass deployment of automatic license plate readers (ALPRs) across US communities. Investigative reporting by [404 Media](https://www.404media.co/cbp-had-access-to-more-than-80-000-flock-ai-cameras-nationwide/) had revealed that Customs and Border Protection held near-unfettered access to more than 80,000 cameras operated by Flock Safety — access the company had publicly denied — and that ICE, the Secret Service, and Navy criminal investigators [had also accessed the network](https://www.404media.co/ice-secret-service-navy-all-had-access-to-flocks-nationwide-network-of-cameras/). Fight for the Future launched two dedicated campaigns — [Flock Out](https://www.fightforthefuture.org/actions/flockout/) and [Stop CBP and Flock Surveillance](https://www.fightforthefuture.org/actions/stop-cbp-and-flock-surveillance) — providing cities, advocates, and residents with organizing toolkits, coalition-building resources, and petition infrastructure to cancel municipal Flock contracts and pressure lawmakers for a nationwide ALPR ban. By mid-2026, [dozens of municipalities](https://futurism.com/future-society/flock-dozens-contracts-alprs-controversy-cancellation) had cancelled or declined to renew Flock contracts, including Austin, Texas; Denver, Colorado; Evanston, Illinois; and Scarsdale, New York. Amazon Ring subsequently cancelled its data-sharing partnership with Flock following sustained campaign pressure.
 
 ## Leadership and structure
 
