@@ -13,7 +13,8 @@ website: https://www.alphabetworkersunion.org/
 strategies: [strat-tech-worker-refusal-inside-ai-labs, strat-organize-ai-supply-chain-workers, strat-formal-unionization-of-ai-industry-workers]
 key_people: []
 board_and_advisors: []
-related_orgs: []
+related_orgs:
+  - org-cwa
 funders: []
 sources:
   - url: https://www.alphabetworkersunion.org/

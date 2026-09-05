@@ -15,6 +15,7 @@ strategies:
 key_people: []
 board_and_advisors: []
 related_orgs:
+  - org-cwa
   - org-wga
   - org-sag-aftra
   - org-authors-guild
