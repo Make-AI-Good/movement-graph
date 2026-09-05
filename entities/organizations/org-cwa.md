@@ -18,6 +18,7 @@ board_and_advisors: []
 related_orgs:
   - org-newsguild-cwa
   - org-alphabet-workers-union
+  - org-dsa
 funders: []
 sources:
   - url: https://cwa-union.org/about/cwa-overview

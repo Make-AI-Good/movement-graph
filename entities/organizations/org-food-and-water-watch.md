@@ -13,7 +13,7 @@ website: https://www.foodandwaterwatch.org
 strategies: [strat-local-fight-against-ai-data-centers, strat-cross-movement-coalition-bridging]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-mediajustice, org-peoples-action-institute, org-sunrise-movement]
+related_orgs: [org-mediajustice, org-peoples-action-institute, org-sunrise-movement, org-dsa]
 funders: []
 sources:
   - url: https://www.foodandwaterwatch.org/20th-anniversary/timeline/

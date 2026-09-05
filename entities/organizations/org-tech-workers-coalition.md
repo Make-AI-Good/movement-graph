@@ -13,7 +13,7 @@ website: https://techworkerscoalition.org/
 strategies: [strat-tech-worker-refusal-inside-ai-labs]
 key_people: []
 board_and_advisors: []
-related_orgs: []
+related_orgs: [org-dsa]
 funders: []
 sources:
   - url: https://techworkerscoalition.org/

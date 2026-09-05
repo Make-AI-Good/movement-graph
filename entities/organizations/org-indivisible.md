@@ -13,7 +13,7 @@ website: https://indivisible.org/
 strategies: []
 key_people: []
 board_and_advisors: []
-related_orgs: [org-sunrise-movement, org-peoples-action-institute]
+related_orgs: [org-sunrise-movement, org-peoples-action-institute, org-dsa]
 funders: []
 sources:
   - url: https://en.wikipedia.org/wiki/Indivisible_(organization)
