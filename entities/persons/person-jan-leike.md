@@ -8,6 +8,7 @@ tags: [germany, ai-safety, ai-alignment, rlhf, frontier-ai, openai, anthropic, d
 created: 2026-06-12
 last_updated: 2026-06-12
 affiliations: []
+voice_entry: voice-jan-leike
 public_profiles:
   - platform: x
     url: https://x.com/janleike
