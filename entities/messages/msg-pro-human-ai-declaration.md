@@ -9,7 +9,7 @@ created: 2026-09-03
 last_updated: 2026-09-03
 origin: |
   The Pro-Human AI Declaration was drafted by the Future of Life Institute and ratified at a civil society coalition gathering in New Orleans in January 2026. The declaration was publicly released at humanstatement.org and formalized in a press release on March 4, 2026, under the headline "This is What it Means to be Pro-Human." FLI assembled the coalition by deliberately excluding tech-industry representatives, convening instead labor unions, faith communities, progressive and conservative advocacy groups, and AI researchers — a strategy designed to demonstrate cross-ideological civil society consensus that AI must serve humanity rather than replace it. The accompanying Protect What's Human campaign, launched February 9, 2026, deployed up to $8 million in state-targeted advertising and constituent outreach across Iowa, Kentucky, Maine, Michigan, and North Carolina.
-originating_person:
+originating_person: person-max-tegmark
 originating_org:
 propagated_by_orgs:
   - org-american-federation-of-teachers

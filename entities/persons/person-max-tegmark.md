@@ -12,6 +12,7 @@ affiliations:
     role: faculty advisor
   - org: org-cambridge-boston-alignment-initiative
     role: mentor
+voice_entry: voice-max-tegmark
 public_profiles:
   - platform: mit-faculty
     url: https://physics.mit.edu/faculty/max-tegmark/
