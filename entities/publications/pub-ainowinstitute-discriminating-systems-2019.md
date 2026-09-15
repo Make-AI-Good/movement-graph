@@ -6,9 +6,10 @@ status: active
 confidence: high
 tags: [report, us, new-york-city, ai-now-institute, nyu, gender, race, power, workplace-discrimination, algorithmic-bias, diversity-crisis, intersectionality, pipeline-critique, facial-recognition, employment-discrimination, adtech, foundational-artefact, kate-crawford, meredith-whittaker, sarah-myers-west, fairness-accountability-transparency]
 created: 2026-06-10
-last_updated: 2026-06-10
+last_updated: 2026-09-15
 authors:
   - person-kate-crawford
+  - person-meredith-whittaker
 publisher: AI Now Institute
 date: 2019-04-01
 url: https://ainowinstitute.org/wp-content/uploads/2023/04/discriminatingsystems.pdf

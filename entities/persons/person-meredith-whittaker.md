@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [united-states, tech-worker-organizing, ai-accountability, privacy, labor-organizing, corporate-accountability, google-walkout, signal-foundation, ai-now-institute]
 created: 2026-06-10
-last_updated: 2026-06-10
+last_updated: 2026-09-15
 affiliations:
   - org: org-ai-now-institute
     role: co-founder and faculty director
@@ -14,6 +14,7 @@ affiliations:
   - org: org-ai-now-institute
     role: chief advisor
     period: 2022-
+voice_entry: voice-meredith-whittaker
 public_profiles:
   - platform: ainowinstitute
     url: https://ainowinstitute.org/people/meredith-whittaker.html
