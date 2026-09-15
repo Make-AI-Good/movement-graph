@@ -6,11 +6,12 @@ status: active
 confidence: high
 tags: [canada, united-kingdom, deep-learning, neural-networks, academia, ai-safety, existential-risk, turing-award, nobel-prize, google, frontier-ai, right-to-warn, open-letter, endorser]
 created: 2026-06-12
-last_updated: 2026-06-12
+last_updated: 2026-09-15
 affiliations: []
 public_profiles:
   - platform: personal-site
     url: https://www.cs.toronto.edu/~hinton/
+voice_entry: voice-geoffrey-hinton
 sources:
   - url: https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html
     last_checked: 2026-06-12
