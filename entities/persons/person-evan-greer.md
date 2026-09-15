@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [united-states, boston, massachusetts, digital-rights, surveillance, facial-recognition, content-moderation, algorithmic-accountability, lgbtq, transgender, nonbinary, musician, campaign-org]
 created: 2026-06-10
-last_updated: 2026-06-10
+last_updated: 2026-09-15
 affiliations:
   - org: org-fight-for-the-future
     role: Director
@@ -15,6 +15,7 @@ public_profiles:
     url: https://evan.greer.fm/
   - platform: wikipedia
     url: https://en.wikipedia.org/wiki/Evan_Greer
+voice_entry: voice-evan-greer
 sources:
   - url: https://www.fightforthefuture.org/about/team
     last_checked: 2026-06-10
