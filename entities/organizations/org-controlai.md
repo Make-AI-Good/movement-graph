@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [international, uk-headquartered, ai-safety, frontier-ai, extinction-risk, superintelligence, parliamentary, inside-game, advocacy, policy, conjecture-spinoff]
 created: 2026-05-13
-last_updated: 2026-05-13
+last_updated: 2026-09-15
 founded: 2023
 location: international (UK-headquartered)
 website: https://controlai.com/
@@ -46,6 +46,12 @@ sources:
   - url: https://controlai.news/p/what-we-learned-from-briefing-140
     last_checked: 2026-05-13
     note: ControlAI Substack — primary source for the September 2024 launch of the UK parliamentary-briefing programme and the 140+ lawmaker figure
+  - url: https://controlai.org/uk-pm-letter
+    last_checked: 2026-09-15
+    note: 'ControlAI''s page on the UK ASI Security Bill — primary source for bill name, ControlAI''s role as drafter, the first-bill-in-any-legislature claim, the 70+ parliamentary supporters figure, and the government''s opposition framing'
+  - url: https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/
+    last_checked: 2026-09-15
+    note: 'Time, 8 September 2026 — source for the Ten Minute Rule Bill procedure, Sobel''s characterisation as the first bill in any G7 parliament, Andrea Miotti''s quote on the limits of a national bill, and the US parallel with Sanders and Casar''s Ban Artificial Superintelligence Act'
 ---
 
 # ControlAI
@@ -63,6 +69,8 @@ ControlAI is [structured as two affiliated legal entities](https://controlai.com
 ControlAI's flagship policy product is [A Narrow Path](https://www.narrowpath.co/), a long-form plan for AI governance authored by Miotti, Tolga Bilge, Dave Kasten, and James Newport and published on 19 March 2026. The plan proposes a three-phase trajectory — a twenty-year moratorium on the development of artificial superintelligence (Phase 0: Safety), an international oversight architecture to hold the moratorium against geopolitical pressure (Phase 1: Stability), and the eventual development of "safe-by-design" transformative AI under human control (Phase 2: Flourishing) — built around a compute-threshold licensing regime triggered at training runs above 10^25 FLOP. The plan has been [endorsed](https://www.narrowpath.co/) by figures including MIT's Max Tegmark, Toby Ord, and Gary Marcus.
 
 Its single most visible UK-specific initiative is a parliamentary-briefing campaign launched in [September 2024](https://controlai.news/p/what-we-learned-from-briefing-140) under UK Parliamentary Engagement Lead Leticia García Martínez. The team has [systematically briefed](https://controlai.com/) more than 250 lawmakers across the US, UK, Canada, and Germany, and asked UK parliamentarians to sign a one-paragraph [campaign statement](https://controlai.com/statement) calling for binding regulation on the most powerful AI systems. By early 2026 the statement had passed 100 cross-party UK signatories — described by the organization as [the first time](https://controlai.news/p/100-uk-parliamentarians-acknowledge) such a coalition of parliamentarians had publicly acknowledged the extinction threat from advanced AI. Named signatories span Labour (Anneliese Dodds, John McDonnell), Conservative (Sir John Whittingdale, Viscount Camrose — former AI Minister), Liberal Democrat (Wera Hobhouse), Green (Carla Denyer), Plaid Cymru (Ben Lake), SNP (Kirsty Blackman), SDLP (Claire Hanna), and Alliance (Sorcha Eastwood), alongside peers including Lord Browne of Ladyton and Baroness Kidron OBE and faith leaders such as the Lord Bishop of Oxford. The team has also [prepared a draft bill](https://controlai.com/statement) with parliamentary lawyers and submitted it to No. 10, inviting MPs to champion the framework. Beyond the campaign statement, ControlAI has [submitted written evidence](https://committees.parliament.uk/writtenevidence/148236/pdf/) to UK parliamentary inquiries on AI regulation.
+
+The campaign's most concrete parliamentary outcome materialized on 8 September 2026, when Alex Sobel MP (Labour, Leeds Central and Headingley) [introduced the Artificial Superintelligence Security Bill](../events/event-controlai-uk-asi-security-bill-2026-09-08.md) in the House of Commons as a Ten Minute Rule Bill — [described as the first bill in any G7 parliament](https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/) seeking to prohibit the development of superintelligence. The bill was drafted by ControlAI and backed at introduction by more than 70 parliamentary supporters, including 15 former ministers. It would [prohibit the development, deployment, and operation of ASI systems within the UK](https://controlai.org/uk-pm-letter), defines ASI as systems capable of disempowering state authorities, and requires the UK to pursue an international treaty banning ASI development — framed around the UK's 2027 G20 presidency as the vehicle for building an international bloc. The government stated the bill was "not the right approach." ControlAI founder [Andrea Miotti acknowledged](https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/) that "a national bill does not solve the international problem where superintelligence can be developed somewhere else," while simultaneously consulting on a US counterpart — Senator Bernie Sanders and Representative Greg Casar's Ban Artificial Superintelligence Act.
 
 ## Position in the movement
 
