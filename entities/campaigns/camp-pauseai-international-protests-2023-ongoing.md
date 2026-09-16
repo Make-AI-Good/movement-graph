@@ -19,6 +19,7 @@ events:
   - event-pauseai-uk-bletchley-park-protest-2023
   - event-pauseai-international-day-of-action-2024-05-13
   - event-pauseai-paris-ai-action-summit-protests-2025-02
+  - event-pauseai-brussels-ep-protest-2026-02-23
   - event-march-against-machines-london-2026-02-28
 strategies: [strat-mass-protest-for-ai-moratorium, strat-counter-narrative-framing, strat-open-letter-collective-signatory-action]
 outcomes: |

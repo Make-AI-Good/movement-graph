@@ -21,6 +21,7 @@ participating_people:
   - person-maxime-fournes
 related_events:
   - event-pauseai-paris-ai-action-summit-protests-2025-02
+  - event-pauseai-brussels-ep-protest-2026-02-23
   - event-stop-the-ai-race-sf-march-2026-03-21
   - event-stop-the-ai-race-sf-march-2026-07-11
 sources:
