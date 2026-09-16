@@ -92,7 +92,7 @@ The Algorithmic Justice League (AJL) is a Cambridge, Massachusetts-based nonprof
 
 ## Programs and major work
 
-AJL's work spans research, public-facing storytelling, community-reporting infrastructure, and creators'-rights advocacy. The signature early project was [Gender Shades](https://gs.ajl.org/), a 2018 study by Buolamwini and [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru) that audited commercial facial-analysis systems from IBM, Microsoft, and Megvii and found dramatic accuracy gaps for darker-skinned and feminine-presenting faces. The findings prompted product changes by the audited vendors and seeded years of subsequent regulatory and corporate response. AJL has since expanded its remit beyond facial analysis to algorithmic decision-making, algorithmic governance, participatory algorithmic auditing, and — most recently — generative-AI harms for creative workers.
+AJL's work spans research, public-facing storytelling, community-reporting infrastructure, and creators'-rights advocacy. The signature early project was [Gender Shades](../publications/pub-gender-shades.md), a 2018 study by Buolamwini and [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru) that audited commercial facial-analysis systems from IBM, Microsoft, and Megvii and found dramatic accuracy gaps for darker-skinned and feminine-presenting faces. The findings prompted product changes by the audited vendors and seeded years of subsequent regulatory and corporate response. AJL has since expanded its remit beyond facial analysis to algorithmic decision-making, algorithmic governance, participatory algorithmic auditing, and — most recently — generative-AI harms for creative workers.
 
 Other publicly attributable work includes:
 
