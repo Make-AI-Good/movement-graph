@@ -15,6 +15,7 @@ participating_orgs:
   - org-pauseai
   - org-stop-ai
 related_events:
+  - event-stop-the-ai-race-sf-march-2026-03-21
   - event-march-against-machines-london-2026-02-28
 sources:
   - url: https://sfstandard.com/2026/07/11/anti-ai-protest-openai-anthropic-google-san-francisco/
