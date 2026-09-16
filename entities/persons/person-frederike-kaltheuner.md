@@ -12,6 +12,7 @@ affiliations:
     role: Lead, Data Exploitation Programme
   - org: org-human-rights-watch
     role: Director, Technology and Human Rights
+voice_entry: voice-frederike-kaltheuner
 public_profiles:
   - platform: personal-site
     url: https://frederikekaltheuner.com/
