@@ -10,6 +10,7 @@ last_updated: 2026-06-12
 affiliations:
   - org: org-article-19
     role: Digital Programme Officer, Algorithmic Decision Making
+voice_entry: voice-vidushi-marda
 public_profiles:
   - platform: ai-collaborative
     url: https://collaborative.ai/people/vidushi-marda/
