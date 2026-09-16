@@ -24,6 +24,7 @@ related_orgs:
   - org-stop-ai
   - org-pull-the-plug
   - org-stop-the-ai-race
+  - org-pauseai-us
 funders: [fund-survival-and-flourishing-fund, fund-lightspeed-grants]
 sources:
   - url: https://en.wikipedia.org/wiki/PauseAI

@@ -8,8 +8,8 @@ tags: [founder, ed, us-chapter]
 created: 2026-05-08
 last_updated: 2026-05-08
 affiliations:
-  - org: org-pauseai
-    role: founder and executive director, PauseAI US
+  - org: org-pauseai-us
+    role: founder and executive director
     period: 2023-
 voice_entry: voice-holly-elmore
 public_profiles:
