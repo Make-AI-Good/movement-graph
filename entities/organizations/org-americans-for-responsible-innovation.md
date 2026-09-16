@@ -4,9 +4,9 @@ type: organization
 name: Americans for Responsible Innovation
 status: active
 confidence: high
-tags: [united-states, washington-dc, bipartisan, ai-governance, consumer-protection, child-safety, deepfakes, anti-preemption, voter-mobilization, federal-advocacy, coalition-building, nonprofit, 501c4, national-security, ai-liability]
+tags: [united-states, washington-dc, bipartisan, ai-governance, consumer-protection, child-safety, deepfakes, anti-preemption, voter-mobilization, federal-advocacy, state-level-advocacy, coalition-building, nonprofit, 501c4, national-security, ai-liability, frontier-ai, chip-export-controls]
 created: 2026-06-11
-last_updated: 2026-06-13
+last_updated: 2026-09-16
 founded: 2024
 location: 'Washington, DC'
 website: https://ari.us
@@ -35,6 +35,12 @@ sources:
   - url: https://www.axios.com/2024/03/06/ai-regulation-ari-biden-silicon-valley
     last_checked: 2026-06-11
     note: 'Axios launch coverage, March 6, 2024 — independence from tech industry framing; bipartisan positioning; board advisors Stuart Russell and Erik Brynjolfsson named.'
+  - url: https://ari.us/ari-applauds-committee-passage-of-key-bills-targeting-ai-chip-exports-and-smuggling/
+    last_checked: 2026-09-16
+    note: 'ARI endorsement of MATCH Act (H.R. 8170) and Stop Stealing Our Chips Act (H.R. 6322) following House Foreign Affairs Committee passage, April 22, 2026; support for $215M increase in BIS funding for FY27.'
+  - url: https://www.nextgov.com/artificial-intelligence/2026/09/ai-safety-advocacy-group-launches-new-state-level-effort/415875/
+    last_checked: 2026-09-16
+    note: 'Nextgov coverage of ARI state-level advocacy initiative launch, September 10, 2026 — all-50-states scope; Brad Carson quotes on the state arena as a primary front; countering industry-backed state proposals.'
 ---
 
 # Americans for Responsible Innovation
@@ -58,3 +64,9 @@ ARI's campaign assembled a coalition of 30+ children's safety and tech-policy or
 In 2025, ARI led the effort to defeat a proposed 10-year federal moratorium on state and local AI regulations buried in a budget reconciliation bill — a provision backed by major technology companies that would have nullified the significant body of state-level AI consumer-protection law enacted between 2023 and 2025.
 
 ARI, alongside coalition partners Accountable Tech and [Public Citizen](../organizations/org-public-citizen.md), [launched DefendAISafeguards.org on June 4, 2025](https://ari.us/coalition-petition-effort-opposes-state-ai-law-preemption/), which gathered over 25,000 grassroots petition signatures in its first two weeks. The organisation simultaneously coordinated a letter signed by 260 bipartisan state lawmakers opposing the moratorium and published original research documenting the consequences of preempting state AI law. The Senate voted 99-1 to strike the moratorium provision from the reconciliation bill. ARI characterised the outcome as proof that bipartisan consensus on AI consumer protection is achievable when public pressure and coalition coordination are sustained.
+
+## 2026: National security advocacy and state expansion
+
+By 2026, ARI had extended its portfolio into national security and semiconductor policy alongside its consumer-safety work. In April 2026, ARI [endorsed the MATCH Act (H.R. 8170) and the Stop Stealing Our Chips Act (H.R. 6322)](https://ari.us/ari-applauds-committee-passage-of-key-bills-targeting-ai-chip-exports-and-smuggling/) following their passage out of the House Foreign Affairs Committee — legislation designed to restrict adversaries' access to advanced microchips and chip-manufacturing tools. Alongside this endorsement, ARI backed a White House request for a $215 million increase in Bureau of Industry and Security (BIS) funding for FY27, arguing that enforcement capacity must keep pace with export control ambition. The chip-controls turn reflects ARI's "national security" governing principle operating alongside its consumer-protection work, and its willingness to work within the governing party's frame while pushing AI governance forward.
+
+On September 10, 2026, ARI [announced a new state-level advocacy initiative](https://www.nextgov.com/artificial-intelligence/2026/09/ai-safety-advocacy-group-launches-new-state-level-effort/415875/), hiring new staff to build a permanent presence in all 50 state capitals. The initiative is designed to identify emerging AI bills across state legislatures, provide policy expertise to state lawmakers, and counter what ARI characterised as a coordinated wave of industry-backed state regulatory proposals. Brad Carson framed the expansion as a strategic necessity: "To succeed in passing the guardrails necessary to sustain AI innovation while protecting the public interest, the state arena can no longer be treated as a secondary front. Industry actors understand this, which is why they are investing heavily and moving fast." Carson added: "A proactive state operation can help responsible legislators get ahead of industry campaigns, produce durable and constitutionally sound law, and demonstrate that the responsible AI community is a serious player in every arena where the future of AI governance is being decided." The state-level push represents a major operational expansion — from a Washington-focused model to a permanent multi-state field operation — following the anti-preemption campaign's demonstration that grassroots petition pressure, state-lawmaker coordination, and rapid mobilisation can move federal outcomes. Where the 2025 anti-preemption effort was a reactive campaign defending existing state law, the 2026 state programme is a proactive infrastructure for generating new law at the state level.
