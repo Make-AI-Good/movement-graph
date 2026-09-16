@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [austria, vienna, digital-rights, net-neutrality, data-protection, privacy, surveillance, eu-policy, edri, executive-director, activist, anthropologist]
 created: 2026-06-10
-last_updated: 2026-06-10
+last_updated: 2026-09-15
 affiliations:
   - org: org-epicenter-works
     role: executive director
@@ -16,6 +16,7 @@ affiliations:
   - org: org-edri
     role: board member; vice president from 2020
     period: 2019-
+voice_entry: voice-thomas-lohninger
 public_profiles:
   - platform: personal-site
     url: https://socialhack.eu/
