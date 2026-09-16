@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [germany, berlin, zurich, continental-europe, european-union, non-profit, ggmbh, digital-rights, algorithmic-accountability, automated-decision-making, ai-and-human-rights, eu-ai-act, surveillance, privacy, biometric-recognition, data-donation, participatory-research, watchdog-journalism, public-policy, advocacy]
 created: 2026-05-13
-last_updated: 2026-05-17
+last_updated: 2026-09-16
 founded: 2017
 location: Berlin, Germany (with AlgorithmWatch Switzerland in Zurich)
 website: https://algorithmwatch.org/
@@ -70,6 +70,18 @@ sources:
   - url: https://algorithmwatch.ch/en/about/
     last_checked: 2026-05-13
     note: AlgorithmWatch CH's own about page — primary source for the Swiss "Atlas of Automation" project and the Mercator Foundation Switzerland, Christoph Merian Foundation, Ernst Göhner Foundation, and Hasler Foundation (RAISD) supporter list
+  - url: https://algorithmwatch.org/en/statement-commission-guidelines-ai-act/
+    last_checked: 2026-09-16
+    note: Joint statement (January 2025) signed by 20+ civil society organisations calling on the EU Commission to centre human rights in implementation guidelines for AI Act Articles 5 and 3
+  - url: https://algorithmwatch.org/en/the-ai-omnibus-a-rollback-of-ai-safeguards-before-they-even-apply/
+    last_checked: 2026-09-16
+    note: AlgorithmWatch joint analysis (18 June 2026) with EDRi, Access Now, Amnesty International, ARTICLE19, ECNL, and others criticising the AI Omnibus agreed 7 May 2026 and documenting key rollbacks
+  - url: https://algorithmwatch.org/en/chatbots-democratic-decisionmakers-guidelines/
+    last_checked: 2026-09-16
+    note: AlgorithmWatch guidelines (5 August 2026) for politicians and government officials on responsible use of AI chatbots in policy and legislative decision-making
+  - url: https://algorithmwatch.org/en/open-call-algorithmwatch-fellowship/
+    last_checked: 2026-09-16
+    note: AlgorithmWatch 5th-round open call for reporting fellowship on AI and power (2025–2026 cycle); up to six fellows each receiving a EUR7400 grant
 ---
 
 # AlgorithmWatch
@@ -98,9 +110,19 @@ Three projects mark the public profile of AlgorithmWatch's participatory-researc
 
 Alongside these participatory projects, AlgorithmWatch produced the multi-year [Automating Society reports](https://algorithmwatch.org/en/automating-society-2020/) — the 2020 edition (28 October 2020, in partnership with the Bertelsmann Stiftung) mapped ADM systems across sixteen European countries and EU institutions, and has been used as a reference baseline by European policy researchers since.
 
+**FINDHR / Just Hiring (2023–2025)** extended the organisation's workplace ADM research into active design-advisory work. As a participant in the Horizon Europe-funded FINDHR (Fairness and Intersectionality in Human Decision-Making and Recommendation) project, AlgorithmWatch contributed algorithms, methods, and training frameworks for reducing discrimination when AI is used in recruitment and candidate matching. The project produced the [published report "Just Hiring! How to Reduce Discrimination when Using Algorithms in Recruitment"](https://algorithmwatch.org/en/projects/) (September 2025), marking a shift from the organisation's established audit-and-expose posture toward the practical design of less-discriminatory AI systems — and specifically toward worker-facing accountability in the hiring pipeline, an extension of its earlier labour-ADM work.
+
+**Chatbots & Democratic Decision-Makers (August 2026)** brought AlgorithmWatch's journalism and policy lines into direct contact with the governance of AI as a tool used by public officials themselves. The organisation published [practical guidelines](https://algorithmwatch.org/en/chatbots-democratic-decisionmakers-guidelines/) for politicians, government officials, and legislative drafters on the responsible use of AI chatbots in policy decision-making (published 5 August 2026). The guidelines addressed the specific risk that chatbots shape policy framing and emphasis in ways that users — including high-pressure officials relying on them for legislative research — do not notice, and that standard "human in the loop" safeguards are insufficient because they do not account for this subtle influence. The publication represents an expansion of the organisation's accountability mandate to include AI deployed in democratic institutions, not only AI applied to ordinary citizens.
+
 ## EU AI Act advocacy
 
 AlgorithmWatch is one of the small number of organisations that worked the European Commission, Parliament, and Council tracks on the EU AI Act from the 2021 proposal through the 2024 adoption. Its core positions — established in an [August 2021 consultation response](https://algorithmwatch.org/en/eu-ai-act/) — were that the Act should comprehensively prohibit biometric recognition systems capable of enabling mass surveillance in public space, replace the proposal's technology-list approach with an impact-based regulatory architecture, require mandatory fundamental-rights impact assessments for high-risk systems, give workers subject to ADM systems statutory information rights, and create legally binding data-access frameworks for public-interest research. The organisation co-drafted and co-signed the [November 2021 joint civil-society statement](https://algorithmwatch.org/en/eu-artificial-intelligence-act-for-fundamental-rights/) titled "An EU Artificial Intelligence Act for Fundamental Rights", signed by 115 organisations including [European Digital Rights (EDRi)](../organizations/org-edri.md) and [Access Now](../organizations/org-access-now.md), and remained inside that EDRi-coordinated coalition throughout the [trilogue negotiations](https://edri.org/our-work/civil-society-statement-eu-protect-peoples-rights-in-the-ai-act-trilogue-negotiations/). On the Act-text outcomes its public framing has been mixed — the partial biometric-recognition restrictions and the fundamental-rights-impact-assessment provisions are described as wins; the law-enforcement and migration-context carve-outs as a substantial loss for which the coalition continues to press through implementation guidance.
+
+### Implementation phase and the AI Omnibus fight (2025–2026)
+
+With the Act in force from August 2024 and its prohibited-practice provisions applicable from February 2025, AlgorithmWatch moved into the implementation-advocacy track. In January 2025, the organisation [joined more than 20 civil society groups in a joint statement](https://algorithmwatch.org/en/statement-commission-guidelines-ai-act/) urging the European Commission to centre the EU Charter of Fundamental Rights in its guidelines for Articles 5 and 3 — the provisions governing prohibited practices and definitions. The statement called for a broader AI-system definition, stronger bans on social scoring and predictive policing covering welfare and migration procedures, a prohibition on "emotion recognition" systems (characterised as scientifically flawed), and longer delays before retrospective remote biometric identification. In September 2025, AlgorithmWatch was among more than 40 NGOs signing an open letter pressing the European Commission to resist US government threats that, if acted upon, would weaken EU digital-rights law favouring American corporate interests.
+
+The enforcement phase formally opened on 2 August 2026, when the AI Office and Member State authorities assumed supervisory and enforcement responsibility under the Act. Before that architecture could bed in, however, the European Commission had already pushed through the AI Omnibus — a legislative revision formally agreed by the Council and Parliament on 7 May 2026 under the banner of "technical simplification". AlgorithmWatch co-authored a [joint civil society analysis](https://algorithmwatch.org/en/the-ai-omnibus-a-rollback-of-ai-safeguards-before-they-even-apply/), published on 18 June 2026 together with [EDRi](../organizations/org-edri.md), [Access Now](../organizations/org-access-now.md), Amnesty International, ARTICLE19, and the European Center for Not-for-profit Law, documenting the rollbacks: mandatory risk management, documentation, and human oversight requirements for high-risk AI systems delayed until 2 December 2027 (systems listed in Annex I delayed further to 2 August 2028); providers required to upload less information to the public AI database, reducing regulatory and civil-society oversight capacity; AI systems embedded in machinery reclassified from the AI Act's horizontal framework to narrower sectoral machinery rules; and new derogations permitting the processing of sensitive personal data — health records, political opinions, sexual orientation, ethnicity — for bias-detection purposes. The coalition's public position was that the Omnibus "should not have happened" and that the Commission had converted a simplification process into a vehicle for deregulation, weakening protections before they had ever applied.
 
 ## AlgorithmWatch Switzerland
 
