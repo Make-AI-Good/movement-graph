@@ -19,6 +19,7 @@ related_orgs:
   - org-newsguild-cwa
   - org-alphabet-workers-union
   - org-dsa
+  - org-ituc
 funders: []
 sources:
   - url: https://cwa-union.org/about/cwa-overview

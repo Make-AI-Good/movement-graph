@@ -19,6 +19,7 @@ key_people: []
 board_and_advisors: []
 related_orgs:
   - org-national-education-association
+  - org-ituc
 funders: []
 sources:
   - url: https://www.aft.org/
