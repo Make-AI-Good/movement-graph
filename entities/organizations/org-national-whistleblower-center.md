@@ -6,11 +6,11 @@ status: active
 confidence: high
 tags: [usa, national, whistleblower-protection, policy-advocacy, legislative-campaigning, ai-accountability, washington-dc, nonprofit]
 created: 2026-09-02
-last_updated: 2026-09-02
+last_updated: 2026-09-16
 founded: 1988
 location: national (headquartered in Washington, D.C.)
 website: https://www.whistleblowers.org
-strategies: []
+strategies: [strat-ai-whistleblower-protection-infrastructure]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-government-accountability-project, org-whistleblower-aid, org-ai-whistleblower-initiative]
