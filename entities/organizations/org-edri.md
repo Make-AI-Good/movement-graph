@@ -13,7 +13,7 @@ website: https://edri.org/
 strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-counter-narrative-framing, strat-civil-society-inside-technical-standards-bodies, strat-mass-participation-in-agency-rulemaking-comments, strat-statutory-researcher-access-and-shield, strat-ballot-initiative-and-referendum-on-ai, strat-mandatory-algorithmic-impact-assessment-requirement, strat-consumer-facing-ai-use-disclosure-mandate, strat-multilateral-treaty-process-engagement-on-ai]
 key_people: [person-ella-jakubowska, person-thomas-lohninger]
 board_and_advisors: []
-related_orgs: [org-algorithmwatch, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net, org-hermes-center, org-tasz, org-article-19, org-digitale-gesellschaft, org-iure, org-norwegian-consumer-council, org-homo-digitalis, org-share-foundation, org-epic]
+related_orgs: [org-algorithmwatch, org-access-now, org-panoptykon-foundation, org-la-quadrature-du-net, org-hermes-center, org-tasz, org-article-19, org-digitale-gesellschaft, org-iure, org-norwegian-consumer-council, org-homo-digitalis, org-share-foundation, org-epic, org-mozilla-foundation]
 funders: [fund-open-society-foundations, fund-ford-foundation, fund-macarthur-foundation, fund-mozilla-foundation, fund-european-ai-society-fund, fund-luminate, fund-stiftung-mercator, fund-adessium-foundation, fund-limelight-foundation, fund-democracy-and-media-foundation]
 sources:
   - url: https://edri.org/about-us/
