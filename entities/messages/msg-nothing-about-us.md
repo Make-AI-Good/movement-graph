@@ -29,7 +29,7 @@ sources:
   - url: https://news.harvard.edu/gazette/story/2024/04/why-ai-fairness-conversations-must-include-disabled-people/
     last_checked: 2026-06-03
     note: 'Eileen O''Grady, "Why AI fairness conversations must include disabled people," Harvard Gazette, 3 April 2024 — primary source for documented disability exclusions in AI systems: Maitreya Shah''s (Berkman Klein Center) finding that disability is treated as "outlier data" excluded from AI training sets and the question "Do people with autism or other disabilities even want these technologies? No one asks them"; Lawrence Weru''s (Harvard Medical School) documentation of voice-recognition failures for users who stutter; and Naomi Saphra''s (Kempner Institute) account of requiring customised workarounds to use commercial AI coding tools'
-  - url: https://cdt.org/insights/challenging-the-use-of-algorithm-driven-decision-making-in-benefits-determinations-affecting-people-with-disabilities/
+  - url: https://cdt.org/insights/report-challenging-the-use-of-algorithm-driven-decision-making-in-benefits-determinations-affecting-people-with-disabilities/
     last_checked: 2026-06-03
     note: 'Center for Democracy and Technology, Challenging the Use of Algorithm-driven Decision-making in Benefits Determinations Affecting People with Disabilities (October 2020) — primary source for the CDT Disability Rights in Technology Policy program''s early application of the NAUWU demand to algorithmic welfare systems; documenting the Arkansas Medicaid case where an algorithm cut home-care hours for disabled individuals without adequate human review, and framing algorithmic non-participation as a disability rights violation under the ADA and Section 504'
 ---
