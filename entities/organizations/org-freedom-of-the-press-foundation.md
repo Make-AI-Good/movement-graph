@@ -13,7 +13,7 @@ website: https://freedom.press/
 strategies: [strat-ai-whistleblower-protection-infrastructure, strat-distribute-user-side-technical-countermeasures]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-fight-for-the-future, org-electronic-frontier-foundation, org-ai-whistleblower-initiative]
+related_orgs: [org-fight-for-the-future, org-electronic-frontier-foundation, org-ai-whistleblower-initiative, org-reporters-without-borders]
 funders: [fund-craig-newmark-philanthropies, fund-macarthur-foundation, fund-open-society-foundations]
 sources:
   - url: https://freedom.press/about/
