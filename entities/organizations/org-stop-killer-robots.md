@@ -22,6 +22,7 @@ related_orgs:
   - org-pax
   - org-world-council-of-churches
   - org-religions-for-peace
+  - org-airwars
 funders: []
 sources:
   - url: https://www.stopkillerrobots.org/about-us/
