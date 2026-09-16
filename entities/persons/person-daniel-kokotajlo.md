@@ -8,6 +8,7 @@ tags: [united-states, california, philosophy, ai-safety, ai-governance, ai-forec
 created: 2026-06-12
 last_updated: 2026-06-12
 affiliations: []
+voice_entry: voice-daniel-kokotajlo
 public_profiles:
   - platform: x
     url: https://x.com/DKokotajlo
