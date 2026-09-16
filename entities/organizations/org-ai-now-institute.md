@@ -23,6 +23,7 @@ board_and_advisors: []
 related_orgs:
   - org-algorithmic-justice-league
   - org-ada-lovelace-institute
+  - org-data-and-society
 funders:
   - fund-ford-foundation
   - fund-mozilla-foundation

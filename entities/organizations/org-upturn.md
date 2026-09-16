@@ -13,7 +13,7 @@ website: https://upturn.org/
 strategies: []
 key_people: []
 board_and_advisors: [person-steven-renderos]
-related_orgs: [org-algorithmic-justice-league, org-aclu]
+related_orgs: [org-algorithmic-justice-league, org-aclu, org-data-and-society]
 funders: [fund-ford-foundation, fund-open-society-foundations, fund-macarthur-foundation, fund-democracy-fund]
 sources:
   - url: https://upturn.org/about/
