@@ -15,6 +15,7 @@ participating_orgs: []
 participating_people: []
 related_events:
   - event-ftc-creative-economy-generative-ai-roundtable-2023-10-04
+  - event-sag-aftra-ai-provisions-ratified-2023-11
 sources:
   - url: https://deadline.com/2023/07/fran-drescher-the-complete-sag-aftra-strike-speech-video-hollywood-1235437816/
     last_checked: 2026-05-13
