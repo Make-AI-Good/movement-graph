@@ -19,6 +19,7 @@ participating_orgs:
 participating_people: []
 related_events:
   - event-paradigm-initiative-drif26-abidjan-2026-04
+  - event-fifafrica-2026-mauritius
 sources:
   - url: https://cipesa.org/2022/06/forum-on-internet-freedom-in-africa-fifafrica-2022-set-to-take-place-in-lusaka-zambia/
     last_checked: 2026-06-03
