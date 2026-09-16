@@ -14,7 +14,7 @@ website: https://datasociety.net
 strategies: [strat-empirical-audit-and-expose, strat-parallel-community-research-institution]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-ai-now-institute, org-algorithmic-justice-league, org-upturn]
+related_orgs: [org-ai-now-institute, org-algorithmic-justice-league, org-upturn, org-data-for-black-lives]
 funders: [fund-ford-foundation, fund-macarthur-foundation, fund-knight-foundation, fund-mozilla-foundation, fund-open-society-foundations, fund-rockefeller-brothers-fund, fund-craig-newmark-philanthropies, fund-omidyar-network, fund-hewlett-foundation, fund-humanity-ai]
 sources:
   - url: https://datasociety.net/about/
