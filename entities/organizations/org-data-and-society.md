@@ -8,13 +8,14 @@ tags: [us, new-york, research-advocacy, algorithmic-accountability, ai-accountab
 created: 2026-09-15
 last_updated: 2026-09-15
 founded: 2014
+
 location: New York, NY
 website: https://datasociety.net
 strategies: [strat-empirical-audit-and-expose, strat-parallel-community-research-institution]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-ai-now-institute, org-algorithmic-justice-league, org-upturn]
-funders: [fund-ford-foundation, fund-macarthur-foundation, fund-knight-foundation, fund-mozilla-foundation, fund-open-society-foundations, fund-rockefeller-brothers-fund, fund-craig-newmark-philanthropies, fund-omidyar-network, fund-hewlett-foundation]
+funders: [fund-ford-foundation, fund-macarthur-foundation, fund-knight-foundation, fund-mozilla-foundation, fund-open-society-foundations, fund-rockefeller-brothers-fund, fund-craig-newmark-philanthropies, fund-omidyar-network, fund-hewlett-foundation, fund-humanity-ai]
 sources:
   - url: https://datasociety.net/about/
     last_checked: 2026-09-15

@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [us-based, new-york-city, research-advocacy, algorithmic-accountability, ai-governance, policy-advocacy, labor-and-ai, power-concentration, annual-report, nonprofit, independent]
 created: 2026-09-03
-last_updated: 2026-09-03
+last_updated: 2026-09-15
 founded: 2017
 location: New York City
 website: https://ainowinstitute.org/
@@ -31,6 +31,7 @@ funders:
   - fund-omidyar-network
   - fund-luminate
   - fund-macarthur-foundation
+  - fund-humanity-ai
 sources:
   - url: https://ainowinstitute.org/about
     last_checked: 2026-09-03

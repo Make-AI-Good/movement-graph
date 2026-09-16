@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [oakland, california, us, africa, ethiopia, ghana, south-africa, kenya, international, globally-distributed, ai-research, independent-research, community-rooted-research, algorithmic-accountability, ai-supply-chain, data-workers, content-moderation, ai-hype, black-led, african-diaspora, fiscally-sponsored]
 created: 2026-05-13
-last_updated: 2026-05-15
+last_updated: 2026-09-15
 founded: 2021
 location: Oakland, California (US headquarters; globally distributed team across Africa, Europe, Australia, and North America)
 website: https://www.dair-institute.org/
@@ -14,7 +14,7 @@ strategies: [strat-empirical-audit-and-expose, strat-counter-narrative-framing, 
 key_people: [person-timnit-gebru]
 board_and_advisors: []
 related_orgs: [org-data-labellers-association, org-we-and-ai]
-funders: [fund-ford-foundation, fund-macarthur-foundation, fund-open-society-foundations, fund-kapor-foundation]
+funders: [fund-ford-foundation, fund-macarthur-foundation, fund-open-society-foundations, fund-kapor-foundation, fund-humanity-ai]
 sources:
   - url: https://www.dair-institute.org/
     last_checked: 2026-05-13
