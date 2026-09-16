@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [international, coalition, ngo-network, treaty-focused, humanitarian-disarmament, autonomous-weapons, lethal-autonomous-weapons, military-ai, un-advocacy, civil-society, long-running]
 created: 2026-05-08
-last_updated: 2026-05-08
+last_updated: 2026-09-15
 founded: 2012
 location: international (Geneva-based secretariat)
 website: https://www.stopkillerrobots.org/
@@ -76,6 +76,18 @@ sources:
   - url: https://www.stopkillerrobots.org/news/september-2025-gge-joint-statement/
     last_checked: 2026-05-08
     note: September 2025 GGE meeting and the 42-state joint statement read by Brazil
+  - url: https://www.stopkillerrobots.org/news/156-states-support-unga-resolution/
+    last_checked: 2026-09-15
+    note: November 2025 UNGA First Committee resolution L.41 — 156 in favour, 5 against, 8 abstaining; SKR expressed disappointment at its modest ambition
+  - url: https://www.stopkillerrobots.org/news/november-2025-ccw-mhcp/
+    last_checked: 2026-09-15
+    note: November 12, 2025 CCW Meeting of High Contracting Parties — 46 states total in negotiations joint statement after four new states joined
+  - url: https://stopkillerrobots.org/resource/advocacy-sheet-ccw-gge-march-2026/
+    last_checked: 2026-09-15
+    note: March 2026 GGE advocacy sheet — analysis of December 2025 rolling text; SKR call to start binding negotiations
+  - url: https://www.hrw.org/news/2026/09/07/un-talks-on-killer-robots-ends-with-calls-for-negotiations-growing
+    last_checked: 2026-09-15
+    note: HRW coverage of September 5, 2026 final GGE session — 76 states (70 HCPs) supporting negotiations; GGE three-year mandate concluded
 ---
 
 # Stop Killer Robots
@@ -101,6 +113,10 @@ The coalition's public-engagement work includes the [#VoteAgainstTheMachine](htt
 The coalition has been working a steady upward gradient at the UN. In November 2023, the UN General Assembly First Committee adopted an Austria-led resolution on lethal autonomous weapons systems by [164 votes in favour](https://press.un.org/en/2023/gadis3731.doc.htm), with 5 against and 8 abstentions — the first time the topic had been formally addressed in the General Assembly. The resolution mandated a [report from the UN Secretary-General](https://www.stopkillerrobots.org/news/un-secretary-general-calls-for-new-international-law-to-regulate-and-prohibit-killer-robots-by-2026/), published in August 2024, which called on states to conclude a treaty by 2026 prohibiting weapons that operate without human control or that cannot be used in compliance with international humanitarian law, and to regulate all other autonomous weapons.
 
 In December 2024, UN General Assembly [Resolution 79/62](https://www.hrw.org/news/2024/12/05/killer-robots-un-vote-should-spur-treaty-negotiations) — passed 166 in favour, 3 against, 15 abstaining — approved informal consultations in New York during 2025 to consider the Secretary-General's report. Those [consultations](https://www.hrw.org/news/2025/05/21/un-start-talks-treaty-ban-killer-robots) ran on 12–13 May 2025 with delegations from 96 states. At the [September 2025 GGE meeting](https://www.stopkillerrobots.org/news/september-2025-gge-joint-statement/) in Geneva, Brazil delivered a joint statement on behalf of 42 states declaring readiness to move to negotiations on a legally binding instrument — a notable shift from the consensus-blocked CCW track that had defined the previous decade of GGE work.
+
+At the [November 6, 2025 UN General Assembly First Committee](https://www.stopkillerrobots.org/news/156-states-support-unga-resolution/), a third consecutive autonomous-weapons resolution — L.41 — passed 156 states in favour, 5 against, and 8 abstaining. Stop Killer Robots characterised the result as "extremely disappointing," stating the resolution "does not reflect the clear desire of the majority of the international community to urgently launch negotiations on a legally binding instrument." At the [November 12, 2025 CCW Meeting of High Contracting Parties](https://www.stopkillerrobots.org/news/november-2025-ccw-mhcp/), four additional states — Angola, Hungary, Mozambique, and Nigeria — endorsed the negotiations joint statement, bringing the total to 46; the meeting itself was truncated to thirty minutes of administrative decisions after states struggled to agree on a chair. Ahead of the March 2-6, 2026 GGE session, the coalition published a [rolling-text analysis and advocacy sheet](https://stopkillerrobots.org/resource/advocacy-sheet-ccw-gge-march-2026/) calling for states to move from the GGE phase into binding negotiations, framing 2026 as the GGE's final year under its current mandate.
+
+The [September 5, 2026 GGE session](https://www.hrw.org/news/2026/09/07/un-talks-on-killer-robots-ends-with-calls-for-negotiations-growing) in Geneva concluded the Group's three-year mandate, having produced a "set of elements of an instrument" on autonomous weapons systems. By that session's close, 76 states — 70 of them High Contracting Parties, constituting a majority of CCW voting members — had expressed support for moving to negotiations. Stop Killer Robots described this as "the strongest political momentum yet for a CCW treaty process." HRW noted that the final report characterised lethal autonomous weapons and affirmed that meaningful human control over weapons systems is legally required under international humanitarian law, though Russia and the United States succeeded in weakening several provisions. The decisive test is now the November 2026 CCW Review Conference, where states will decide whether to launch formal negotiations on a legally binding instrument.
 
 ## Relationship to the broader AI-good movement
 
