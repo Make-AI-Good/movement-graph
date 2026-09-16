@@ -17,6 +17,7 @@ board_and_advisors: []
 related_orgs:
   - org-paradigm-initiative
   - org-pollicy
+  - org-cipesa
 funders:
   - fund-open-society-foundations
 sources:

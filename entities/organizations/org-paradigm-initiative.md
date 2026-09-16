@@ -16,6 +16,7 @@ board_and_advisors: []
 related_orgs:
   - org-pollicy
   - org-africtivistes
+  - org-cipesa
 funders: [fund-ford-foundation, fund-charles-stewart-mott-foundation, fund-open-society-foundations, fund-omidyar-network, fund-luminate]
 sources:
   - url: https://paradigmhq.org/

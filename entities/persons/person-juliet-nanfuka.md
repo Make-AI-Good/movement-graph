@@ -7,7 +7,9 @@ confidence: high
 tags: [uganda, africa, digital-rights, cipesa, internet-freedom, ai-governance, research, communications, east-africa]
 created: 2026-06-12
 last_updated: 2026-06-12
-affiliations: []
+affiliations:
+  - org: org-cipesa
+    role: Research and Communications Officer
 public_profiles:
   - platform: linkedin
     url: https://ug.linkedin.com/in/julietnanfuka
