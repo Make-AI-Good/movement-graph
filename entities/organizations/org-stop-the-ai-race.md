@@ -12,7 +12,7 @@ location: national (US)
 website: https://stoptherace.ai/
 strategies:
   - strat-mass-protest-for-ai-moratorium
-key_people: []
+key_people: [person-michael-trazzi]
 board_and_advisors: []
 related_orgs:
   - org-pauseai
