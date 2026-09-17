@@ -18,6 +18,7 @@ participating_people:
 related_events:
   - event-pauseai-international-day-of-action-2024-05-13
   - event-march-against-machines-london-2026-02-28
+  - event-paris-ai-action-summit-civil-society-track-2025-02
 sources:
   - url: https://pauseai.info/2025-february
     last_checked: 2026-05-22
