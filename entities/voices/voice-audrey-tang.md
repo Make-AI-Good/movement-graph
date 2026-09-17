@@ -14,7 +14,7 @@ public_profiles:
     url: https://audreyt.org/
   - platform: plurality
     url: https://www.plurality.net/
-recent_works: []
+recent_works: [pub-plurality-tang-weyl]
 sources:
   - url: https://audreyt.org/
     last_checked: 2026-05-29
