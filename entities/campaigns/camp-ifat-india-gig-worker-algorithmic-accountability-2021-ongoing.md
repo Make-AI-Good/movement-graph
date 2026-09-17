@@ -14,7 +14,8 @@ goals: |
 lead_orgs:
   - org-ifat-india
 participating_orgs: []
-events: []
+events:
+  - event-ifat-india-algorithmic-management-flash-strike-2025-12
 strategies:
   - strat-organize-ai-supply-chain-workers
 outcomes: |
