@@ -13,7 +13,7 @@ website: https://themarkup.org
 strategies: [strat-empirical-audit-and-expose, strat-public-interest-investigative-journalism-as-infrastructure]
 key_people: [person-julia-angwin]
 board_and_advisors: []
-related_orgs: [org-propublica, org-bellingcat, org-rest-of-world, org-coda-story, org-the-intercept]
+related_orgs: [org-propublica, org-bellingcat, org-rest-of-world, org-coda-story, org-the-intercept, org-404-media]
 funders: [fund-craig-newmark-philanthropies, fund-ford-foundation, fund-knight-foundation, fund-macarthur-foundation]
 sources:
   - url: https://themarkup.org/about

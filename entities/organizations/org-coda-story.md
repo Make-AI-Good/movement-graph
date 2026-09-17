@@ -13,7 +13,7 @@ website: https://codastory.com
 strategies: [strat-public-interest-investigative-journalism-as-infrastructure, strat-empirical-audit-and-expose]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-propublica, org-rest-of-world, org-the-markup, org-the-intercept]
+related_orgs: [org-propublica, org-rest-of-world, org-the-markup, org-the-intercept, org-404-media, org-bellingcat]
 funders: [fund-macarthur-foundation, fund-open-society-foundations]
 sources:
   - url: https://codastory.com/about/

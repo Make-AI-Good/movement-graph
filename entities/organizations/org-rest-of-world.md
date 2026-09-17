@@ -13,7 +13,7 @@ website: https://restofworld.org
 strategies: [strat-public-interest-investigative-journalism-as-infrastructure, strat-empirical-audit-and-expose]
 key_people: []
 board_and_advisors: []
-related_orgs: [org-propublica, org-the-markup, org-coda-story, org-african-content-moderators-union, org-the-intercept]
+related_orgs: [org-propublica, org-the-markup, org-coda-story, org-african-content-moderators-union, org-the-intercept, org-404-media, org-bellingcat]
 funders: [fund-ford-foundation, fund-luminate]
 sources:
   - url: https://restofworld.org/about/

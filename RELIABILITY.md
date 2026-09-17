@@ -1,7 +1,7 @@
 ---
 type: reliability-statement
-generated_at: 2026-09-17T13:00:11Z
-generated_at_commit: d2caf21edaab667342d7e60124cf5db77d161065
+generated_at: 2026-09-17T13:26:41Z
+generated_at_commit: cad9ee1b8586ffd0202867c69ff4a6d642652103
 generator: project/teams/movement-graph/dashboard/generate-reliability.sh
 audited_entities: 605
 total_entities: 997
@@ -19,7 +19,7 @@ status_corrections_pending: 317
 
 # Corpus reliability
 
-Auto-generated at commit `d2caf21` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
+Auto-generated at commit `cad9ee1` from the per-entity audit trail under [`audits/`](audits/). Each release tag pins one of these.
 
 This graph is independently audited at the claim level. Of 14,135 claims across 605 audited entities: **75.5%** corroborated or primary-sourced, **3.9%** single-source, **15.8%** not independently corroborated, **4.8%** precision-corrected (which we apply). **No fabrication observed.**
 
