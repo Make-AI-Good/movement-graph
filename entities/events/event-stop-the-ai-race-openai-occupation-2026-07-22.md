@@ -6,10 +6,11 @@ status: active
 confidence: high
 tags: [united-states, san-francisco, california, new-york, ai-safety, frontier-ai, moratorium, conditional-pause, occupation, sustained-direct-action, direct-action, protest, public-mobilization, openai, grassroots]
 created: 2026-09-16
-last_updated: 2026-09-16
+last_updated: 2026-09-17
 date: 2026-07-22
 location: San Francisco; New York City
 event_type: sustained occupation
+campaign: camp-stop-the-ai-race-protest-campaign-2025-ongoing
 participating_orgs:
   - org-stop-the-ai-race
 participating_people:

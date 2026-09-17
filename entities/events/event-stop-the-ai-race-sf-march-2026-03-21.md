@@ -6,10 +6,11 @@ status: historical
 confidence: high
 tags: [united-states, san-francisco, california, ai-safety, frontier-ai, moratorium, conditional-pause, street-march, protest, public-mobilization, openai, anthropic, xai, coalition]
 created: 2026-09-15
-last_updated: 2026-09-15
+last_updated: 2026-09-17
 date: 2026-03-21
 location: San Francisco
 event_type: street march
+campaign: camp-stop-the-ai-race-protest-campaign-2025-ongoing
 participating_orgs:
   - org-stop-the-ai-race
   - org-pauseai
