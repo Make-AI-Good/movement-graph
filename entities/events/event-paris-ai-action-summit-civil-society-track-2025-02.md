@@ -21,6 +21,7 @@ participating_orgs:
 participating_people: []
 related_events:
   - event-pauseai-paris-ai-action-summit-protests-2025-02
+  - event-ai-fringe-seoul-summit-2024-06
 sources:
   - url: https://www.renaissancenumerique.org/en/events/global-ai-governance-empowering-civil-society/
     last_checked: 2026-09-17
