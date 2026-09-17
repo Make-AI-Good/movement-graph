@@ -12,7 +12,7 @@ location: online
 event_type: certification-program-launch
 participating_orgs:
   - org-fairly-trained
-participating_people: []
+participating_people: [person-ed-newton-rex]
 related_events: []
 sources:
   - url: https://www.fairlytrained.org/blog/fairly-trained-launches-certification-for-generative-ai-models-that-respect-creators-rights

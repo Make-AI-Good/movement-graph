@@ -14,7 +14,7 @@ strategies:
   - strat-movement-run-consumer-facing-ai-certification
   - strat-open-letter-collective-signatory-action
   - strat-public-art-and-creative-intervention-on-ai
-key_people: []
+key_people: [person-ed-newton-rex]
 board_and_advisors: []
 related_orgs:
   - org-authors-guild
