@@ -15,6 +15,7 @@ strategies:
   - strat-public-sector-precautionary-moratorium-on-ai
   - strat-cross-movement-coalition-bridging
   - strat-mass-protest-for-ai-moratorium
+  - strat-movement-political-education-infrastructure-on-ai
 key_people: []
 board_and_advisors: []
 related_orgs:

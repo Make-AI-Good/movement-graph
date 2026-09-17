@@ -10,7 +10,7 @@ last_updated: 2026-09-15
 founded: 2012
 location: international (Geneva-based secretariat)
 website: https://www.stopkillerrobots.org/
-strategies: [strat-humanitarian-disarmament-treaty, strat-survivor-led-testimony-as-evidence, strat-counter-narrative-framing]
+strategies: [strat-humanitarian-disarmament-treaty, strat-survivor-led-testimony-as-evidence, strat-counter-narrative-framing, strat-transnational-solidarity-organizing-across-jurisdictions-on-ai]
 key_people:
   - person-nicole-van-rooijen
   - person-mary-wareham
