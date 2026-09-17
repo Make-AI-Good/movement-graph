@@ -11,7 +11,7 @@ founded: 2014
 location: Amsterdam, Netherlands
 website: https://www.bellingcat.com
 strategies: [strat-public-interest-investigative-journalism-as-infrastructure, strat-empirical-audit-and-expose]
-key_people: []
+key_people: [person-eliot-higgins]
 board_and_advisors: []
 related_orgs: [org-propublica, org-the-markup, org-rest-of-world, org-coda-story]
 funders: [fund-adessium-foundation, fund-open-society-foundations, fund-porticus, fund-sigrid-rausing-trust, fund-nationale-postcode-loterij]
