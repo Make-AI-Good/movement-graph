@@ -6,10 +6,10 @@ status: active
 confidence: medium
 tags: [staff, public-policy]
 created: 2026-05-08
-last_updated: 2026-09-04
+last_updated: 2026-09-17
 affiliations:
   - org: org-encode-justice
-    role: vice president of public policy
+    role: co-executive director
     period: 2024-
 public_profiles:
   - platform: encode-ai
@@ -23,9 +23,12 @@ sources:
     note: Stanford Daily coverage of California SB 1047 in which Encode senior staff including Billen feature in the policy advocacy record
   - url: https://www.nelsonmullins.com/insights/alerts/privacy_and_data_security_alert/all/new-york-laws-raise-the-bar-in-addressing-ai-safety-the-raise-act-and-ai-companion-models
     last_checked: 2026-09-04
-    note: Nelson Mullins analysis of the NY RAISE Act; quotes Billen as vice president of public policy at Encode AI
+    note: Nelson Mullins analysis of the NY RAISE Act; quotes Billen as vice president of public policy at Encode AI (title subsequently updated)
+  - url: https://encodeai.org/person/adam-billen/
+    last_checked: 2026-09-17
+    note: Encode AI staff profile confirming Co-Executive Director title as of September 2026
 ---
 
 # Adam Billen
 
-Vice president of public policy at [Encode Justice](../organizations/org-encode-justice.md) (operating publicly as Encode / Encode AI), where he leads federal policy advocacy.
+Co-executive director at [Encode Justice](../organizations/org-encode-justice.md) (operating publicly as Encode / Encode AI), where he leads policy advocacy.

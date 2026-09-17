@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [youth-led, chaptered, advocacy, policy, ai-safety, ai-policy, deepfakes, autonomous-weapons, student-organizing, international]
 created: 2026-05-07
-last_updated: 2026-09-04
+last_updated: 2026-09-17
 founded: 2020
 location: international (founded in San José, California)
 website: https://encodeai.org/
@@ -30,8 +30,8 @@ sources:
     last_checked: 2026-05-07
     note: Programs and current scope, surfaced via search snippet
   - url: https://encodeai.org/
-    last_checked: 2026-05-07
-    note: Current operating site (rebrand from encodejustice.org)
+    last_checked: 2026-09-17
+    note: Current operating site (rebrand from encodejustice.org); FY2026 Senate Defense Appropriations DARPA victory listed on homepage
   - url: https://en.wikipedia.org/wiki/Sneha_Revanur
     last_checked: 2026-05-07
     note: Founder background and founding-year corroboration
@@ -83,6 +83,12 @@ sources:
   - url: https://indiawest.com/8-indian-americans-on-time-magazines-100-ai-2026/
     last_checked: 2026-09-04
     note: TIME100 AI 2026 list — Sunny Gandhi named for policy advocacy work at Encode
+  - url: https://encodeai.org/person/adam-billen/
+    last_checked: 2026-09-17
+    note: Encode AI staff profile for Adam Billen confirming Co-Executive Director title as of September 2026
+  - url: https://encodeai.org/person/nathan-calvin/
+    last_checked: 2026-09-17
+    note: Encode AI staff profile for Nathan Calvin noting his OpenAI nonprofit restructuring scrutiny work
 ---
 
 # Encode Justice
@@ -100,9 +106,10 @@ Other publicly attributable work includes:
 - Leading a coalition that secured the first U.S. federal restrictions on the integration of AI into nuclear weapons command-and-control, included in the [FY2025 National Defense Authorization Act](https://encodejustice.org/what-we-do/).
 - A 2024 Capitol Hill Summit on AI-enabled child sexual exploitation, paired with a model school-board policy and what the organization describes as the first national deepfake incident tracker.
 - The [AI 2030](https://ai2030.encodejustice.org/) platform: a youth-authored set of policy recommendations for global AI governance, structured around what the organization wants in place by the end of the decade.
-- An amicus brief filed in [Musk v. Altman](https://siliconangle.com/2025/01/01/encode-godfather-ai-join-elon-musks-bid-block-openais-profit-switch/) (January 2025), opposing OpenAI's proposed conversion from a nonprofit-controlled structure to a more conventional for-profit one.
+- An amicus brief filed in [Musk v. Altman](https://siliconangle.com/2025/01/01/encode-godfather-ai-join-elon-musks-bid-block-openais-profit-switch/) (January 2025), opposing OpenAI's proposed conversion from a nonprofit-controlled structure to a more conventional for-profit one; followed by [co-led advocacy](https://encodeai.org/person/nathan-calvin/) to preserve nonprofit governance and increase Foundation funding in the eventual conversion.
 - Co-advocacy for the [TAKE IT DOWN Act](https://www.whitehouse.gov/releases/2025/05/icymi-president-trump-signs-take-it-down-act-into-law/), signed by President Trump in May 2025, which criminalizes non-consensual intimate imagery including AI-generated deepfakes and requires platforms to remove flagged content within 48 hours.
 - Defeating a proposed ten-year federal moratorium that would have preempted all state-level AI regulation — the key policy win enabling the state legislative victories below.
+- Securing [language in the FY2026 Senate Defense Appropriations](https://encodeai.org/) directing DARPA to prioritize AI reliability, interpretability, and security research.
 
 State legislative victories since 2025 mark Encode's most significant policy outcomes to date. The organization formally co-sponsored [California SB 53](https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/) (the Transparency in Frontier Artificial Intelligence Act), signed by Governor Newsom in September 2025 — the first enforceable U.S. regulatory framework for frontier AI, requiring large developers to publish safety frameworks, report critical safety incidents, and protect employee whistleblowers. Encode advocated for the [New York RAISE Act](https://www.nysenate.gov/newsroom/press-releases/2025/andrew-gounardes/landmark-ai-safety-bill-signed-law), signed December 2025 (and amended March 2026), imposing safety-protocol maintenance and 72-hour incident-reporting requirements on frontier AI developers. Most recently, the organization supported [Illinois SB 315](https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law), signed by Governor Pritzker in July 2026 — described by Encode as the country's strongest AI safety law, adding a requirement for annual independent third-party audits of large AI developers.
 
@@ -110,6 +117,6 @@ The organization also runs a public-awareness wing that publishes explainers, op
 
 ## Structure
 
-Encode is a U.S.-based nonprofit with a small paid staff and a much larger volunteer base of student organizers operating through chapters. [Sneha Revanur](../persons/person-sneha-revanur.md) remains president. By 2026 the senior staff includes [Sunny Gandhi](../persons/person-sunny-gandhi.md) (co-executive director), [Adam Billen](../persons/person-adam-billen.md) (vice president of public policy), [Nathan Calvin](../persons/person-nathan-calvin.md) (general counsel and VP of state affairs), and [Seve Christian](../persons/person-seve-christian.md) (California policy director). Gandhi was named to the TIME100 AI list in 2026 for his contributions to state AI policy advocacy. The organization has [rebranded](https://encodeai.org/) its public-facing identity from "Encode Justice" to "Encode" / "Encode AI"; the original `encodejustice.org` domain remains in use for chapter and program content.
+Encode is a U.S.-based nonprofit with a small paid staff and a much larger volunteer base of student organizers operating through chapters. [Sneha Revanur](../persons/person-sneha-revanur.md) remains president. By 2026 the senior staff includes [Sunny Gandhi](../persons/person-sunny-gandhi.md) (co-executive director), [Adam Billen](../persons/person-adam-billen.md) (co-executive director), [Nathan Calvin](../persons/person-nathan-calvin.md) (general counsel and VP of state affairs), and [Seve Christian](../persons/person-seve-christian.md) (California policy director). Gandhi was named to the TIME100 AI list in 2026 for his contributions to state AI policy advocacy. The organization has [rebranded](https://encodeai.org/) its public-facing identity from "Encode Justice" to "Encode" / "Encode AI"; the original `encodejustice.org` domain remains in use for chapter and program content.
 
 Comparisons to youth-led climate and gun-control movements — Sunrise, March for Our Lives — appear frequently in coverage of the organization and reflect the model it has self-consciously borrowed: a generation framing AI as their issue, with the legitimacy of being the cohort most affected by long-run outcomes.
