@@ -14,7 +14,8 @@ strategies: [strat-parallel-community-research-institution]
 key_people: []
 board_and_advisors: []
 related_orgs: []
-funders: []
+funders:
+  - fund-idrc
 sources:
   - url: https://www.masakhane.io/home
     last_checked: 2026-06-11

@@ -22,6 +22,7 @@ funders:
   - fund-ford-foundation
   - fund-luminate
   - fund-indela
+  - fund-idrc
 sources:
   - url: https://www.vialibre.org.ar/en/about-us/
     last_checked: 2026-05-20

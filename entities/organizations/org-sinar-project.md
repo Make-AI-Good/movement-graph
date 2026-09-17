@@ -18,6 +18,7 @@ related_orgs:
   - org-access-now
 funders:
   - fund-luminate
+  - fund-idrc
   - fund-hivos
 sources:
   - url: https://sinarproject.org/

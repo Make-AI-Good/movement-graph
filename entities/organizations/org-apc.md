@@ -31,6 +31,7 @@ funders:
   - fund-luminate
   - fund-internet-society-foundation
   - fund-oak-foundation
+  - fund-idrc
 sources:
   - url: https://www.apc.org/en/about/who-we-are
     last_checked: 2026-05-18

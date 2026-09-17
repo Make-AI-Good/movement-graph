@@ -30,6 +30,7 @@ funders:
   - fund-open-society-foundations
   - fund-oak-foundation
   - fund-renewable-freedom-foundation
+  - fund-idrc
 sources:
   - url: https://privacyinternational.org/about
     last_checked: 2026-05-18
