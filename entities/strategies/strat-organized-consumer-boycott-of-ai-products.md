@@ -12,6 +12,7 @@ related_strategies:
   - strat-institutional-procurement-refusal-of-ai-vendors
   - strat-mass-protest-for-ai-moratorium
   - strat-cross-professional-refusal-of-ai-integration
+  - strat-student-and-family-refusal-of-ai-in-schools
 effects: []
 sources: []
 ---

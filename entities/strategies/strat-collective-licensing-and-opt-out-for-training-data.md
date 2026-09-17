@@ -12,6 +12,7 @@ related_strategies:
   - strat-class-action-litigation-against-private-ai
   - strat-distribute-user-side-technical-countermeasures
   - strat-empirical-audit-and-expose
+  - strat-data-trust-collective-bargaining-on-training-data
 sources: []
 ---
 

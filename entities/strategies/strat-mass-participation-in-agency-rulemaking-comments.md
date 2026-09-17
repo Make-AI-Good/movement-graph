@@ -13,6 +13,7 @@ related_strategies:
   - strat-empirical-audit-and-expose
   - strat-participatory-deliberation-as-policy-input
   - strat-open-letter-collective-signatory-action
+  - strat-occupational-safety-enforcement-on-algorithmic-management
 effects: []
 sources: []
 ---

@@ -13,6 +13,7 @@ related_strategies:
   - strat-strategic-litigation-against-algorithmic-state-decisions
   - strat-empirical-audit-and-expose
   - strat-participatory-deliberation-as-policy-input
+  - strat-data-trust-collective-bargaining-on-training-data
 effects:
   - description: 'In August 2015 the Canadian Intellectual Property Office registered OCAP® (Ownership, Control, Access, Possession) as a trademark held by the First Nations Information Governance Centre — a deliberate move to convert First Nations data sovereignty from a normative principle into an enforceable claim against institutional misappropriation by universities, research bodies, and government agencies. The trademark registration is the strategy''s clearest case of legal-instrument infrastructure: where the principles themselves are a 1998 governance framework, the trademark is what gives FNIGC standing to demand correction when a research body uses the OCAP® mark without authorisation. The instrument is in operative use today through FNIGC''s Fundamentals of OCAP® course and its standing role in Canadian health-research review boards.'
     type: regulatory-action

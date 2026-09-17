@@ -12,6 +12,7 @@ related_strategies:
   - strat-counter-narrative-framing
   - strat-empirical-audit-and-expose
   - strat-organize-ai-supply-chain-workers
+  - strat-student-and-family-refusal-of-ai-in-schools
 sources: []
 ---
 

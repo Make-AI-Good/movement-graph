@@ -12,6 +12,7 @@ related_strategies:
   - strat-organize-ai-supply-chain-workers
   - strat-creator-class-collective-bargaining-on-generative-ai
   - strat-insider-whistleblowing-from-frontier-labs
+  - strat-occupational-safety-enforcement-on-algorithmic-management
 sources: []
 ---
 

@@ -12,6 +12,7 @@ related_strategies:
   - strat-empirical-audit-and-expose
   - strat-coalition-lobbying-of-binding-regional-regulation
   - strat-map-the-ai-supply-chain-of-state-harm
+  - strat-data-trust-collective-bargaining-on-training-data
 effects: []
 sources: []
 ---

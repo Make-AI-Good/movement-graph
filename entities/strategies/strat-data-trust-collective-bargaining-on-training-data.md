@@ -1,0 +1,37 @@
+---
+id: strat-data-trust-collective-bargaining-on-training-data
+type: strategy
+name: Data-trust collective bargaining on training data
+status: active
+confidence: medium
+tags: [data-trust, data-stewardship, fiduciary, training-data, collective-bargaining, legal-entity, data-governance, chokepoint]
+created: 2026-09-17
+last_updated: 2026-09-17
+related_strategies:
+  - strat-collective-licensing-and-opt-out-for-training-data
+  - strat-indigenous-and-community-data-sovereignty
+  - strat-community-owned-cooperative-ai-infrastructure
+  - strat-creator-class-collective-bargaining-on-generative-ai
+  - strat-data-protection-authority-complaint-machinery
+sources: []
+---
+
+# Data-trust collective bargaining on training data
+
+Communities of data-subjects — patients, gig workers, users of a platform, residents of a locality, members of a diaspora, cohorts of survey respondents, participants in a research programme — pool the *stewardship* of their personal or contributed data into a legal-entity trust (charitable trust, mutual, cooperative, community-interest company) that holds the data as fiduciary and negotiates with AI vendors, researchers, or state actors on the members' collective behalf. The trustee's fiduciary duty runs to the members, not to the counterparty; the terms of any data-access licence — training use, research use, aggregate release — are the trust's decision to grant, condition, price, or refuse. Reference lineages include the Open Data Institute's data-institutions and data-trust programme (Sylvie Delacroix and Neil Lawrence's foundational 2019 paper; the ODI's 2018–2024 pilots in air quality, health, and urban data), the Data Trust Initiative at Cambridge, Salus Coop (Barcelona health-data cooperative), MIDATA (Swiss health-data cooperative), and the older credit-union and mutual-society lineages the legal form transposes from.
+
+An actor chooses this strategy because collective licensing operates on works whose rights the individual member owns and can transact — the ASCAP / BMI model presupposes each songwriter's copyright as the transactable right — while much of the training-data supply chain runs on data whose individual member has no clean transactable claim (the medical record the hospital holds, the gig-work log the platform generates, the sensor data the city collects, the training dataset the research programme assembled from consented participants). A trust structure creates a *governance* claim where an *ownership* claim is unclear: the members entrust their data to a fiduciary entity, and the entity's standing to negotiate the data-access terms flows from its charter rather than from an individual property right the individual could exercise alone. The strategy also builds counterweight infrastructure inside institutions that currently sit as unaccountable data-holders — a health system, a platform, a research consortium — by giving the data-subject constituency a collective legal counterparty inside the same institutional field.
+
+It trades enforceability for institution-building. A data trust's substantive leverage depends on how much data the trust actually holds or controls; a trust founded on ten thousand members holds a fractional bargaining position against a vendor training on the internet's aggregate corpus, and the movement-side data-trust experiments to date have consistently plateaued at a scale below what would move an AI-vendor negotiation. The strategy is also legally novel in most jurisdictions — the fiduciary-duty framing of data stewardship is untested in most national data-protection regimes, and the trust's charter obligations against the incumbent data-protection statute produce compliance ambiguity a vendor's counsel can exploit. And the strategy's governance apparatus — how the members instruct the trustee, how the trust chooses which terms to accept, how it prevents capture by a subset of active members — is unresolved: the ODI pilots have surfaced repeatedly that participatory-governance overhead consumes the majority of the trust's operating capacity in its early years.
+
+## Ecology
+
+**Distinct from [collective licensing and opt-out infrastructure for training data](strat-collective-licensing-and-opt-out-for-training-data.md).** Collective licensing runs on the individual member's *ownership* right (copyright, image rights) aggregated into a rights-collecting society that transacts the licence. This strategy runs on the individual member's *data-subject* status aggregated into a fiduciary entity that governs stewardship. The two are complementary supply-side chokepoint strategies but address different data classes: creative-work rights-holders naturally aggregate into ASCAP / BMI shape; users, patients, workers, residents whose data has no clean copyright anchor naturally aggregate into the trust shape. A mature training-data-supply-side movement runs both arms against different segments of the supply chain.
+
+**Distinct from [indigenous and community data sovereignty](strat-indigenous-and-community-data-sovereignty.md).** Indigenous data-sovereignty rests on the sovereign claim of a Nation or community whose collective self-determination is the ground of the data-governance right — CARE principles, First Nations OCAP, Māori data sovereignty as *iwi* right — and the sovereign is the community itself as a pre-existing political entity. A data trust is a *voluntary-membership* legal-entity vehicle whose members may or may not share any pre-existing collective identity; the trust *creates* the collective the trustee answers to, rather than expressing an already-standing sovereign. Both strategies contest the extractive-data premise, but the standing ground differs — the trust is available where a sovereign claim is not.
+
+**Distinct from [community-owned cooperative AI infrastructure](strat-community-owned-cooperative-ai-infrastructure.md).** Cooperative AI infrastructure builds the *compute-and-model* provisioning stack as a members-owned enterprise. This strategy builds the *training-data supply* as a members-governed fiduciary. The two can pair — a data trust holding the training data a cooperative model consumes is a coherent stack — but they address different layers of the AI provisioning question.
+
+**Fed by [data-protection-authority complaint machinery](strat-data-protection-authority-complaint-machinery.md).** A well-organised DPA complaint pipeline strengthens the trust's bargaining position: a vendor whose current data-collection practice is under active DPA challenge is one whose next licence would rather negotiate with a trust than face a second regulatory front, and the DPA complaint infrastructure is the enforcement layer a trust's fiduciary duty runs alongside. The two are the movement-side legal infrastructure the data-subject collective assembles around.
+
+**Paired with [creator-class collective bargaining on generative AI](strat-creator-class-collective-bargaining-on-generative-ai.md)** in the wider collective-supply-side family. The creator-guild arm bargains on the employment relationship the creator has with their employer; the data trust arm bargains on the stewardship relationship the data-subject has with the platform, hospital, or research programme that holds their data. Both convert an individual-to-institution transaction into a collective-to-institution one; the strategies coexist because the collectivising vehicle available to each constituency differs (union vs. trust).

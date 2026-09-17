@@ -13,6 +13,7 @@ related_strategies:
   - strat-parallel-community-research-institution
   - strat-organize-ai-supply-chain-workers
   - strat-collective-licensing-and-opt-out-for-training-data
+  - strat-data-trust-collective-bargaining-on-training-data
 sources: []
 ---
 

@@ -12,6 +12,7 @@ related_strategies:
   - strat-creator-class-collective-bargaining-on-generative-ai
   - strat-counter-narrative-framing
   - strat-participatory-deliberation-as-policy-input
+  - strat-student-and-family-refusal-of-ai-in-schools
 sources: []
 ---
 

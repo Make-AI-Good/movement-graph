@@ -12,6 +12,8 @@ related_strategies:
   - strat-empirical-audit-and-expose
   - strat-community-defined-benchmarks-and-standards
   - strat-data-protection-authority-complaint-machinery
+  - strat-student-and-family-refusal-of-ai-in-schools
+  - strat-occupational-safety-enforcement-on-algorithmic-management
 sources: []
 ---
 
