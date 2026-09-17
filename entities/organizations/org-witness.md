@@ -13,7 +13,7 @@ website: https://witness.org
 strategies:
   - strat-content-provenance-and-cryptographic-authenticity
   - strat-civil-society-inside-technical-standards-bodies
-key_people: []
+key_people: [person-sam-gregory]
 board_and_advisors: []
 related_orgs: [org-guardian-project]
 funders: [fund-macarthur-foundation]
