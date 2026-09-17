@@ -21,4 +21,4 @@ voice_entry:
 
 # Sin-tshong (Shin) Tsu
 
-Sin-tshong (Shin) Tsu is a Taiwan-based organiser who [co-founded NTU AI Safety (NTUAIS)](https://ntuais.org/team) in 2024 — one of the first dedicated AI-safety community groups in Taiwan — following studies at Peking University and National Taiwan Normal University (NTNU). Tsu is listed on the NTUAIS Founders & Alumni page, indicating a founding role that preceded the current organiser cohort. They are also involved in animal advocacy alongside the AI-safety field-building work.
+Sin-tshong (Shin) Tsu is a Taiwan-based organiser who [co-founded NTU AI Safety (NTUAIS)](../local-groups/lg-ai-safety-taiwan.md) in 2024 — one of the first dedicated AI-safety community groups in Taiwan — following studies at Peking University and National Taiwan Normal University (NTNU). Tsu is listed on the NTUAIS Founders & Alumni page, indicating a founding role that preceded the current organiser cohort. They are also involved in animal advocacy alongside the AI-safety field-building work.
