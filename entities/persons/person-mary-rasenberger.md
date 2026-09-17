@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [us-based, new-york, copyright-lawyer, professional-community, writers, authors, sector-response, generative-ai, copyright, creators-rights, litigation, federal-policy, lobbying, advocacy, chief-executive-officer]
 created: 2026-05-14
-last_updated: 2026-05-14
+last_updated: 2026-09-17
 affiliations:
   - org: org-authors-guild
     role: Chief Executive Officer (formerly Executive Director)
@@ -14,6 +14,7 @@ affiliations:
 public_profiles:
   - platform: authors-guild
     url: https://authorsguild.org/about/team/staff-directory/
+voice_entry: voice-mary-rasenberger
 sources:
   - url: https://authorsguild.org/about/team/staff-directory/
     last_checked: 2026-05-14
