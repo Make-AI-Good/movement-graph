@@ -10,7 +10,7 @@ last_updated: 2026-09-17
 founded: 2020
 location: Washington, DC
 website: https://accountabletech.org/
-strategies: []
+strategies: [strat-preemption-defense-of-subnational-ai-authority]
 key_people: []
 board_and_advisors: []
 related_orgs: []

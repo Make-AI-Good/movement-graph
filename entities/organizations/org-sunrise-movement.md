@@ -10,7 +10,7 @@ last_updated: 2026-09-03
 founded: 2017
 location: national (headquartered in Washington, DC)
 website: https://www.sunrisemovement.org/
-strategies: []
+strategies: [strat-preemption-defense-of-subnational-ai-authority]
 key_people: []
 board_and_advisors: []
 related_orgs: [org-peoples-action-institute, org-food-and-water-watch, org-indivisible, org-dsa]

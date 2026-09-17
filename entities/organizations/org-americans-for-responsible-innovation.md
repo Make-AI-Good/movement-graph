@@ -10,7 +10,7 @@ last_updated: 2026-09-16
 founded: 2024
 location: 'Washington, DC'
 website: https://ari.us
-strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-survivor-led-testimony-as-evidence, strat-advocate-for-a-new-ai-regulatory-body]
+strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-survivor-led-testimony-as-evidence, strat-advocate-for-a-new-ai-regulatory-body, strat-preemption-defense-of-subnational-ai-authority]
 key_people: []
 board_and_advisors: []
 related_orgs:
