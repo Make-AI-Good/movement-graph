@@ -16,7 +16,7 @@ public_profiles:
     url: https://en.wikipedia.org/wiki/Julia_Angwin
   - platform: proof-news
     url: https://proofnews.org/author/julia/
-recent_works: []
+recent_works: [pub-propublica-facebook-ad-discrimination]
 sources:
   - url: https://juliaangwin.com/
     last_checked: 2026-09-16
