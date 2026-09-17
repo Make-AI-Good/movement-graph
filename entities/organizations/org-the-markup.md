@@ -11,7 +11,7 @@ founded: 2018
 location: New York, NY
 website: https://themarkup.org
 strategies: [strat-empirical-audit-and-expose, strat-public-interest-investigative-journalism-as-infrastructure]
-key_people: []
+key_people: [person-julia-angwin]
 board_and_advisors: []
 related_orgs: [org-propublica, org-rest-of-world, org-coda-story]
 funders: [fund-craig-newmark-philanthropies, fund-ford-foundation, fund-knight-foundation, fund-macarthur-foundation]

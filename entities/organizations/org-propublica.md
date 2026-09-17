@@ -11,7 +11,7 @@ founded: 2008
 location: New York, NY
 website: https://www.propublica.org
 strategies: [strat-empirical-audit-and-expose, strat-public-interest-investigative-journalism-as-infrastructure]
-key_people: []
+key_people: [person-julia-angwin]
 board_and_advisors: []
 related_orgs: [org-upturn, org-algorithmic-justice-league, org-rest-of-world, org-coda-story]
 funders: [fund-macarthur-foundation]
