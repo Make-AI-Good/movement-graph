@@ -13,7 +13,7 @@ website: https://www.propublica.org
 strategies: [strat-empirical-audit-and-expose, strat-public-interest-investigative-journalism-as-infrastructure]
 key_people: [person-julia-angwin]
 board_and_advisors: []
-related_orgs: [org-upturn, org-algorithmic-justice-league, org-bellingcat, org-rest-of-world, org-coda-story]
+related_orgs: [org-upturn, org-algorithmic-justice-league, org-bellingcat, org-rest-of-world, org-coda-story, org-the-intercept]
 funders: [fund-macarthur-foundation]
 sources:
   - url: https://www.propublica.org/about

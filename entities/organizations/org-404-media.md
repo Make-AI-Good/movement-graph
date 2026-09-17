@@ -22,6 +22,7 @@ related_orgs:
   - org-propublica
   - org-rest-of-world
   - org-coda-story
+  - org-the-intercept
 funders: []
 sources:
   - url: https://www.404media.co/welcome-to-404-media/
