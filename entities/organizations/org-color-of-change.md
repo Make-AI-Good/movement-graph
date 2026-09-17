@@ -14,7 +14,7 @@ strategies:
   - strat-advertiser-boycott-of-ai-deploying-platforms
   - strat-empirical-audit-and-expose
   - strat-mandatory-algorithmic-impact-assessment-requirement
-key_people: []
+key_people: [person-rashad-robinson]
 board_and_advisors: []
 related_orgs:
   - org-aclu
