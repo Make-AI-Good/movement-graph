@@ -13,7 +13,7 @@ website: https://www.propublica.org
 strategies: [strat-empirical-audit-and-expose, strat-public-interest-investigative-journalism-as-infrastructure]
 key_people: [person-julia-angwin]
 board_and_advisors: []
-related_orgs: [org-upturn, org-algorithmic-justice-league, org-rest-of-world, org-coda-story]
+related_orgs: [org-upturn, org-algorithmic-justice-league, org-bellingcat, org-rest-of-world, org-coda-story]
 funders: [fund-macarthur-foundation]
 sources:
   - url: https://www.propublica.org/about
@@ -55,7 +55,7 @@ Paul Steiger, former managing editor of The Wall Street Journal, launched ProPub
 
 ## Machine Bias and COMPAS
 
-ProPublica's ["Machine Bias" series](https://www.propublica.org/series/machine-bias) (launched 2015), led by reporters including Julia Angwin and Jeff Larson, established the template for empirical AI-bias investigation in journalism. The May 2016 investigation of COMPAS — a recidivism risk-scoring algorithm used in criminal sentencing across the United States — obtained more than 7,000 individual risk scores from Northpointe in Broward County, Florida, and documented that the system mislabeled Black defendants as future criminals at nearly twice the rate of white defendants, while systematically underestimating risk for white defendants. Northpointe contested the findings; the subsequent academic debate on algorithmic fairness — involving dozens of peer-reviewed papers — was itself a direct product of ProPublica's investigation, which [made its full dataset and analysis code publicly available on GitHub](https://github.com/propublica/compas-analysis). The Wisconsin Supreme Court, reviewing a sentencing case in which COMPAS had been used, ruled that [risk scores cannot be determinative in sentencing decisions](https://www.propublica.org/article/making-algorithms-accountable) and that presentence investigation reports must include warnings about the accuracy limitations of such instruments.
+ProPublica's ["Machine Bias" series](https://www.propublica.org/series/machine-bias) (launched 2015), led by reporters including [Julia Angwin](../persons/person-julia-angwin.md) and Jeff Larson, established the template for empirical AI-bias investigation in journalism. The May 2016 investigation of COMPAS — a recidivism risk-scoring algorithm used in criminal sentencing across the United States — obtained more than 7,000 individual risk scores from Northpointe in Broward County, Florida, and documented that the system mislabeled Black defendants as future criminals at nearly twice the rate of white defendants, while systematically underestimating risk for white defendants. Northpointe contested the findings; the subsequent academic debate on algorithmic fairness — involving dozens of peer-reviewed papers — was itself a direct product of ProPublica's investigation, which [made its full dataset and analysis code publicly available on GitHub](https://github.com/propublica/compas-analysis). The Wisconsin Supreme Court, reviewing a sentencing case in which COMPAS had been used, ruled that [risk scores cannot be determinative in sentencing decisions](https://www.propublica.org/article/making-algorithms-accountable) and that presentence investigation reports must include warnings about the accuracy limitations of such instruments.
 
 ## Facebook housing ads discrimination
 

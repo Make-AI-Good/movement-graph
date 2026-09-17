@@ -13,7 +13,7 @@ website: https://themarkup.org
 strategies: [strat-empirical-audit-and-expose, strat-public-interest-investigative-journalism-as-infrastructure]
 key_people: [person-julia-angwin]
 board_and_advisors: []
-related_orgs: [org-propublica, org-rest-of-world, org-coda-story]
+related_orgs: [org-propublica, org-bellingcat, org-rest-of-world, org-coda-story]
 funders: [fund-craig-newmark-philanthropies, fund-ford-foundation, fund-knight-foundation, fund-macarthur-foundation]
 sources:
   - url: https://themarkup.org/about
@@ -54,7 +54,7 @@ The Markup is a New York-based nonprofit investigative newsroom focused on how p
 
 ## Founding and structure
 
-The Markup was founded by Julia Angwin and Jeff Larson — who had led [ProPublica](../organizations/org-propublica.md)'s Machine Bias investigations — and Sue Gardner, former executive director of the Wikimedia Foundation. [Craig Newmark contributed $20 million](https://knightfoundation.org/press/releases/the-markup-news-organization-that-investigates-societal-impacts-of-technology-begins-buildout-for-launch-with-20-million-gift-from-craigslist-founder-craig-newmark-support-from-major-foundations/) as anchor funder, with additional grants of $2 million from the Knight Foundation and support from the Ford Foundation and the MacArthur Foundation. The organization launched its first investigations in February 2020. Angwin departed in early 2023; in [April 2024, The Markup joined CalMatters](https://themarkup.org/inside-the-markup/2024/04/18/the-markup-is-joining-forces-with-calmatters), a California-based nonprofit news organization, continuing to publish under its own brand within the combined operation.
+The Markup was founded by [Julia Angwin](../persons/person-julia-angwin.md) and Jeff Larson — who had led [ProPublica](../organizations/org-propublica.md)'s Machine Bias investigations — and Sue Gardner, former executive director of the Wikimedia Foundation. [Craig Newmark contributed $20 million](https://knightfoundation.org/press/releases/the-markup-news-organization-that-investigates-societal-impacts-of-technology-begins-buildout-for-launch-with-20-million-gift-from-craigslist-founder-craig-newmark-support-from-major-foundations/) as anchor funder, with additional grants of $2 million from the Knight Foundation and support from the Ford Foundation and the MacArthur Foundation. The organization launched its first investigations in February 2020. Angwin departed in early 2023; in [April 2024, The Markup joined CalMatters](https://themarkup.org/inside-the-markup/2024/04/18/the-markup-is-joining-forces-with-calmatters), a California-based nonprofit news organization, continuing to publish under its own brand within the combined operation.
 
 ## Citizen Browser
 

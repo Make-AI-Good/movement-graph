@@ -47,7 +47,7 @@ sources:
 
 # Fairly Trained
 
-Fairly Trained is an international nonprofit founded in January 2024 to certify generative AI models that train only on licensed data — a Fair Trade–analogous mark for the creator-consent movement around AI training practices. The organization was founded by Ed Newton-Rex, a British composer and technologist who resigned from Stability AI in November 2023 after publicly disagreeing with the industry position that training AI on copyrighted material without consent is permissible under fair use.
+Fairly Trained is an international nonprofit founded in January 2024 to certify generative AI models that train only on licensed data — a Fair Trade–analogous mark for the creator-consent movement around AI training practices. The organization was founded by [Ed Newton-Rex](../persons/person-ed-newton-rex.md), a British composer and technologist who resigned from Stability AI in November 2023 after publicly disagreeing with the industry position that training AI on copyrighted material without consent is permissible under fair use.
 
 ## Founding
 
