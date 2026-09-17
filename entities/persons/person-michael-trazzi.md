@@ -11,6 +11,7 @@ affiliations:
   - org: org-stop-the-ai-race
     role: founder
     period: 2025-
+voice_entry: voice-michael-trazzi
 public_profiles:
   - platform: personal-site
     url: https://michaeltrazzi.com/
