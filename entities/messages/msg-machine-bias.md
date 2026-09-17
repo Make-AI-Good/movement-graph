@@ -18,6 +18,7 @@ related_messages:
   - msg-coded-gaze
   - msg-data-is-a-civil-rights-issue
   - msg-automating-banishment
+  - msg-algorithmic-redlining
 sources:
   - url: https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
     last_checked: 2026-06-04

@@ -18,6 +18,7 @@ related_messages:
   - msg-coded-gaze
   - msg-ethics-washing
   - msg-data-colonialism
+  - msg-algorithmic-redlining
 sources:
   - url: https://d4bl.org/
     last_checked: 2026-06-04
