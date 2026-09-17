@@ -11,8 +11,10 @@ date: 2023-07-13
 location: SAG-AFTRA's offices in Sherman Oaks, Los Angeles
 event_type: strike-call press conference
 campaign: camp-wga-sag-aftra-ai-provisions-2023
-participating_orgs: []
-participating_people: []
+participating_orgs:
+  - org-sag-aftra
+participating_people:
+  - person-fran-drescher
 related_events:
   - event-ftc-creative-economy-generative-ai-roundtable-2023-10-04
   - event-sag-aftra-ai-provisions-ratified-2023-11
