@@ -11,7 +11,7 @@ founded: 2017
 location: Cambridge, Massachusetts
 website: https://d4bl.org/
 strategies: []
-key_people: []
+key_people: [person-yeshimabeit-milner]
 board_and_advisors: []
 related_orgs: [org-algorithmic-justice-league, org-data-and-society]
 funders: [fund-macarthur-foundation]
