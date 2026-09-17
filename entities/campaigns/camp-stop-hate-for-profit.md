@@ -16,7 +16,8 @@ lead_orgs:
   - org-free-press
   - org-color-of-change
 participating_orgs: []
-events: []
+events:
+  - event-stop-hate-for-profit-facebook-boycott-launch-2020-06
 strategies:
   - strat-advertiser-boycott-of-ai-deploying-platforms
 outcomes: |
