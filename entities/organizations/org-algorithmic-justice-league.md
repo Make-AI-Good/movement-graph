@@ -6,7 +6,7 @@ status: active
 confidence: high
 tags: [us-based, research-advocacy, art-activism, algorithmic-bias, facial-recognition, algorithmic-accountability, civil-rights, ai-harms, community-reporting, participatory, advocacy, generative-ai, creators-rights]
 created: 2026-05-08
-last_updated: 2026-09-04
+last_updated: 2026-09-16
 founded: 2016
 location: Cambridge, Massachusetts
 website: https://www.ajl.org/
@@ -23,6 +23,7 @@ funders:
   - fund-mozilla-foundation
   - fund-democracy-fund
   - fund-kapor-foundation
+  - fund-rockefeller-foundation
 sources:
   - url: https://www.ajl.org/about
     last_checked: 2026-05-08
