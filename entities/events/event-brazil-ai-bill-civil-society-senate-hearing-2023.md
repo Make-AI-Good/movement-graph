@@ -16,7 +16,8 @@ participating_orgs:
   - org-article-19
   - org-access-now
 participating_people: []
-related_events: []
+related_events:
+  - event-brazil-ai-act-civil-society-response-2024-07
 sources:
   - url: https://www25.senado.leg.br/web/atividade/materias/-/materia/157233
     last_checked: 2026-06-10
