@@ -10,7 +10,8 @@ last_updated: 2026-09-02
 founded: 1994
 location: Washington, DC
 website: https://epic.org
-strategies: []
+strategies:
+  - strat-sectoral-regulator-activation-on-ai
 key_people: []
 board_and_advisors: []
 related_orgs: [org-aclu, org-privacy-international, org-edri]

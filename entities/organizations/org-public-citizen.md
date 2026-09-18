@@ -14,6 +14,7 @@ strategies:
   - strat-ai-industry-lobbying-transparency-exposure
   - strat-consumer-facing-ai-use-disclosure-mandate
   - strat-preemption-defense-of-subnational-ai-authority
+  - strat-sectoral-regulator-activation-on-ai
 key_people: []
 board_and_advisors: []
 related_orgs:
