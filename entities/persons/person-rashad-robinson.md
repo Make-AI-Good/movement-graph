@@ -11,6 +11,7 @@ affiliations:
   - org: org-color-of-change
     role: president
     period: 2011-2024
+voice_entry: voice-rashad-robinson
 public_profiles:
   - platform: inet-economics
     url: https://www.ineteconomics.org/research/experts/rrobinson
