@@ -10,6 +10,7 @@ last_updated: 2026-06-08
 affiliations:
   - org: org-aclu
     role: Senior Policy Analyst, Speech Privacy and Technology Project
+voice_entry: voice-jay-stanley
 public_profiles:
   - platform: personal-site
     url: https://www.aclu.org/bio/jay-stanley
