@@ -10,6 +10,7 @@ last_updated: 2026-09-16
 affiliations:
   - org: org-witness
     role: executive director (through August 2026)
+voice_entry: voice-sam-gregory
 public_profiles:
   - platform: personal-site
     url: http://www.samgregory.info/
