@@ -11,6 +11,7 @@ affiliations:
   - org: org-bellingcat
     role: founder and executive director
     period: 2014-
+voice_entry: voice-eliot-higgins
 public_profiles:
   - platform: twitter
     url: https://twitter.com/EliotHiggins
