@@ -19,6 +19,7 @@ key_people: []
 board_and_advisors: []
 related_orgs:
   - org-americans-for-responsible-innovation
+  - org-accountable-tech
 funders: []
 sources:
   - url: https://www.citizen.org/topic/consumer-worker-safeguards/artificial-intelligence/
@@ -60,7 +61,7 @@ The companion financial investigation, ["$1.1 Billion in Big Tech Political Spen
 
 ## Stop AI Preemption campaign
 
-Public Citizen's investigative research anchors an active coalitional mobilization campaign. When Congress began moving legislation that would [block all state and local governments from enforcing any civil law or regulation governing artificial intelligence for 10 years](https://www.citizen.org/article/stop-ai-preemption-protect-the-public-from-corporate-harm/) — eliminating state consumer protections in healthcare, housing, education, law enforcement, and democratic participation — Public Citizen joined with [Americans for Responsible Innovation](../organizations/org-americans-for-responsible-innovation.md) and Accountable Tech to launch a coordinated grassroots campaign. Within its first two weeks the coalition gathered more than 25,000 petitions from members and voters opposing the preemption provision; a bipartisan group of state lawmakers representing states that had already enacted AI consumer legislation publicly condemned the federal effort.
+Public Citizen's investigative research anchors an active coalitional mobilization campaign. When Congress began moving legislation that would [block all state and local governments from enforcing any civil law or regulation governing artificial intelligence for 10 years](https://www.citizen.org/article/stop-ai-preemption-protect-the-public-from-corporate-harm/) — eliminating state consumer protections in healthcare, housing, education, law enforcement, and democratic participation — Public Citizen joined with [Americans for Responsible Innovation](../organizations/org-americans-for-responsible-innovation.md) and [Accountable Tech](../organizations/org-accountable-tech.md) to launch a coordinated grassroots campaign. Within its first two weeks the coalition gathered more than 25,000 petitions from members and voters opposing the preemption provision; a bipartisan group of state lawmakers representing states that had already enacted AI consumer legislation publicly condemned the federal effort.
 
 The campaign's central argument links the financial exposure work directly to the preemption push: the same AI industry campaign spending documented in the lobbying reports is funding the political effort to strip states of consumer protection authority. Congress rejected the initial 10-year moratorium language in 2025 after opposition from governors, state attorneys general, and state legislators in both parties; subsequent attempts to attach preemption provisions to defense authorization legislation also failed.
 
