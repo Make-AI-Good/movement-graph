@@ -11,7 +11,7 @@ founded: 2006
 location: international (Brussels headquarters)
 website: https://www.ituc-csi.org/
 strategies: [strat-coalition-lobbying-of-binding-regional-regulation, strat-creator-class-collective-bargaining-on-generative-ai]
-key_people: []
+key_people: [person-luc-triangle]
 board_and_advisors: []
 related_orgs: [org-cwa, org-american-federation-of-teachers]
 funders: []
