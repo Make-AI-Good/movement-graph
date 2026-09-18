@@ -12,7 +12,7 @@ location: Washington, DC
 website: https://www.techtransparencyproject.org
 strategies:
   - strat-ai-industry-lobbying-transparency-exposure
-key_people: []
+key_people: [person-katie-paul]
 board_and_advisors: []
 related_orgs:
   - org-tech-oversight-project
