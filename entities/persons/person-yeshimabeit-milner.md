@@ -11,6 +11,7 @@ affiliations:
   - org: org-data-for-black-lives
     role: founder and CEO
     period: 2017-
+voice_entry: voice-yeshimabeit-milner
 public_profiles:
   - platform: linkedin
     url: https://www.linkedin.com/in/yeshimabeit-milner-a7788944/
