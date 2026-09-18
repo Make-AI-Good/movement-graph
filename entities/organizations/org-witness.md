@@ -16,7 +16,7 @@ strategies:
 key_people: [person-sam-gregory]
 board_and_advisors: []
 related_orgs: [org-guardian-project]
-funders: [fund-macarthur-foundation]
+funders: [fund-macarthur-foundation, fund-heising-simons-foundation]
 sources:
   - url: https://witness.org/about/
     last_checked: 2026-09-02

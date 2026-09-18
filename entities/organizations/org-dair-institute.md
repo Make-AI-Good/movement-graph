@@ -14,7 +14,7 @@ strategies: [strat-empirical-audit-and-expose, strat-counter-narrative-framing, 
 key_people: [person-timnit-gebru]
 board_and_advisors: []
 related_orgs: [org-data-labellers-association, org-we-and-ai]
-funders: [fund-ford-foundation, fund-macarthur-foundation, fund-open-society-foundations, fund-kapor-foundation, fund-humanity-ai, fund-rockefeller-foundation]
+funders: [fund-ford-foundation, fund-macarthur-foundation, fund-open-society-foundations, fund-kapor-foundation, fund-humanity-ai, fund-rockefeller-foundation, fund-heising-simons-foundation]
 sources:
   - url: https://www.dair-institute.org/
     last_checked: 2026-05-13

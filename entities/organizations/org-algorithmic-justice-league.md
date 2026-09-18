@@ -24,6 +24,7 @@ funders:
   - fund-democracy-fund
   - fund-kapor-foundation
   - fund-rockefeller-foundation
+  - fund-heising-simons-foundation
 sources:
   - url: https://www.ajl.org/about
     last_checked: 2026-05-08

@@ -14,7 +14,7 @@ strategies: []
 key_people: []
 board_and_advisors: []
 related_orgs: [org-aclu, org-privacy-international, org-edri]
-funders: [fund-ford-foundation, fund-open-society-foundations, fund-nathan-cummings-foundation, fund-omidyar-network]
+funders: [fund-ford-foundation, fund-open-society-foundations, fund-nathan-cummings-foundation, fund-omidyar-network, fund-heising-simons-foundation]
 sources:
   - url: https://en.wikipedia.org/wiki/Electronic_Privacy_Information_Center
     last_checked: 2026-09-02
