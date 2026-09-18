@@ -9,7 +9,7 @@ created: 2026-05-28
 last_updated: 2026-05-28
 origin: |
   Coined by Ethiopian-Irish cognitive scientist Abeba Birhane in a July 2019 essay in Real Life magazine and developed into a peer-reviewed paper in SCRIPTed: A Journal of Law, Technology and Society in August 2020. The framing names the pattern by which Western technology corporations impose AI systems on African populations following the structural logic of historical colonial appropriation: corporations frame AI products as solutions for the developing world; extract African population data as raw material at scale; and institutionalise Western algorithmic assumptions into African social infrastructure — replicating, through corporate agendas rather than political force, the structural shape of colonial extraction. The paper was republished by The Elephant (a pan-African analysis platform) in August 2020 and reprinted as a chapter in the 2023 Oxford University Press volume *Imagining AI: How the World Sees Intelligent Machines* (edited by Stephen Cave and Kanta Dihal), extending the framing across African civil-society journalism and comparative AI scholarship. It is distinct from the [data colonialism](msg-data-colonialism.md) framing developed in Latin American civil society: where data colonialism addresses the general asymmetry of data accumulation between the Global North and Global South, algorithmic colonialism names the AI-and-corporate specificity of how that asymmetry plays out on the African continent and across the African diaspora.
-originating_person:
+originating_person: person-abeba-birhane
 originating_org:
 propagated_by_orgs: []
 related_messages:
